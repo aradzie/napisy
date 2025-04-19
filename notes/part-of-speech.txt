@@ -1,0 +1,8 @@
+Noun/Rzeczownik: A word that names a person, place, thing, or idea.
+Pronoun/Zaimek: A word that replaces a noun.
+Verb/Czasownik: A word that expresses action or a state of being.
+Adjective/Przymiotnik: A word that describes or modifies a noun or pronoun.
+Adverb/Przysłówek: A word that modifies a verb, adjective, or another adverb.
+Preposition/Przyimek: A word that shows the relationship between a noun or pronoun and other words in the sentence.
+Conjunction/Spójnik: A word that connects words, phrases, or clauses.
+Interjection/Wykrzyknik: A word that expresses strong emotion.

@@ -1,0 +1,1286 @@
+[
+  [
+    "[chłop 1] Jędrula, brawo!",
+    "[Крестьянин 1] Едрула, браво!"
+  ],
+  [
+    "Dzięki! - [chłop 2] Cześć, Jędrula. - Cześć. - [chłop 2] Dzięki za dziś. - Dobra. - [chłop 3] Tak trzymaj. - No. [chłop 4] Jędrula, jesteśmy z ciebie dumni! - [chłop 5] Jędrula!",
+    "Спасибо! - [Крестьянин 2] Привет, Едрула. - Привет. - Крестьянин 2] Спасибо за сегодняшний день. - Хорошо. - [Крестьянин 3] Продолжай в том же духе. - Нет. [крестьянин 4] Едрула, мы гордимся тобой! - [крестьянин 5] Едрула!"
+  ],
+  [
+    "Fajny chłop z ciebie. - Cześć.",
+    "Ты классный парень. - Привет."
+  ],
+  [
+    "Dzięki.",
+    "Спасибо."
+  ],
+  [
+    "Ty też. - [muzyka cichnie] - [świst wiatru] Jędrulo.",
+    "Ты тоже. - Джедруло."
+  ],
+  [
+    "To jest interwencja.",
+    "Это вмешательство."
+  ],
+  [
+    "[Jan Paweł] Od pewnego czasu jesteśmy zaniepokojeni twoim zachowaniem.",
+    "[Мы уже давно обеспокоены вашим поведением."
+  ],
+  [
+    "Zawsze byłeś duszą towarzystwa.",
+    "Вы всегда были душой компании."
+  ],
+  [
+    "Człowiekiem pełnym energii.",
+    "Человек, полный энергии."
+  ],
+  [
+    "Takim, którego żart się trzyma.",
+    "Тот, чья шутка зацепила."
+  ],
+  [
+    "Jednak ostatnio to się zmieniło.",
+    "Однако в последнее время ситуация изменилась."
+  ],
+  [
+    "Trudno nie łączyć tej sprawy z alkoholem.",
+    "Трудно не связать этот случай с алкоголем."
+  ],
+  [
+    "No tak, alkohol mi nie służył.",
+    "Да, алкоголь мне не помог."
+  ],
+  [
+    "Jędrula… pora, żebyś się obudził.",
+    "Едрула... тебе пора проснуться."
+  ],
+  [
+    "Odkąd przestałeś pić, źle sypiasz i kręcisz się w łóżku, co bywa dla mnie źródłem dyskomfortu.",
+    "С тех пор как вы перестали пить, вы плохо спите и сворачиваетесь калачиком в постели, что иногда доставляет мне дискомфорт."
+  ],
+  [
+    "No ale wcześniej, jak piłem, to zasypiałem pod płotem. - Nierzadko zasikany. - No właśnie!",
+    "Ну, а до этого, когда я выпивал, я засыпал под забором. - Это было нередко. - Это точно!"
+  ],
+  [
+    "To był twój popisowy numer.",
+    "Это был твой номер для показухи."
+  ],
+  [
+    "Pamiętasz, jak na ciebie wołali?",
+    "Ты помнишь, как они тебя называли?"
+  ],
+  [
+    "[cicho] Zaszczany Jędrula.",
+    "[Джендрула ворчал."
+  ],
+  [
+    "Zaszczany Jędrula!",
+    "Поруганная Едрула!"
+  ],
+  [
+    "Zbudowałeś swoją markę.",
+    "Вы создали свой бренд."
+  ],
+  [
+    "Miałeś przydomek.",
+    "У вас было прозвище."
+  ],
+  [
+    "Jak Kazimierz Wielki!",
+    "Как Казимир Великий!"
+  ],
+  [
+    "Dawałeś ludziom trochę radości w tych trudnych czasach. - [tupie] - [szuranie krzesła] Na przykład jak biegałeś na golasa z siekierą przez wieś i krzyczałeś, że kogoś zamordujesz.",
+    "Вы дарили людям радость в те трудные времена. - Например, как вы бегали голым с топором по деревне и кричали, что собираетесь кого-то убить."
+  ],
+  [
+    "To było fajne.",
+    "Это было круто."
+  ],
+  [
+    "Ty, może… Może faktycznie straciłem trochę z tego mojego pozytywnego szaleństwa. - [śmieje się nerwowo] - No.",
+    "Ты, возможно... Возможно, я действительно утратил часть своего позитивного сумасшествия. - Нервно смеется] - Ну."
+  ],
+  [
+    "O własnym synu muszę słuchać pod kościołem, że wylewa za kołnierz.",
+    "О своем собственном сыне мне приходится слышать в церкви, что он льет за воротник."
+  ],
+  [
+    "Tak.",
+    "Да."
+  ],
+  [
+    "Ja nie wiedziałem, że tak na to patrzycie.",
+    "Я не знал, что вы так на это смотрите."
+  ],
+  [
+    "No, od tego masz najbliższych.",
+    "Ну, для этого у вас есть любимые люди."
+  ],
+  [
+    "Żeby ci pomogli, kiedy sięgniesz dna.",
+    "Чтобы помочь вам, когда вы достигнете дна."
+  ],
+  [
+    "Szczęść Boże.",
+    "С Богом."
+  ],
+  [
+    "Jędrula, i pamiętaj.",
+    "Едрула, и помни."
+  ],
+  [
+    "Najtańsza wódka tylko u twojego pana w karczmie.",
+    "Самая дешевая водка только в трактире вашего хозяина."
+  ],
+  [
+    "A kto nie pije… [wszyscy] Ten donosi. - Dziś dzień handlowy! - [uroczysta muzyka] - [chłop] Dawaj, wiśta! - Hop, hop!",
+    "А кто не пьет [все] Тот сообщает. - Сегодня торговый день! - [праздничная музыка] - [крестьянин] Давай, хоп! - Хоп, хоп!"
+  ],
+  [
+    "Nasza szlachecka gospodarka opiera się na tym, że eksportujemy zboże na zachód, a dobra luksusowe sprowadzamy.",
+    "Наша благородная экономика основана на том, что мы экспортируем зерно на Запад и импортируем предметы роскоши."
+  ],
+  [
+    "Dzięki temu nie musimy rozwijać technologii.",
+    "В результате нам не нужно развивать технологию."
+  ],
+  [
+    "Kiedy opowiedziałem o naszej gospodarce znajomemu Włochowi, powiedział tylko: „Polacco”.",
+    "Когда я рассказал итальянскому другу о нашей экономике, он только и сказал: \"Полакко\"."
+  ],
+  [
+    "„Polacy”.",
+    "\"Поляки."
+  ],
+  [
+    "I „stupido” – „spichlerz Europy”.",
+    "А \"дупло\" - \"житница Европы\"."
+  ],
+  [
+    "Tak o nas mówią. [śmieje się] [pieszczotliwie] Ko, ko, ko! - [gęganie] - [gwar mieszkańców] O.",
+    "Вот что они говорят о нас. [Ко, ко, ко! - [улюлюканье] - [жители суетятся] O."
+  ],
+  [
+    "Anielka. - Dokąd idziesz? - Mam swoje sprawy.",
+    "Аниэлька. - Куда это ты собралась? - У меня свой бизнес."
+  ],
+  [
+    "Tylko nie idź do lasu, bo cię Szwed do wora zabierze. - Tato, ale z ciebie ksenofob. - O!",
+    "Только не ходи в лес, а то швед отведет тебя в мешок. - Папа, ты такой ксенофоб. - O!"
+  ],
+  [
+    "[śmieje się] Z ciebie też!",
+    "[И тебя тоже!"
+  ],
+  [
+    "Papatki!",
+    "До свидания!"
+  ],
+  [
+    "[Jan Paweł] Bogdan, zagadka.",
+    "[Богдан, загадка."
+  ],
+  [
+    "Co zaczyna się na „Ż” i po cichu włada Polską?",
+    "Что начинается на \"Ż\" и спокойно правит Польшей?"
+  ],
+  [
+    "Żydzi. - Żyto, Bogdan. - [Bogdan wzdycha] Żyto zapewnia nam pomyślność. [wzdycha przeciągle] Czasy są trudne.",
+    "Евреи. - Рожь, Богдан. - Богдан вздыхает] Рожь обеспечивает наше процветание. [Времена трудные."
+  ],
+  [
+    "Za nami lata nieurodzaju, chorób i wojen.",
+    "Годы неурожаев, болезней и войн остались позади."
+  ],
+  [
+    "Dlatego trzeba się cieszyć z tego, co… Czołem, sąsiedzie! - [żywa muzyka] - [rżenie koni] Chętnie opowiem o usprawnieniach, które spowodowały, że mój folwark… [Jan Paweł] Ej!",
+    "Поэтому нужно радоваться тому, что... Привет, сосед! - Я буду рад рассказать вам об улучшениях, которые сделали мою ферму... [Джон Пол] Ой!"
+  ],
+  [
+    "Wiśta wio!",
+    "Вперед!"
+  ],
+  [
+    "A kysz, Andrzej!",
+    "Кыш, Эндрю!"
+  ],
+  [
+    "Won z naszej historii!",
+    "Убирайтесь из нашей истории!"
+  ],
+  [
+    "Z jakiegoś powodu chłopi Andrzeja uzyskują lepsze plony niż moi.",
+    "По какой-то причине крестьяне Эндрю получают более высокие урожаи, чем мои."
+  ],
+  [
+    "A to wredne bydlę nigdy nie powie dlaczego.",
+    "И этот мерзкий ублюдок никогда не скажет, почему."
+  ],
+  [
+    "Bo musicie wiedzieć – Andrzej jest straszną szują.",
+    "Потому что вы должны знать - Эндрю ужасный нахал."
+  ],
+  [
+    "To po prostu jest zły człowiek.",
+    "Он просто плохой человек."
+  ],
+  [
+    "Nazwa wsi Adamczycha pochodzi od Adamczewskich.",
+    "Название деревни Адамчиха происходит от фамилии Адамчевских."
+  ],
+  [
+    "Kiedyś Adamczycha należała do mojego rodu. - Cała całość. - [skrzypienie drewna] Jestem czwartym Adamczewskim, który zarządza rodzinnym folwarkiem.",
+    "Адамчиха принадлежала моей семье. - Целиком. - Я четвертый Адамчевский, который управляет семейной фермой."
+  ],
+  [
+    "Ten zawsze był dumą okolicy.",
+    "Этот дом всегда был гордостью района."
+  ],
+  [
+    "I akurat jak ja go przejąłem, to nagle zaczął działać gorzej.",
+    "И как только я взял его на себя, он вдруг стал работать хуже."
+  ],
+  [
+    "No trzeba mieć pecha.",
+    "Ну, вам должно не повезти."
+  ],
+  [
+    "[Jan Paweł] Wtedy nagle pojawił się tu Andrzej.",
+    "[Иоанн Павел] И вдруг здесь появился Андрей."
+  ],
+  [
+    "Kiedy umarła moja ukochana żona, postanowiłem zmienić otoczenie.",
+    "Когда умерла моя любимая жена, я решил сменить обстановку."
+  ],
+  [
+    "I szukałem miejsca… [duka] I postanowił się tu przenieść, bo zabił komuś żonę czy coś takiego.",
+    "И я искал место... А он решил переехать сюда, потому что убил чью-то жену или что-то в этом роде."
+  ],
+  [
+    "[Jan Paweł] I wykorzystał mój sześcioletni moment słabości, odkupując połowę wsi.",
+    "[И он воспользовался моей шестилетней слабостью, выкупив половину деревни."
+  ],
+  [
+    "[Zofia] Większą połowę.",
+    "[Большая половина."
+  ],
+  [
+    "Nieistotne.",
+    "Неважно."
+  ],
+  [
+    "Zresztą rozmiar się nie liczy.",
+    "В любом случае, размер не имеет значения."
+  ],
+  [
+    "Tak mówią ci z małymi wsiami.",
+    "Так говорят те, у кого маленькие деревни."
+  ],
+  [
+    "[Jan Paweł] Ale nawet jeśli chwilowo w całości nie należy do mnie, Adamczycha to moje miejsce na ziemi. - [podniosła muzyka] - Tu przyszedłem na świat.",
+    "[Иоанн Павел] Но даже если она временно не принадлежит мне целиком, Адамчиха - мое место на земле. - Музыка, поднимающая настроение] - Здесь я родился."
+  ],
+  [
+    "I tu, gdy zabije ostatni dzwon, zostanę pochowany.",
+    "И здесь, когда прозвенит последний звонок, я буду похоронен."
+  ],
+  [
+    "Za wyjątkiem serca.",
+    "За исключением сердца."
+  ],
+  [
+    "Serce spocznie na Wawelu. - [muzyka cichnie] - [odgłosy trzody] [Maciej] Jest coś jeszcze do wywieszenia?",
+    "Сердце упирается в Вавельский замок. - [музыка затихает] - [звук стаи] [Мацей] Есть ли еще что написать?"
+  ],
+  [
+    "Nie wiem.",
+    "Я не знаю."
+  ],
+  [
+    "Moglibyśmy powiesić wszystkich szlachciców.",
+    "Мы можем повесить всех дворян."
+  ],
+  [
+    "Najpierw wyłupując im oczy, obcinając… - [świst ostrza] - …języki.",
+    "Сначала выкололи им глаза, отрезали... - ...языки."
+  ],
+  [
+    "Albo po prostu wieszać skóry.",
+    "Или просто подвесьте шкурки."
+  ],
+  [
+    "Ja się dostosuję. - Wyruszam dzisiaj do chłopów z misją. - [rytmiczna muzyka bębnowa] Za nami kilkadziesiąt lat załamania pogodowego.",
+    "Я подчинюсь. - Сегодня я отправляюсь к крестьянам с заданием. - Ритмичная барабанная музыка] Несколько десятилетий погодных катаклизмов остались позади."
+  ],
+  [
+    "Zmiany klimatyczne dzieją się na naszych oczach.",
+    "Изменение климата происходит на наших глазах."
+  ],
+  [
+    "Musimy działać. - [muzyka cichnie] - [odgłosy trzody] Drodzy!",
+    "Мы должны действовать. - Дорогие!"
+  ],
+  [
+    "Musimy poważnie porozmawiać.",
+    "Нам нужно серьезно поговорить."
+  ],
+  [
+    "Przez zmiany klimatyczne życie ludzi na tej planecie jest poważnie zagrożone. [z przerażeniem] Jezus Maria!",
+    "Из-за изменения климата жизнь людей на нашей планете находится под серьезной угрозой. [Иисус Мария!"
+  ],
+  [
+    "No wiedziałem.",
+    "Ну, я так и знал."
+  ],
+  [
+    "Za dobrze było.",
+    "Это было слишком хорошо."
+  ],
+  [
+    "Uczeni z Uniwersytetu w Heidelbergu twierdzą, że jeżeli nie zmienimy nawyków… - …wszystkich nas czeka katastrofa! - [dzwony kościelne] - Bodzio, bierz za widły. - Dobra!",
+    "Ученые из Гейдельбергского университета утверждают, что если мы не изменим свои привычки... - ...нам всем грозит катастрофа! - Церковные колокола] - Бодзио, возьми вилы. - Хорошо!"
+  ],
+  [
+    "To faktycznie brzmi przerażająco, nie?",
+    "Звучит пугающе, не правда ли?"
+  ],
+  [
+    "Ile mamy czasu?",
+    "Сколько времени у нас есть?"
+  ],
+  [
+    "Za 380 lat zmiany będą nieodwracalne.",
+    "Через 380 лет изменения станут необратимыми."
+  ],
+  [
+    "Trzysta osiemdziesiąt?",
+    "Триста восемьдесят?"
+  ],
+  [
+    "Eee, dobra tam.",
+    "Хорошо."
+  ],
+  [
+    "Ja wiem.",
+    "Я знаю."
+  ],
+  [
+    "To może brzmieć jak odległa przyszłość, ale im wcześniej zaczniemy… Na przykład ograniczając wykorzystanie bydła.",
+    "Это может показаться далеким будущим, но чем раньше мы начнем... Например, сократим использование крупного рогатого скота."
+  ],
+  [
+    "Ich gazy bardzo zatruwają atmosferę.",
+    "Их газы сильно загрязняют атмосферу."
+  ],
+  [
+    "No nie wiem.",
+    "Я не знаю."
+  ],
+  [
+    "Jak na moje to mamy jeszcze chwilę. - Eee… Żeby to było za 100 lat. - Albo 30.",
+    "Насколько я понимаю, у нас еще все впереди. - Эээ... Хотелось бы, чтобы это было через 100 лет. - Или через 30."
+  ],
+  [
+    "Trzydzieści brzmi przerażająco.",
+    "Тридцать звучит ужасающе."
+  ],
+  [
+    "Wtedy na pewno byśmy zaczęli działać.",
+    "Тогда мы точно начнем действовать."
+  ],
+  [
+    "Bylibyśmy kompletnymi idiotami, jakby się okazało, że za 30 lat zmiany klimatyczne są nieodwracalne, a my z tym nic nie zrobili.",
+    "Мы будем полными идиотами, если окажется, что через 30 лет изменение климата станет необратимым, а мы ничего не предпримем."
+  ],
+  [
+    "[Jan Paweł] Wszyscy mają mieć oczy dookoła głowy.",
+    "[У каждого человека должны быть глаза вокруг головы."
+  ],
+  [
+    "Musimy odkryć, dlaczego nasz folwark przegrywa z folwarkiem tego idioty Andrzeja. - Szukajcie, a znajdziecie. - Dokładnie.",
+    "Нам нужно выяснить, почему наша ферма проигрывает ферме идиота Эндрю. - Ищите, и вы найдете. - Точно."
+  ],
+  [
+    "Tak jest.",
+    "Именно так."
+  ],
+  [
+    "Chłopów trzeba wycisnąć jak robaków. - A to też z Biblii? - [cicho] No… Halo, Stanisław?",
+    "Крестьяне должны быть выжаты, как черви. - И это тоже из Библии? - Тихо] Ну... Алло, Станислав?"
+  ],
+  [
+    "Naradę mamy.",
+    "У нас встреча."
+  ],
+  [
+    "To wszystko kiedyś będzie twoje, a ty cały dzień w obrazku siedzisz. - Dobra, tato! - Odłóż ten obrazek. - Zaraz, tato. - Nie zaraz, tylko teraz!",
+    "Однажды все это станет твоим, и ты будешь на фото весь день. - Хорошо, папа! - Положи эту фотографию. - Сейчас же, папа. - Не скоро, а прямо сейчас!"
+  ],
+  [
+    "Życie cię omija.",
+    "Жизнь проходит мимо вас."
+  ],
+  [
+    "[Jan Paweł] Na koniec dnia chcę usłyszeć, co dziś zrobiłeś.",
+    "[В конце дня я хочу услышать, что вы сделали сегодня."
+  ],
+  [
+    "Skądś znam tego cieślę.",
+    "Я откуда-то знаю этого плотника."
+  ],
+  [
+    "Jeszcze raz.",
+    "Еще раз."
+  ],
+  [
+    "Palimy w piecu… [obie] Drewnem.",
+    "Мы сжигаем в плите [оба] дерева."
+  ],
+  [
+    "Nie palimy… [obie] Zdechłymi szczurami!",
+    "Мы не курим [оба] Дохлые крысы!"
+  ],
+  [
+    "Brawo, dziewczyny!",
+    "Браво, девочки!"
+  ],
+  [
+    "No, hej!",
+    "Ну, привет!"
+  ],
+  [
+    "Jak tam dziś „klimat” w Adamczysze?",
+    "Как сегодня обстоят дела с \"климатом\" в Адамче?"
+  ],
+  [
+    "To był słaby żart, ale nie aż tak słaby.",
+    "Это была слабая шутка, но не настолько."
+  ],
+  [
+    "Hej. - Jesteś na mnie zła? - Nie wiem.",
+    "Эй, ты на меня злишься? - Я не знаю."
+  ],
+  [
+    "A czy przez ciebie naszą planetę czeka zagłada?",
+    "А нашей планете грозит вымирание из-за вас?"
+  ],
+  [
+    "Od razu przeze mnie.",
+    "Прямо сквозь меня."
+  ],
+  [
+    "Wytrąciłeś impet do zmian.",
+    "Вы пошатнули импульс к переменам."
+  ],
+  [
+    "Teraz będzie bardzo ciężko go wskrzesić.",
+    "Теперь воскресить его будет очень сложно."
+  ],
+  [
+    "Ale masz na to 380 lat.",
+    "Но у вас есть 380 лет, чтобы сделать это."
+  ],
+  [
+    "[Ula] E!",
+    "[Ula] E!"
+  ],
+  [
+    "Zimno tu!",
+    "Здесь холодно!"
+  ],
+  [
+    "Dajcie te zdechłe szczury!",
+    "Принесите мертвых крыс!"
+  ],
+  [
+    "[chłopka] Ula, weź se tutaj!",
+    "[Ула, иди сюда!"
+  ],
+  [
+    "Chyba się co do ciebie myliłam.",
+    "Думаю, я ошибался насчет тебя."
+  ],
+  [
+    "Przeprowadzamy inwentaryzację w naszym folwarku i pewien niuans w twojej pracy wydał nam się podejrzany.",
+    "Мы проводим инвентаризацию в нашем поместье, и некоторые нюансы в вашей работе показались нам подозрительными."
+  ],
+  [
+    "Zauważyliśmy koincydencję, że w dni, w które pracujesz na swoje gospodarstwo, do ciągnięcia wozu używasz konia.",
+    "Мы заметили совпадение: в те дни, когда вы работаете на своей ферме, вы используете лошадь, чтобы тянуть телегу."
+  ],
+  [
+    "Natomiast w dni, w które pracujesz na pańszczyznę, wóz ciągnie twój teść.",
+    "С другой стороны, в дни, когда вы работаете на крепостных, телегу тянет ваш тесть."
+  ],
+  [
+    "Oto lista obecności w pracy.",
+    "Вот список посещаемости на работе."
+  ],
+  [
+    "Poniedziałek – czwartek?",
+    "Понедельник - четверг?"
+  ],
+  [
+    "Teść, teść, teść, teść.",
+    "Тесть, тесть, теща, тесть, тесть."
+  ],
+  [
+    "Piątek – sobota?",
+    "Пятница - суббота?"
+  ],
+  [
+    "Koń, koń.",
+    "Лошадь, лошадь."
+  ],
+  [
+    "I to się powtarza.",
+    "И это стоит повторить."
+  ],
+  [
+    "Pff… Może ktoś źle spojrzał przy zapisywaniu? - I co, pomylił teścia z koniem? - No.",
+    "Пфф... Может, кто-то не так посмотрел, когда записывал? - И что, принял своего тестя за лошадь? - Ну."
+  ],
+  [
+    "Mój teść ma pociągłą twarz i duże zęby.",
+    "У моего свекра вытянутое лицо и большие зубы."
+  ],
+  [
+    "Jakby tak spojrzeć pod światło, to można się pomylić. [chichocze] Grzegorzu, może ktoś pomylił teścia z koniem raz czy dwa.",
+    "Если так смотреть на свет, можно запутаться. [Грегори, возможно, кто-то пару раз принимал своего тестя за лошадь."
+  ],
+  [
+    "Ale mówimy o tygodniach.",
+    "Но мы говорим о неделях."
+  ],
+  [
+    "Na dłuższą metę jaki koń jest, każdy widzi.",
+    "В конце концов, что такое лошадь, может увидеть каждый."
+  ],
+  [
+    "Właśnie na taką sytuację wymyślono to powiedzenie.",
+    "Именно для таких ситуаций и была придумана эта поговорка."
+  ],
+  [
+    "Jaśnie panie, wydaje mi się, że cały spór bierze się z tego, że przeceniasz konia, a nie doceniasz teścia.",
+    "Его светлость, мне кажется, что весь спор идет от того, что вы переоцениваете лошадь и недооцениваете тестя."
+  ],
+  [
+    "Co robię?",
+    "Что я делаю?"
+  ],
+  [
+    "No bo… wszyscy teraz oszaleli na punkcie tej całej konizacji pracy.",
+    "Ну, потому что... все сейчас сходят с ума от этой конизации труда."
+  ],
+  [
+    "Że niby do XVIII wieku większość pracy, którą wykonują chłopi, będą wykonywały konie?",
+    "Что якобы к XVIII веку большую часть работы, которую выполняют крестьяне, будут делать лошади?"
+  ],
+  [
+    "No ale ja myślę, że to bujda.",
+    "Ну, но я думаю, что это рокер."
+  ],
+  [
+    "No bo kto zastąpi chłopa?",
+    "Кто же заменит крестьянина?"
+  ],
+  [
+    "[w oddali] Zastanówmy się.",
+    "[Давай подумаем."
+  ],
+  [
+    "Kto wyręczy go w jego tytanicznej pracy?",
+    "Кто освободит его от титанической задачи?"
+  ],
+  [
+    "[poruszony] Wiedziałem.",
+    "[Я знал."
+  ],
+  [
+    "To jest on.",
+    "Это он."
+  ],
+  [
+    "Jaka jest szansa, że Zbawiciel powróci na ziemię podczas twojego życia i to jeszcze w twojej wiosce?",
+    "Какова вероятность того, что Спаситель вернется на землю при вашей жизни и еще в вашей деревне?"
+  ],
+  [
+    "Nie wiem, maksymalnie trzy procent.",
+    "Не знаю, максимум три процента."
+  ],
+  [
+    "[Aniela] Nie.",
+    "[Нет."
+  ],
+  [
+    "Tak… Tak!",
+    "Да... Да!"
+  ],
+  [
+    "Brawo!",
+    "Браво!"
+  ],
+  [
+    "A to idzie do…?",
+    "И она переходит к...?"
+  ],
+  [
+    "Do…?",
+    "За...?"
+  ],
+  [
+    "Coś ci wpadło w oko. - Co? - No szlachcianka. - Mi? - A nie?",
+    "Что-то привлекло ваше внимание. - Что... Никакой дворянки. - Я? - А ты нет?"
+  ],
+  [
+    "Skąd. [wzdycha] Cały ja.",
+    "Откуда. [Все я."
+  ],
+  [
+    "Zawsze coś głupio palnę.",
+    "Я всегда чем-то ошеломлен."
+  ],
+  [
+    "Wszyscy mówią: „O, Żyd, to zawsze bystry, zawsze coś spiskuje”.",
+    "Все говорят: \"О, этот еврей, он всегда умный, всегда что-то замышляет\"."
+  ],
+  [
+    "A mnie jeszcze nikt do żadnego spisku nie zaprosił, no.",
+    "И меня еще не приглашали ни в один заговор, нет."
+  ],
+  [
+    "No ale wiesz, że z tym żydowskim spiskowaniem to taki stereotyp tylko?",
+    "Ну, но вы же знаете, что история с еврейским заговором - это просто стереотип?"
+  ],
+  [
+    "No tak.",
+    "Ну, да."
+  ],
+  [
+    "Wiem, wiem… Stereotyp. [prycha] - Albo… - Albo co?",
+    "Знаю, знаю... Стереотип. [Или... - Или что?"
+  ],
+  [
+    "Albo wszyscy Żydzi spiskują.",
+    "Или все евреи сговорились."
+  ],
+  [
+    "Tylko mnie jednego nie zapraszają.",
+    "Я единственный, кого они не приглашают."
+  ],
+  [
+    "No bo głupi jestem i się nie nadaję.",
+    "Ну, потому что я глупая и не вписываюсь в общество."
+  ],
+  [
+    "[Aniela] Tak.",
+    "[Да."
+  ],
+  [
+    "Dobra.",
+    "Верно."
+  ],
+  [
+    "Miałeś rację.",
+    "Вы были правы."
+  ],
+  [
+    "Z czym?",
+    "С чем?"
+  ],
+  [
+    "Ze szlachcianką.",
+    "С дворянкой."
+  ],
+  [
+    "Może… lekko wpadła mi w oko. - [radośnie] Tak? - Mhm.",
+    "Может быть... она слегка зацепила меня взглядом. - Радостно] Да? - Мм."
+  ],
+  [
+    "Widzisz?",
+    "Видите?"
+  ],
+  [
+    "Jesteś bardzo spostrzegawczy.",
+    "Вы очень проницательны."
+  ],
+  [
+    "Maciej.",
+    "Мацей."
+  ],
+  [
+    "Żyd.",
+    "Еврейский."
+  ],
+  [
+    "Sto dziewięćdziesiąt dziewięć… Zaraz.",
+    "Сто девяносто девять... Подождите минутку."
+  ],
+  [
+    "Ale po co ty się w tym babrzesz?",
+    "Но почему вы в этом копаетесь?"
+  ],
+  [
+    "Dla szlachcianki.",
+    "Для дворянки."
+  ],
+  [
+    "Dwieście.",
+    "Двести."
+  ],
+  [
+    "Proszę.",
+    "Пожалуйста."
+  ],
+  [
+    "Dziękuję, ojcze.",
+    "Спасибо, отец."
+  ],
+  [
+    "Śmieszy mnie, jak ludzie przy znanych osobach zachowują się inaczej.",
+    "Мне кажется забавным, что люди ведут себя по-разному рядом с известными людьми."
+  ],
+  [
+    "Ja przy Jezusie zachowuję się normalnie.",
+    "Рядом с Иисусом я веду себя нормально."
+  ],
+  [
+    "Ja chyba dziś nie zjem.",
+    "Я, наверное, не буду сегодня есть."
+  ],
+  [
+    "Już siódmy posiłek oddaję.",
+    "Я уже отдаю седьмое блюдо."
+  ],
+  [
+    "Mam tutaj taki przydomek – Ostatni Samarytanin.",
+    "У меня здесь есть прозвище - Последний Самаритянин."
+  ],
+  [
+    "Przecież to człowiek jak każdy inny.",
+    "В конце концов, он такой же человек, как и все остальные."
+  ],
+  [
+    "Tyle że Bóg.",
+    "Так много для Бога."
+  ],
+  [
+    "Jak ci na imię, mój drogi?",
+    "Как вас зовут, моя дорогая?"
+  ],
+  [
+    "Marian.",
+    "Мэриан."
+  ],
+  [
+    "Matka była Maria i tak mnie nazwała.",
+    "Мою мать звали Мария, и она так меня называла."
+  ],
+  [
+    "No tak.",
+    "Ну, да."
+  ],
+  [
+    "Matka była Maria.",
+    "Мать звали Мария."
+  ],
+  [
+    "Trzydzieści trzy lata żyje człowiek i nadal się wstydzi tego imienia.",
+    "Тридцать три года прожил человек и до сих пор стыдится этого имени."
+  ],
+  [
+    "Trzydzieści trzy.",
+    "Тридцать три."
+  ],
+  [
+    "Och!",
+    "О!"
+  ],
+  [
+    "Przemyślałem to.",
+    "Я все продумал."
+  ],
+  [
+    "Idę za twoją radą.",
+    "Я следую вашему совету."
+  ],
+  [
+    "Dociskamy chłopów jak robaków.",
+    "Мы липли к крестьянам, как черви."
+  ],
+  [
+    "Nie, nie, nie.",
+    "Нет, нет, нет."
+  ],
+  [
+    "Ja tak nie powiedziałem.",
+    "Я этого не говорил."
+  ],
+  [
+    "Jak to?",
+    "Каким образом?"
+  ],
+  [
+    "Na pytanie, co zrobić z Grzegorzem, powiedziałeś, że „bij go długo i mocno”. [nerwowo] E!",
+    "Когда вас спросили, что делать с Грегори, вы ответили \"бить его долго и сильно\". [E!"
+  ],
+  [
+    "Przecież chodziło o to… żebyś go bił miłością.",
+    "В конце концов, речь шла о том, чтобы... победить его любовью."
+  ],
+  [
+    "Nie no, jestem prawie pewien, że powiedziałeś, że „bij go cepem”. [nerwowo] Przecież to metafora.",
+    "Нет-нет, я уверен, что вы сказали \"побить его сепой\". [В конце концов, это метафора."
+  ],
+  [
+    "Chcesz, żeby chłopi pracowali ciężej?",
+    "Вы хотите, чтобы крестьяне работали больше?"
+  ],
+  [
+    "Dobrze.",
+    "Верно."
+  ],
+  [
+    "Ale przekonaj ich do tego cepem swoich argumentów.",
+    "Но убедите их с помощью хлестких аргументов."
+  ],
+  [
+    "O to chodziło. - [śmieje się] - [pogodna muzyka] Jakub dał mi do myślenia.",
+    "В этом и был смысл. - Джеймс дал мне пищу для размышлений."
+  ],
+  [
+    "Do tej pory wobec pracujących na polu stosowałem metodę marchewki i kija.",
+    "До сих пор я использовал метод кнута и пряника по отношению к тем, кто работает в этой сфере."
+  ],
+  [
+    "Marchewka była dla wołu, a kij na chłopów, jak się lenią.",
+    "Морковка предназначалась для вола, а палка - для крестьян, поскольку они становятся ленивыми."
+  ],
+  [
+    "Teraz postawię na siłę argumentów. - Przekonam ich do ciężkiej pracy… - [trzask bicza] …albo nie jestem najsłynniejszym Janem Pawłem w historii Polski.",
+    "Теперь я сделаю ставку на силу аргументов. - Я убежу их работать усердно... - ...или я не самый знаменитый Иоанн Павел в истории Польши."
+  ],
+  [
+    "Drodzy chłopi.",
+    "Дорогие крестьяне."
+  ],
+  [
+    "Witam was na pierwszej sesji motywacyjnej „Adamczycha na ciebie los”. [chłop] To brzmi złowrogo. - Co? - To, że los na mnie czyha.",
+    "Я приветствую вас на первой мотивационной сессии \"Адамчиха на себи лос\". [Звучит зловеще. - Что - то судьба ждет меня."
+  ],
+  [
+    "Jak wilk jaki.",
+    "Как волк яка."
+  ],
+  [
+    "Albo Mongoł… z nożem.",
+    "Или монгол... с ножом."
+  ],
+  [
+    "Boję się. [śmieje się] Nie, żaden Mongoł.",
+    "Бойтесь. [Нет, не монгол."
+  ],
+  [
+    "Los na was czyha w pozytywnym sensie.",
+    "Судьба ждет вас в позитивном смысле."
+  ],
+  [
+    "Chciałbym, by moi chłopi uwierzyli w siebie.",
+    "Я бы хотел, чтобы мои крестьяне верили в себя."
+  ],
+  [
+    "Na końcu każdy jest kowalem własnego losu.",
+    "В конце концов, каждый сам кузнец своей судьбы."
+  ],
+  [
+    "To znaczy – nie dosłownie.",
+    "То есть - не в буквальном смысле."
+  ],
+  [
+    "Oczywiście los kowala zależy ode mnie.",
+    "Конечно, судьба кузнеца зависит от меня."
+  ],
+  [
+    "W tym sensie ja jestem kowalem losu kowala. [chłop] Jaśnie panie?",
+    "В этом смысле я - судьба кузнеца. [Ваша светлость?"
+  ],
+  [
+    "Co?",
+    "Что?"
+  ],
+  [
+    "To, co by nas najbardziej zmotywowało, to partycypowanie w zyskach pańszczyźnianych zbiorów.",
+    "Больше всего нас мотивировало бы участие в прибылях от урожая крепостных."
+  ],
+  [
+    "Tak jest u pana Andrzeja.",
+    "Именно так обстоят дела в ресторане Mr Andrew's."
+  ],
+  [
+    "I to jest ten jego sekret?",
+    "И это его секрет?"
+  ],
+  [
+    "Naprawdę, Andrzej to największy idiota od czasów Galileusza.",
+    "Воистину, Эндрю - самый большой идиот со времен Галилея."
+  ],
+  [
+    "Wy też przecież partycypujecie w zyskach z pańszczyzny.",
+    "Вы тоже, в конце концов, участвуете в прибылях крепостного права."
+  ],
+  [
+    "W jaki sposób?",
+    "Как?"
+  ],
+  [
+    "No… [Jan Paweł] Słyszeliście o teorii skapywania? - Przypływ podnosi wszystkie łodzie. - Idzie przypływ?",
+    "Вы слышали о теории капель? - Прилив поднимает все лодки. - Прилив идет?"
+  ],
+  [
+    "Czy ta powódź to jest ten los, co na nas czyha?",
+    "Неужели этот потоп - это судьба, которая нас ждет?"
+  ],
+  [
+    "To jest… Yyy… Grzegorz, naprawdę?",
+    "Это... э... Грегори, правда?"
+  ],
+  [
+    "Na pole bierzesz teścia, a na wykład konia?",
+    "Вы берете своего тестя в поле, а свою лошадь - на лекцию?"
+  ],
+  [
+    "[Zofia] Co ty tu robisz, chłopie? - Ksiądz Jakub mi kazał. - Co ci kazał?",
+    "[Что ты здесь делаешь, мальчик? - Отец Иаков приказал мне. - Что он приказал тебе сделать?"
+  ],
+  [
+    "Czuć się jak w domu.",
+    "Чувствуйте себя как дома."
+  ],
+  [
+    "Jakub?",
+    "Джеймс?"
+  ],
+  [
+    "Co to ma być?",
+    "Каким он должен быть?"
+  ],
+  [
+    "Matko, nie uwierzysz. [cicho] To on.",
+    "Мама, ты не поверишь. [Это он."
+  ],
+  [
+    "Matka nie uwierzyła w Mariana-Jezusa, dlatego za chwilę przeprowadzimy cud demonstracyjny.",
+    "Мать не верила в Марианну-Иисуса, поэтому мы сейчас совершим показательное чудо."
+  ],
+  [
+    "Aby zapewnić warunki laboratoryjne dla wyczyniania cudów, zawezwałem bezstronnych świadków.",
+    "Чтобы создать лабораторные условия для совершения чудес, я позвал беспристрастных свидетелей."
+  ],
+  [
+    "A później będzie już tylko: „Wiwat Jakub!",
+    "А потом будет просто: \"Слава Иакову!"
+  ],
+  [
+    "Odkryłeś Jezusa”.",
+    "Вы открыли Иисуса\"."
+  ],
+  [
+    "I: „Wiwat Jezus!",
+    "И: \"Слава Иисусу!"
+  ],
+  [
+    "Że wróciłeś”.",
+    "Что ты вернулся\"."
+  ],
+  [
+    "„Wiwat Jakub i Jezus”.",
+    "\"Слава Иакову и Иисусу\"."
+  ],
+  [
+    "Kolejność alfabetyczna.",
+    "В алфавитном порядке."
+  ],
+  [
+    "Chłopie.",
+    "Крестьянин."
+  ],
+  [
+    "Mam do ciebie jedną prośbę. - Oczywiście, jaśnie pani. - Idź na środek stawu.",
+    "У меня к вам одна просьба. - Конечно, ваша светлость. - Идите на середину пруда."
+  ],
+  [
+    "Słucham?",
+    "Прошу прощения?"
+  ],
+  [
+    "Idź po wodzie na środek stawu.",
+    "Пройдите по воде до середины пруда."
+  ],
+  [
+    "Jak tam dojdziesz, zwolnię cię z pańszczyzny.",
+    "Когда ты приедешь туда, я освобожу тебя от крепостной зависимости."
+  ],
+  [
+    "Na zawsze.",
+    "Навсегда."
+  ],
+  [
+    "Słyszałeś?",
+    "Вы слышали?"
+  ],
+  [
+    "Będziesz wolny.",
+    "Вы будете свободны."
+  ],
+  [
+    "To jest pozytywny aspekt tej sytuacji, ale dostrzegam także minusy.",
+    "Это положительный аспект ситуации, но я вижу и обратную сторону."
+  ],
+  [
+    "Że mam wejść na środek stawu, co jest niemożliwe.",
+    "Что мне придется идти в середину пруда, а это невозможно."
+  ],
+  [
+    "I nie umiesz pływać.",
+    "И ты не умеешь плавать."
+  ],
+  [
+    "No.",
+    "Нет."
+  ],
+  [
+    "To już dwa minusy.",
+    "Это уже два минуса."
+  ],
+  [
+    "Yyy… A ja słyszałam taką myśl, że za 20 lat to my bardziej będziemy żałować tego, czego nie zrobiliśmy, niż tego, co zrobiliśmy.",
+    "Гы-гы... А я слышал мнение, что через 20 лет мы будем больше сожалеть о том, чего не сделали, чем о том, что сделали."
+  ],
+  [
+    "Dobre.",
+    "Хорошо."
+  ],
+  [
+    "Daje do myślenia.",
+    "Дает пищу для размышлений."
+  ],
+  [
+    "No tak, no bo u nas w Polsce to jest bardzo dużo takiego negatywnego myślenia, takiego… niedasizmu. - Mhm. - Mhm.",
+    "Ну, да, потому что в Польше очень много этого негативного мышления, этой... неассимиляции. - Мм. - Мм."
+  ],
+  [
+    "A chuj, spróbuję.",
+    "Черт возьми, я попробую."
+  ],
+  [
+    "Ale będziesz mieć minę!",
+    "Но у тебя будет лицо!"
+  ],
+  [
+    "Och.",
+    "О."
+  ],
+  [
+    "Fałszywy prorok.",
+    "Лжепророк."
+  ],
+  [
+    "Niestety okazało się, że jedynym narzędziem do wypędzania chłopa ze strefy komfortu jest cep.",
+    "К сожалению, оказалось, что единственным инструментом, способным вывести крестьянина из зоны комфорта, был цеп."
+  ],
+  [
+    "Dosłowny, a nie ten z przypowieści Jakuba.",
+    "В буквальном смысле, а не в притче Иакова."
+  ],
+  [
+    "Problem w tym, że… Że kiedy go używam, Anielka na mnie krzyczy.",
+    "Проблема в том, что... Когда я его использую, Аниэлька на меня кричит."
+  ],
+  [
+    "A nic tak nie boli jak zawód tobą wypisany na twarzy twojego dziecka. - [świst bicza] - [beczenie] Na szczęście została jeszcze jedna metoda wielkich liderów. [szeptem] Kłamstwo.",
+    "И ничто так не ранит, как разочарование в вас, написанное на лице вашего ребенка. - К счастью, у великих лидеров остался один метод. [Ложь."
+  ],
+  [
+    "Niesamowite. [głośniej] Niesamowite!",
+    "Удивительно. [Удивительно!"
+  ],
+  [
+    "W tym liście od króla jest napisane, że nasz folwark został zakwalifikowany do eksperymentalnego programu.",
+    "В этом письме от короля говорится, что наша ферма была отобрана для участия в экспериментальной программе."
+  ],
+  [
+    "Program ten zwiększa dla jego uczestników ustawową liczbę dni pańszczyzny z czterech do pięciu. - Nie… - [jęki zawodu] Cholera jasna!",
+    "Эта программа увеличивает установленное законом количество крепостных дней для ее участников с четырех до пяти. - Нет... - Черт возьми!"
+  ],
+  [
+    "Bogdan!",
+    "Богдан!"
+  ],
+  [
+    "Naprawdę odebrałeś ten list od posłańca królewskiego?",
+    "Вы действительно получили письмо от королевского гонца?"
+  ],
+  [
+    "Tak.",
+    "Да."
+  ],
+  [
+    "Przyjechał… na gniadym koniu.",
+    "Он приехал... на гнедом коне."
+  ],
+  [
+    "Dał list i od razu popędził.",
+    "Он отдал письмо и тут же бросился бежать."
+  ],
+  [
+    "O!",
+    "O!"
+  ],
+  [
+    "Gdzie?",
+    "Где?"
+  ],
+  [
+    "Śpieszył się na urodziny syna. - [szepty niezadowolenia] - [chłop 1] Eee, spadam.",
+    "Он торопился на день рождения сына. - Шепот недовольства] - [Крестьянин 1] И-и, я пошел."
+  ],
+  [
+    "Oprócz syna powiedział też, że ma… dwie córki. - [chłop 2] Co? - [chłop 3] Oczywiście… Ogromna liczba szczegółów dowodzi, że to musiało się wydarzyć naprawdę!",
+    "Кроме сына, он сказал, что у него есть... две дочери. - Крестьянин 2] Что? - Крестьянин 3] Конечно... Огромное количество деталей доказывает, что это, должно быть, действительно произошло!"
+  ],
+  [
+    "Będę musiał żyć z ciężarem kłamstwa.",
+    "Мне придется жить под бременем этой лжи."
+  ],
+  [
+    "Ale po tym poznasz lidera.",
+    "Но вы узнаете лидера по этому признаку."
+  ],
+  [
+    "Po gotowości na poświęcenie dla wspólnoty.",
+    "Когда-то он был готов пожертвовать собой ради общества."
+  ],
+  [
+    "Ale najważniejsze, że udało mi się usprawnić prace w folwarku. [rozbawiony] I teraz ten idiota Andrzej… Kto podpalił moje żyto?",
+    "Но самое главное, что я смог улучшить работу в поместье. [А теперь этот идиот Эндрю... Кто поджег мою рожь?"
+  ],
+  [
+    "[bełkocze dumnie] To wszystko ja!",
+    "[Это все я!"
+  ],
+  [
+    "Zaszczany Jędrula!",
+    "Поруганная Едрула!"
+  ],
+  [
+    "Jędrula!",
+    "Едрула!"
+  ],
+  [
+    "Cóżeś ty uczynił, pijaku jeden?",
+    "Что ты наделал, пьяница?"
+  ],
+  [
+    "[Marianna] Aniela?",
+    "[Аниэла?"
+  ],
+  [
+    "To co z tymi zmianami klimatycznymi?",
+    "А как же изменение климата?"
+  ],
+  [
+    "Bo śnieg spadł jak zwykle.",
+    "Потому что снег падал как обычно."
+  ],
+  [
+    "Okazuje się, że przekonanie chłopów do zmiany nawyków jest bardzo trudne.",
+    "Убедить крестьян изменить свои привычки оказывается очень сложно."
+  ],
+  [
+    "Ludzie z natury są wygodni i nie chcą zrezygnować choćby z odrobiny komfortu.",
+    "Люди по своей природе комфортны и не хотят отказываться даже от небольшого комфорта."
+  ],
+  [
+    "Ludzie… [Marianna] Nagrzałam ci wody w bani.",
+    "Люди... Я нагрела воды в вашем банане."
+  ],
+  [
+    "Zaraz kolacja.",
+    "Скоро будет подан ужин."
+  ],
+  [
+    "Zjesz przystawkę?",
+    "Будут ли у вас закуски?"
+  ],
+  [
+    "Tak, zjem.",
+    "Да, я буду есть."
+  ],
+  [
+    "Z drugiej strony, 380 lat?",
+    "С другой стороны, 380 лет?"
+  ],
+  [
+    "Mamy jeszcze trochę czasu.",
+    "У нас еще есть время."
+  ],
+  [
+    "[Maciej] Aniela!",
+    "[Аниэла!"
+  ],
+  [
+    "Chciałem ci powiedzieć, że przemyślałem swoją postawę.",
+    "Я хотел сказать, что переосмыслил свое отношение."
+  ],
+  [
+    "I zrzygałeś się na siebie?",
+    "А вы смеялись про себя?"
+  ],
+  [
+    "Nie… Choć było blisko, bo spędziłem jakieś trzy godziny na wygrzebywaniu fasoli z resztek dla bydła.",
+    "Нет... Хотя это было близко, так как я потратил около трех часов, выковыривая фасоль из остатков пищи для скота."
+  ],
+  [
+    "Yyy… Możesz tego nie wiedzieć, bo dziewczyny nie puszczają bąków, ale fasola jest bardzo gazopędna i w ten sposób wpłynąłem na ograniczenie emisji gazów.",
+    "Гыыы... Вы можете этого не знать, потому что девочки не пукают, но фасоль очень сильно разжигает газ, поэтому я повлиял на снижение газа."
+  ],
+  [
+    "To najdziwniejsza historia, jaką kiedykolwiek słyszałam.",
+    "Это самая странная история, которую я когда-либо слышал."
+  ],
+  [
+    "I zarazem najsłodsza rzecz, jaką ktoś dla mnie zrobił.",
+    "И в то же время это самое приятное, что кто-то сделал для меня."
+  ],
+  [
+    "Przeprosiny przyjęte. - [chrząka] - [bzyczenie much] Ale pójdę już, bo strasznie śmierdzisz.",
+    "Извинения приняты. - Но я пойду, потому что от тебя ужасно воняет."
+  ],
+  [
+    "To zapach zwycięstwa.",
+    "Это запах победы."
+  ],
+  [
+    "Gdyby kiedyś doszło do czegoś między mną a Anielą, będę mógł opowiadać, że wszystko zaczęło się od krowich gazów. [śmieje się] Zawsze byłem typem romantyka.",
+    "Если между мной и Аниэлой когда-нибудь что-то случится, я смогу сказать, что все началось с коровьего газа. [Я всегда был романтиком."
+  ],
+  [
+    "Choć oczywiście do niczego nie dojdzie.",
+    "Хотя, конечно, это ни к чему не приведет."
+  ],
+  [
+    "Ona jest szlachcianką. - [Stanisław głośno się śmieje] - [trzask drzwi] Chciałeś, żebym coś dzisiaj zrobił?",
+    "Она дворянка. - Станислав громко смеется] - Вы хотели, чтобы я сегодня что-то сделал?"
+  ],
+  [
+    "[wrzeszczy] Zaręczyłem się!",
+    "[Я обручилась!"
+  ],
+  [
+    "Z miastową.",
+    "С городскими."
+  ]
+]

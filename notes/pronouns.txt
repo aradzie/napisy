@@ -1,0 +1,315 @@
+1. Personal Pronouns (Zaimki osobowe)
+
++--------------+-----------+--------------+-------------------+------------+-------------------+------+------+------------+------------+
+| Nominative   | ja        | ty           | on                | ona        | ono               | my   | wy   | oni        | one        |
+| Genitive     | mnie      | ciebie / cię | jego / niego / go | jej / niej | jego / niego / go | nas  | was  | ich / nich | ich / nich |
+| Dative       | mnie / mi | tobie / ci   | jemu / niemu / mu | jej / niej | jemu / niemu / mu | nam  | wam  | im / nim   | im / nim   |
+| Accusative   | mnie      | ciebie / cię | jego / niego / go | ją / nią   | je / nie          | nas  | was  | ich        | je / nie   |
+| Instrumental | mną       | tobą         | nim               | nią        | nim               | nami | wami | nimi       | nimi       |
+| Locative     | mnie      | tobie        | nim               | niej       | nim               | nas  | was  | nich       | nich       |
+| Vocative     | (ja)      | ty           | (on)              | (ona)      | (ono)             | (my) | wy   | (oni)      | (one)      |
++--------------+-----------+--------------+-------------------+------------+-------------------+------+------+------------+------------+
+
+
+Formal Second Person Pronouns
+
+Pan (Masc. Formal Singular):
+
+    Nom.: pan
+    Gen.: pana
+    Dat.: panu
+    Acc.: pana
+    Inst.: panem
+    Loc.: panu
+    Voc.: panie
+
+Pani (Fem. Formal Singular):
+
+    Nom.: pani
+    Gen.: pani
+    Dat.: pani
+    Acc.: panią
+    Inst.: panią
+    Loc.: pani
+    Voc.: pani
+
+Państwo (Formal Plural):
+
+    Nom.: państwo
+    Gen.: państwa
+    Dat.: państwu
+    Acc.: państwa
+    Inst.: państwem
+    Loc.: państwu
+    Voc.: państwo
+
+
+2. Possessive Pronouns (Zaimki dzierżawcze)
+
+These indicate possession and decline according to the gender, number, and case of the possessed noun. They agree in gender and number with the object being possessed, and in case with the grammatical function in the sentence.
+
+    mój (my):
+    | Case         | Singular Masc. | Singular Fem. | Singular Neut. | Plural Masc. Personal | Plural Non-Masc. Personal |
+    |--------------|----------------|---------------|----------------|-----------------------|---------------------------|
+    | Nominative   | mój            | moja          | moje           | moi                   | moje                      |
+    | Genitive     | mojego         | mojej         | mojego         | moich                 | moich                     |
+    | Dative       | mojemu         | mojej         | mojemu         | moim                  | moim                      |
+    | Accusative   | mój / mojego   | moją          | moje           | moich                 | moje                      |
+    | Instrumental | moim           | moją          | moim           | moimi                 | moimi                     |
+    | Locative     | moim           | mojej         | moim           | moich                 | moich                     |
+    | Vocative     | mój            | moja          | moje           | moi                   | moje                      |
+
+    twój (your - singular informal): Declines like "mój".
+    | Case         | Singular Masc. | Singular Fem. | Singular Neut. | Plural Masc. Personal | Plural Non-Masc. Personal |
+    |--------------|----------------|---------------|----------------|-----------------------|---------------------------|
+    | Nominative   | twój           | twoja         | twoje          | twoi                  | twoje                     |
+    | Genitive     | twojego        | twojej        | twojego        | twoich                | twoich                    |
+    | Dative       | twojemu        | twojej        | twojemu        | twoim                 | twoim                     |
+    | Accusative   | twój / twojego | twoją         | twoje          | twoich                | twoje                     |
+    | Instrumental | twoim          | twoją         | twoim          | twoimi                | twoimi                    |
+    | Locative     | twoim          | twojej        | twoim          | twoich                | twoich                    |
+    | Vocative     | twój           | twoja         | twoje          | twoi                  | twoje                     |
+
+    jego (his, its): Does not decline.
+
+    jej (her): Does not decline.
+
+    nasz (our):
+    | Case         | Singular Masc. | Singular Fem. | Singular Neut. | Plural Masc. Personal | Plural Non-Masc. Personal |
+    |--------------|----------------|---------------|----------------|-----------------------|---------------------------|
+    | Nominative   | nasz           | nasza         | nasze          | nasi                  | nasze                     |
+    | Genitive     | naszego        | naszej        | naszego        | naszych               | naszych                   |
+    | Dative       | naszemu        | naszej        | naszemu        | naszym                | naszym                    |
+    | Accusative   | nasz / naszego | naszą         | nasze          | naszych               | nasze                     |
+    | Instrumental | naszym         | naszą         | naszym         | naszymi               | naszymi                   |
+    | Locative     | naszym         | naszej        | naszym         | naszych               | naszych                   |
+    | Vocative     | nasz           | nasza         | nasze          | nasi                  | nasze                     |
+
+    wasz (your - plural informal or singular formal): Declines like "nasz".
+    | Case         | Singular Masc. | Singular Fem. | Singular Neut. | Plural Masc. Personal | Plural Non-Masc. Personal |
+    |--------------|----------------|---------------|----------------|-----------------------|---------------------------|
+    | Nominative   | wasz           | wasza         | wasze          | wasi                  | wasze                     |
+    | Genitive     | waszego        | waszej        | waszego        | waszych               | waszych                   |
+    | Dative       | waszemu        | waszej        | waszemu        | waszym                | waszym                    |
+    | Accusative   | wasz / waszego | waszą         | wasze          | waszych               | wasze                     |
+    | Instrumental | waszym         | waszą         | waszym         | waszymi               | waszymi                   |
+    | Locative     | waszym         | waszej        | waszym         | waszych               | waszych                   |
+    | Vocative     | wasz           | wasza         | wasze          | wasi                  | wasze                     |
+
+    ich (their): Does not decline.
+
+    swój (one's own - reflexive possessive): Refers back to the subject of the sentence and declines like "mój" and "twój".
+    | Case         | Singular Masc. | Singular Fem. | Singular Neut. | Plural Masc. Personal | Plural Non-Masc. Personal |
+    |--------------|----------------|---------------|----------------|-----------------------|---------------------------|
+    | Nominative   | swój           | swoja         | swoje          | swoi                  | swoje                     |
+    | Genitive     | swojego        | swojej        | swojego        | swoich                | swoich                    |
+    | Dative       | swojemu        | swojej        | swojemu        | swoim                 | swoim                     |
+    | Accusative   | swój / swojego | swoją         | swoje          | swoich                | swoje                     |
+    | Instrumental | swoim          | swoją         | swoim          | swoimi                | swoimi                    |
+    | Locative     | swoim          | swojej        | swoim          | swoich                | swoich                    |
+    | Vocative     | swój           | swoja         | swoje          | swoi                  | swoje                     |
+
+
+3. Demonstrative Pronouns (Zaimki wskazujące)
+
+These pronouns point to specific nouns and change based on the gender, number, and case of the noun they modify. The main ones are "ten" (this) and "tamten" (that).
+
+    ten (this):
+    | Case         | Singular Masc. | Singular Fem. | Singular Neut. | Plural Masc. Personal | Plural Non-Masc. Personal |
+    |--------------|----------------|---------------|----------------|-----------------------|---------------------------|
+    | Nominative   | ten            | ta            | to             | ci                    | te                        |
+    | Genitive     | tego           | tej           | tego           | tych                  | tych                      |
+    | Dative       | temu           | tej           | temu           | tym                   | tym                       |
+    | Accusative   | ten / tego     | tę            | to             | tych                  | te                        |
+    | Instrumental | tym            | tą            | tym            | tymi                  | tymi                      |
+    | Locative     | tym            | tej           | tym            | tych                  | tych                      |
+    | Vocative     | ten            | ta            | to             | ci                    | te                        |
+
+    tamten (that): Declines like "ten" with the prefix "tam-".
+    | Case         | Singular Masc. | Singular Fem. | Singular Neut. | Plural Masc. Personal | Plural Non-Masc. Personal |
+    |--------------|----------------|---------------|----------------|-----------------------|---------------------------|
+    | Nominative   | tamten         | tamta         | tamto          | tamci                 | tamte                     |
+    | Genitive     | tamtego        | tamtej        | tamtego        | tamtych               | tamtych                   |
+    | Dative       | tamtemu        | tamtej        | tamtemu        | tamtym                | tamtym                    |
+    | Accusative   | tamten / tamtego | tamtą         | tamto          | tamtych               | tamte                     |
+    | Instrumental | tamtym         | tamtą         | tamtym         | tamtymi               | tamtymi                   |
+    | Locative     | tamtym         | tamtej        | tamtym         | tamtych               | tamtych                   |
+    | Vocative     | tamten         | tamta         | tamto          | tamci                 | tamte                     |
+
+    A less common demonstrative pronoun is ów (that, yonder), which also declines according to gender, number, and case, similar to adjectives.
+
+4. Interrogative Pronouns (Zaimki pytające)
+
+These are used to ask questions. Some decline, while others have limited forms.
+
+    kto (who): Refers only to people and declines in all cases except Vocative.
+
+    | Case         | Form    |
+    |--------------|---------|
+    | Nominative   | kto     |
+    | Genitive     | kogo    |
+    | Dative       | komu    |
+    | Accusative   | kogo    |
+    | Instrumental | kim     |
+    | Locative     | kim     |
+    | Vocative     | -       |
+
+    co (what): Refers to things and concepts and declines in all cases except Vocative.
+
+    | Case         | Form    |
+    |--------------|---------|
+    | Nominative   | co      |
+    | Genitive     | czego   |
+    | Dative       | czemu   |
+    | Accusative   | co      |
+    | Instrumental | czym    |
+    | Locative     | czym    |
+    | Vocative     | -       |
+
+    który (which): Declines like an adjective, agreeing in gender, number, and case with the noun it refers to.
+
+    | Case         | Singular Masc. | Singular Fem. | Singular Neut. | Plural Masc. Personal | Plural Non-Masc. Personal |
+    |--------------|----------------|---------------|----------------|-----------------------|---------------------------|
+    | Nominative   | który          | która         | które          | którzy                | które                     |
+    | Genitive     | którego        | której        | którego        | których               | których                   |
+    | Dative       | któremu        | której        | któremu        | którym                | którym                    |
+    | Accusative   | który / którego| którą         | które          | których               | które                     |
+    | Instrumental | którym         | którą         | którym         | którymi               | którymi                   |
+    | Locative     | którym         | której        | którym         | których               | których                   |
+    | Vocative     | który          | która         | które          | którzy                | które                     |
+
+    jaki (what kind of): Declines like an adjective, agreeing in gender, number, and case with the noun it refers to. (Declension is the same as "który" in terms of endings).
+
+    | Case         | Singular Masc. | Singular Fem. | Singular Neut. | Plural Masc. Personal | Plural Non-Masc. Personal |
+    |--------------|----------------|---------------|----------------|-----------------------|---------------------------|
+    | Nominative   | jaki           | jaka          | jakie          | jacy                  | jakie                     |
+    | Genitive     | jakiego        | jakiej        | jakiego        | jakich                | jakich                    |
+    | Dative       | jakiemu        | jakiej        | jakiemu        | jakim                 | jakim                     |
+    | Accusative   | jaki / jakiego | jaką          | jakie          | jakich                | jakie                     |
+    | Instrumental | jakim          | jaką          | jakim          | jakimi                | jakimi                    |
+    | Locative     | jakim          | jakiej        | jakim          | jakich                | jakich                    |
+    | Vocative     | jaki           | jaka          | jakie          | jacy                  | jakie                     |
+
+    czyj (whose): Declines like an adjective, agreeing in gender, number, and case with the noun it refers to.
+
+    | Case         | Singular Masc. | Singular Fem. | Singular Neut. | Plural Masc. Personal | Plural Non-Masc. Personal |
+    |--------------|----------------|---------------|----------------|-----------------------|---------------------------|
+    | Nominative   | czyj           | czyja         | czyje          | czyi                  | czyje                     |
+    | Genitive     | czyjego        | czyjej        | czyjego        | czyich                | czyich                    |
+    | Dative       | czyjemu        | czyjej        | czyjemu        | czyim                 | czyim                     |
+    | Accusative   | czyj / czyjego | czyją         | czyje          | czyich                | czyje                     |
+    | Instrumental | czyim          | czyją         | czyim          | czyimi                | czyimi                    |
+    | Locative     | czyim          | czyjej        | czyim          | czyich                | czyich                    |
+    | Vocative     | czyj           | czyja         | czyje          | czyi                  | czyje                     |
+
+
+5. Relative Pronouns (Zaimki względne)
+
+These introduce relative clauses. The most common relative pronouns are the same in form as some interrogative pronouns:
+
+    który (who, which, that): Declines the same as the interrogative "który". (See table above).
+    jaki (what kind of, which): Declines the same as the interrogative "jaki". (See table above).
+    kto (who): Used as a relative pronoun when the antecedent is a person. Declines the same as the interrogative "kto". (See table above).
+    co (what, that): Used as a relative pronoun when the antecedent is a thing or a general concept. Declines the same as the interrogative "co". (See table above).
+
+6. Reflexive Pronoun (Zaimek zwrotny)
+
+This pronoun refers back to the subject of the sentence. There is essentially one reflexive pronoun with different forms depending on the case. It does not change for person, number, or gender of the subject.
+Case	Form
+Nominative	-
+Genitive	siebie
+Dative	sobie
+Accusative	siebie / się
+Instrumental	sobą
+Locative	sobie
+Vocative	-
+
+7. Indefinite Pronouns (Zaimki nieokreślone)
+
+These refer to unspecified people or things. Many are formed by adding "-ś" or "-kolwiek" to interrogative pronouns. Their declension often follows the pattern of the interrogative pronouns they are based on.
+
+    ktoś (someone): Declines like "kto" with "-ś" added.
+    | Case         | Form     |
+    |--------------|----------|
+    | Nominative   | ktoś    |
+    | Genitive     | kogoś    |
+    | Dative       | komuś    |
+    | Accusative   | kogoś    |
+    | Instrumental | kimś     |
+    | Locative     | kimś     |
+    | Vocative     | -        |
+
+    coś (something): Declines like "co" with "-ś" added.
+    | Case         | Form      |
+    |--------------|-----------|
+    | Nominative   | coś       |
+    | Genitive     | czegoś    |
+    | Dative       | czemuś    |
+    | Accusative   | coś       |
+    | Instrumental | czymś     |
+    | Locative     | czymś     |
+    | Vocative     | -         |
+
+    jakiś (some kind of, any kind of): Declines like "jaki" with "-ś" added. (Declension is the same as "jaki" in terms of endings, with "-ś" at the end).
+
+    któryś (some one, any one): Declines like "który" with "-ś" added. (Declension is the same as "który" in terms of endings, with "-ś" at the end).
+
+    czyjś (someone's, anybody's): Declines like "czyj" with "-ś" added. (Declension is the same as "czyj" in terms of endings, with "-ś" at the end).
+
+    niektórzy (some - plural, masculine personal): Declines like the plural masculine personal form of "który".
+    | Case         | Form      |
+    |--------------|-----------|
+    | Nominative   | niektórzy |
+    | Genitive     | niektórych |
+    | Dative       | niektórym |
+    | Accusative   | niektórych |
+    | Instrumental | niektórymi|
+    | Locative     | niektórych |
+    | Vocative     | niektórzy |
+
+    niektóre (some - plural, non-masculine personal): Declines like the plural non-masculine personal form of "który".
+    | Case         | Form       |
+    |--------------|------------|
+    | Nominative   | niektóre   |
+    | Genitive     | niektórych |
+    | Dative       | niektórym  |
+    | Accusative   | niektóre   |
+    | Instrumental | niektórymi |
+    | Locative     | niektórych |
+    | Vocative     | niektóre   |
+
+Other indefinite pronouns include:
+
+    wszystko (everything): Declines like "co".
+    każdy (every, each): Declines like an adjective.
+    nikt (nobody): See Negative Pronouns.
+    nic (nothing): See Negative Pronouns.
+    Pronouns formed with "-kolwiek" (e.g., ktokolwiek - whoever, cokolwiek - whatever, którykolwiek - whichever). These also decline based on their base pronoun.
+
+8. Negative Pronouns (Zaimki przeczące)
+
+These are used to negate the existence of people or things. They are formed by adding "ni-" to interrogative pronouns and decline similarly. Polish uses double negation with these pronouns.
+
+    nikt (nobody, no one): Declines like "kto" with "ni-" added.
+    | Case         | Form    |
+    |--------------|---------|
+    | Nominative   | nikt    |
+    | Genitive     | nikogo  |
+    | Dative       | nikomu  |
+    | Accusative   | nikogo  |
+    | Instrumental | nikim   |
+    | Locative     | nikim   |
+    | Vocative     | -       |
+
+    nic (nothing): Declines like "co" with "ni-" added.
+    | Case         | Form     |
+    |--------------|----------|
+    | Nominative   | nic      |
+    | Genitive     | niczego  |
+    | Dative       | niczemu  |
+    | Accusative   | nic      |
+    | Instrumental | niczym   |
+    | Locative     | niczym   |
+    | Vocative     | -        |
+
+    niczyj (nobody's): Declines like "czyj" with "ni-" added. (Declension is the same as "czyj" in terms of endings, with "niczy-" as the stem).

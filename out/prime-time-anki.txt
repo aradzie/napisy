@@ -1,0 +1,916 @@
+#separator:semicolon
+#html:false
+#notetype column:1
+#deck column:2
+#tags column:3
+Basic;Napisy::prime-time;Napisy prime-time;Ежи, я ничего не слышу!;Jerzy, ja nic nie słyszę!
+Basic;Napisy::prime-time;Napisy prime-time;Простите, можно ли увеличить буквы?;Przepraszam, mogę prosić o powiększenie liter?
+Basic;Napisy::prime-time;Napisy prime-time;и розыгрыш призов этого тысячелетия в нашем конкурсе.;oraz w tym tysiącleciu losowaniu nagród w naszym konkursie.
+Basic;Napisy::prime-time;Napisy prime-time;Напомним, какие призы достанутся счастливчику.;Przypomnijmy, jakie nagrody trafią do szczęśliwego zwycięzcy.
+Basic;Napisy::prime-time;Napisy prime-time;Мы будем встречать двухтысячный год прямо на этой площади... Высота иглу превышала три метра.;Powitamy dwutysięczny rok właśnie na tym placu… Igloo miało ponad trzy metry.
+Basic;Napisy::prime-time;Napisy prime-time;Дети строили их по несколько часов в день в течение двух дней.;Dzieci budowały je przez kilka godzin dziennie w ciągu dwóch dni.
+Basic;Napisy::prime-time;Napisy prime-time;Просто как способ заполнить время на каникулах, да?;Tak po prostu w ramach zapełnienia sobie czasu w ferie, tak?
+Basic;Napisy::prime-time;Napisy prime-time;Мы хотим достичь чего-то необычного.;Chcemy czegoś dokonać, niezwykłego jakby.
+Basic;Napisy::prime-time;Napisy prime-time;Доброе утро. - Стоп, стоп, стоп! - Доброе утро, миссис Миро, добро пожаловать.;Dzień dobry. - Stop, stop, stop! - Dzień dobry, pani Miro, zapraszamy.
+Basic;Napisy::prime-time;Napisy prime-time;Лаура, вам нужно выбрать, какие туфли.;Laura, musisz wybrać, które buty.
+Basic;Napisy::prime-time;Napisy prime-time;Я не мог определиться.;Ja się nie mogłam zdecydować.
+Basic;Napisy::prime-time;Napisy prime-time;Что это такое?;Co to jest?
+Basic;Napisy::prime-time;Napisy prime-time;Кто дал ей его?;Kto jej to dał?
+Basic;Napisy::prime-time;Napisy prime-time;Мое новогоднее платье.;Moja sukienka sylwestrowa.
+Basic;Napisy::prime-time;Napisy prime-time;Милый, раздевайся.;Kochanie, rozbieraj się.
+Basic;Napisy::prime-time;Napisy prime-time;Нет времени на гардероб, Лаура.;Nie ma czasu na garderobę, Laura.
+Basic;Napisy::prime-time;Napisy prime-time;Я приношу вам самые искренние извинения.;Przepraszam cię najmocniej.
+Basic;Napisy::prime-time;Napisy prime-time;Ты знаешь, сколько времени это займет? - Мира, но... - Мне жаль тебя.;Wiesz, ile czasu to zajmuje? - Mira, ale… - Przepraszam cię.
+Basic;Napisy::prime-time;Napisy prime-time;У меня была репетиция перед Новым годом.;Miałam próbę do sylwestra.
+Basic;Napisy::prime-time;Napisy prime-time;Я не мог выбраться с площади.;Nie mogłam się wydostać z placu.
+Basic;Napisy::prime-time;Napisy prime-time;Мира, ты на службе и берешь за это деньги, верно?;Mira, masz dyżur i bierzesz za to pieniądze, prawda?
+Basic;Napisy::prime-time;Napisy prime-time;Соревнования на телевидении.;Konkurs w telewizji.
+Basic;Napisy::prime-time;Napisy prime-time;Не преувеличивайте.;Nie przesadzaj.
+Basic;Napisy::prime-time;Napisy prime-time;Что это такое?;Co to jest?
+Basic;Napisy::prime-time;Napisy prime-time;Какая-то демонстрация, наказание? - Замена. - Замена?;Jakaś demonstracja, kara? - Zastępstwo. - Zastępstwo?
+Basic;Napisy::prime-time;Napisy prime-time;Милый, раздевайся.;Kochanie, rozbieraj się.
+Basic;Napisy::prime-time;Napisy prime-time;У нас нет времени.;Nie mamy czasu.
+Basic;Napisy::prime-time;Napisy prime-time;Мы вот-вот выйдем в эфир. - Сколько у нас осталось? - Я справлюсь.;Zaraz wchodzimy na antenę. - Ile nam zostało? - Poradzę sobie.
+Basic;Napisy::prime-time;Napisy prime-time;Четыре минуты.;Cztery minuty.
+Basic;Napisy::prime-time;Napisy prime-time;И зачем ты притащил ее сюда? - Какие туфли? - Эти.;I po co ty ją tutaj ściągnęłaś? - Które buty? - Te.
+Basic;Napisy::prime-time;Napisy prime-time;Так, все по местам, пожалуйста.;Dobrze, proszę wszyscy na pozycje.
+Basic;Napisy::prime-time;Napisy prime-time;На что вы смотрите?;No co się gapicie?
+Basic;Napisy::prime-time;Napisy prime-time;Два и три для начала.;Dwójka i trójka na początek.
+Basic;Napisy::prime-time;Napisy prime-time;Добрый вечер.;Dobry wieczór.
+Basic;Napisy::prime-time;Napisy prime-time;И у нас уже есть имя, на этот раз кандидата на победу.;I mamy już nazwisko, tym razem kandydatki do wygranej.
+Basic;Napisy::prime-time;Napisy prime-time;А теперь минутка концентрации, чтобы не ошибиться ни в одном из чисел.;Teraz chwila skupienia dla mnie, żebym nie pomyliła żadnej z cyfr.
+Basic;Napisy::prime-time;Napisy prime-time;И мы сегодня звоним очень далеко, аж в Соколов Подляски.;A dzwonimy dziś bardzo daleko, bo aż do Sokołowa Podlaskiego.
+Basic;Napisy::prime-time;Napisy prime-time;Еще немного терпения. - Да, алло? - Алло? - Алло?;Jeszcze chwila cierpliwości. - Tak, słucham? - Halo? - Halo?
+Basic;Napisy::prime-time;Napisy prime-time;Алло? - Добрый вечер, Мира Крайл.;Słucham? - Dobry wieczór pani, Mira Kryle.
+Basic;Napisy::prime-time;Napisy prime-time;Я очень доволен.;Bardzo mi miło.
+Basic;Napisy::prime-time;Napisy prime-time;Я понимаю, что вы сейчас наблюдаете за нами. - Да, да, конечно. - Тогда что я сейчас делаю?;Rozumiem, że pani nas teraz ogląda. - Tak, tak, oczywiście. - To co ja teraz robię?
+Basic;Napisy::prime-time;Napisy prime-time;Вы, наверное, сумасшедшие.;Wy chyba zwariowaliście.
+Basic;Napisy::prime-time;Napisy prime-time;Остановитесь, я сказал!;Stój, powiedziałem!
+Basic;Napisy::prime-time;Napisy prime-time;Потому что здесь есть такие полоски.;Bo tutaj takie paski są.
+Basic;Napisy::prime-time;Napisy prime-time;Они нас убрали? - Алло? - Включите.;Zdjęli nas? - Halo? - Włącz to.
+Basic;Napisy::prime-time;Napisy prime-time;Включите камеры!;Włącz kamery!
+Basic;Napisy::prime-time;Napisy prime-time;Сделайте это! - Вы слышите?;Zrób tak, żeby działało! - Słyszysz?
+Basic;Napisy::prime-time;Napisy prime-time;Наденьте на нее наручники, наденьте на нее наручники.;Skuj się z nią, skuj się z nią.
+Basic;Napisy::prime-time;Napisy prime-time;Здравствуйте, госпожа Миро, потому что я ничего не слышу.;Halo, pani Miro, bo ja nic nie słyszę.
+Basic;Napisy::prime-time;Napisy prime-time;Сядь на место, нет!;Siadaj na dupie, no!
+Basic;Napisy::prime-time;Napisy prime-time;Мы выходим в прямой эфир, конечно!;Wchodzimy na żywo, jasne?!
+Basic;Napisy::prime-time;Napisy prime-time;Кто вы?;A pan to kto?
+Basic;Napisy::prime-time;Napisy prime-time;Вы можете перейти отсюда на главную, да?;Da się stąd na główną, tak?
+Basic;Napisy::prime-time;Napisy prime-time;Отсюда можно увидеть всю долбаную Польшу.;Da się stąd na całą, kurwa, Polskę.
+Basic;Napisy::prime-time;Napisy prime-time;Вы меня слышите?;Słychać mnie?
+Basic;Napisy::prime-time;Napisy prime-time;Марек, ты записываешь?;Marek, nagrywasz?
+Basic;Napisy::prime-time;Napisy prime-time;Вставьте кассеты и запишите все камеры.;Wsadzaj kasety i pisz wszystkie kamery.
+Basic;Napisy::prime-time;Napisy prime-time;Я слышал вас минуту назад, а теперь снова ничего не слышу.;Przed chwilą panią słyszałam, a teraz znowu nic nie słyszę.
+Basic;Napisy::prime-time;Napisy prime-time;Делайте то, что вам нужно.;Rób, co trzeba.
+Basic;Napisy::prime-time;Napisy prime-time;Отдайте ей этот приз. - Ты выиграл главный приз. - Я выиграл!;Daj jej tę nagrodę. - Wygrywa pani główną nagrodę. - Wygrałam!
+Basic;Napisy::prime-time;Napisy prime-time;Что ж, с Новым годом!;No to szczęśliwego Nowego Roku!
+Basic;Napisy::prime-time;Napisy prime-time;Новацки из службы безопасности.;Nowacki z ochrony.
+Basic;Napisy::prime-time;Napisy prime-time;Здание E.;Budynek E.
+Basic;Napisy::prime-time;Napisy prime-time;Е - Элизабет. - Дежурный будет руководить. - Снимите наручники и отдайте наручники.;E jak Elżbieta. - Na dyżurce pokierują. - Rozkuj się i dawaj kajdanki.
+Basic;Napisy::prime-time;Napisy prime-time;Мы не знаем, как он попал внутрь.;Nie wiemy, jak wszedł.
+Basic;Napisy::prime-time;Napisy prime-time;Может быть, он правильно обучен. - Никаких движений!;Może jest odpowiednio wytrenowany. - No ruchy!
+Basic;Napisy::prime-time;Napisy prime-time;Давай, расстегни молнию! - Сейчас, сейчас, сейчас.;No rozpinaj to! - Już, już, zaraz.
+Basic;Napisy::prime-time;Napisy prime-time;Выпустите меня. - Ничего... Он ничего не говорил о выкупе. - Привет!;Wypuść mnie. - Nic… Nic nie mówił o okupie. - Halo!
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, он хочет поговорить.;Proszę, on chce rozmawiać.
+Basic;Napisy::prime-time;Napisy prime-time;На консоли есть микрофон.;Na konsolecie jest mikrofon.
+Basic;Napisy::prime-time;Napisy prime-time;Вы нажимаете на кнопку.;Pan naciśnie przycisk.
+Basic;Napisy::prime-time;Napisy prime-time;Это совсем не моя работа - заниматься такими вещами, вооруженным ограблением.;To w ogóle nie moje zadania takie sprawy, napady z bronią.
+Basic;Napisy::prime-time;Napisy prime-time;Мы проверяем пропуска здесь.;My tu przepustki sprawdzamy.
+Basic;Napisy::prime-time;Napisy prime-time;Кто-нибудь есть?;Jest tam kto?
+Basic;Napisy::prime-time;Napisy prime-time;Алло, вы меня слышите?;Halo, słyszycie mnie?
+Basic;Napisy::prime-time;Napisy prime-time;Там есть кто-нибудь?;Tam ktoś jest?
+Basic;Napisy::prime-time;Napisy prime-time;Я просто не знаю. - Алло? - Алло?;Właśnie nie wiem. - Halo? - Halo?
+Basic;Napisy::prime-time;Napisy prime-time;Вы не торопились. - Вам нужно подойти ближе к центру. - Что?;No nie spieszyło się wam. - Musi pan podejść bliżej środka. - Co?
+Basic;Napisy::prime-time;Napisy prime-time;Когда я открываю микрофон, а вы стоите там, он скрипит.;Gdy otwieram mikrofon, a pan tam stoi, wtedy piszczy.
+Basic;Napisy::prime-time;Napisy prime-time;С кем я разговариваю? - С издателем. - Что?;Z kim rozmawiam? - Wydawca. - Co?
+Basic;Napisy::prime-time;Napisy prime-time;Я не слышу.;Nie słyszę.
+Basic;Napisy::prime-time;Napisy prime-time;Издатель Лаура Колодзей.;Wydawca Laura Kołodziej.
+Basic;Napisy::prime-time;Napisy prime-time;У вас есть какие-нибудь требования?;Czy ma pan jakieś żądania?
+Basic;Napisy::prime-time;Napisy prime-time;Что же это такое? - Давайте покончим с этой игрой. - Весело, правда?;O co chodzi? - Skończmy tę zabawę. - Zabawę, tak?
+Basic;Napisy::prime-time;Napisy prime-time;Потому что это вас забавляет?;Bo ciebie to bawi?
+Basic;Napisy::prime-time;Napisy prime-time;Вы находите это забавным? - Нет! - А вас это забавляет?;Bawi cię to? - Nie! - To cię bawi?
+Basic;Napisy::prime-time;Napisy prime-time;Нет, вовсе нет.;Nie, w ogóle.
+Basic;Napisy::prime-time;Napisy prime-time;Мы можем нормально поговорить?;Możemy porozmawiać normalnie?
+Basic;Napisy::prime-time;Napisy prime-time;Ладно, поговорим нормально. - Что он делает? - Он идет сюда.;Dobra, będziemy normalnie rozmawiać. - Co on robi? - Idzie tutaj.
+Basic;Napisy::prime-time;Napisy prime-time;Вы все выходите!;Wychodzicie wszyscy!
+Basic;Napisy::prime-time;Napisy prime-time;Ты останешься!;Pan zostaje!
+Basic;Napisy::prime-time;Napisy prime-time;Быстрее, быстрее.;Szybciej, szybciej.
+Basic;Napisy::prime-time;Napisy prime-time;Ну, и правильный ответ.;No i poprawna reakcja.
+Basic;Napisy::prime-time;Napisy prime-time;Мы начнем сначала.;Zaczniemy jeszcze raz.
+Basic;Napisy::prime-time;Napisy prime-time;Мы начнем все сначала!;Zaczniemy jeszcze raz!
+Basic;Napisy::prime-time;Napisy prime-time;Медленно, да?;Powoli, tak?
+Basic;Napisy::prime-time;Napisy prime-time;Во-первых, выключите свет и включите обычный.;Po pierwsze wyłącz te światła i zapal jakieś normalne.
+Basic;Napisy::prime-time;Napisy prime-time;Подготовьте мой вход.;Szykuj moje wejście.
+Basic;Napisy::prime-time;Napisy prime-time;Я уже звоню.;Już dzwonię.
+Basic;Napisy::prime-time;Napisy prime-time;Простите, простите, я больше не буду.;Przepraszam, przepraszam, ja już nie będę.
+Basic;Napisy::prime-time;Napisy prime-time;Сэр.;Proszę pana.
+Basic;Napisy::prime-time;Napisy prime-time;Я сам ничего не могу сделать.;Sama nic nie zrobię.
+Basic;Napisy::prime-time;Napisy prime-time;Мне нужно... - Для чего нужен вход?;Potrzebuję… - Po co to wejście?
+Basic;Napisy::prime-time;Napisy prime-time;Вы должны сказать... - Нет, я не должен ничего говорить!;Musi pan powiedzieć… - Nie, ja nic nie muszę!
+Basic;Napisy::prime-time;Napisy prime-time;Как долго?;Jak długie?
+Basic;Napisy::prime-time;Napisy prime-time;Несколько минут. - Но что будет в этом входе? - Не знаю, я собираюсь петь.;Parę minut. - Ale co będzie w tym wejściu? - Nie wiem, będę śpiewał.
+Basic;Napisy::prime-time;Napisy prime-time;"Я бросил ""Шанс на успех"".";Odpadłem z Szansy na sukces.
+Basic;Napisy::prime-time;Napisy prime-time;Хорошо, включите то, что вам нужно, и приступайте.;Dobra, włączaj tam co trzeba i jedziemy z tym.
+Basic;Napisy::prime-time;Napisy prime-time;Мне нужно время, чтобы организовать команду.;Potrzebuję czasu, żeby zorganizować ekipę.
+Basic;Napisy::prime-time;Napisy prime-time;Оператор, кто-то для работы со звуком и светом.;Operatora kamery, kogoś od dźwięku i od świateł.
+Basic;Napisy::prime-time;Napisy prime-time;Тогда сделайте это быстро!;To się streszczaj!
+Basic;Napisy::prime-time;Napisy prime-time;Я уже звоню, просто успокойся.;Już dzwonię, tylko spokojnie.
+Basic;Napisy::prime-time;Napisy prime-time;Я спокоен.;Jestem spokojny.
+Basic;Napisy::prime-time;Napisy prime-time;В машину!;Do samochodu!
+Basic;Napisy::prime-time;Napisy prime-time;В машину!;Do samochodu!
+Basic;Napisy::prime-time;Napisy prime-time;Вы с ним в сговоре?;Jesteś z nim w zmowie?
+Basic;Napisy::prime-time;Napisy prime-time;Я не понимаю.;Nie rozumiem.
+Basic;Napisy::prime-time;Napisy prime-time;Что вы имеете в виду?;O co wam chodzi?
+Basic;Napisy::prime-time;Napisy prime-time;Чего вы хотите?;Co wy chcecie?
+Basic;Napisy::prime-time;Napisy prime-time;Но мисс Миро, в конце концов, я работаю здесь уже два года.;Ale pani Miro, przecież ja tu dwa lata pracuję.
+Basic;Napisy::prime-time;Napisy prime-time;Прошлой зимой у вас сломалась машина, я помог.;Zeszłej zimy samochód się pani popsuł, pomogłem.
+Basic;Napisy::prime-time;Napisy prime-time;Разве вы не помните?;Nie pamięta pani?
+Basic;Napisy::prime-time;Napisy prime-time;Тогда почему вы ничего не делаете?;To czemu ty nic nie robisz?
+Basic;Napisy::prime-time;Napisy prime-time;Вам нужно успокоиться и делать то, что он говорит.;Musi się pani uspokoić i robić, co on każe.
+Basic;Napisy::prime-time;Napisy prime-time;Можете ли вы позвонить с этого телефона на улицу?;Można z tego telefonu zadzwonić na zewnątrz?
+Basic;Napisy::prime-time;Napisy prime-time;Один, ноль и направленность.;Jeden, zero i kierunkowy.
+Basic;Napisy::prime-time;Napisy prime-time;Переходите к своей части.;Przesuń się na swoją część.
+Basic;Napisy::prime-time;Napisy prime-time;Подвинься. - Алло? - Дэвид?;Przesuń się. - Halo? - Dawid?
+Basic;Napisy::prime-time;Napisy prime-time;Привет, это я.;Cześć, to ja.
+Basic;Napisy::prime-time;Napisy prime-time;Черт, ты не должен был звонить.;Kurwa, miałeś nie dzwonić.
+Basic;Napisy::prime-time;Napisy prime-time;Я знаю, знаю.;No wiem, wiem, przecież wiem.
+Basic;Napisy::prime-time;Napisy prime-time;Расскажите о том, почему вы звоните.;Mów, po co dzwonisz.
+Basic;Napisy::prime-time;Napisy prime-time;Ну и пожелания, проще говоря. - Я заканчиваю, пока что. - Нет, подождите. - Подожди. - Ну?;No życzenia złożyć po prostu. - Kończę, na razie. - Nie, poczekaj. - Poczekaj. - No?
+Basic;Napisy::prime-time;Napisy prime-time;У вас там есть телевизор?;Masz tam telewizor?
+Basic;Napisy::prime-time;Napisy prime-time;ТЕЛЕВИЗОР? - У тебя там есть телевизор или нет? - Есть, блин. - Ну, посмотри его сегодня вечером. - Что?;Telewizor? - Masz tam telewizor czy nie? - No jest jakiś, kurwa. - No to oglądaj go dzisiaj. - Co?
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян.;Sebastian.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян.;Sebastian.
+Basic;Napisy::prime-time;Napisy prime-time;Жилища готовились почти к военным условиям.;Były mieszkania przygotowywane omalże do warunków wojennych.
+Basic;Napisy::prime-time;Napisy prime-time;С информацией о том, что в полночь что-то произойдет. - Да. - Я буду на одной, ты поддержишь.;Z informacją, że coś się ma wydarzyć o północy. - Tak. - Będę na jedynce, ty wspierasz.
+Basic;Napisy::prime-time;Napisy prime-time;Вы можете это сделать.;Dasz radę.
+Basic;Napisy::prime-time;Napisy prime-time;Кто главный?;Kto dowodzi?
+Basic;Napisy::prime-time;Napisy prime-time;Не знаю, думаю, они уже есть.;Nie wiem, chyba już są.
+Basic;Napisy::prime-time;Napisy prime-time;Нам нужны машины скорой помощи для работы.;Potrzebujemy karetek, żeby operować.
+Basic;Napisy::prime-time;Napisy prime-time;Нужно ли нам развертываться?;Mamy się rozmieszczać?
+Basic;Napisy::prime-time;Napisy prime-time;В канун Нового года - идите в жопу.;W sylwestra, kurwa mać.
+Basic;Napisy::prime-time;Napisy prime-time;Мне нужно позвонить домой.;Muszę zadzwonić do domu.
+Basic;Napisy::prime-time;Napisy prime-time;У меня есть ребенок с няней.;Mam dziecko z opiekunką.
+Basic;Napisy::prime-time;Napisy prime-time;Я уже должен быть там.;Powinnam już być.
+Basic;Napisy::prime-time;Napisy prime-time;Мне пришлось отдать его маме.;Miałam ją przekazać matce mojej.
+Basic;Napisy::prime-time;Napisy prime-time;Я сам поднимаю этот вопрос. - Вы не будете никуда звонить. - Я прошу вас сделать один телефонный звонок.;Sama ją wychowuję. - Nigdzie nie będziesz dzwonić. - Proszę cię o jeden telefon.
+Basic;Napisy::prime-time;Napisy prime-time;Вы не будете никуда звонить, это ясно?;Nigdzie nie będziesz dzwonić, jasne?
+Basic;Napisy::prime-time;Napisy prime-time;Кем вы себя возомнили?;Za kogo ty się masz?
+Basic;Napisy::prime-time;Napisy prime-time;Для того, кто не стремится к эмоциональному шантажу.;Za kogoś, kto nie ma ochoty na szantaż emocjonalny.
+Basic;Napisy::prime-time;Napisy prime-time;Где находится этот оператор?;Gdzie ten operator?
+Basic;Napisy::prime-time;Napisy prime-time;Но давайте делать что-то, давайте развлекать людей!;Ale róbmy coś, dajmy ludziom rozrywkę!
+Basic;Napisy::prime-time;Napisy prime-time;В конце концов, телезрители ждут. - Алло? - Алло, алло.;Przecież telewidzowie czekają. - Halo? - Halo, halo.
+Basic;Napisy::prime-time;Napisy prime-time;Привет, малыш.;Cześć, młody.
+Basic;Napisy::prime-time;Napisy prime-time;Поздравляю, прекрасное развлечение, браво.;Gratuluję, piękna rozrywka, brawo.
+Basic;Napisy::prime-time;Napisy prime-time;Как вы играете?;Jak się bawisz?
+Basic;Napisy::prime-time;Napisy prime-time;Хорошо ли это?;Dobrze jest?
+Basic;Napisy::prime-time;Napisy prime-time;Не напрягайся, слушай.;Bez stresu, słuchaj.
+Basic;Napisy::prime-time;Napisy prime-time;Включи громкую связь. - У меня есть два слова для Миры. - Кто говорит?;Włącz mnie na głośnik. - Dwa słowa do Miry mam. - Kto mówi?
+Basic;Napisy::prime-time;Napisy prime-time;От команды, твой фан.;Z ekipy, twój fan.
+Basic;Napisy::prime-time;Napisy prime-time;Старый, наконец-то в студии что-то происходит.;Stary, wreszcie coś się dzieje w studio.
+Basic;Napisy::prime-time;Napisy prime-time;Я очень благодарен вам.;Ja ci dziękuję bardzo.
+Basic;Napisy::prime-time;Napisy prime-time;Включи громкую связь.;Włącz na głośnik.
+Basic;Napisy::prime-time;Napisy prime-time;Вот там у тебя большая кнопка.;Tam masz taki duży guzik.
+Basic;Napisy::prime-time;Napisy prime-time;Включи меня.;Włącz mnie.
+Basic;Napisy::prime-time;Napisy prime-time;Два слова для Миры.;Dwa słowa do Miry.
+Basic;Napisy::prime-time;Napisy prime-time;Мира, помаши камере, если ты меня слышишь.;Mira, pomachaj do kamery, jak mnie słyszysz.
+Basic;Napisy::prime-time;Napisy prime-time;В знак того, что ты меня слышишь.;Na znak, że mnie słyszysz.
+Basic;Napisy::prime-time;Napisy prime-time;Черт возьми, какая ты глупая?;Ja pierdolę, jaka ty jesteś głupia?
+Basic;Napisy::prime-time;Napisy prime-time;Потому что мне было интересно, на хрен, ты собираешься махать или не махать.;Bo ja się zastanawiałem, kurwa, pomachasz czy nie pomachasz.
+Basic;Napisy::prime-time;Napisy prime-time;Но без этой улыбки?;Ale bez takiego uśmiechu?
+Basic;Napisy::prime-time;Napisy prime-time;Нет, я не знаю, кто это, но это точно на территории телевидения, потому что он может это видеть.;Nie, nie wiem kto to jest, ale na pewno jest na terenie telewizji, ponieważ ją widzi.
+Basic;Napisy::prime-time;Napisy prime-time;Пошел вон! - Вы посмотрели? - Мы ведем себя так, как будто это острое оружие.;Wypierdalać! - Przyjrzałeś się? - Działamy tak, jakby to była ostra broń.
+Basic;Napisy::prime-time;Napisy prime-time;Стрелок уже разбежался.;Strzelec już się rozłożył.
+Basic;Napisy::prime-time;Napisy prime-time;Это двойное толстое остекление.;To podwójne grube szyby.
+Basic;Napisy::prime-time;Napisy prime-time;Неизвестно, как пойдет мяч.;Nie wiadomo, jak kula pójdzie.
+Basic;Napisy::prime-time;Napisy prime-time;Это вы, ребята, загадываете загадки, а мы в петле - два выстрела Джеба, Джеба и Шторма.;To wy zagadacie, a my na dole w zawiasy dwa strzały jeb, jeb i szturm.
+Basic;Napisy::prime-time;Napisy prime-time;Мы разбиваем диван. - Они, наверное, отстрелят одну, но... - Нет, все в порядке, успокойтесь.;Rozwalamy setę. - Pewnie jednego odstrzelą, ale.. - Nie, dobra, spokojnie.
+Basic;Napisy::prime-time;Napisy prime-time;Оставайтесь с нами, и мы начнем переговоры. - Вы начнете? - Да.;Bądźcie w gotowości, a my zaczniemy negocjacje. - Zaczniesz? - Tak.
+Basic;Napisy::prime-time;Napisy prime-time;Извините.;Przepraszam.
+Basic;Napisy::prime-time;Napisy prime-time;Ставки следующие.;Zakłady są.
+Basic;Napisy::prime-time;Napisy prime-time;Пётрек, Кароль, Анджей, Лусия поспорили, что тебя трахнут.;Piotrek, Karol, Andrzej, Lusia obstawili, że cię zajebie.
+Basic;Napisy::prime-time;Napisy prime-time;Кшиштоф Едынак.;Krzysztof Jedynak.
+Basic;Napisy::prime-time;Napisy prime-time;Доброе утро.;Dzień dobry.
+Basic;Napisy::prime-time;Napisy prime-time;Нет, не так.;Nie, nie ma.
+Basic;Napisy::prime-time;Napisy prime-time;Я.;Ja jestem.
+Basic;Napisy::prime-time;Napisy prime-time;Хорошо, спасибо.;Dobrze, dziękuję.
+Basic;Napisy::prime-time;Napisy prime-time;Мы вносим свою лепту. - Вы готовы? - Да.;Robimy swoje. - Gotowy jesteś? - Tak.
+Basic;Napisy::prime-time;Napisy prime-time;Тогда приступайте.;To zaczynajcie.
+Basic;Napisy::prime-time;Napisy prime-time;Что ж, звоните.;No to niech pan dzwoni.
+Basic;Napisy::prime-time;Napisy prime-time;Вы подключили сигнал из микса и получаете удовольствие.;Popodłączaliście sobie sygnał z miksu i macie fajną zabawę.
+Basic;Napisy::prime-time;Napisy prime-time;Вы делаете из нас кино.;Kino sobie z nas robicie.
+Basic;Napisy::prime-time;Napisy prime-time;Куча разочарований.;Banda frustratów.
+Basic;Napisy::prime-time;Napisy prime-time;Как вас зовут?;Jak masz na imię?
+Basic;Napisy::prime-time;Napisy prime-time;Меня зовут Питер.;Mam na imię Piotr.
+Basic;Napisy::prime-time;Napisy prime-time;Я здесь, чтобы помочь вам в этом.;Jestem tutaj po to, żeby pomóc w załatwieniu twojej sprawy.
+Basic;Napisy::prime-time;Napisy prime-time;Где эта дама?;Gdzie tamta pani?
+Basic;Napisy::prime-time;Napisy prime-time;Миссис Лаура здесь, рядом со мной.;Pani Laura jest tu obok mnie.
+Basic;Napisy::prime-time;Napisy prime-time;Вместе мы разберемся с оператором для вас.;Razem będziemy załatwiać dla ciebie sprawę z operatorem.
+Basic;Napisy::prime-time;Napisy prime-time;Я хочу тебя видеть.;Chcę cię zobaczyć.
+Basic;Napisy::prime-time;Napisy prime-time;Включите свет.;Zapal światło.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, пожалуйста, опустите оружие.;Sebastian, proszę cię, opuść broń.
+Basic;Napisy::prime-time;Napisy prime-time;В этом нет необходимости.;To nie jest konieczne.
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, не направляйте пистолет в мою сторону.;Proszę cię, nie celuj w moją stronę.
+Basic;Napisy::prime-time;Napisy prime-time;Это меня напрягает, я боюсь.;To mnie stresuje, boję się.
+Basic;Napisy::prime-time;Napisy prime-time;И это справедливо.;No i słusznie.
+Basic;Napisy::prime-time;Napisy prime-time;Включите этот чертов свет!;Zapal, kurwa, to światło!
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, успокойся.;Sebastian, spokojnie.
+Basic;Napisy::prime-time;Napisy prime-time;Я очень прошу вас, опустите оружие.;Bardzo cię proszę, opuść broń.
+Basic;Napisy::prime-time;Napisy prime-time;Тогда я иду к тебе.;To idę do ciebie.
+Basic;Napisy::prime-time;Napisy prime-time;Я очень прошу вас, опустите оружие.;Bardzo cię proszę, opuść broń.
+Basic;Napisy::prime-time;Napisy prime-time;Стоять, стоять!;Stój na miejscu, stój!
+Basic;Napisy::prime-time;Napisy prime-time;Угрожать оружием невинному человеку.;Grozisz niewinnej osobie bronią.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, пожалуйста, опусти пистолет.;Sebastian, bardzo cię proszę, odłóż broń.
+Basic;Napisy::prime-time;Napisy prime-time;Мы можем поговорить спокойно. - Включите там свет! - Мы можем включить свет?;Spokojnie możemy rozmawiać. - Zapalcie tam światło! - Możemy zapalić to światło?
+Basic;Napisy::prime-time;Napisy prime-time;Мы придерживаемся этой позиции.;Trzymamy pozycję.
+Basic;Napisy::prime-time;Napisy prime-time;Свет горит.;Światło zapalam.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, мы выполнили вашу просьбу.;Sebastian, spełniliśmy twoje żądanie.
+Basic;Napisy::prime-time;Napisy prime-time;Вы можете показать себя? - Они зажглись? - Да. - Да! - Да.;Czy możesz się pokazać? - Zapalili? - Tak. - Tak?! - Tak.
+Basic;Napisy::prime-time;Napisy prime-time;Что вы видите?;To co widzisz?
+Basic;Napisy::prime-time;Napisy prime-time;Что вы видите!;Co widzisz?!
+Basic;Napisy::prime-time;Napisy prime-time;Множество людей.;Dużo ludzi.
+Basic;Napisy::prime-time;Napisy prime-time;Они нацелились на меня.;Celują we mnie.
+Basic;Napisy::prime-time;Napisy prime-time;Трубочисты, убирайтесь оттуда, слышите! - Убирайтесь все. - Убирайтесь к чертовой матери!;Kominiary, wypierdalać stamtąd, słyszycie?! - Wycofaj wszystkich. - Wypierdalać!
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, я тебя не вижу.;Sebastianie, nie widzę cię.
+Basic;Napisy::prime-time;Napisy prime-time;Мы будем рады, если вы придете.;Bardzo cię proszę, pokaż się.
+Basic;Napisy::prime-time;Napisy prime-time;Убирайтесь оттуда!;Wyjdźcie stamtąd!
+Basic;Napisy::prime-time;Napisy prime-time;Все должны уйти!;Wszyscy mają wyjść!
+Basic;Napisy::prime-time;Napisy prime-time;Они постоянно стоят.;Oni cały czas stoją.
+Basic;Napisy::prime-time;Napisy prime-time;Я не знаю, сколько их там.;Nie wiem, ilu ich jest.
+Basic;Napisy::prime-time;Napisy prime-time;Из десяти - одиннадцать. - Сколько? - Десять-одиннадцать с винтовками.;Z dziesięciu, jedenastu. - Ilu? - Dziesięć, jedenaście z karabinami.
+Basic;Napisy::prime-time;Napisy prime-time;Пусть приедет полиция, чтобы никто не пострадал.;Niech policja wyjdzie, żeby nikomu nic się nie stało.
+Basic;Napisy::prime-time;Napisy prime-time;Ладно, мы отступаем.;Dobra, wycofujemy się.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, мы исполняем ваше желание.;Sebastianie, spełniamy twoje życzenie.
+Basic;Napisy::prime-time;Napisy prime-time;Полиция уже выехала.;Policja już wychodzi.
+Basic;Napisy::prime-time;Napisy prime-time;Тот, что посередине, вставай!;Ta na środku, wstawaj!
+Basic;Napisy::prime-time;Napisy prime-time;подумал я.;Tak myślałem.
+Basic;Napisy::prime-time;Napisy prime-time;Пошел вон!;Wypierdalaj!
+Basic;Napisy::prime-time;Napisy prime-time;Мы выходим в прямой эфир, и все быстро закончится.;Wchodzimy na żywo i się szybko to skończy.
+Basic;Napisy::prime-time;Napisy prime-time;Кар, Гжешек.;Samochód, Grzesiek.
+Basic;Napisy::prime-time;Napisy prime-time;Перемести свою машину сюда.;Przestaw tutaj samochód.
+Basic;Napisy::prime-time;Napisy prime-time;Мира, убери камеры.;Mira, przesuń te kamery.
+Basic;Napisy::prime-time;Napisy prime-time;Я не вижу его.;Nie widzę go.
+Basic;Napisy::prime-time;Napisy prime-time;Где он?;Gdzie on jest?
+Basic;Napisy::prime-time;Napisy prime-time;Иди сюда, к машине. - Давай, вытаскивай. - Тишина.;Chodź tu do samochodu. - Dawaj, no wyciągnij. - Cisza.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, я понимаю, что вид полицейских вызвал у вас сильные эмоции.;Sebastianie, rozumiem, że widok policji wywołał w tobie silne emocje.
+Basic;Napisy::prime-time;Napisy prime-time;Мне очень жаль, что вы были расстроены.;Bardzo cię przepraszam, że się zdenerwowałeś.
+Basic;Napisy::prime-time;Napisy prime-time;Дайте нам немного времени, чтобы разобраться с вашим запросом.;Daj nam chwilę, żebyśmy mogli załatwić twoją prośbę.
+Basic;Napisy::prime-time;Napisy prime-time;У вас десять минут!;Masz dziesięć minut!
+Basic;Napisy::prime-time;Napisy prime-time;Большое спасибо.;Bardzo dziękuję.
+Basic;Napisy::prime-time;Napisy prime-time;Одолжите часы.;Pożycz zegarek.
+Basic;Napisy::prime-time;Napisy prime-time;Не бойся, я верну его.;Nie bój się, oddam.
+Basic;Napisy::prime-time;Napisy prime-time;Нам также нужно быть готовыми к тому, что мы можем пустить его в ход.;Musimy się też szykować na opcję wpuszczenia go na żywo.
+Basic;Napisy::prime-time;Napisy prime-time;Он будет прерван или выключен.;To się przerwie albo wyłączy.
+Basic;Napisy::prime-time;Napisy prime-time;Нет, это невозможно!;Nie, to niemożliwe!
+Basic;Napisy::prime-time;Napisy prime-time;Нет и больше не будет!;Nie i koniec!
+Basic;Napisy::prime-time;Napisy prime-time;Такие вещи не делают на телевидении.;Nie robi się takich rzeczy w telewizji.
+Basic;Napisy::prime-time;Napisy prime-time;И даже если бы это было так, такое решение не будет принято вами или мной.;A nawet gdyby, takiej decyzji nie podejmie ani pan, ani ja.
+Basic;Napisy::prime-time;Napisy prime-time;Они допрашивают всех, кого называл Давид.;Przesłuchują tego całego Dawida, co do niego dzwonił.
+Basic;Napisy::prime-time;Napisy prime-time;Пока известно, что у него нет судимостей, он учился в Политехническом институте, но бросил его.;Na razie wiemy, że gnojek jest niekarany, studiował na Politechnice, ale przerwał.
+Basic;Napisy::prime-time;Napisy prime-time;Она живет с матерью.;Mieszka z matką.
+Basic;Napisy::prime-time;Napisy prime-time;Это все?;To wszystko?
+Basic;Napisy::prime-time;Napisy prime-time;Пока что они получили от него очень много, но все еще сидят на нем.;Na razie tyle z niego wyciągnęli, ale siedzą jeszcze nad nim.
+Basic;Napisy::prime-time;Napisy prime-time;Он уже почти похож на оператора.;Już prawie wygląda jak operator.
+Basic;Napisy::prime-time;Napisy prime-time;Я настоятельно не рекомендую это делать.;Stanowczo tego nie rekomenduję.
+Basic;Napisy::prime-time;Napisy prime-time;У нас будет еще один заложник.;Będziemy mieć kolejnego zakładnika.
+Basic;Napisy::prime-time;Napisy prime-time;Мы занимаемся своими делами.;Robimy swoje.
+Basic;Napisy::prime-time;Napisy prime-time;Обязательно покажите ему эту камеру.;Niech pani przypilnuje, żeby mu pokazać z tą kamerą.
+Basic;Napisy::prime-time;Napisy prime-time;Так что давайте, тащите его сюда.;No to dawajcie, wieźcie go tutaj.
+Basic;Napisy::prime-time;Napisy prime-time;Только быстро, по бомбе.;Tylko szybko, na bombach.
+Basic;Napisy::prime-time;Napisy prime-time;Тридцать секунд.;Trzydzieści sekund.
+Basic;Napisy::prime-time;Napisy prime-time;Конец времени.;Koniec czasu.
+Basic;Napisy::prime-time;Napisy prime-time;Так где же он?;No to gdzie on jest?
+Basic;Napisy::prime-time;Napisy prime-time;Он уже на пути к нам... Он уже на пути к нам.;Już do nas… Już do nas jedzie.
+Basic;Napisy::prime-time;Napisy prime-time;Мы выполняем ваш запрос.;Spełniamy twoją prośbę.
+Basic;Napisy::prime-time;Napisy prime-time;Не могли бы вы освободить одного заложника?;Czy mógłbyś uwolnić jednego zakładnika?
+Basic;Napisy::prime-time;Napisy prime-time;Нет, вы еще ничего не выполнили!;Nie, jeszcze nic nie spełniliście!
+Basic;Napisy::prime-time;Napisy prime-time;Вы еще ничего не выполнили!;Jeszcze nic nie spełniliście!
+Basic;Napisy::prime-time;Napisy prime-time;Где, блядь, мы на телевидении?;Gdzie my, kurwa, jesteśmy, w telewizji?
+Basic;Napisy::prime-time;Napisy prime-time;На месте никого нет?;Nie ma nikogo na miejscu?
+Basic;Napisy::prime-time;Napisy prime-time;Как долго вы можете ждать!;Ile można czekać?!
+Basic;Napisy::prime-time;Napisy prime-time;Все не так просто.;To nie jest takie proste.
+Basic;Napisy::prime-time;Napisy prime-time;Сегодня канун Нового года.;Dzisiaj jest sylwester.
+Basic;Napisy::prime-time;Napisy prime-time;Все заняты на концерте.;Wszyscy są zajęci przy koncercie.
+Basic;Napisy::prime-time;Napisy prime-time;Черт, мне надоели ваши гребаные новогодние праздники!;Kurwa, mam dosyć tego waszego pierdolonego sylwestra!
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, у тебя есть пистолет.;Sebastian, masz broń.
+Basic;Napisy::prime-time;Napisy prime-time;Вы должны понять, что люди боятся идти в студию.;Musisz zrozumieć, ludzie boją się wejść do studia.
+Basic;Napisy::prime-time;Napisy prime-time;Перед камерами.;Przed kamery.
+Basic;Napisy::prime-time;Napisy prime-time;Извините, но я не могу больше слушать об этом операторе.;Przepraszam, ale ja nie mogę już słuchać dłużej o tym operatorze.
+Basic;Napisy::prime-time;Napisy prime-time;Никому не нужно сюда заходить.;Nikt tu nie musi wchodzić.
+Basic;Napisy::prime-time;Napisy prime-time;Я могу сам все настроить.;Ja mogę to wszystko sama poustawiać.
+Basic;Napisy::prime-time;Napisy prime-time;Сможет ли она справиться с этим?;Czy ona może to obsłużyć?
+Basic;Napisy::prime-time;Napisy prime-time;Это правда? - Я не знаю компетентности мисс Миры. - И я не знаю компетентности этого джентльмена.;To jest prawda? - Nie znam kompetencji pani Miry. - A ja nie znam kompetencji tego pana.
+Basic;Napisy::prime-time;Napisy prime-time;Я не знаю, кто это.;Nie wiem, kto to jest.
+Basic;Napisy::prime-time;Napisy prime-time;Я здесь... Я работаю здесь уже 15 лет. ...все объяснить.;Ja tu… Ja tu pracuję 15 lat. …wszystko wytłumaczyć.
+Basic;Napisy::prime-time;Napisy prime-time;Они просто должны пустить его в эфир.;Oni tylko muszą to puścić dalej na emisję.
+Basic;Napisy::prime-time;Napisy prime-time;Гржезиу, возьмите стул и посидите на фоне пейзажа.;Grzesiu, weź krzesło i usiądź w scenografii.
+Basic;Napisy::prime-time;Napisy prime-time;Миссис Миро, вам что-нибудь нужно?;Pani Miro, potrzebuje pani czegoś?
+Basic;Napisy::prime-time;Napisy prime-time;У нас есть четыре камеры.;Mamy cztery kamery.
+Basic;Napisy::prime-time;Napisy prime-time;Общий, неважно.;Jedynka ogólny, nieważne.
+Basic;Napisy::prime-time;Napisy prime-time;Двое рядом.;Dwójka bliski.
+Basic;Napisy::prime-time;Napisy prime-time;Три, ты же видишь, что ты... - Останови ее как-нибудь, нет. - Как?;Trójka, widać cię… - Powstrzymaj ją jakoś, no. - Jak?
+Basic;Napisy::prime-time;Napisy prime-time;Здесь находится зум, а на рукоятке - фокус.;Tu jest zoom, tam na manetce masz ostrość.
+Basic;Napisy::prime-time;Napisy prime-time;Только вы не можете сидеть, как он, потому что это выглядит плохо, несерьезно.;Tylko nie możesz siedzieć tak jak on, bo to niedobrze wygląda, niepoważnie.
+Basic;Napisy::prime-time;Napisy prime-time;Выпрямитесь.;Wyprostuj się.
+Basic;Napisy::prime-time;Napisy prime-time;Сядьте правильно.;Usiądź porządnie.
+Basic;Napisy::prime-time;Napisy prime-time;Когда они включают свет и камеры, вы можете быть немного ошеломлены, потому что это большое давление.;Jak włączą światła i kamery, to może cię trochę przytkać, bo to duża presja.
+Basic;Napisy::prime-time;Napisy prime-time;Вы должны быть готовы к этому.;Musisz się na to przygotować.
+Basic;Napisy::prime-time;Napisy prime-time;Хорошо, тогда свяжите меня с этим вопросом.;Dobra, to połączcie mnie z tą emisją.
+Basic;Napisy::prime-time;Napisy prime-time;В конце концов, мы уже были бы там, он уже был бы у нас, нет.;Przecież byśmy już tam byli, byśmy go już mieli, no.
+Basic;Napisy::prime-time;Napisy prime-time;"Все время только ""не рекомендую и не рекомендую"".";Cały czas tylko „nie rekomenduję i nie rekomenduję”.
+Basic;Napisy::prime-time;Napisy prime-time;Тогда ответьте ему.;To odpowiedz mu.
+Basic;Napisy::prime-time;Napisy prime-time;Все не так просто.;To nie jest takie proste.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, опустите оружие, пожалуйста.;Sebastian, opuść broń, bardzo cię proszę.
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, хотя бы сохраните ее.;Proszę cię, chociaż ją zabezpiecz.
+Basic;Napisy::prime-time;Napisy prime-time;Здесь нет никого, только председатель может принять такое решение.;Nie ma tu nikogo, tylko prezes może podjąć taką decyzję.
+Basic;Napisy::prime-time;Napisy prime-time;Затем передайте председателю.;To daj prezesa.
+Basic;Napisy::prime-time;Napisy prime-time;Мы делаем все возможное, чтобы он как можно скорее оказался у нас. - Пожалуйста, опустите оружие. - Как долго это будет продолжаться?;Robimy wszystko, żeby był u nas jak najszybciej. - Proszę cię, opuść broń. - Za ile będzie?
+Basic;Napisy::prime-time;Napisy prime-time;Это может занять некоторое время.;To może trochę potrwać.
+Basic;Napisy::prime-time;Napisy prime-time;Он под Варшавой, уже на пути к нам.;Jest poza Warszawą, już do nas jedzie.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, из этой ситуации есть выход.;Sebastian, jest wyjście z tej sytuacji.
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, опустите оружие.;Proszę cię, opuść broń.
+Basic;Napisy::prime-time;Napisy prime-time;Все можно сделать по-другому, еще не поздно.;Wszystko można zrobić inaczej, jeszcze nie jest za późno.
+Basic;Napisy::prime-time;Napisy prime-time;Может, мне просто прилечь, да?;Mam się po prostu położyć, tak?
+Basic;Napisy::prime-time;Napisy prime-time;Опустите оружие, да.;Opuść broń, tak.
+Basic;Napisy::prime-time;Napisy prime-time;Хорошо, но это четвертый параграф, верно?;No dobra, ale to jest paragraf czwarty, tak?
+Basic;Napisy::prime-time;Napisy prime-time;А как насчет остальных трех?;A co z pozostałymi trzema?
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, опустите оружие.;Proszę cię, opuść broń.
+Basic;Napisy::prime-time;Napisy prime-time;Отдавайте первыми.;Dajesz pierwszy.
+Basic;Napisy::prime-time;Napisy prime-time;"""Если в сочетании с особыми мучениями заложника, то от трех до 25 лет"".";„Jeśli połączone ze szczególnym udręczeniem zakładnika, od trzech do 25 lat”.
+Basic;Napisy::prime-time;Napisy prime-time;Но помните о четвертом.;Ale pamiętaj o czwartym.
+Basic;Napisy::prime-time;Napisy prime-time;"""Если кто-то отказывается от намерения вымогательства и отпускает заложника, он не подлежит наказанию"".";„Jeśli ktoś odstąpi od zamiaru wymuszenia i wypuści zakładnika, nie podlega karze”.
+Basic;Napisy::prime-time;Napisy prime-time;Я предлагаю вам решение.;Daję ci rozwiązanie.
+Basic;Napisy::prime-time;Napisy prime-time;Еще не поздно, Себастьян.;Jeszcze nie jest za późno, Sebastian.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян.;Sebastian.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, всегда пожалуйста, давайте вернемся к разговору.;Sebastian, bardzo cię proszę, wróćmy do rozmowy.
+Basic;Napisy::prime-time;Napisy prime-time;Нам удалось так много сделать вместе.;Udało nam się tyle wypracować razem.
+Basic;Napisy::prime-time;Napisy prime-time;"""Тот, кто отказался от намерения вымогать, не подлежит наказанию"".";„Kto odstąpi od zamiaru wymuszenia, nie podlega karze”.
+Basic;Napisy::prime-time;Napisy prime-time;Но вы должны освободить заложника.;Ale musisz uwolnić zakładnika.
+Basic;Napisy::prime-time;Napisy prime-time;Ну, выбирай, кого хочешь.;No to wybieraj, kogo chcesz.
+Basic;Napisy::prime-time;Napisy prime-time;У меня есть ребенок.;Ja mam dziecko.
+Basic;Napisy::prime-time;Napisy prime-time;А откуда вы знаете, что у него его нет?;A skąd wiesz, że on nie ma?
+Basic;Napisy::prime-time;Napisy prime-time;Надеюсь, сегодня мы все благополучно вернемся домой.;Mam nadzieję, że dzisiaj wszyscy wrócimy bezpiecznie do domu.
+Basic;Napisy::prime-time;Napisy prime-time;Ну, конечно же, я.;No na pewno ja.
+Basic;Napisy::prime-time;Napisy prime-time;Выпустите Миру. - Пожалуйста, выпустите Миру. - Сидеть.;Wypuść Mirę. - Proszę cię, wypuść panią Mirę. - Siedź.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, ты обещал освободить одного человека.;Sebastian, obiecałeś, że uwolnisz jedną osobę.
+Basic;Napisy::prime-time;Napisy prime-time;Нет, я ничего не обещал.;Nie, ja nic nie obiecywałem.
+Basic;Napisy::prime-time;Napisy prime-time;Я просто попросил вас выбрать.;Poprosiłem cię tylko, żebyś wybrał.
+Basic;Napisy::prime-time;Napisy prime-time;Я не с вами разговариваю.;Nie rozmawiam z tobą.
+Basic;Napisy::prime-time;Napisy prime-time;Молчание до прибытия генерального директора.;Cisza do przyjazdu prezesa.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, мне очень жаль, что... Молчать до приезда генерального директора!;Sebastian, bardzo cię przepraszam, że… Cisza do przyjazdu prezesa!
+Basic;Napisy::prime-time;Napisy prime-time;И что теперь? - Что - мы ждем. - Сколько? - Пока он не остынет.;I co teraz? - Co? - Czekamy. - Ile? - Aż ochłonie.
+Basic;Napisy::prime-time;Napisy prime-time;В конце концов, у меня нет волшебного слова-ключа.;Przecież ja nie mam jakiegoś magicznego klucza słowa.
+Basic;Napisy::prime-time;Napisy prime-time;Сколько я прошу.;Ile się pytam.
+Basic;Napisy::prime-time;Napisy prime-time;Возможно, мы встретим Новый год здесь.;Być może przywitamy tu Nowy Rok.
+Basic;Napisy::prime-time;Napisy prime-time;Вы, наверное, шутите. - Мы заселяемся.;Chyba żartujesz. - Osadzamy się.
+Basic;Napisy::prime-time;Napisy prime-time;Мальчик умный. - Что вы здесь делаете?;Chłopak jest bystry. - Co wy tu robicie?
+Basic;Napisy::prime-time;Napisy prime-time;Убирайтесь отсюда.;Wypieprzać stąd.
+Basic;Napisy::prime-time;Napisy prime-time;Я просто вижу это.;Widzę właśnie.
+Basic;Napisy::prime-time;Napisy prime-time;Он делает с тобой все, что хочет.;Robi z wami co chce.
+Basic;Napisy::prime-time;Napisy prime-time;И он по-прежнему благодарит его за каждое слово.;A ten mu jeszcze dziękuje co słowo.
+Basic;Napisy::prime-time;Napisy prime-time;Вот эти процедуры.;Takie są procedury.
+Basic;Napisy::prime-time;Napisy prime-time;Преступник должен думать, что он на вершине.;Sprawca musi myśleć, że jego jest na wierzchu.
+Basic;Napisy::prime-time;Napisy prime-time;Но он обучил меня.;Ale mnie szkolił.
+Basic;Napisy::prime-time;Napisy prime-time;Он действительно знает, что делает.;On naprawdę wie, co robi.
+Basic;Napisy::prime-time;Napisy prime-time;А это не тот ли цилиндр из Воли?;A to nie jest ten od butli na Woli?
+Basic;Napisy::prime-time;Napisy prime-time;Такой вечер и единственная ночь, которую вам еще предстоит пережить.;Taki wieczór i jedyna taka noc, jaka wam się jeszcze nie trafiła.
+Basic;Napisy::prime-time;Napisy prime-time;Выражаясь шахтерским языком, пусть он обратится к этим шахтерам.;Po górniczemu niech mówi do tych górników.
+Basic;Napisy::prime-time;Napisy prime-time;Через мгновение вы уже опередите нас, чтобы начать нашу новогоднюю вечеринку.;Już za chwilę, już przed wami na początek naszej sylwestrowej zabawy.
+Basic;Napisy::prime-time;Napisy prime-time;Группа Boney M!;Grupa Boney M!
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, присаживайтесь.;Proszę, niech pan sobie siądzie.
+Basic;Napisy::prime-time;Napisy prime-time;На этих мониторах вы можете видеть, что происходит в студии.;Na tych monitorach widać, co się dzieje w studio.
+Basic;Napisy::prime-time;Napisy prime-time;Как мы и договаривались.;Tak jak ustaliliśmy.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян.;Sebastian.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, ты меня слышишь?;Sebastian, słyszysz mnie?
+Basic;Napisy::prime-time;Napisy prime-time;Здесь есть человек, который хотел бы поговорить с вами.;Jest tu ktoś, kto chciałby z tobą porozmawiać.
+Basic;Napisy::prime-time;Napisy prime-time;Я с вами не разговариваю!;Nie rozmawiam z tobą!
+Basic;Napisy::prime-time;Napisy prime-time;Это кто-то не из телевидения.;To jest ktoś spoza telewizji.
+Basic;Napisy::prime-time;Napisy prime-time;Он не имеет к этому никакого отношения, слышите?;On nie miał z tym nic wspólnego, słyszycie?
+Basic;Napisy::prime-time;Napisy prime-time;Ничего общего, он ничего не знал.;Nic wspólnego, nic nie wiedział.
+Basic;Napisy::prime-time;Napisy prime-time;Дэвид, не говори им ничего, слышишь!;Dawid, nic im nie mów, słyszysz?!
+Basic;Napisy::prime-time;Napisy prime-time;Ты слышишь, Дэвид?;Słyszysz, Dawid?
+Basic;Napisy::prime-time;Napisy prime-time;У них нет ничего против вас, им нечего бояться!;Nic na ciebie nie mają, nic się nie bój!
+Basic;Napisy::prime-time;Napisy prime-time;Все будет хорошо!;Nic ci nie będzie!
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, это я.;Sebastian, to ja.
+Basic;Napisy::prime-time;Napisy prime-time;Вы меня слышите?;Słyszysz mnie?
+Basic;Napisy::prime-time;Napisy prime-time;Нет-нет, покажись, а то я не поверю.;Nie no, pokaż się, bo nie uwierzę.
+Basic;Napisy::prime-time;Napisy prime-time;Ну, покажись.;No pokaż się.
+Basic;Napisy::prime-time;Napisy prime-time;Что ж, прекрасно.;No pięknie.
+Basic;Napisy::prime-time;Napisy prime-time;По лицу видно, что он прибавил в весе.;Po buzi widzę, że się przytyło.
+Basic;Napisy::prime-time;Napisy prime-time;Что, он успешен?;Co, powodzi się?
+Basic;Napisy::prime-time;Napisy prime-time;Иди домой, слышишь?;Jedź do domu, słyszysz?
+Basic;Napisy::prime-time;Napisy prime-time;Иди домой.;Jedź do domu.
+Basic;Napisy::prime-time;Napisy prime-time;Вам это не нужно.;Nie jest ci to potrzebne.
+Basic;Napisy::prime-time;Napisy prime-time;Я просто хочу помочь тебе.;Chcę ci tylko pomóc.
+Basic;Napisy::prime-time;Napisy prime-time;Чья это была идея?;Czyj to był pomysł tam?
+Basic;Napisy::prime-time;Napisy prime-time;Бог-отец говорил из громкоговорителя, да?;Bóg ojciec przemówił z głośnika, co?
+Basic;Napisy::prime-time;Napisy prime-time;К сожалению, я ошибся адресом.;Zły adres niestety.
+Basic;Napisy::prime-time;Napisy prime-time;Папа, иди домой, пожалуйста.;Tato, jedź do domu, proszę cię.
+Basic;Napisy::prime-time;Napisy prime-time;Это не для тебя... Иди к себе. - Оставь меня здесь. - Тебе не нужно, правда.;Nie jest ci to… Jedź do siebie. - Zostaw mnie tutaj. - Nie musisz tak, naprawdę.
+Basic;Napisy::prime-time;Napisy prime-time;Мы уже все знаем.;Już, już wszystko wiemy.
+Basic;Napisy::prime-time;Napisy prime-time;Вы уже сказали мне.;Już mi powiedziałeś.
+Basic;Napisy::prime-time;Napisy prime-time;Что я сказал?;Co ja powiedziałem?
+Basic;Napisy::prime-time;Napisy prime-time;Что я тебе сказал, а?;Co ja tobie powiedziałem, co?
+Basic;Napisy::prime-time;Napisy prime-time;Где мама?;Gdzie jest mama?
+Basic;Napisy::prime-time;Napisy prime-time;Она не хотела.;Nie chciała.
+Basic;Napisy::prime-time;Napisy prime-time;Когда они приехали за мной, я подумал, что с тобой что-то случилось.;Jak przyjechali po mnie, to pomyślałem, że coś ci się stało.
+Basic;Napisy::prime-time;Napisy prime-time;Что вы почувствовали? - Что я должен теперь сказать? - Скажи, что ты чувствуешь.;No i co poczułeś? - Co ja mam teraz powiedzieć? - Mów, co czujesz.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, мы можем прекратить этот разговор в любой момент.;Sebastian, możemy w każdej chwili zakończyć tę rozmowę.
+Basic;Napisy::prime-time;Napisy prime-time;Давай.;Dajcie go.
+Basic;Napisy::prime-time;Napisy prime-time;Мы побеседуем.;Pogadamy sobie.
+Basic;Napisy::prime-time;Napisy prime-time;Но давайте поговорим нормально.;Ale pogadajmy normalnie.
+Basic;Napisy::prime-time;Napisy prime-time;Нормально.;Normalnie.
+Basic;Napisy::prime-time;Napisy prime-time;Нормально?;Normalnie?
+Basic;Napisy::prime-time;Napisy prime-time;Как обычно?;Jak normalnie?
+Basic;Napisy::prime-time;Napisy prime-time;Как это сделать, мы расскажем вам здесь.;Jakby ci tu powiedzieć.
+Basic;Napisy::prime-time;Napisy prime-time;У меня сейчас нет времени.;Nie mam czasu teraz.
+Basic;Napisy::prime-time;Napisy prime-time;Слушайте.;Posłuchaj.
+Basic;Napisy::prime-time;Napisy prime-time;В конце концов, здесь все записывают. - Зачем тебе это? - Не знаю, как сувенир?;Przecież oni tu wszystko nagrywają. - Po co ci to? - Nie wiem, na pamiątkę?
+Basic;Napisy::prime-time;Napisy prime-time;На какой сувенир?;Na jaką pamiątkę?
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, уходите оттуда.;Proszę cię, wyjdź stamtąd.
+Basic;Napisy::prime-time;Napisy prime-time;Все здесь, видите ли, пришли за мной.;Wszyscy tutaj, widzisz, dla mnie przyjechali.
+Basic;Napisy::prime-time;Napisy prime-time;К нам едет председатель.;Prezes jedzie do nas.
+Basic;Napisy::prime-time;Napisy prime-time;Я буду вести программу в прямом эфире.;Będę miał program w telewizji na żywo.
+Basic;Napisy::prime-time;Napisy prime-time;Вы что, не гордитесь тем, что ваш сын попал на телевидение?;Co, nie jesteś dumny z synka, że będzie w telewizji?
+Basic;Napisy::prime-time;Napisy prime-time;Не хотите ли вы сесть перед телевизором вместе с семьей? - Прекратите немедленно.;Nie usiądziesz z rodziną sobie przed telewizorkiem? - Już przestań.
+Basic;Napisy::prime-time;Napisy prime-time;Больше не выпендривайтесь. - Вы будете смотреть.;Już się nie popisuj. - Pooglądacie.
+Basic;Napisy::prime-time;Napisy prime-time;Не надо шутить.;Nie błaznuj.
+Basic;Napisy::prime-time;Napisy prime-time;Вы уже писали.;Już się napopisywałeś.
+Basic;Napisy::prime-time;Napisy prime-time;Извините.;Przepraszam.
+Basic;Napisy::prime-time;Napisy prime-time;Черт, оставь его!;Kurwa, zostaw to!
+Basic;Napisy::prime-time;Napisy prime-time;Все назад, я сказал!;Wszyscy do tyłu, powiedziałem!
+Basic;Napisy::prime-time;Napisy prime-time;Вольно, да?;Na spokojnie, tak?
+Basic;Napisy::prime-time;Napisy prime-time;Очень хорошо. - Можно мне? - Да.;Bardzo dobrze. - Mogę? - Tak.
+Basic;Napisy::prime-time;Napisy prime-time;Сынок, я здесь.;Synku, jestem tutaj.
+Basic;Napisy::prime-time;Napisy prime-time;Откуда они вас забрали?;Skąd cię zgarnęli?
+Basic;Napisy::prime-time;Napisy prime-time;В канун Нового года мы были у соседей.;U sąsiadów byliśmy, w sylwestra.
+Basic;Napisy::prime-time;Napisy prime-time;Послушайте меня.;Posłuchaj mnie.
+Basic;Napisy::prime-time;Napisy prime-time;Выпустите тех, кто стоит за вами.;Wypuść tych ludzi, co są za tobą.
+Basic;Napisy::prime-time;Napisy prime-time;В конце концов, я разговаривал с джентльменами-полицейскими.;Przecież ja tu rozmawiałem z panami policjantami.
+Basic;Napisy::prime-time;Napisy prime-time;Вы поедете в какую-нибудь больницу и... В больницу вы хотите меня запереть?;Pójdziesz do jakiegoś szpitala i… Do szpitala chcesz mnie zamknąć?
+Basic;Napisy::prime-time;Napisy prime-time;Ты, и скажи мне, как поживает твоя Дороти?;Ty, a powiedz, jak tam twoja Dorotka?
+Basic;Napisy::prime-time;Napisy prime-time;Что, разозлился, наверное?;Co, wkurwiona pewnie?
+Basic;Napisy::prime-time;Napisy prime-time;Но что вы имеете в виду?;Ale o co ci chodzi?
+Basic;Napisy::prime-time;Napisy prime-time;Ты имеешь в виду... ты имеешь в виду меня, да?;Chodzi ci… O mnie ci chodzi, tak?
+Basic;Napisy::prime-time;Napisy prime-time;Нет-нет, представьте, что на этот раз речь пойдет не о вас.;Nie no, wyobraź sobie, że tym razem nie będzie o tobie.
+Basic;Napisy::prime-time;Napisy prime-time;Так к чему вы клоните?;No to o co ci chodzi?
+Basic;Napisy::prime-time;Napisy prime-time;А ты знаешь, что чувствует твоя мать? - Оставь свою мать в покое. - Они пришли к ней первыми.;A wiesz, jak się czuje twoja matka? - Mamę zostaw w spokoju. - Do niej pierwszej przyjechali.
+Basic;Napisy::prime-time;Napisy prime-time;Твоя мать сказала, что не хочет видеть своего единственного сына... Ну, заканчивай, заканчивай.;Twoja matka powiedziała, że nie chce patrzeć na to, jak jej jedyny syn… No, dokończ, no.
+Basic;Napisy::prime-time;Napisy prime-time;Нужно ли мне это говорить?;Czy ja mam to powiedzieć?
+Basic;Napisy::prime-time;Napisy prime-time;И тебе действительно не стыдно? - Ну, мне нечего стыдиться. - Да?;A ty naprawdę nie masz wstydu? - No ja się nie mam czego wstydzić. - Tak?
+Basic;Napisy::prime-time;Napisy prime-time;А раньше он тоже так заикался?;A wcześniej też wam się tak tutaj zacinał?
+Basic;Napisy::prime-time;Napisy prime-time;А на живом видео вы тоже будете так заикаться?;A na wizji na żywo też się będziesz tak zacinał?
+Basic;Napisy::prime-time;Napisy prime-time;В конце концов, его нужно остановить.;Przecież trzeba to przerwać.
+Basic;Napisy::prime-time;Napisy prime-time;Вы уже думали об этом?;Pomyślałeś o tym?
+Basic;Napisy::prime-time;Napisy prime-time;Что же произойдет, если вы будете так заикаться в этом видении?;No co będzie, jak będziesz tak się jąkał na tej wizji?
+Basic;Napisy::prime-time;Napisy prime-time;Не убегайте сейчас!;No nie uciekaj teraz!
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян!;Sebastian!
+Basic;Napisy::prime-time;Napisy prime-time;Вы уже забыли!;Zapomniałeś już?!
+Basic;Napisy::prime-time;Napisy prime-time;Как мы попали в клинику в Варшаве?;Jak tu przyjeżdżaliśmy do kliniki do Warszawy?
+Basic;Napisy::prime-time;Napisy prime-time;Он ничего не говорил в течение шести месяцев.;Przez pół roku nic nie mówił.
+Basic;Napisy::prime-time;Napisy prime-time;А потом началось обучение, что-то сдвинулось с места и началось слогоделение.;A potem zaczęły się treningi, coś się ruszyło i zaczęło się sylabizowanie.
+Basic;Napisy::prime-time;Napisy prime-time;Значит, вы уже забыли?;To zapomniałeś już?
+Basic;Napisy::prime-time;Napisy prime-time;Что ты ел на ужин, сынок?;Co jadłeś, synku, na obiad?
+Basic;Napisy::prime-time;Napisy prime-time;Земля!;Mielonego!
+Basic;Napisy::prime-time;Napisy prime-time;И его нельзя было прервать.;I nie można było przerywać.
+Basic;Napisy::prime-time;Napisy prime-time;Мы должны были спокойно дослушать до конца.;Trzeba było spokojnie wysłuchać do końca.
+Basic;Napisy::prime-time;Napisy prime-time;А что еще вы ели?;I co jeszcze jadłeś?
+Basic;Napisy::prime-time;Napisy prime-time;Ну же, скажите это!;No, powiedz!
+Basic;Napisy::prime-time;Napisy prime-time;Что еще ты ел, сынок!;Co jeszcze jadłeś, synku?!
+Basic;Napisy::prime-time;Napisy prime-time;И компот!;I kompocik!
+Basic;Napisy::prime-time;Napisy prime-time;Сядьте, сядьте.;Siadaj, siadaj.
+Basic;Napisy::prime-time;Napisy prime-time;Он долго размышлял над этим.;Długo to w sobie dusił.
+Basic;Napisy::prime-time;Napisy prime-time;А вы помните это?;A to pamiętasz?
+Basic;Napisy::prime-time;Napisy prime-time;Жучки.;Robaczywki.
+Basic;Napisy::prime-time;Napisy prime-time;Черт, дай мне хоть раз закончить!;Kurwa, daj mi skończyć raz!
+Basic;Napisy::prime-time;Napisy prime-time;Вы помните?;Pamiętasz?
+Basic;Napisy::prime-time;Napisy prime-time;Помните.;Pamiętasz.
+Basic;Napisy::prime-time;Napisy prime-time;Тебе понравится в тюрьме, вот увидишь.;W więzieniu ci się spodoba, zobaczysz.
+Basic;Napisy::prime-time;Napisy prime-time;В тюрьме.;W więzieniu.
+Basic;Napisy::prime-time;Napisy prime-time;Они выбьют из тебя все дерьмо в тюрьме за твой больной образ жизни!;W więzieniu ci wybiją ten twój chory styl życia!
+Basic;Napisy::prime-time;Napisy prime-time;Как они будут трахать вас в задницу!;Jak cię tam będą ruchać w dupę!
+Basic;Napisy::prime-time;Napisy prime-time;В тюрьме из тебя все выбьют, вот увидишь! - Как такое можно было допустить? - Что?;Wszystko ci wybiją w więzieniu, zobaczysz! - Jak można było do tego dopuścić? - Do czego?
+Basic;Napisy::prime-time;Napisy prime-time;Измените тон.;Zmień ton.
+Basic;Napisy::prime-time;Napisy prime-time;Не говори со мной так.;Nie mów do mnie w ten sposób.
+Basic;Napisy::prime-time;Napisy prime-time;Вы понимаете это?;Rozumiesz to?
+Basic;Napisy::prime-time;Napisy prime-time;Приехал папа, и он начал разваливаться на части.;Przyjechał tatuś i się gnojek zaczął sypać.
+Basic;Napisy::prime-time;Napisy prime-time;Теперь нас не будут возить слева направо.;Nie będzie nas teraz gnój woził od lewa do prawa.
+Basic;Napisy::prime-time;Napisy prime-time;Вам нужно начать прислушиваться к рекомендациям. - Это ваше первое осознание. - Это мое осознание!;Musisz zacząć słuchać rekomendacji. - To twoja pierwsza realizacja. - To moja realizacja!
+Basic;Napisy::prime-time;Napisy prime-time;В конце концов, вы же сами хотели сюда приехать, не так ли?;Przecież pan sam chciał tu przyjechać, prawda?
+Basic;Napisy::prime-time;Napisy prime-time;Возьмите свои эмоции под контроль.;Zacznij panować nad emocjami.
+Basic;Napisy::prime-time;Napisy prime-time;Помните, что мы оба отчитываемся. - Я больше не хочу с тобой разговаривать. - Я тоже не хочу с тобой разговаривать.;Pamiętaj, że obaj raportujemy. - Nie chcę już z tobą gadać. - Ja też nie chcę z tobą gadać.
+Basic;Napisy::prime-time;Napisy prime-time;Приехала полиция, начала расспрашивать.;Policja przyjechała, zaczęła pytać.
+Basic;Napisy::prime-time;Napisy prime-time;Я должен был увидеть это своими глазами.;Musiałem to zobaczyć na własne oczy.
+Basic;Napisy::prime-time;Napisy prime-time;Я думал, может быть... Меня не отпускал отец.;Myślałem, że może… Mnie ojciec krótko trzymał.
+Basic;Napisy::prime-time;Napisy prime-time;Он бросил колледж из-за лени.;Studia rzucił z lenistwa.
+Basic;Napisy::prime-time;Napisy prime-time;Как вы думаете, чем я горжусь, что все получилось именно так?;Co myśli pani, że jestem dumny z tego, że to tak wyszło?
+Basic;Napisy::prime-time;Napisy prime-time;Что... Что я ничего не понял с первого раза?;Że… Że się mnie za pierwszym razem nic nie udało?
+Basic;Napisy::prime-time;Napisy prime-time;Я всегда вовремя платил за обслуживание.;Alimenty zawsze płaciłem na czas.
+Basic;Napisy::prime-time;Napisy prime-time;Я никогда не опаздывал.;Nigdy się nie spóźniłem.
+Basic;Napisy::prime-time;Napisy prime-time;Что может знать двадцатилетний человек о... ...детях, о жизни?;Co dwudziestoparolatek może wiedzieć o… …dzieciach, o życiu?
+Basic;Napisy::prime-time;Napisy prime-time;Червивый чернослив.;Śliwki robaczywki.
+Basic;Napisy::prime-time;Napisy prime-time;Вот так я обрызгал его, когда он... разозлил меня.;No tak mu chlapnąłem, kiedy… mnie wkurwił.
+Basic;Napisy::prime-time;Napisy prime-time;Вы можете сами убедиться, что это провокатор.;Sama pani widzi, jaki to jest prowokator.
+Basic;Napisy::prime-time;Napisy prime-time;Теперь мне немного стыдно.;Wstydzę się trochę teraz.
+Basic;Napisy::prime-time;Napisy prime-time;О чем вы спрашивали?;Co pani pytała, czy co?
+Basic;Napisy::prime-time;Napisy prime-time;Я спросил, как вы думаете, способен ли ваш сын причинить кому-то боль.;Pytałam, czy pan myśli, że syn jest w stanie zrobić komuś naprawdę krzywdę.
+Basic;Napisy::prime-time;Napisy prime-time;Откуда я знаю?;A skąd ja mam wiedzieć?
+Basic;Napisy::prime-time;Napisy prime-time;В конце концов, я не знаю этого человека.;Przecież ja nie znam człowieka.
+Basic;Napisy::prime-time;Napisy prime-time;Нам нужны деньги!;Chcemy pieniędzy!
+Basic;Napisy::prime-time;Napisy prime-time;Хватит страданий!;Dość już nędzy!
+Basic;Napisy::prime-time;Napisy prime-time;Нам нужны деньги!;Chcemy pieniędzy!
+Basic;Napisy::prime-time;Napisy prime-time;Хватит страданий!;Dość już nędzy!
+Basic;Napisy::prime-time;Napisy prime-time;Мы просто чувствуем себя людьми последнего десятилетия.;Czujemy się po prostu jako ludzie ostatniej dekady.
+Basic;Napisy::prime-time;Napisy prime-time;Последнее тысячелетие.;Ostatniego tysiąclecia.
+Basic;Napisy::prime-time;Napisy prime-time;Мы вступили в новое столетие.;Wkroczyliśmy w nowy wiek.
+Basic;Napisy::prime-time;Napisy prime-time;"Мы чувствуем себя намного старше... ...потому что сказать: ""Мы дадим вам больше денег"" - это не искусство.";Czujemy się znacznie starzej… …bo nie sztuka powiedzieć: damy wam więcej pieniędzy.
+Basic;Napisy::prime-time;Napisy prime-time;Фокус в том, чтобы сказать: мы больше не будем давать денег.;Sztuka powiedzieć: nie damy więcej pieniędzy.
+Basic;Napisy::prime-time;Napisy prime-time;Перемены налицо, - сказал я.;Jest zmiana, powiedziałem.
+Basic;Napisy::prime-time;Napisy prime-time;Садитесь.;Siadasz ty teraz.
+Basic;Napisy::prime-time;Napisy prime-time;Юнг, сиди здесь.;Młoda, siadaj tam.
+Basic;Napisy::prime-time;Napisy prime-time;Убирайтесь с того второго кресла.;Wypieprzaj na to drugie krzesło.
+Basic;Napisy::prime-time;Napisy prime-time;"Нет никаких ""подождите минутку"", у нас нет времени.";Nie ma „chwileczkę”, nie mamy czasu.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян?;Sebastian?
+Basic;Napisy::prime-time;Napisy prime-time;Я хотел извиниться перед вами за ситуацию с вашим отцом.;Chciałam cię przeprosić za sytuację z twoim ojcem.
+Basic;Napisy::prime-time;Napisy prime-time;Я признаю, что это была ошибка.;Przyznaję, że to był błąd.
+Basic;Napisy::prime-time;Napisy prime-time;Он сам хотел прийти.;On sam chciał przyjechać.
+Basic;Napisy::prime-time;Napisy prime-time;Мы не знаем ни вас, ни его.;Nie znamy ani ciebie, ani jego.
+Basic;Napisy::prime-time;Napisy prime-time;Мы не должны были этого делать.;Nie powinniśmy byli tego zrobić.
+Basic;Napisy::prime-time;Napisy prime-time;Где он?;Gdzie on jest?
+Basic;Napisy::prime-time;Napisy prime-time;Я тоже согласился на это, так что прошу прощения, хорошо?;Ja też się na to zgodziłam, dlatego przepraszam, okej?
+Basic;Napisy::prime-time;Napisy prime-time;Меня зовут Лена.;Mam na imię Lena.
+Basic;Napisy::prime-time;Napisy prime-time;Определите, где находятся заложники.;Ustal mi, gdzie są zakładnicy.
+Basic;Napisy::prime-time;Napisy prime-time;Я хочу их увидеть.;Ja chcę ich widzieć.
+Basic;Napisy::prime-time;Napisy prime-time;Можете ли вы сказать, как чувствуют себя мисс Мира и мистер Грегори?;Czy możesz powiedzieć, jak się czuje pani Mira i pan Grzegorz?
+Basic;Napisy::prime-time;Napisy prime-time;Мисс Миро?;Pani Miro?
+Basic;Napisy::prime-time;Napisy prime-time;Мистер Грегори?;Panie Grzegorzu?
+Basic;Napisy::prime-time;Napisy prime-time;Мы очень давно не виделись с вами.;Bardzo długo już was nie widzimy.
+Basic;Napisy::prime-time;Napisy prime-time;Я понимаю, что вы можете не захотеть говорить.;Rozumiem, że może nie chcecie rozmawiać.
+Basic;Napisy::prime-time;Napisy prime-time;Но мы просто беспокоимся о вас.;Ale martwimy się o was po prostu.
+Basic;Napisy::prime-time;Napisy prime-time;Может быть, мы сможем увидеться с вами.;Może możemy was zobaczyć.
+Basic;Napisy::prime-time;Napisy prime-time;А они как-то поворачиваются? - Да, это они. - Где оно?;To się obraca jakoś? - Jest, są. - Gdzie to jest?
+Basic;Napisy::prime-time;Napisy prime-time;Но мне было бы легче говорить с вами, если бы я мог видеть ваше лицо.;Ale byłoby mi łatwiej rozmawiać z tobą, jakbym mogła zobaczyć twoją twarz.
+Basic;Napisy::prime-time;Napisy prime-time;Нет-нет, вы, ребята, должно быть, уже наблюдали за мной там.;Nie no, wyście się już chyba tam naoglądali mnie.
+Basic;Napisy::prime-time;Napisy prime-time;Вы знакомы с моим отцом?;Tatę mojego poznaliście?
+Basic;Napisy::prime-time;Napisy prime-time;Теперь я буду наблюдать за тобой.;Ja was sobie teraz pooglądam.
+Basic;Napisy::prime-time;Napisy prime-time;О, я вижу, что вас стало больше.;O, widzę więcej was jest tam.
+Basic;Napisy::prime-time;Napisy prime-time;Покажите себя.;Pokaż się.
+Basic;Napisy::prime-time;Napisy prime-time;Где ты?;Gdzie jesteś?
+Basic;Napisy::prime-time;Napisy prime-time;Давай, подойди ближе к стеклу.;Chodź, podejdź bliżej szyby.
+Basic;Napisy::prime-time;Napisy prime-time;Вот вам микрофон.;Tu masz mikrofon.
+Basic;Napisy::prime-time;Napisy prime-time;У вас было кино, теперь мы будем смотреть. - Где это?;Wyście mieli kino, to teraz my sobie pooglądamy. - Gdzie jest?
+Basic;Napisy::prime-time;Napisy prime-time;Ты его видишь? - Нет.;Widzisz go? - Nie.
+Basic;Napisy::prime-time;Napisy prime-time;Как себя чуствуешь?;I jak się czujesz?
+Basic;Napisy::prime-time;Napisy prime-time;На что вы смотрите?;Co się tak przyglądasz?
+Basic;Napisy::prime-time;Napisy prime-time;Нравитесь ли вы себе?;Podobasz się sobie?
+Basic;Napisy::prime-time;Napisy prime-time;Что вам больше всего нравится в себе?;No, co ci się w tobie najbardziej podoba?
+Basic;Napisy::prime-time;Napisy prime-time;У меня большие глаза.;Oczy duże mam.
+Basic;Napisy::prime-time;Napisy prime-time;А что вам не нравится?;I co ci się nie podoba?
+Basic;Napisy::prime-time;Napisy prime-time;Все, что ниже.;Wszystko, co poniżej.
+Basic;Napisy::prime-time;Napisy prime-time;А что, разве ты не хочешь попасть на телевидение?;A co, nie chcesz być w telewizji?
+Basic;Napisy::prime-time;Napisy prime-time;Распрощайтесь.;Rozmieśćcie się.
+Basic;Napisy::prime-time;Napisy prime-time;Полная готовность.;Pełna gotowość.
+Basic;Napisy::prime-time;Napisy prime-time;Не нравится?;Nie podoba ci się?
+Basic;Napisy::prime-time;Napisy prime-time;В конце концов, все хотят попасть на телевидение.;Przecież każdy chce być w telewizji.
+Basic;Napisy::prime-time;Napisy prime-time;Я... я бы не хотел.;Ja… ja bym akurat nie chciała.
+Basic;Napisy::prime-time;Napisy prime-time;Вы имеете в виду телевидение, да?;Chodzi ci o telewizję, tak?
+Basic;Napisy::prime-time;Napisy prime-time;Вы вообще смотрите это?;Oglądasz to w ogóle?
+Basic;Napisy::prime-time;Napisy prime-time;Может быть, если бы вы смотрели чаще, вы бы знали.;Może jakbyś częściej oglądała, tobyś wiedziała.
+Basic;Napisy::prime-time;Napisy prime-time;Что я могу знать?;Co bym wiedziała?
+Basic;Napisy::prime-time;Napisy prime-time;Знаете ли вы, сколько времени наши соотечественники проводят перед телевизором?;Wiesz, ile nasi rodacy spędzają czasu przed telewizorem?
+Basic;Napisy::prime-time;Napisy prime-time;4 часа.;Cztery godziny.
+Basic;Napisy::prime-time;Napisy prime-time;Четыре часа в день перед телевизором.;Cztery godziny dziennie przed telewizorem.
+Basic;Napisy::prime-time;Napisy prime-time;Знаете ли вы, сколько всего можно сделать за четыре часа?;Wiesz, ile można zrobić w cztery godziny?
+Basic;Napisy::prime-time;Napisy prime-time;Довольно много вещей.;Sporo rzeczy.
+Basic;Napisy::prime-time;Napisy prime-time;И что бы вы сделали?;A ty co byś zrobiła?
+Basic;Napisy::prime-time;Napisy prime-time;Вероятно, это обычная деятельность.;Pewnie jakieś takie normalne czynności.
+Basic;Napisy::prime-time;Napisy prime-time;Я готовила себе ужин, выгуливала собаку.;Ugotowałabym sobie obiad, wyszła z psem na spacer.
+Basic;Napisy::prime-time;Napisy prime-time;Что, если бы у вас были последние четыре часа?;A jakbyś miała cztery ostatnie godziny?
+Basic;Napisy::prime-time;Napisy prime-time;Я бы сходила в солярий.;Poszłabym na solarium.
+Basic;Napisy::prime-time;Napisy prime-time;Почему вы смеетесь?;Czemu się śmiejesz?
+Basic;Napisy::prime-time;Napisy prime-time;Нет, ты просто... ты меня удивил.;Nie, po prostu… Zaskoczyłaś mnie.
+Basic;Napisy::prime-time;Napisy prime-time;На солярии.;Na solarium.
+Basic;Napisy::prime-time;Napisy prime-time;Интересные у вас приоритеты.;Ciekawe masz priorytety.
+Basic;Napisy::prime-time;Napisy prime-time;А вы знали, что о вас здесь ходят всевозможные слухи?;A wiesz, że tutaj krążyły różne zakłady o tobie?
+Basic;Napisy::prime-time;Napisy prime-time;На что вы ставили?;Coście obstawiali?
+Basic;Napisy::prime-time;Napisy prime-time;Очень разные.;Bardzo różnie.
+Basic;Napisy::prime-time;Napisy prime-time;В основном, то, что вы безработный.;Najczęściej, że jesteś bezrobotny.
+Basic;Napisy::prime-time;Napisy prime-time;Или что вы студент, которого исключили из университета.;Albo że jesteś studentem, którego wyrzucili z uczelni.
+Basic;Napisy::prime-time;Napisy prime-time;Может быть, ты сын фермера или болен.;Może jesteś synem rolnika, albo że jesteś chory.
+Basic;Napisy::prime-time;Napisy prime-time;И они лишили вас субсидии на лекарства.;I zabrali ci dofinansowanie na leki.
+Basic;Napisy::prime-time;Napisy prime-time;А на что вы ставили?;No a ty co obstawiałaś?
+Basic;Napisy::prime-time;Napisy prime-time;Что это что-то личное, иначе вы бы не позвонили Дэвиду.;Że to jest coś osobistego, bo inaczej byś nie dzwonił do Dawida.
+Basic;Napisy::prime-time;Napisy prime-time;Вы же хотели, чтобы он смотрел, не так ли? - Заложники слева в центре. - Готовься, ОБП.;Chciałeś, żeby oglądał, prawda? - Zakładnicy po lewej stronie w środku. - Gotów, OBP.
+Basic;Napisy::prime-time;Napisy prime-time;Мне кажется, что это действительно очень важно.;Czuję, że to jest naprawdę coś bardzo ważnego.
+Basic;Napisy::prime-time;Napisy prime-time;Подожди, черт.;Czekaj, kurwa.
+Basic;Napisy::prime-time;Napisy prime-time;Ну, наверное, важно, нет?;No chyba ważnego, nie?
+Basic;Napisy::prime-time;Napisy prime-time;"Что у вас, ребята, с ""важным"" и ""неважным""?";Co wy macie z tym „ważne”, „nieważne”?
+Basic;Napisy::prime-time;Napisy prime-time;Ну, для меня это важно!;No dla mnie ważne!
+Basic;Napisy::prime-time;Napisy prime-time;Для вас тоже!;Dla ciebie też!
+Basic;Napisy::prime-time;Napisy prime-time;А для кого-то - нет! - Я понимаю. - Нет, ты не понимаешь!;A dla kogoś innego już nie! - Rozumiem. - Nie, nie rozumiesz!
+Basic;Napisy::prime-time;Napisy prime-time;Вы не понимаете.;Nie rozumiesz.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, у нас звуковой провал.;Sebastian, mamy awarię dźwięku.
+Basic;Napisy::prime-time;Napisy prime-time;Выключи его, слышишь! - Думаешь, я идиот! - Включайте на полную катушку. - Выключи! - Полегче.;Wyłączcie to, słyszysz?! - Macie mnie za idiotę?! - Dawaj na fula. - Wyłączcie to! - Spokojnie.
+Basic;Napisy::prime-time;Napisy prime-time;Опустите оружие, пожалуйста.;Opuść broń, proszę.
+Basic;Napisy::prime-time;Napisy prime-time;Что за хрень, если у меня бомба, а!;A co, kurwa, jeśli ja mam bombę, co?!
+Basic;Napisy::prime-time;Napisy prime-time;Простите, не могли бы вы повторить?;Przepraszam cię, możesz powtórzyć?
+Basic;Napisy::prime-time;Napisy prime-time;Я не слышу.;Nie słyszę.
+Basic;Napisy::prime-time;Napisy prime-time;Как вы думаете, что там есть?;Co według was tam jest?
+Basic;Napisy::prime-time;Napisy prime-time;Никто и не подумал спросить, что у меня в рюкзаке! - У него бомба. - Что я должен сказать?;Nikt nie pomyślał, żeby zapytać, co mam w plecaku?! - On ma bombę. - Co mam mówić?
+Basic;Napisy::prime-time;Napisy prime-time;Так, бомба, эвакуируемся.;Dobra, bomba, ewakuacja.
+Basic;Napisy::prime-time;Napisy prime-time;Мы выходим из игры. - Что теперь! - Эвакуация. - Я должен уехать. - Нет, ты никуда не уйдешь.;Wycofujemy się. - I co teraz?! - Ewakuacja. - Ja teraz muszę wyjść. - Nie, nigdzie nie idziesz.
+Basic;Napisy::prime-time;Napisy prime-time;Таковы процедуры, но я вернусь... Мы уходим, мы уходим.;Takie są procedury, ale wrócę… Wychodzimy, wychodzimy.
+Basic;Napisy::prime-time;Napisy prime-time;Определите OBP.;Wyznaczyć OBP.
+Basic;Napisy::prime-time;Napisy prime-time;Лена, поговори со мной!;Lena, mów do mnie!
+Basic;Napisy::prime-time;Napisy prime-time;Сделайте что-нибудь!;No zrób coś!
+Basic;Napisy::prime-time;Napisy prime-time;Полиция говорит.;Mówi policja.
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, сохраняйте спокойствие и направляйтесь к выходу.;Proszę o zachowanie spokoju i kierowanie się do wyjścia.
+Basic;Napisy::prime-time;Napisy prime-time;Полиция укажет маршрут эвакуации.;Policja wskaże drogę ewakuacji.
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, сохраняйте спокойствие и направляйтесь к выходу.;Proszę zachować spokój i kierować się do wyjścia.
+Basic;Napisy::prime-time;Napisy prime-time;Это эвакуация.;To jest ewakuacja.
+Basic;Napisy::prime-time;Napisy prime-time;Кто теперь пустит тебя в эфир, кто!;Kto cię teraz wpuści na antenę, kto?!
+Basic;Napisy::prime-time;Napisy prime-time;Никого... А на что вы смотрите?;Nikogo… A ty co się gapisz?
+Basic;Napisy::prime-time;Napisy prime-time;Какого хрена ты смотришь?;Co się, kurwa, gapisz?
+Basic;Napisy::prime-time;Napisy prime-time;Они эвакуировали весь город, черт, здесь есть эвакуационный путь.;Ewakuowali cały, kurwa, Tam jest droga ewakuacyjna.
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, уходите.;Proszę wyjść.
+Basic;Napisy::prime-time;Napisy prime-time;Вы уверены, что мы сможем установить связь отсюда?;Jest pani pewna, że możemy stąd nawiązać łączność?
+Basic;Napisy::prime-time;Napisy prime-time;Я попрошу вас покинуть комнату.;Poproszę państwa o opuszczenie sali.
+Basic;Napisy::prime-time;Napisy prime-time;Охраняйте территорию, выводите штат.;Zabezpieczcie teren, wyprowadźcie państwa.
+Basic;Napisy::prime-time;Napisy prime-time;Гржешек, привет!;Grzesiek, hej!
+Basic;Napisy::prime-time;Napisy prime-time;Здесь есть вода?;Jest tu jakaś woda?
+Basic;Napisy::prime-time;Napisy prime-time;Гржешек, вставай! - ОБП охраняет вход в здание. - Пойдемте.;Grzesiek, wstawaj! - OBP zabezpieczyło wejście do budynku. - Chodźcie.
+Basic;Napisy::prime-time;Napisy prime-time;Следы от камеры уже готовы?;Tory kamerowe już gotowe?
+Basic;Napisy::prime-time;Napisy prime-time;Zdzisiu, больше всего нас волнует домофон, дайте.;Zdzisiu, najbardziej zależy nam na interkomie, daj.
+Basic;Napisy::prime-time;Napisy prime-time;Конечно, возьмите его в конце концов.;Pewnie, weź to w końcu.
+Basic;Napisy::prime-time;Napisy prime-time;Не могли бы вы больше не... ...направлять на нас пистолет?;Mógłbyś już do nas nie… …nie mierzyć z tej broni?
+Basic;Napisy::prime-time;Napisy prime-time;Я окончила театральную школу.;Ja jestem po szkole teatralnej.
+Basic;Napisy::prime-time;Napisy prime-time;Я могу играть на всех.;Mogę to wszystko zagrać.
+Basic;Napisy::prime-time;Napisy prime-time;Как вы здесь оказались?;To jak ty tutaj trafiłaś?
+Basic;Napisy::prime-time;Napisy prime-time;Нормально.;Normalnie.
+Basic;Napisy::prime-time;Napisy prime-time;У них были блондинка, брюнетка и рыжая.;Mieli blondynkę, brunetkę i rudą.
+Basic;Napisy::prime-time;Napisy prime-time;Им нужен был кто-то средний.;Potrzebowali kogoś pomiędzy.
+Basic;Napisy::prime-time;Napisy prime-time;С харизмой.;Z charyzmą.
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, будьте спокойны!;Proszę o spokój!
+Basic;Napisy::prime-time;Napisy prime-time;Я не буду отвечать на вопросы, пока вы будете говорить вместе.;Nie odpowiem na żadne pytania, jak będziecie mówić razem.
+Basic;Napisy::prime-time;Napisy prime-time;В данный момент я собираюсь в армию через неделю.;Ja od tej chwili za tydzień idę do wojska.
+Basic;Napisy::prime-time;Napisy prime-time;После возвращения я не вижу здесь никаких перспектив.;Po powrocie żadnych perspektyw tu nie widzę.
+Basic;Napisy::prime-time;Napisy prime-time;Я покидаю этот город.;Wyjeżdżam z tego miasta.
+Basic;Napisy::prime-time;Napisy prime-time;Я учусь, и после этого я не думаю, что знаю.;Ja się uczę, a później to chyba raczej nie wiem.
+Basic;Napisy::prime-time;Napisy prime-time;Через год я закончу школу и хочу уехать в Германию.;Za rok skończę szkołę i próbuję wyjeżdżać do Niemczech.
+Basic;Napisy::prime-time;Napisy prime-time;Я все еще учусь.;Ja jeszcze się uczę.
+Basic;Napisy::prime-time;Napisy prime-time;После учебы я собираюсь получить какую-нибудь степень или что-то в этом роде.;Po nauce będę robił jakieś studia czy coś.
+Basic;Napisy::prime-time;Napisy prime-time;И я уеду в Германию или покину страну.;I wyjadę do Niemczech czy wyjadę z kraju.
+Basic;Napisy::prime-time;Napisy prime-time;Я собираюсь закончить школу и уехать отсюда.;Ja skończę szkołę i uciekam stąd.
+Basic;Napisy::prime-time;Napisy prime-time;"Приз в конкурсе достается ""Меня здесь быть не должно"".";Nagrodę w konkursie otrzymuje Miało mnie tu nie być.
+Basic;Napisy::prime-time;Napisy prime-time;Но, черт возьми, я успел вовремя.;Ale, kurwa, zdążyłam.
+Basic;Napisy::prime-time;Napisy prime-time;Лаура уже взяла... - Этого метеоролога. - Госпожа Кася.;Laura już wzięła… - Ta pogodynka. - Pani Kasia.
+Basic;Napisy::prime-time;Napisy prime-time;Г-жа Кася Яворска.;Pani Kasia Jaworska.
+Basic;Napisy::prime-time;Napisy prime-time;Они даже дали ей мое гребаное платье.;Nawet jej dali, kurwa, moją sukienkę.
+Basic;Napisy::prime-time;Napisy prime-time;Вы с Касей сейчас сидите здесь. - Здзисю, всегда будь со мной. - Каська, микрофон.;Byście tu teraz z Kasią siedzieli. - Zdzisiu, zawsze bądź przy mnie. - Kaśka, mikrofon.
+Basic;Napisy::prime-time;Napisy prime-time;Может, мы поймаем их в коридоре, нет?;Będziemy ich łapać na korytarzu może, nie?
+Basic;Napisy::prime-time;Napisy prime-time;Я не знаю точно, потому что если... Я обедала, и просто... Я закончила, потом читала.;Dokładnie nie wiem, bo jeżeli… Ja jadłem obiad i to po prostu… Kończyłem, potem czytałem.
+Basic;Napisy::prime-time;Napisy prime-time;Я почти ничего не слышал.;Mniej więcej nic nie słyszałem.
+Basic;Napisy::prime-time;Napisy prime-time;Я даже узнал потом, что там... Что кто-то угрожал кому-то пистолетом.;Nawet się potem dowiedziałem, że tam taka… Że ktoś komuś tam bronią groził.
+Basic;Napisy::prime-time;Napisy prime-time;Елка, столы, и вдруг такое действие.;Choinka, stoliki, a tu nagle taka akcja.
+Basic;Napisy::prime-time;Napisy prime-time;Все раздвинулись.;Wszystko porozsuwane.
+Basic;Napisy::prime-time;Napisy prime-time;Должно быть, есть что-то важное, раз он решился на такой поступок.;Musi być coś ważnego, że zdecydował się na coś takiego.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян.;Sebastian.
+Basic;Napisy::prime-time;Napisy prime-time;Добрый вечер, Анджей Костецкий, председатель совета директоров телевидения.;Dobry wieczór, Andrzej Kostecki, prezes zarządu telewizji.
+Basic;Napisy::prime-time;Napisy prime-time;Это ваша идея?;To pani pomysł?
+Basic;Napisy::prime-time;Napisy prime-time;Превосходно. - Миссис Миро - Кто здесь главный?;Świetnie. - Pani Miro… - Kto tu dowodzi?
+Basic;Napisy::prime-time;Napisy prime-time;Где комендант? - Миссис Миро - И с кем из вас вы хотели бы поговорить?;Gdzie jest komendant? - Pani Miro… - A z którym z panów rozmawiać?
+Basic;Napisy::prime-time;Napisy prime-time;Мистер Грегори, вы меня слышите?;Panie Grzegorzu, słyszycie mnie?
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян?;Sebastian?
+Basic;Napisy::prime-time;Napisy prime-time;Нет никакой связи.;Nie ma połączenia.
+Basic;Napisy::prime-time;Napisy prime-time;Он является председателем.;To prezes.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, ты меня слышишь?;Sebastian, słyszysz mnie?
+Basic;Napisy::prime-time;Napisy prime-time;Нет, они все равно меня не слышат.;Nie, dalej mnie nie słyszą.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян?;Sebastian?
+Basic;Napisy::prime-time;Napisy prime-time;Мы слышим, мы слышим.;Słyszymy, słyszymy.
+Basic;Napisy::prime-time;Napisy prime-time;Значит, у вас есть сигнал, да?;Czyli macie sygnał, tak?
+Basic;Napisy::prime-time;Napisy prime-time;Я вижу тебя и слышу.;Widzę cię i słyszę cię.
+Basic;Napisy::prime-time;Napisy prime-time;Простите, что так долго.;Przepraszam cię, że tyle to trwało.
+Basic;Napisy::prime-time;Napisy prime-time;Вам что-нибудь нужно?;Potrzebujecie czegoś?
+Basic;Napisy::prime-time;Napisy prime-time;Вода, еда, лекарства?;Wody, jedzenia, lekarstw?
+Basic;Napisy::prime-time;Napisy prime-time;Нет, вы можете дать мне президента!;Nie, możesz dać mi prezesa!
+Basic;Napisy::prime-time;Napisy prime-time;Он был таким болтливым, когда вошел в студию.;Taki wygadany był, jak wszedł do studia.
+Basic;Napisy::prime-time;Napisy prime-time;Пусть говорит. - Я могу с ним поговорить. - Давай, давай, Костецкий!;Niech gada teraz. - Ja mogę z nim pogadać. - Dawaj, dawaj, Kostecki!
+Basic;Napisy::prime-time;Napisy prime-time;Кажется, выхода нет.;Chyba nie ma wyjścia.
+Basic;Napisy::prime-time;Napisy prime-time;Присаживайтесь.;Niech pan siada.
+Basic;Napisy::prime-time;Napisy prime-time;Он обкурился так, что когда пришел с того Нового года, ты боишься его впустить? - А я могу? - Да.;Najebany jest, że jak przyjechał z tego sylwestra, boicie się go wpuścić? - Mogę? - Tak.
+Basic;Napisy::prime-time;Napisy prime-time;Доброе утро, - говорит Анджей Костецкий.;Dzień dobry, mówi Andrzej Kostecki.
+Basic;Napisy::prime-time;Napisy prime-time;Из-за бомбы нам пришлось эвакуировать все здание.;Przez bombę musieliśmy ewakuować cały budynek.
+Basic;Napisy::prime-time;Napisy prime-time;Мы находимся в соседнем здании.;Jesteśmy w sąsiednim budynku.
+Basic;Napisy::prime-time;Napisy prime-time;Но у вас есть сигнал.;Ale macie sygnał.
+Basic;Napisy::prime-time;Napisy prime-time;Все работает.;Działa wszystko.
+Basic;Napisy::prime-time;Napisy prime-time;Мы можем идти.;Możemy jechać.
+Basic;Napisy::prime-time;Napisy prime-time;Ну, потому что мы как раз ждали вас.;No bo czekaliśmy tylko na pana.
+Basic;Napisy::prime-time;Napisy prime-time;Ну, нам еще нужно завершить технические работы.;No musimy jeszcze tutaj dokończyć techniczne prace.
+Basic;Napisy::prime-time;Napisy prime-time;Сделайте это быстро, потому что у вас мало времени.;No to się streszczajcie, bo macie mało czasu.
+Basic;Napisy::prime-time;Napisy prime-time;Я иду за президентом.;Wchodzę po prezydencie.
+Basic;Napisy::prime-time;Napisy prime-time;Вы знаете, когда он закончится?;Wiecie, kiedy kończy?
+Basic;Napisy::prime-time;Napisy prime-time;Вы не знаете, как долго это продлится - обращение президента. - Что ж, узнайте!;No nie wiadomo, ile potrwa - orędzie prezydenta. - No to się dowiedz!
+Basic;Napisy::prime-time;Napisy prime-time;Он слетает с катушек.;Leci z taśmy.
+Basic;Napisy::prime-time;Napisy prime-time;Эндрю, да?;Andrzej, tak?
+Basic;Napisy::prime-time;Napisy prime-time;Послушай, Эндрю.;Słuchaj, Andrzej.
+Basic;Napisy::prime-time;Napisy prime-time;Не шути со мной, а?;Nie leć ze mną w chuja, co?
+Basic;Napisy::prime-time;Napisy prime-time;У вас мало возможностей для выбора.;Masz mało do wyboru.
+Basic;Napisy::prime-time;Napisy prime-time;Во что вы играете! - Добрый вечер, мистер Эндрю. - Добрый вечер, миссис Миро.;W co wy gracie?! - Dobry wieczór, panie Andrzeju. - Dobry wieczór, pani Miro.
+Basic;Napisy::prime-time;Napisy prime-time;Я бы очень хотел оставаться спокойным, но у меня просто сдают нервы.;Chciałabym bardzo zachować spokój, ale już po prostu nerwy mi puszczają.
+Basic;Napisy::prime-time;Napisy prime-time;Да, мисс Миро.;Tak, pani Miro.
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, доверьтесь мне.;Proszę mi zaufać.
+Basic;Napisy::prime-time;Napisy prime-time;Все будет хорошо.;Wszystko będzie dobrze.
+Basic;Napisy::prime-time;Napisy prime-time;Я все это понимаю, вы знаете.;Ja to wszystko rozumiem, przecież pan wie.
+Basic;Napisy::prime-time;Napisy prime-time;Я просто хочу знать, что это такое.;Ja po prostu chciałabym wiedzieć, o co chodzi.
+Basic;Napisy::prime-time;Napisy prime-time;Мисс Миро, пожалуйста, успокойтесь.;Pani Miro, proszę się uspokoić.
+Basic;Napisy::prime-time;Napisy prime-time;Это полицейские процедуры.;Takie są procedury policyjne.
+Basic;Napisy::prime-time;Napisy prime-time;Вот какие они чертовы кокни!;To, kurwa, chujowe są!
+Basic;Napisy::prime-time;Napisy prime-time;Вы оставили нас в полном одиночестве.;Zostawiliście nas tu kompletnie samych.
+Basic;Napisy::prime-time;Napisy prime-time;Знаете ли вы, каково это?;Wie pan, jakie to jest uczucie?
+Basic;Napisy::prime-time;Napisy prime-time;Кто-нибудь думал обо мне? - Вы знаете, каково это - быть... - Мадам Миро... ...совершенно одной?;Czy ktokolwiek o mnie pomyślał? - Wie pan, jak to jest zostać… - Pani Miro… …kompletnie samemu?
+Basic;Napisy::prime-time;Napisy prime-time;Мисс Миро, успокойтесь.;Pani Miro, spokojnie.
+Basic;Napisy::prime-time;Napisy prime-time;Мы все здесь думаем о вас.;Wszyscy tutaj o pani myślimy.
+Basic;Napisy::prime-time;Napisy prime-time;Нам не все равно, правда.;Troszczymy się, naprawdę.
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, сохраняйте спокойствие и не впадайте в истерику.;Proszę zachować spokój i nie histeryzować.
+Basic;Napisy::prime-time;Napisy prime-time;Или я просто все испортил.;Albo ja to po prostu, kurwa, pierdolę.
+Basic;Napisy::prime-time;Napisy prime-time;Куда она исчезла?;Gdzie ona zniknęła?
+Basic;Napisy::prime-time;Napisy prime-time;Привет, Моника.;Cześć, Monika.
+Basic;Napisy::prime-time;Napisy prime-time;Мира Крайл слушает.;Tu Mira Kryle.
+Basic;Napisy::prime-time;Napisy prime-time;Выключи его, черт возьми.;Niech pani to wyłączy, do cholery jasnej.
+Basic;Napisy::prime-time;Napisy prime-time;На кого вы работаете?;Dla kogo pani pracuje?
+Basic;Napisy::prime-time;Napisy prime-time;О чем вы говорите?;O czym ty mówisz?
+Basic;Napisy::prime-time;Napisy prime-time;Они все здесь.;Wszyscy tu są.
+Basic;Napisy::prime-time;Napisy prime-time;Возможно, они сейчас слушают нас.;Pewnie nas teraz słuchają.
+Basic;Napisy::prime-time;Napisy prime-time;Эндрю здесь.;Andrzej tu jest.
+Basic;Napisy::prime-time;Napisy prime-time;Вы первый, кому я звоню.;Jesteś pierwsza, do której dzwonię.
+Basic;Napisy::prime-time;Napisy prime-time;Вы принимаете его?;Bierzesz to?
+Basic;Napisy::prime-time;Napisy prime-time;Она позвонила ей, потому что у нее истерика.;Zadzwoniła do niej, bo jest w histerii.
+Basic;Napisy::prime-time;Napisy prime-time;Мы пытаемся разобраться с этим. - Вы должны арестовать эту женщину. - За что?;Staramy się to załatwić. - Musicie aresztować tę kobietę. - Za co?
+Basic;Napisy::prime-time;Napisy prime-time;Я не знаю, за что.;Nie wiem za co.
+Basic;Napisy::prime-time;Napisy prime-time;За отсутствие огнетушителя.;Za brak gaśnicy.
+Basic;Napisy::prime-time;Napisy prime-time;Придумайте что-нибудь.;Wymyśl coś.
+Basic;Napisy::prime-time;Napisy prime-time;И не могли бы вы как-то заблокировать это через Национальный совет?;A pan by nie mógł tego jakoś zablokować przez Krajową Radę?
+Basic;Napisy::prime-time;Napisy prime-time;У вас есть интервью в прямом эфире.;Masz na żywo, ale wywiad.
+Basic;Napisy::prime-time;Napisy prime-time;Надеюсь, оно того стоит.;Mam nadzieję, że to będzie tego warte.
+Basic;Napisy::prime-time;Napisy prime-time;На вашем месте я бы уже давно начал снимать здесь.;Ja bym już na twoim miejscu zaczęła tu strzelać dawno.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, выходите в прямой эфир.;Sebastian, wchodzisz na żywo.
+Basic;Napisy::prime-time;Napisy prime-time;С помощью всего, аудио и видео, вы меня слышите?;Ze wszystkim, z dźwiękiem i z obrazem, słyszysz mnie?
+Basic;Napisy::prime-time;Napisy prime-time;В настоящее время мы готовим запись в прямой эфир.;Przygotowujemy właśnie wejście na żywo.
+Basic;Napisy::prime-time;Napisy prime-time;Еще немного терпения, ладно?;Jeszcze chwila cierpliwości, dobrze?
+Basic;Napisy::prime-time;Napisy prime-time;Г-жа Лаура согласует с вами технические детали.;Pani Laura ustali z tobą szczegóły techniczne.
+Basic;Napisy::prime-time;Napisy prime-time;Я уже в пятый раз встречаю вас в канун Нового года.;Już po raz piąty spotykam się z państwem w sylwestrowy wieczór.
+Basic;Napisy::prime-time;Napisy prime-time;Но мы впервые встретились в столь необычный момент.;Ale po raz pierwszy spotykamy się w momencie tak niezwykłym.
+Basic;Napisy::prime-time;Napisy prime-time;На пороге символического 2000-го года.;U progu symbolicznego roku dwutysięcznego.
+Basic;Napisy::prime-time;Napisy prime-time;Такая возможность выпадает раз в две тысячи лет.;Taka okazja zdarza się raz na dwa tysiące lat.
+Basic;Napisy::prime-time;Napisy prime-time;Мистер Грегори, а вы не могли бы сделать так, чтобы я мог видеть лицо?;Panie Grzegorzu, a mógłby pan zrobić tak, żebym widziała twarz?
+Basic;Napisy::prime-time;Napisy prime-time;Потому что я вижу оружие.;Ponieważ widzę broń.
+Basic;Napisy::prime-time;Napisy prime-time;Еще ближе.;Jeszcze bliżej.
+Basic;Napisy::prime-time;Napisy prime-time;Только, пожалуйста, не режьте себе голову.;Tylko proszę nie ciąć głowy.
+Basic;Napisy::prime-time;Napisy prime-time;Мистер Себастьян, не могли бы вы снять шляпу?;Panie Sebastianie, mógłby pan zdjąć czapkę?
+Basic;Napisy::prime-time;Napisy prime-time;Я не вижу своих глаз.;Nie widzę oczu.
+Basic;Napisy::prime-time;Napisy prime-time;Грегори, а вы не могли бы передвинуть телевизор?;Grzegorz, a mógłbyś przesunąć telewizor?
+Basic;Napisy::prime-time;Napisy prime-time;Я бы хотел увидеть себя.;Chciałbym się zobaczyć.
+Basic;Napisy::prime-time;Napisy prime-time;Мне нужно припудрить вас.;Muszę cię przypudrować.
+Basic;Napisy::prime-time;Napisy prime-time;Ты вся вспотела. - Сколько? - Две минуты.;Jesteś cały spocony. - Ile? - Dwie minuty.
+Basic;Napisy::prime-time;Napisy prime-time;Сразу после обращения мы даем слово совету, прерываем программу, а затем вам.;Od razu po orędziu dajemy planszę, przerywamy program i potem wy.
+Basic;Napisy::prime-time;Napisy prime-time;Какой длины должно быть объявление?;Jak długa ma być zapowiedź?
+Basic;Napisy::prime-time;Napisy prime-time;Два-три предложения.;Dwa, trzy zdania.
+Basic;Napisy::prime-time;Napisy prime-time;Мне нужно все прочесать.;Muszę przeczesać.
+Basic;Napisy::prime-time;Napisy prime-time;Что-то нейтральное, например, прервать программу, специальное сообщение, да?;Coś neutralnego, typu przerywamy program, specjalny komunikat, tak?
+Basic;Napisy::prime-time;Napisy prime-time;Да, лаконично.;Tak, zwięźle.
+Basic;Napisy::prime-time;Napisy prime-time;Минута 40.;Minuta 40.
+Basic;Napisy::prime-time;Napisy prime-time;Вы пустите его в эфир?;Pan go wpuści na antenę?
+Basic;Napisy::prime-time;Napisy prime-time;Вы здесь для того, чтобы вас увидели и услышали.;Pani jest od tego, żeby było widać i słychać.
+Basic;Napisy::prime-time;Napisy prime-time;Это часть вашей ответственности.;To jest część pani odpowiedzialności.
+Basic;Napisy::prime-time;Napisy prime-time;Колодзей, давайте синхронизируемся, а?;Kołodziej, synchronizujmy, dobra?
+Basic;Napisy::prime-time;Napisy prime-time;Раз, два, три, четыре, пять, шесть, семь, восемь, девять, десять.;Raz, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć.
+Basic;Napisy::prime-time;Napisy prime-time;Один раз, один раз, один раз, один раз, один раз.;Raz, raz, raz, raz, raz, raz.
+Basic;Napisy::prime-time;Napisy prime-time;Один раз, один раз, один раз.;Raz, raz, raz.
+Basic;Napisy::prime-time;Napisy prime-time;Итог.;W porządku.
+Basic;Napisy::prime-time;Napisy prime-time;По-прежнему убирайте волосы назад.;Jeszcze włosy sobie z tyłu popraw.
+Basic;Napisy::prime-time;Napisy prime-time;Только два и три, потому что на мне нет обуви.;Tylko dwójka i trójka, bo nie mam zapiętych butów.
+Basic;Napisy::prime-time;Napisy prime-time;Спокойствие.;Spokojnie.
+Basic;Napisy::prime-time;Napisy prime-time;Главное на двоих.;Główna na dwójce.
+Basic;Napisy::prime-time;Napisy prime-time;Сорок пять секунд.;Czterdzieści pięć sekund.
+Basic;Napisy::prime-time;Napisy prime-time;Я объявлю вам.;Zapowiem cię.
+Basic;Napisy::prime-time;Napisy prime-time;Поэтому я адресую им свои особенно теплые пожелания счастья и личного процветания.;Do nich kieruję więc moje szczególnie gorące życzenia szczęścia i osobistej pomyślności.
+Basic;Napisy::prime-time;Napisy prime-time;Я вспоминаю в своих пожеланиях тех, кто, работая не покладая рук, создает нашу реальность.;Pamiętam w swych życzeniach o tych, którzy ciężko pracując, tworzą naszą rzeczywistość.
+Basic;Napisy::prime-time;Napisy prime-time;Нас становится все больше и больше в этом мире.;Jest nas na tym świecie coraz więcej.
+Basic;Napisy::prime-time;Napisy prime-time;Путь к процветанию лежит через разумную жизнь.;Sposobem na pomyślność jest żyć mądrze.
+Basic;Napisy::prime-time;Napisy prime-time;В гармонии с миром, в гармонии и дружбе с другими.;W harmonii ze światem, zgodzie i przyjaźni z innymi.
+Basic;Napisy::prime-time;Napisy prime-time;Мир принадлежит всем.;Świat należy do wszystkich.
+Basic;Napisy::prime-time;Napisy prime-time;Давайте с нетерпением ждать встречи с XXI веком.;Cieszmy się na spotkanie z XXI wiekiem.
+Basic;Napisy::prime-time;Napisy prime-time;Это большой вызов для нас, но также и большой ша... Вы входите за 15 секунд.;To dla nas wielkie wyzwanie, ale i wielka sza… Wchodzicie za 15 sekund.
+Basic;Napisy::prime-time;Napisy prime-time;Мира Крайл, раскланивается.;Mira Kryle, kłaniam się.
+Basic;Napisy::prime-time;Napisy prime-time;Бывают моменты, к которым даже мы, телевизионщики, не готовы.;Są takie momenty, na które nawet my, ludzie telewizji, nie jesteśmy gotowi.
+Basic;Napisy::prime-time;Napisy prime-time;Иди сюда. - Себастьян. - Ты думал, я не проверю?;Chodź tu. - Sebastian. - Myśleliście, że nie sprawdzę?
+Basic;Napisy::prime-time;Napisy prime-time;А там не нужно?;Tam nie bierze?
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян.;Sebastian.
+Basic;Napisy::prime-time;Napisy prime-time;Включить свет!;Światło włączcie!
+Basic;Napisy::prime-time;Napisy prime-time;Гржешек, Мира, пригнитесь!;Grzesiek, Mira, na ziemię!
+Basic;Napisy::prime-time;Napisy prime-time;Мира, на земле.;Mira, na ziemię.
+Basic;Napisy::prime-time;Napisy prime-time;Святое дерьмо.;Ja pierdolę.
+Basic;Napisy::prime-time;Napisy prime-time;Остановись, буря. - Верните свет. - Ты видел... Сделай что-нибудь.;Stop, szturm. - Przywróćcie światło. - Widziałeś… Zróbcie coś.
+Basic;Napisy::prime-time;Napisy prime-time;Что это за хрень?;Co to, kurwa, jest?
+Basic;Napisy::prime-time;Napisy prime-time;Уведите этих людей! - Молчать! - Что это за хрень!;Zabierz tych ludzi! - Cisza! - Co to, kurwa, jest?!
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян.;Sebastian.
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, расскажи мне, что случилось, хорошо?;Proszę cię, powiedz, co się stało, dobrze?
+Basic;Napisy::prime-time;Napisy prime-time;возьмите с собой аптечку первой помощи.;weź apteczkę.
+Basic;Napisy::prime-time;Napisy prime-time;Вы меня слышите?;Słyszysz mnie?
+Basic;Napisy::prime-time;Napisy prime-time;Спокойно, пожалуйста, расскажите мне.;Na spokojnie, proszę, powiedz mi.
+Basic;Napisy::prime-time;Napisy prime-time;У нас на месте есть врач, вы меня слышите? - Миссис Миро, если... - Ее нужно отвезти в больницу.;Mamy na miejscu lekarza, słyszycie mnie? - Pani Miro, jeżeli… - Z nią trzeba do szpitala.
+Basic;Napisy::prime-time;Napisy prime-time;Если что-то случилось, скажи мне, хорошо?;Jeżeli coś się stało, powiedz, dobrze?
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, если тебе нужен врач... Это твоя вина. - Себастьян! - Это твоя вина!;Sebastian, jeżeli potrzebujecie lekarza… To jest wasza wina. - Sebastian! - To jest wasza wina!
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, отойдите.;Proszę się odsunąć.
+Basic;Napisy::prime-time;Napisy prime-time;Успокойся, пожалуйста. - Расскажи мне, что случилось, хорошо? - Это твоя вина!;Na spokojnie, proszę cię. - Powiedz, co się stało, dobrze? - To wasza wina!
+Basic;Napisy::prime-time;Napisy prime-time;Пропустите его!;Przepuśćcie go!
+Basic;Napisy::prime-time;Napisy prime-time;Крутите, крутите, крутите.;Kręć go, kręć go, kręć go.
+Basic;Napisy::prime-time;Napisy prime-time;Мира, успокойся.;Mira, spokojnie.
+Basic;Napisy::prime-time;Napisy prime-time;У вас наверняка есть страховка.;Na pewno masz ubezpieczenie.
+Basic;Napisy::prime-time;Napisy prime-time;Вы все равно получите за это деньги. - Мира. - Уходи!;Jeszcze pieniądze dostaniesz za to. - Mira. - Odejdź!
+Basic;Napisy::prime-time;Napisy prime-time;Лапы вверх!;Łapy do góry!
+Basic;Napisy::prime-time;Napisy prime-time;Могу я увидеть мисс Миру?;Mogę zobaczyć panią Mirę?
+Basic;Napisy::prime-time;Napisy prime-time;Я немного отступлю.;Uchylę trochę.
+Basic;Napisy::prime-time;Napisy prime-time;Хорошо, все будет хорошо, будьте уверены.;Dobra, wszystko będzie dobrze, spokojnie.
+Basic;Napisy::prime-time;Napisy prime-time;Слушайте.;Posłuchaj.
+Basic;Napisy::prime-time;Napisy prime-time;Все это зашло слишком далеко.;To wszystko poszło za daleko.
+Basic;Napisy::prime-time;Napisy prime-time;Отпустите ее.;Wypuść ją.
+Basic;Napisy::prime-time;Napisy prime-time;Давайте сделаем это так.;Zróbmy tak.
+Basic;Napisy::prime-time;Napisy prime-time;Я беру его, а вы убираете с дороги.;Ja ją zabieram i masz ją z głowy.
+Basic;Napisy::prime-time;Napisy prime-time;И тебе есть с кем остаться, нет?;A masz z kim zostać, nie?
+Basic;Napisy::prime-time;Napisy prime-time;Уведите ее. - Нет! - Спокойно, еще раз. - Полегче. - Нет, нет, нет!;Zabieraj ją. - Nie! - Spokojnie, jeszcze raz. - Spokojnie. - Nie, nie, nie!
+Basic;Napisy::prime-time;Napisy prime-time;Я должен войти. - Стоп, стоп, стоп! - Смотрите.;Muszę wejść. - Stój, stój, stój! - Zobacz.
+Basic;Napisy::prime-time;Napisy prime-time;Остановитесь, я сказал!;Stój, powiedziałem!
+Basic;Napisy::prime-time;Napisy prime-time;У меня нет оружия, я чист, спокоен.;Nie mam broni, jestem czysty, spokojnie.
+Basic;Napisy::prime-time;Napisy prime-time;Положите пистолет. - Я возьму этот стул, хорошо? - Ладно, бери его и убирайся отсюда!;Opuść broń. - Wezmę to krzesło, dobra? - Dobra, bierz to i spierdalaj stąd!
+Basic;Napisy::prime-time;Napisy prime-time;Вы поможете мне?;Pomożesz mi?
+Basic;Napisy::prime-time;Napisy prime-time;Нет, нет, нет.;Nie, nie, nie.
+Basic;Napisy::prime-time;Napisy prime-time;Порог, порог, осторожно.;Próg, próg, uważaj.
+Basic;Napisy::prime-time;Napisy prime-time;Что вы делаете?;Co ty robisz?
+Basic;Napisy::prime-time;Napisy prime-time;Иди сюда, черт!;Chodź tu, kurwa!
+Basic;Napisy::prime-time;Napisy prime-time;Они отвезли ее в больницу.;Zabrali ją do szpitala.
+Basic;Napisy::prime-time;Napisy prime-time;Вот вам и акт доброй воли.;No to macie swój akt dobrej woli.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, это... ...это совсем не должно было выглядеть так.;Sebastian, to… …to nie miało wcale tak wyglądać.
+Basic;Napisy::prime-time;Napisy prime-time;Вы ведь знаете о том, что вам не придется сидеть в тюрьме?;Wiesz o tym, że nie musisz iść do więzienia, prawda?
+Basic;Napisy::prime-time;Napisy prime-time;Думаю, уже слишком поздно, нет?;No chyba już za późno, nie?
+Basic;Napisy::prime-time;Napisy prime-time;Кое-что уже произошло.;Już coś się stało.
+Basic;Napisy::prime-time;Napisy prime-time;Послушайте меня, послушайте меня.;Posłuchaj mnie, posłuchaj mnie.
+Basic;Napisy::prime-time;Napisy prime-time;Есть способ.;Jest sposób.
+Basic;Napisy::prime-time;Napisy prime-time;Вы знаете код, не так ли?;Znasz kodeks, nie?
+Basic;Napisy::prime-time;Napisy prime-time;Возможно, вы не до конца осознаете, что сейчас происходит, верно?;Możesz nie być teraz w pełni świadomy tego, co się dzieje, prawda?
+Basic;Napisy::prime-time;Napisy prime-time;Гржешек, иди домой.;Grzesiek, idź do domu.
+Basic;Napisy::prime-time;Napisy prime-time;Идите к своей жене и детям!;No idź do żony i dzieci!
+Basic;Napisy::prime-time;Napisy prime-time;Извините.;Przepraszam.
+Basic;Napisy::prime-time;Napisy prime-time;За что ты извиняешься передо мной?;Za co ty mnie przepraszasz, człowieku?
+Basic;Napisy::prime-time;Napisy prime-time;У меня нет ни детей, ни жены.;Nie mam dzieci i żony.
+Basic;Napisy::prime-time;Napisy prime-time;Продолжайте. - Пожалуйста. - Спасибо.;Idź już, no. - Proszę cię. - Dziękuję.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, это Анджей Костецкий, генеральный директор.;Sebastian, tu Andrzej Kostecki, prezes zarządu.
+Basic;Napisy::prime-time;Napisy prime-time;Ведь вы знали, что проникнуть в видение с улицы будет нелегко.;Przecież wiedziałeś, że to nie będzie łatwe wejść na wizję z ulicy.
+Basic;Napisy::prime-time;Napisy prime-time;И я подумал, что мне это удалось.;A ja myślałem, że mi się uda.
+Basic;Napisy::prime-time;Napisy prime-time;А знаете ли вы, что все совсем не обязательно должно закончиться именно так?;A wiesz, że to wcale nie musi się tak skończyć?
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян, ты все-таки умный.;Sebastian, przecież jesteś inteligentny.
+Basic;Napisy::prime-time;Napisy prime-time;В конце концов, нельзя упускать такую возможность, нет.;Przecież nie można zmarnować takiej szansy, no.
+Basic;Napisy::prime-time;Napisy prime-time;Возможно, это ваш единственный шанс.;To może być jedyna twoja szansa.
+Basic;Napisy::prime-time;Napisy prime-time;Мы можем записать его для банки.;Możemy to nagrać do puszki.
+Basic;Napisy::prime-time;Napisy prime-time;Здесь наши команды продолжают работать.;Tutaj ciągle jeszcze pracują nasze ekipy.
+Basic;Napisy::prime-time;Napisy prime-time;Перед зданием толпятся журналисты.;Przed budynkiem jest tłum dziennikarzy.
+Basic;Napisy::prime-time;Napisy prime-time;Все играет под вас, под вашу историю.;Wszystko gra na ciebie, na twoja historię.
+Basic;Napisy::prime-time;Napisy prime-time;Это может быть очень важно.;To może być naprawdę duża rzecz.
+Basic;Napisy::prime-time;Napisy prime-time;В прайм-тайм.;Na primetime.
+Basic;Napisy::prime-time;Napisy prime-time;Конечно, все зависит от того, что вы скажете.;No, oczywiście zależy od tego, co powiesz.
+Basic;Napisy::prime-time;Napisy prime-time;Себастьян.;Sebastian.
+Basic;Napisy::prime-time;Napisy prime-time;Не думайте только о себе.;Nie myśl tylko o sobie.
+Basic;Napisy::prime-time;Napisy prime-time;Подумайте о всех молодых людях, которые будут вдохновляться вами, вы понимаете?;Pomyśl o tych wszystkich młodych ludziach, którzy będą się tobą inspirować, rozumiesz?
+Basic;Napisy::prime-time;Napisy prime-time;Мы все еще можем извлечь из этого что-то ценное для вашего поколения. - И что, на какую камеру?;Możemy jeszcze wycisnąć z tego coś wartościowego dla twojego pokolenia. - To co, do której kamery?
+Basic;Napisy::prime-time;Napisy prime-time;За этот? - Да, да, за этот.;Do tej? - Tak, tak, do tej.
+Basic;Napisy::prime-time;Napisy prime-time;Да, в комплекте.;Tak, włączone.
+Basic;Napisy::prime-time;Napisy prime-time;Возможно, вы все еще хотите повторить что-то для себя?;Może jeszcze chcesz sobie coś powtórzyć?
+Basic;Napisy::prime-time;Napisy prime-time;Нет, в этом нет необходимости.;Nie, nie trzeba.
+Basic;Napisy::prime-time;Napisy prime-time;Расскажите камере о своих чувствах.;Powiedz do kamery, co czujesz.
+Basic;Napisy::prime-time;Napisy prime-time;И начните, когда будете готовы. - Нет! - Себастьян, опусти оружие.;I zacznij, jak będziesz gotowy. - Nie! - Sebastian, opuść broń.
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, опустите оружие.;Proszę cię, opuść broń.
+Basic;Napisy::prime-time;Napisy prime-time;В этом нет необходимости, Себастьян, пожалуйста.;To nie jest konieczne, Sebastian, proszę cię.
+Basic;Napisy::prime-time;Napisy prime-time;Не делайте этого.;Nie rób tego.
+Basic;Napisy::prime-time;Napisy prime-time;Второй заложник в безопасности. - Мы войдем или подождем? - Согласен, нападение.;Drugi zakładnik bezpieczny. - Wchodzimy czy czekamy? - Zgoda, szturm.
+Basic;Napisy::prime-time;Napisy prime-time;Все готово к штурму.;Całość w gotowości do szturmu.
+Basic;Napisy::prime-time;Napisy prime-time;Лягте.;Połóż się.
+Basic;Napisy::prime-time;Napisy prime-time;Лягте на землю.;Połóż się na ziemię.
+Basic;Napisy::prime-time;Napisy prime-time;Не сопротивляйтесь, слышите?;Nie stawiaj oporu, słyszysz?
+Basic;Napisy::prime-time;Napisy prime-time;Отойдите от двери и лягте на землю!;Odsuń się od drzwi i połóż się na ziemi!
+Basic;Napisy::prime-time;Napisy prime-time;Три, два, один!;Trzy, dwa, jeden!
+Basic;Napisy::prime-time;Napisy prime-time;Ложись!;Na ziemię!
+Basic;Napisy::prime-time;Napisy prime-time;Посмотрите на меня!;Spójrz na mnie!
+Basic;Napisy::prime-time;Napisy prime-time;Поднимите руки!;Pokaż ręce!
+Basic;Napisy::prime-time;Napisy prime-time;Прикройте камеры.;Zasłonić kamery.
+Basic;Napisy::prime-time;Napisy prime-time;Ты идешь со мной?;Idziecie ze mną?
+Basic;Napisy::prime-time;Napisy prime-time;Пойдемте со мной.;Chodź ze mną.
+Basic;Napisy::prime-time;Napisy prime-time;Покажите язык!;Pokaż jęzor!
+Basic;Napisy::prime-time;Napisy prime-time;Мы записываем, мы записываем!;Nagrywamy to, nagrywamy to!
+Basic;Napisy::prime-time;Napisy prime-time;Мы записываемся! - Мы выходим!;Nagrywamy! - Wychodzimy!
+Basic;Napisy::prime-time;Napisy prime-time;Пожалуйста, уходите! - Пожалуйста, оставьте меня!;Proszę wychodzić! - Proszę mnie zostawić!
+Basic;Napisy::prime-time;Napisy prime-time;Оставь камеру!;Zostaw tą kamerę!
+Basic;Napisy::prime-time;Napisy prime-time;Оставь камеру!;Zostaw tą kamerę!
+Basic;Napisy::prime-time;Napisy prime-time;Поехали, поехали. - Давай, шлюха, без сна! - Пошли, не спать!;Idziemy, idziemy. - Chodź, ty kurwo, nie ma spania! - Idziemy, nie śpij!
+Basic;Napisy::prime-time;Napisy prime-time;Я хотел бы постучаться в двери ваших домов.;Chciałbym zapukać do drzwi waszych domów.
+Basic;Napisy::prime-time;Napisy prime-time;Заходите внутрь.;Właź do środka.
+Basic;Napisy::prime-time;Napisy prime-time;Опустите голову, опустите голову.;Głowa nisko, głowa nisko.
+Basic;Napisy::prime-time;Napisy prime-time;Мы можем здесь прибраться?;Czy my możemy tutaj sprzątać?
