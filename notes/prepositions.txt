@@ -1,0 +1,12 @@
+Przyimek to słowo, które łączy się z innym wyrazem, głównie rzeczownikiem lub zaimkiem, tworząc określone relacje semantyczne. Dzięki przyimkom możemy wyrażać różne zależności, takie jak:
+
+    Relacje przestrzenne (np. w, na, pod, nad)
+    Relacje czasowe (np. przed, po, za)
+    Relacje celowe (np. dla, w celu)
+    Relacje przyczynowe (np. z, przez, z powodu)
+
+
+Przyimki dzielimy na proste i złożone.
+
+    Proste, np.: bez, do, dla, dzięki, koło, ku, między, nad, z, przez, po.
+    Złożone, np. poprzez (po+przez), zza (z+za), pomiędzy (po+między), spode (z+pod), pomimo (po+mimo), znad (z+nad), spomiędzy (z+po+między).
