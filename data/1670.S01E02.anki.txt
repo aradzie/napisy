@@ -1,0 +1,135 @@
+#separator:semicolon
+#html:false
+#notetype column:1
+#deck column:2
+#tags column:3
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Это вмешательство.;To jest interwencja.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Мы уже давно обеспокоены вашим поведением.;Od pewnego czasu jesteśmy zaniepokojeni twoim zachowaniem.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Ты всегда была душой компании.;Zawsze byłeś duszą towarzystwa.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Человек, полный энергии.;Człowiekiem pełnym energii.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Тот, чьи шутки запоминаются.;Takim, którego żart się trzyma.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Однако в последнее время ситуация изменилась.;Jednak ostatnio to się zmieniło.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Трудно не связать этот случай с алкоголем.;Trudno nie łączyć tej sprawy z alkoholem.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Да, алкоголь мне не помог.;No tak, alkohol mi nie służył.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Пора вам просыпаться.;Pora, żebyś się obudził.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;С тех пор как вы перестали пить, вы плохо спите и крититесь в постели, что иногда доставляет мне дискомфорт.;Odkąd przestałeś pić, źle sypiasz i kręcisz się w łóżku, co bywa dla mnie źródłem dyskomfortu.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Ну, а до этого, когда я выпивал, я засыпал под забором.;No ale wcześniej, jak piłem, to zasypiałem pod płotem.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Ты помнишь, как они тебя называли?;Pamiętasz, jak na ciebie wołali?
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Вы создали свой бренд.;Zbudowałeś swoją markę.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;У вас было прозвище.;Miałeś przydomek.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Вы дарили людям радость в те трудные времена.;Dawałeś ludziom trochę radości w tych trudnych czasach.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Например, как вы бегали голым с топором по деревне и кричали, что убъете кого-нибудь.;Na przykład jak biegałeś na golasa z siekierą przez wieś i krzyczałeś, że kogoś zamordujesz.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Это было круто.;To było fajne.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Возможно, я действительно утратил часть своего позитивного сумасшествия.;Może faktycznie straciłem trochę z tego mojego pozytywnego szaleństwa.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;О своем собственном сыне мне приходится слышать в церкви, что он льет за воротник.;O własnym synu muszę słuchać pod kościołem, że wylewa za kołnierz.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Я не знал, что вы так на это смотрите.;Ja nie wiedziałem, że tak na to patrzycie.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Ну, для этого у вас есть самые близкие люди.;No, od tego masz najbliższych.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Чтобы помочь вам, когда вы достигнете дна.;Żeby ci pomogli, kiedy sięgniesz dna.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;И помни.;I pamiętaj.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Самая дешевая водка только в трактире вашего хозяина.;Najtańsza wódka tylko u twojego pana w karczmie.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;А кто не пьёт, тот докладывает.;A kto nie pije еen donosi.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Наша экономика основана на том, что мы экспортируем зерно на Запад и импортируем предметы роскоши.;Nasza gospodarka opiera się na tym, że eksportujemy zboże na zachód, a dobra luksusowe sprowadzamy.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;В результате нам не нужно развивать технологию.;Dzięki temu nie musimy rozwijać technologii.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Вот что они говорят о нас.;Tak o nas mówią.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Куда это ты собралась? - У меня есть свои дела.;Dokąd idziesz? - Mam swoje sprawy.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Только не ходи в лес, а то швед отведет тебя в мешок.;Tylko nie idź do lasu, bo cię Szwed do wora zabierze.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Позади остались годы неурожаев, болезней и войн.;Za nami lata nieurodzaju, chorób i wojen.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Поэтому нужно радоваться тому, что...;Dlatego trzeba się cieszyć z tego, co...
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Убирайтесь из нашей истории!;Won z naszej historii!
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;По какой-то причине крестьяне Andrzeja получают более высокие выплаты, чем мои.;Z jakiegoś powodu chłopi Andrzeja uzyskują lepsze plony niż moi.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;И этот мерзкий ублюдок никогда не скажет, почему.;A to wredne bydlę nigdy nie powie dlaczego.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Он просто плохой человек.;To po prostu jest zły człowiek.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Это всегда было гордостью района.;Ten zawsze był dumą okolicy.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;И как только я взял его на себя, он вдруг стал работать хуже.;I akurat jak ja go przejąłem, to nagle zaczął działać gorzej.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Ну, вам, должно быть, не повезло.;No trzeba mieć pecha.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;И тут внезапно появился Анджей.;Wtedy nagle pojawił się tu Andrzej.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Когда умерла моя любимая жена, я решил сменить обстановку.;Kiedy umarła moja ukochana żona, postanowiłem zmienić otoczenie.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;И я искал место. А он решил переехать сюда.;I szukałem miejsca. I postanowił się tu przenieść.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;И он воспользовался моей шестилетней слабостью, выкупив половину деревни.;I wykorzystał mój sześcioletni moment słabości, odkupując połowę wsi.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Большая половина.;Większą połowę.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Неважно.;Nieistotne.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;В любом случае, размер не имеет значения.;Zresztą rozmiar się nie liczy.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Так говорят те, у кого маленькие деревни.;Tak mówią ci z małymi wsiami.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Но даже если она временно не принадлежит мне целиком.;Ale nawet jeśli chwilowo w całości nie należy do mnie.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;И здесь, когда прозвенит последний звонок, я буду похоронен.;I tu, gdy zabije ostatni dzwon, zostanę pochowany.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;За исключением сердца.;Za wyjątkiem serca.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Мы можем повесить всех дворян.;Moglibyśmy powiesić wszystkich szlachciców.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Я приспособлюсь.;Ja się dostosuję.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Сегодня я отправляюсь к холопам с заданием.;Wyruszam dzisiaj do chłopów z misją.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Изменения происходят на наших глазах.;Zmiany dzieją się na naszych oczach.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Мы должны действовать.;Musimy działać.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Нам нужно серьезно поговорить.;Musimy poważnie porozmawiać.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Из-за изменения климата жизнь людей на этой планете находится под серьезной угрозой.;Przez zmiany klimatyczne życie ludzi na tej planecie jest poważnie zagrożone.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Ну, я так и знал.;No wiedziałem.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Это было слишком хорошо.;Za dobrze było.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Звучит пугающе, не правда ли?;To faktycznie brzmi przerażająco, nie?
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Сколько времени у нас есть?;Ile mamy czasu?
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Через 380 лет изменения станут необратимыми.;Za 380 lat zmiany będą nieodwracalne.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Это может показаться далеким будущим, но чем раньше мы начнем...;To może brzmieć jak odległa przyszłość, ale im wcześniej zaczniemy...
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Тридцать звучит ужасающе.;Trzydzieści brzmi przerażająco.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Тогда мы точно начнем действовать.;Wtedy na pewno byśmy zaczęli działać.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;У каждого человека должны быть глаза вокруг головы.;Wszyscy mają mieć oczy dookoła głowy.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Нам нужно выяснить, почему наша ферма проигрывает.;Musimy odkryć, dlaczego nasz folwark przegrywa.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Холопов надо выжимать, как червяков.;Chłopów trzeba wycisnąć jak robaków.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;У нас встреча.;Naradę mamy.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Жизнь проходит мимо вас.;Życie cię omija.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;В конце дня я хочу услышать, что вы сделали сегодня.;Na koniec dnia chcę usłyszeć, co dziś zrobiłeś.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Это была слабая шутка, но не настолько.;To był słaby żart, ale nie aż tak słaby.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Ты на меня злишься?;Jesteś na mnie zła?
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Здесь холодно!;Zimno tu!
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Думаю, я ошибался насчет тебя.;Chyba się co do ciebie myliłam.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Вот список посещаемости на работе.;Oto lista obecności w pracy.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;И это стоит повторить.;I to się powtarza.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Может, кто-то плохо смотрел, когда записывал?;Może ktoś źle spojrzał przy zapisywaniu?
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Именно для таких ситуаций и была придумана эта поговорка.;Właśnie na taką sytuację wymyślono to powiedzenie.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Ну, я думаю, что это чушь.;No ale ja myślę, że to bujda.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Кто же заменит холопа?;No bo kto zastąpi chłopa?
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Давай подумаем.;Zastanówmy się.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Кто освободит его от титанической задачи?;Kto wyręczy go w jego tytanicznej pracy?
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Я всегда говорю что-то глупое.;Zawsze coś głupio palnę.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;И меня еще не приглашали ни в один заговор.;A mnie jeszcze nikt do żadnego spisku nie zaprosił.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Или все евреи сговорились.;Albo wszyscy Żydzi spiskują.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Меня одного не приглашают.;Tylko mnie jednego nie zapraszają.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Потому что я глупый и не гожусь для этого.;No bo głupi jestem i się nie nadaję.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Вы очень проницательны.;Jesteś bardzo spostrzegawczy.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Мне кажется забавным, что люди рядом с известными людьми ведут себя по-разному.;Śmieszy mnie, jak ludzie przy znanych osobach zachowują się inaczej.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;У меня здесь есть прозвище - Последний Самаритянин.;Mam tutaj taki przydomek – Ostatni Samarytanin.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;В конце концов, он такой же человек, как и все остальные.;Przecież to człowiek jak każdy inny.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Я думал об этом.;Przemyślałem to.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Я следую вашему совету.;Idę za twoją radą.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Мы давим крестьян, как червей.;Dociskamy chłopów jak robaków.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Я этого не говорил.;Ja tak nie powiedziałem.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;На вопрос, что делать с Гжегожем, вы ответили „бей его долго и сильно”.;Na pytanie, co zrobić z Grzegorzem, powiedziałeś, że „bij go długo i mocno”.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;В конце концов, речь шла о том, чтобы победить его любовью.;Przecież chodziło o to żebyś go bił miłością.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;"Нет-нет, я пости уверен, что вы сказали ""бей его цепью"".";Nie no, jestem prawie pewien, że powiedziałeś, że „bij go cepem”.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Якуб заставил меня задуматься.;Jakub dał mi do myślenia.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;До сих пор в отношении работников я использовал метод кнута и пряника.;Do tej pory wobec pracujących stosowałem metodę marchewki i kija.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Судьба ждет вас.;Los na was czyha.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Я бы хотел, чтобы мои холопы верили в себя.;Chciałbym, by moi chłopi uwierzyli w siebie.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Конечно, судьба кузнеца зависит от меня.;Oczywiście los kowala zależy ode mnie.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Как?;W jaki sposób?
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Неужели нас ждет такая судьба?;Czy to jest ten los, co na nas czyha?
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Отец Иаков приказал мне. Что он приказал тебе сделать?;Ksiądz Jakub mi kazał. Co ci kazał?
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Чувствуйте себя как дома.;Czuć się jak w domu.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Что это должно быть?;Co to ma być?
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Вы не поверите, это он.;Nie uwierzysz, to on.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;У меня к вам одна просьба.;Mam do ciebie jedną prośbę.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Прошу прощения?;Słucham?
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Пройдите по воде до середины пруда.;Idź po wodzie na środek stawu.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Навсегда.;Na zawsze.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Будешь свободным.;Będziesz wolny.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Это положительный аспект ситуации, но я так же вижу и минусы.;To jest pozytywny aspekt tej sytuacji, ale dostrzegam także minusy.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Что мне придется идти в середину пруда, а это невозможно.;Że mam wejść na środek stawu, co jest niemożliwe.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;И ты не умеешь плавать.;I nie umiesz pływać.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Дает пищу для размышлений.;Daje do myślenia.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Он отдал письмо и тут же помчался.;Dał list i od razu popędził.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Мне придется жить под бременем этой лжи.;Będę musiał żyć z ciężarem kłamstwa.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Но самое главное, что я смог улучшить работу в поместье.;Ale najważniejsze, że udało mi się usprawnić prace w folwarku.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Убедить крестьян изменить свои привычки оказывается очень сложно.;Okazuje się, że przekonanie chłopów do zmiany nawyków jest bardzo trudne.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Люди не хотят отказываться даже от небольшого комфорта.;Ludzie nie chcą zrezygnować choćby z odrobiny komfortu.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Я хотел сказать, что переосмыслил свое отношение.;Chciałem ci powiedzieć, że przemyślałem swoją postawę.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Это самая странная история, которую я когда-либо слышал.;To najdziwniejsza historia, jaką kiedykolwiek słyszałam.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;И в то же время это самая милая вещь, которую кто-либо когда-либо для меня делал.;I zarazem najsłodsza rzecz, jaką ktoś dla mnie zrobił.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Извинения приняты.;Przeprosiny przyjęte.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Это запах победы.;To zapach zwycięstwa.
+Basic;Napisy::1670.S01E02;Napisy 1670.S01E02;Хотя, конечно, из этого ничего не выйдет.;Choć oczywiście do niczego nie dojdzie.

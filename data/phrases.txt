@@ -1,83 +1,89 @@
-This is more difficult|To jest trudniejsze
-I have already seen how people harm themselves|Już widziałem jak ludzie robią sobie krzywdę
-Он ошибается|On się myli
-Радослав Сикорский больше не питает иллюзий|Radosław Sikorski nie ma już złudzeń
-Каждое утро он целует свое отражение в зеркале|Każdego ranka całuje swoje odbicie w lustrze
-Его невозможно оскорбить|Nie da się go urazić
-Президент намерен наложить вето на сокращение взносов на медицинское страхование|Prezydent zamierza zawetować obniżkę składki zdrowotnej
-Готовит ли ЕС «атаку на сбережения»?|UE szykuje "zamach na oszczędności"?
-Огромный рост поддержки|Olbrzymi wzrost poparcia
-Я начал учить Польский|Zacząłem uczyć się polskiego
-Вокруг солнца|Wokół słońca
-Предлог это слово, которое соединяется с другим словом|Przyimek to słowo, które łączy się z innym wyrazem
-Как вы думаете, что там?|Co według was tam jest?
-По статистике, вероятность, что вы умрете|Według statystyk szansa, że zginiesz
-Пока что о тех, кто работает в поле|Do tej pory wobec pracujących na polu
-Твой кузен использует против него язык ненависти|Twój kuzyn stosuje wobec niego mowę nienawiści
-Были ли среди жертв поляки?|A czy wśród ofiar byli Polacy?
-Рядом с кроватью сидела мама|Koło łóżka siedziała mama
-Несмотря на огромные человеческие потери|Mimo gigantycznych strat w ludziach
-Кроме моей дочери, здесь нет ни одной женщины!|Oprócz mojej córki nie ma tu żadnej kobiety!
-Шло к нам шаг за шагом|Szło ku nam krok za krokiem
-Как и иностранное насилие, с которым он боролся всю свою жизнь|Jak przemoc obca przeciw której przez życie całe walczył
-Его не может победить никакая сила, противостоящая всем силам зла|Nie da się pokonać żadną mocą wbrew wszelkim złym mocom
-Против воли отца она ушла в монастырь|Wbrew ojcu poszła do zakonu
-Ты можешь сделать такое же приложение|Możesz stworzyć taką samą aplikację
-Сломать ноутбук|Zniszczyć laptopa
-В любом случае, размер не имеет значения|Zresztą rozmiar się nie liczy
-Я приспособлюсь|Ja się dostosuję
-Откуда я тебя знаю?|Skąd cię znam?
-Я делаю это по своему|Robię to po swojemu
-Culture wars do not bother me|Wojny kulturowe mnie nie ruszają
-He has won the battle|Wygrał bitwę
-Это вызовет большие волны миграции|Spowoduje to duże fale migracji
-Россия будет запугивать НАТО|Rosja będzie zastraszać NATO
+this is more difficult|to jest trudniejsze
+i have already seen how people harm themselves|już widziałem jak ludzie robią sobie krzywdę
+он ошибается|on się myli
+радослав сикорский больше не питает иллюзий|radosław sikorski nie ma już złudzeń
+каждое утро он целует свое отражение в зеркале|każdego ranka całuje swoje odbicie w lustrze
+его невозможно оскорбить|nie da się go urazić
+президент намерен наложить вето на сокращение взносов на медицинское страхование|prezydent zamierza zawetować obniżkę składki zdrowotnej
+готовит ли ес «атаку на сбережения»?|ue szykuje "zamach na oszczędności"?
+огромный рост поддержки|olbrzymi wzrost poparcia
+я начал учить польский|zacząłem uczyć się polskiego
+вокруг солнца|wokół słońca
+предлог это слово, которое соединяется с другим словом|przyimek to słowo, które łączy się z innym wyrazem
+как вы думаете, что там?|co według was tam jest?
+по статистике, вероятность, что вы умрете|według statystyk szansa, że zginiesz
+пока что о тех, кто работает в поле|do tej pory wobec pracujących na polu
+твой кузен использует против него язык ненависти|twój kuzyn stosuje wobec niego mowę nienawiści
+были ли среди жертв поляки?|a czy wśród ofiar byli polacy?
+рядом с кроватью сидела мама|koło łóżka siedziała mama
+несмотря на огромные человеческие потери|mimo gigantycznych strat w ludziach
+кроме моей дочери, здесь нет ни одной женщины!|oprócz mojej córki nie ma tu żadnej kobiety!
+шло к нам шаг за шагом|szło ku nam krok za krokiem
+как и иностранное насилие, с которым он боролся всю свою жизнь|jak przemoc obca przeciw której przez życie całe walczył
+его не может победить никакая сила, противостоящая всем силам зла|nie da się pokonać żadną mocą wbrew wszelkim złym mocom
+против воли отца она ушла в монастырь|wbrew ojcu poszła do zakonu
+ты можешь сделать такое же приложение|możesz stworzyć taką samą aplikację
+сломать ноутбук|zniszczyć laptopa
+в любом случае, размер не имеет значения|zresztą rozmiar się nie liczy
+я приспособлюсь|ja się dostosuję
+откуда я тебя знаю?|skąd cię znam?
+я делаю это по своему|robię to po swojemu
+culture wars do not bother me|wojny kulturowe mnie nie ruszają
+he has won the battle|wygrał bitwę
+это вызовет большие волны миграции|spowoduje to duże fale migracji
+россия будет запугивать нато|rosja będzie zastraszać nato
 остроумный|dowcipny
-Чтобы доказать, что НАТО больше не существует|Aby udowodnić, że NATO już nie istnieje
-Every time you do something|Za każdym razem, gdy coś robisz
-From his point of view|Z jego punktu widzenia
-What happened to him|Co się z nim stało
-I am trying to do something|Próbuję coś zrobić
-Поляки устали от напряженности, связанной с войной на Украине|Polacy są zmęczeni napięciem związanym z wojną w Ukrainie
-Все меньше людей заявляют о своей готовности вступить в армию|Coraz mniej osób deklaruje chęć wstąpienia do armii,
-И все больше заявляют о готовности покинуть страну|A więcej zapowiada opuszczenie kraju
-Usually|Obecne
-У многих людей фотоэлектричество ассоциируется в основном с микроустановками|Fotowoltaika kojarzy się wielu osobom głównie z mikroinstalacjami
-В моем ближайшем окружении самые богатые люди, с которыми я когда-либо имел дело|W moim najbliższym środowisku najbogatsi ludzie, z którymi miałem do czynienia
+чтобы доказать, что нато больше не существует|aby udowodnić, że nato już nie istnieje
+every time you do something|za każdym razem, gdy coś robisz
+from his point of view|z jego punktu widzenia
+what happened to him|co się z nim stało
+i am trying to do something|próbuję coś zrobić
+поляки устали от напряженности, связанной с войной на украине|polacy są zmęczeni napięciem związanym z wojną w ukrainie
+все меньше людей заявляют о своей готовности вступить в армию|coraz mniej osób deklaruje chęć wstąpienia do armii,
+и все больше заявляют о готовности покинуть страну|a więcej zapowiada opuszczenie kraju
+usually|obecne
+у многих людей фотоэлектричество ассоциируется в основном с микроустановками|fotowoltaika kojarzy się wielu osobom głównie z mikroinstalacjami
+в моем ближайшем окружении самые богатые люди, с которыми я когда-либо имел дело|w moim najbliższym środowisku najbogatsi ludzie, z którymi miałem do czynienia
 и столкнулся с реальностью|i zderzyłem się z rzeczywistością
 люди становятся жертвами своей судьбы|ludzie padają ofiarami swojego losu
 потому что я встретил талантливых учителей|bo trafiłem na zdolnych nauczycieli
-Но что заставило меня обратиться?|Ale co mnie nawróciło?
-Это довольно сложный вопрос|To dość złożona kwestia
+но что заставило меня обратиться?|ale co mnie nawróciło?
+это довольно сложный вопрос|to dość złożona kwestia
 во многих отношениях оплот нормальности|w wielu kwestiach ostoją normalności
-подтвердил, что восхищается Путиным|potwierdził, że podziwia Putina
-Нам следует быть умными|Powinniśmy być mądrzy
-I wonder how he got signatures|Zastanawia mnie jak zdobył podpisy
-Они справились с этим великолепно|Pięknie go załatwili
+подтвердил, что восхищается путиным|potwierdził, że podziwia putina
+нам следует быть умными|powinniśmy być mądrzy
+i wonder how he got signatures|zastanawia mnie jak zdobył podpisy
+они справились с этим великолепно|pięknie go załatwili
 из имеющихся на рынке и типа контракта|spośród dostępnych na rynku i rodzaju umowy
 возможность заключения договора|możliwość zawarcia umowy
 корректировка договорной мощности в соответствии с фактическим спросом|dostosowanie mocy umownej do faktycznego zapotrzebowania
 замена существующих источников света на современные энергосберегающие|wymianę istniejących źródeł światła na nowoczesne źródła energooszczędne
 диаграмма|wykres
-Всего к оплате|Do zapłaty łącznie
+всего к оплате|do zapłaty łącznie
 estimated reading|odczyt szacowany
-I live with the idea that the one day|Żyję z myślą, że pewnego dnia
-How much time does it spend on|Ile czasu spędza na
-Я не выдавал себя за полицию|Nie podawałem się za policję
-Надо просто перестать|Musisz się po prostu zatrzymać
-How will you solve this problem?|Jak rozwiążesz ten problem?
-Это нарушает мои права|To narusza moje prawa
-Максимальная грузоподъемность|Maksymalna ładowność
-Он никуда не исчез|Nie zniknął nigdzie
+i live with the idea that the one day|żyję z myślą, że pewnego dnia
+how much time does it spend on|ile czasu spędza na
+я не выдавал себя за полицию|nie podawałem się za policję
+надо просто перестать|musisz się po prostu zatrzymać
+how will you solve this problem?|jak rozwiążesz ten problem?
+это нарушает мои права|to narusza moje prawa
+максимальная грузоподъемность|maksymalna ładowność
+он никуда не исчез|nie zniknął nigdzie
 особенно|zwłaszcza
 ситуация на рынке по-прежнему сложная|sytuacja na rynku nadal jest trudna
-Это явление становится все более распространенным|Zjawisko to staje się coraz bardziej powszechne
-Я придерживаюсь мнения|Jestem zdania
-Это не совпадение|Nie jest to przypadek
-Это замкнутый круг|Działa błędne koło
-Польша уже сегодня воспринимается|Polska już dziś jest postrzegana
-Все менее дружелюбный|Coraz mniej przyjazny
-Мне кажется, что польские правые больны на голову|Coś mi się wydaje, że Polska prawica jest chora na głowę
-Он живет здесь только с января|Mieszka tu dopiero od stycznia
-Он выплатил только половину долга|Spłacił dopiero połowę długu
-A to dopiero pech|Вот это просто невезение
+это явление становится все более распространенным|zjawisko to staje się coraz bardziej powszechne
+я придерживаюсь мнения|jestem zdania
+это не совпадение|nie jest to przypadek
+это замкнутый круг|działa błędne koło
+польша уже сегодня воспринимается|polska już dziś jest postrzegana
+все менее дружелюбный|coraz mniej przyjazny
+мне кажется, что польские правые больны на голову|coś mi się wydaje, że polska prawica jest chora na głowę
+он живет здесь только с января|mieszka tu dopiero od stycznia
+он выплатил только половину долга|spłacił dopiero połowę długu
+a to dopiero pech|вот это просто невезение
+есть только одна причина|jest tylko jeden powód
+делается предположение|robione jest założenie
+что еще должно произойти, чтобы мы серьезно начали разрушать барьеры на|co jeszcze musi się stać, byśmy na poważnie wzięli się za znoszenie barier...
+подчеркнула, что иностранцы необходимы|podkreśliła, że cudzoziemcy są niezbędni
+он сделает еще хуже|on tylko pogorszy sprawę
+он сделает еще лучше|poradzi sobie jeszcze lepiej

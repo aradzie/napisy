@@ -1,0 +1,92 @@
+#separator:semicolon
+#html:false
+#notetype column:1
+#deck column:2
+#tags column:3
+Basic;Napisy::phrases;Napisy;this is more difficult;to jest trudniejsze
+Basic;Napisy::phrases;Napisy;i have already seen how people harm themselves;już widziałem jak ludzie robią sobie krzywdę
+Basic;Napisy::phrases;Napisy;он ошибается;on się myli
+Basic;Napisy::phrases;Napisy;радослав сикорский больше не питает иллюзий;radosław sikorski nie ma już złudzeń
+Basic;Napisy::phrases;Napisy;каждое утро он целует свое отражение в зеркале;każdego ranka całuje swoje odbicie w lustrze
+Basic;Napisy::phrases;Napisy;его невозможно оскорбить;nie da się go urazić
+Basic;Napisy::phrases;Napisy;президент намерен наложить вето на сокращение взносов на медицинское страхование;prezydent zamierza zawetować obniżkę składki zdrowotnej
+Basic;Napisy::phrases;Napisy;готовит ли ес «атаку на сбережения»?;"ue szykuje ""zamach na oszczędności""?"
+Basic;Napisy::phrases;Napisy;огромный рост поддержки;olbrzymi wzrost poparcia
+Basic;Napisy::phrases;Napisy;я начал учить польский;zacząłem uczyć się polskiego
+Basic;Napisy::phrases;Napisy;вокруг солнца;wokół słońca
+Basic;Napisy::phrases;Napisy;предлог это слово, которое соединяется с другим словом;przyimek to słowo, które łączy się z innym wyrazem
+Basic;Napisy::phrases;Napisy;как вы думаете, что там?;co według was tam jest?
+Basic;Napisy::phrases;Napisy;по статистике, вероятность, что вы умрете;według statystyk szansa, że zginiesz
+Basic;Napisy::phrases;Napisy;пока что о тех, кто работает в поле;do tej pory wobec pracujących na polu
+Basic;Napisy::phrases;Napisy;твой кузен использует против него язык ненависти;twój kuzyn stosuje wobec niego mowę nienawiści
+Basic;Napisy::phrases;Napisy;были ли среди жертв поляки?;a czy wśród ofiar byli polacy?
+Basic;Napisy::phrases;Napisy;рядом с кроватью сидела мама;koło łóżka siedziała mama
+Basic;Napisy::phrases;Napisy;несмотря на огромные человеческие потери;mimo gigantycznych strat w ludziach
+Basic;Napisy::phrases;Napisy;кроме моей дочери, здесь нет ни одной женщины!;oprócz mojej córki nie ma tu żadnej kobiety!
+Basic;Napisy::phrases;Napisy;шло к нам шаг за шагом;szło ku nam krok za krokiem
+Basic;Napisy::phrases;Napisy;как и иностранное насилие, с которым он боролся всю свою жизнь;jak przemoc obca przeciw której przez życie całe walczył
+Basic;Napisy::phrases;Napisy;его не может победить никакая сила, противостоящая всем силам зла;nie da się pokonać żadną mocą wbrew wszelkim złym mocom
+Basic;Napisy::phrases;Napisy;против воли отца она ушла в монастырь;wbrew ojcu poszła do zakonu
+Basic;Napisy::phrases;Napisy;ты можешь сделать такое же приложение;możesz stworzyć taką samą aplikację
+Basic;Napisy::phrases;Napisy;сломать ноутбук;zniszczyć laptopa
+Basic;Napisy::phrases;Napisy;в любом случае, размер не имеет значения;zresztą rozmiar się nie liczy
+Basic;Napisy::phrases;Napisy;я приспособлюсь;ja się dostosuję
+Basic;Napisy::phrases;Napisy;откуда я тебя знаю?;skąd cię znam?
+Basic;Napisy::phrases;Napisy;я делаю это по своему;robię to po swojemu
+Basic;Napisy::phrases;Napisy;culture wars do not bother me;wojny kulturowe mnie nie ruszają
+Basic;Napisy::phrases;Napisy;he has won the battle;wygrał bitwę
+Basic;Napisy::phrases;Napisy;это вызовет большие волны миграции;spowoduje to duże fale migracji
+Basic;Napisy::phrases;Napisy;россия будет запугивать нато;rosja będzie zastraszać nato
+Basic;Napisy::phrases;Napisy;остроумный;dowcipny
+Basic;Napisy::phrases;Napisy;чтобы доказать, что нато больше не существует;aby udowodnić, że nato już nie istnieje
+Basic;Napisy::phrases;Napisy;every time you do something;za każdym razem, gdy coś robisz
+Basic;Napisy::phrases;Napisy;from his point of view;z jego punktu widzenia
+Basic;Napisy::phrases;Napisy;what happened to him;co się z nim stało
+Basic;Napisy::phrases;Napisy;i am trying to do something;próbuję coś zrobić
+Basic;Napisy::phrases;Napisy;поляки устали от напряженности, связанной с войной на украине;polacy są zmęczeni napięciem związanym z wojną w ukrainie
+Basic;Napisy::phrases;Napisy;все меньше людей заявляют о своей готовности вступить в армию;coraz mniej osób deklaruje chęć wstąpienia do armii,
+Basic;Napisy::phrases;Napisy;и все больше заявляют о готовности покинуть страну;a więcej zapowiada opuszczenie kraju
+Basic;Napisy::phrases;Napisy;usually;obecne
+Basic;Napisy::phrases;Napisy;у многих людей фотоэлектричество ассоциируется в основном с микроустановками;fotowoltaika kojarzy się wielu osobom głównie z mikroinstalacjami
+Basic;Napisy::phrases;Napisy;в моем ближайшем окружении самые богатые люди, с которыми я когда-либо имел дело;w moim najbliższym środowisku najbogatsi ludzie, z którymi miałem do czynienia
+Basic;Napisy::phrases;Napisy;и столкнулся с реальностью;i zderzyłem się z rzeczywistością
+Basic;Napisy::phrases;Napisy;люди становятся жертвами своей судьбы;ludzie padają ofiarami swojego losu
+Basic;Napisy::phrases;Napisy;потому что я встретил талантливых учителей;bo trafiłem na zdolnych nauczycieli
+Basic;Napisy::phrases;Napisy;но что заставило меня обратиться?;ale co mnie nawróciło?
+Basic;Napisy::phrases;Napisy;это довольно сложный вопрос;to dość złożona kwestia
+Basic;Napisy::phrases;Napisy;во многих отношениях оплот нормальности;w wielu kwestiach ostoją normalności
+Basic;Napisy::phrases;Napisy;подтвердил, что восхищается путиным;potwierdził, że podziwia putina
+Basic;Napisy::phrases;Napisy;нам следует быть умными;powinniśmy być mądrzy
+Basic;Napisy::phrases;Napisy;i wonder how he got signatures;zastanawia mnie jak zdobył podpisy
+Basic;Napisy::phrases;Napisy;они справились с этим великолепно;pięknie go załatwili
+Basic;Napisy::phrases;Napisy;из имеющихся на рынке и типа контракта;spośród dostępnych na rynku i rodzaju umowy
+Basic;Napisy::phrases;Napisy;возможность заключения договора;możliwość zawarcia umowy
+Basic;Napisy::phrases;Napisy;корректировка договорной мощности в соответствии с фактическим спросом;dostosowanie mocy umownej do faktycznego zapotrzebowania
+Basic;Napisy::phrases;Napisy;замена существующих источников света на современные энергосберегающие;wymianę istniejących źródeł światła na nowoczesne źródła energooszczędne
+Basic;Napisy::phrases;Napisy;диаграмма;wykres
+Basic;Napisy::phrases;Napisy;всего к оплате;do zapłaty łącznie
+Basic;Napisy::phrases;Napisy;estimated reading;odczyt szacowany
+Basic;Napisy::phrases;Napisy;i live with the idea that the one day;żyję z myślą, że pewnego dnia
+Basic;Napisy::phrases;Napisy;how much time does it spend on;ile czasu spędza na
+Basic;Napisy::phrases;Napisy;я не выдавал себя за полицию;nie podawałem się za policję
+Basic;Napisy::phrases;Napisy;надо просто перестать;musisz się po prostu zatrzymać
+Basic;Napisy::phrases;Napisy;how will you solve this problem?;jak rozwiążesz ten problem?
+Basic;Napisy::phrases;Napisy;это нарушает мои права;to narusza moje prawa
+Basic;Napisy::phrases;Napisy;максимальная грузоподъемность;maksymalna ładowność
+Basic;Napisy::phrases;Napisy;он никуда не исчез;nie zniknął nigdzie
+Basic;Napisy::phrases;Napisy;особенно;zwłaszcza
+Basic;Napisy::phrases;Napisy;ситуация на рынке по-прежнему сложная;sytuacja na rynku nadal jest trudna
+Basic;Napisy::phrases;Napisy;это явление становится все более распространенным;zjawisko to staje się coraz bardziej powszechne
+Basic;Napisy::phrases;Napisy;я придерживаюсь мнения;jestem zdania
+Basic;Napisy::phrases;Napisy;это не совпадение;nie jest to przypadek
+Basic;Napisy::phrases;Napisy;это замкнутый круг;działa błędne koło
+Basic;Napisy::phrases;Napisy;польша уже сегодня воспринимается;polska już dziś jest postrzegana
+Basic;Napisy::phrases;Napisy;все менее дружелюбный;coraz mniej przyjazny
+Basic;Napisy::phrases;Napisy;мне кажется, что польские правые больны на голову;coś mi się wydaje, że polska prawica jest chora na głowę
+Basic;Napisy::phrases;Napisy;он живет здесь только с января;mieszka tu dopiero od stycznia
+Basic;Napisy::phrases;Napisy;он выплатил только половину долга;spłacił dopiero połowę długu
+Basic;Napisy::phrases;Napisy;a to dopiero pech;вот это просто невезение
+Basic;Napisy::phrases;Napisy;есть только одна причина;jest tylko jeden powód
+Basic;Napisy::phrases;Napisy;делается предположение;robione jest założenie
+Basic;Napisy::phrases;Napisy;что еще должно произойти, чтобы мы серьезно начали разрушать барьеры на;co jeszcze musi się stać, byśmy na poważnie wzięli się za znoszenie barier...
+Basic;Napisy::phrases;Napisy;подчеркнула, что иностранцы необходимы;podkreśliła, że cudzoziemcy są niezbędni
