@@ -1,0 +1,22 @@
+version = 1
+revision = 2
+requires-python = ">=3.13"
+
+[[package]]
+name = "morfeusz2"
+version = "1.99.9"
+source = { registry = "https://pypi.org/simple" }
+wheels = [
+  { url = "https://files.pythonhosted.org/packages/2f/2c/e9df1ffac7166eb76e47b43e5e824895bc02b20ea55599432f2edd0b62a3/morfeusz2-1.99.9-cp36-abi3-manylinux_2_28_x86_64.whl", hash = "sha256:791b3e3f2cc27cd5bb10a89881bc3cf66283b668937f3455cc00387b64be8f52", size = 9213019, upload-time = "2024-07-01T15:33:46.023Z" },
+]
+
+[[package]]
+name = "napisy"
+version = "0.1.0"
+source = { virtual = "." }
+dependencies = [
+  { name = "morfeusz2" },
+]
+
+[package.metadata]
+requires-dist = [{ name = "morfeusz2", specifier = ">=1.99.9" }]
