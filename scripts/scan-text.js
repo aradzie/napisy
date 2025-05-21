@@ -2,7 +2,7 @@ import { readFile, writeFile } from "node:fs/promises";
 import { parse } from "node:path";
 import { pathTo } from "../lib/io.js";
 
-await scanTextPairs(pathTo("input/phrases.txt"));
+await scanTextPairs(pathTo("data/phrases.txt"));
 
 async function scanTextPairs(file) {
   const { name } = parse(file);
