@@ -1,0 +1,67 @@
+!type:Basic
+
+!deck:Polski::Odmiany
+
+!tags:Polski Odmiana
+
+# https://wsjp.pl/haslo/podglad/31129/byc/4691500/gdzies
+
+Ja [być] (czas teraźniejszy)
+---
+Ja jestem
+===
+
+My [być] (czas teraźniejszy)
+---
+My jesteśmy
+===
+
+Ty [być] (czas teraźniejszy)
+---
+Ty jesteś
+===
+
+Wy [być] (czas teraźniejszy)
+---
+Wy jesteście
+===
+
+On/Ona/Ono [być] (czas teraźniejszy)
+---
+On/Ona/Ono jest
+===
+
+Oni/One [być] (czas teraźniejszy)
+---
+Oni/One	są
+===
+
+Ja [być] (czas przyszły)
+---
+Ja będę
+===
+
+My [być] (czas przyszły)
+---
+My będziemy
+===
+
+Ty [być] (czas przyszły)
+---
+Ty będziesz
+===
+
+Wy [być] (czas przyszły)
+---
+Wy będziecie
+===
+
+On/Ona/Ono [być] (czas przyszły)
+---
+On/Ona/Ono będzie
+===
+
+Oni/One [być] (czas przyszły)
+---
+Oni/One	będą
+===

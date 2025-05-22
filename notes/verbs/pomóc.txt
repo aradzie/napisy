@@ -1,0 +1,37 @@
+!type:Basic
+
+!deck:Polski::Odmiany
+
+!tags:Polski Odmiana
+
+# https://wsjp.pl/haslo/podglad/25624/pomoc/4616433/w-nauce
+
+Ja [pomóc] (czas przyszły)
+---
+Ja pomogę
+===
+
+My [pomóc] (czas przyszły)
+---
+My pomożemy
+===
+
+Ty [pomóc] (czas przyszły)
+---
+Ty pomożesz
+===
+
+Wy [pomóc] (czas przyszły)
+---
+Wy pomożecie
+===
+
+On/Ona/Ono [pomóc] (czas przyszły)
+---
+On/Ona/Ono pomoże
+===
+
+Oni/One [pomóc] (czas przyszły)
+---
+Oni/One pomogą
+===

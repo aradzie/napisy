@@ -1,0 +1,37 @@
+!type:Basic
+
+!deck:Polski::Odmiany
+
+!tags:Polski Odmiana
+
+# https://wsjp.pl/haslo/podglad/35412/chciec/4904577/cos-robic
+
+Ja [chcieć] (czas teraźniejszy)
+---
+Ja chcę
+===
+
+My [chcieć] (czas teraźniejszy)
+---
+My chcemy
+===
+
+Ty [chcieć] (czas teraźniejszy)
+---
+Ty chcesz
+===
+
+Wy [chcieć] (czas teraźniejszy)
+---
+Wy chcecie
+===
+
+On/Ona/Ono [chcieć] (czas teraźniejszy)
+---
+On/Ona/Ono chce
+===
+
+Oni/One [chcieć] (czas teraźniejszy)
+---
+Oni/One	chcą
+===

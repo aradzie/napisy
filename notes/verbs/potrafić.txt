@@ -1,0 +1,37 @@
+!type:Basic
+
+!deck:Polski::Odmiany
+
+!tags:Polski Odmiana
+
+# https://wsjp.pl/haslo/podglad/41449/potrafic/4917486/umiec
+
+Ja [potrafić] (czas teraźniejszy)
+---
+Ja potrafię
+===
+
+My [potrafić] (czas teraźniejszy)
+---
+My potrafimy
+===
+
+Ty [potrafić] (czas teraźniejszy)
+---
+Ty potrafisz
+===
+
+Wy [potrafić] (czas teraźniejszy)
+---
+Wy potraficie
+===
+
+On/Ona/Ono [potrafić] (czas teraźniejszy)
+---
+On/Ona/Ono potrafi
+===
+
+Oni/One [potrafić] (czas teraźniejszy)
+---
+Oni/One potrafią
+===

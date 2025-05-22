@@ -1,0 +1,37 @@
+!type:Basic
+
+!deck:Polski::Odmiany
+
+!tags:Polski Odmiana
+
+# https://wsjp.pl/haslo/podglad/6365/dawac/4488497/prezent
+
+Ja [dawać] (czas teraźniejszy)
+---
+Ja daję
+===
+
+My [dawać] (czas teraźniejszy)
+---
+My dajemy
+===
+
+Ty [dawać] (czas teraźniejszy)
+---
+Ty dajesz
+===
+
+Wy [dawać] (czas teraźniejszy)
+---
+Wy dajecie
+===
+
+On/Ona/Ono [dawać] (czas teraźniejszy)
+---
+On/Ona/Ono daje
+===
+
+Oni/One [dawać] (czas teraźniejszy)
+---
+Oni/One	dają
+===

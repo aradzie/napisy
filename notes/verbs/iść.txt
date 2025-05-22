@@ -1,0 +1,97 @@
+!type:Basic
+
+!deck:Polski::Odmiany
+
+!tags:Polski Odmiana
+
+# https://wsjp.pl/haslo/podglad/19012/isc/5066139/do-domu
+
+Ja [iść] (czas teraźniejszy)
+---
+Ja idę
+===
+
+My [iść] (czas teraźniejszy)
+---
+My idziemy
+===
+
+Ty [iść] (czas teraźniejszy)
+---
+Ty idziesz
+===
+
+Wy [iść] (czas teraźniejszy)
+---
+Wy idziecie
+===
+
+On/Ona/Ono [iść] (czas teraźniejszy)
+---
+On/Ona/Ono idzie
+===
+
+Oni/One [iść] (czas teraźniejszy)
+---
+Oni/One idą
+===
+
+Ja [iść] (m, czas przeszły)
+---
+Ja szedłem
+===
+
+Ja [iść] (ż, czas przeszły)
+---
+Ja szłam
+===
+
+Ja [iść] (n, czas przeszły)
+---
+Ja szłom
+===
+
+My [iść] (czas przeszły)
+---
+My szliśmy
+===
+
+Ty [iść] (m, czas przeszły)
+---
+Ty szedłeś
+===
+
+Ty [iść] (ż, czas przeszły)
+---
+Ty szłaś
+===
+
+Ty [iść] (n, czas przeszły)
+---
+Ty szłoś
+===
+
+Wy [iść] (czas przeszły)
+---
+Wy szliście
+===
+
+On [iść] (czas przeszły)
+---
+On szedł
+===
+
+Ona [iść] (czas przeszły)
+---
+Ona szła
+===
+
+Ono [iść] (czas przeszły)
+---
+Ono szło
+===
+
+Oni [iść] (czas przeszły)
+---
+Oni szli
+===

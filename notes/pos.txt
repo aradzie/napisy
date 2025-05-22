@@ -1,0 +1,45 @@
+!type:Basic
+
+!deck:Polski::Meta::Częśći Mowy
+
+!tags:Polski Meta
+
+Noun/A word that names a person, place, thing, or idea
+---
+Rzeczownik
+===
+
+Pronoun/A word that replaces a noun
+---
+Zaimek
+===
+
+Verb/A word that expresses action or a state of being
+---
+Czasownik
+===
+
+Adjective/A word that describes or modifies a noun or pronoun
+---
+Przymiotnik
+===
+
+Adverb/A word that modifies a verb, adjective, or another adverb
+---
+Przysłówek
+===
+
+Preposition/A word that shows the relationship between a noun or pronoun and other words in the sentence
+---
+Przyimek
+===
+
+Conjunction/A word that connects words, phrases, or clauses
+---
+Spójnik
+===
+
+Interjection/A word that expresses strong emotion.
+---
+Wykrzyknik
+===

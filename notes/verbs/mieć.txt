@@ -1,0 +1,97 @@
+!type:Basic
+
+!deck:Polski::Odmiany
+
+!tags:Polski Odmiana
+
+# https://wsjp.pl/haslo/podglad/42202/miec/4504388/samochod
+
+Ja [mieć] (czas teraźniejszy)
+---
+Ja mam
+===
+
+My [mieć] (czas teraźniejszy)
+---
+My mamy
+===
+
+Ty [mieć] (czas teraźniejszy)
+---
+Ty masz
+===
+
+Wy [mieć] (czas teraźniejszy)
+---
+Wy macie
+===
+
+On/Ona/Ono [mieć] (czas teraźniejszy)
+---
+On/Ona/Ono ma
+===
+
+Oni/One [mieć] (czas teraźniejszy)
+---
+Oni/One	mają
+===
+
+Ja [mieć] (m, czas przeszły)
+---
+Ja miałem
+===
+
+Ja [mieć] (ż, czas przeszły)
+---
+Ja miałam
+===
+
+Ja [mieć] (n, czas przeszły)
+---
+Ja miałom
+===
+
+My [mieć] (czas przeszły)
+---
+My mieliśmy
+===
+
+Ty [mieć] (m, czas przeszły)
+---
+Ty miałeś
+===
+
+Ty [mieć] (ż, czas przeszły)
+---
+Ty miałaś
+===
+
+Ty [mieć] (n, czas przeszły)
+---
+Ty miałoś
+===
+
+Wy [mieć] (czas przeszły)
+---
+Wy mieliście
+===
+
+On [mieć] (czas przeszły)
+---
+On miał
+===
+
+Ona [mieć] (czas przeszły)
+---
+Ona miała
+===
+
+Ono [mieć] (czas przeszły)
+---
+Ono miało
+===
+
+Oni [mieć] (czas przeszły)
+---
+Oni mieli
+===

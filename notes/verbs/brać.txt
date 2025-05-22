@@ -1,0 +1,37 @@
+!type:Basic
+
+!deck:Polski::Odmiany
+
+!tags:Polski Odmiana
+
+# https://wsjp.pl/haslo/podglad/40612/brac/4838057/pieniadze
+
+Ja [brać] (czas teraźniejszy)
+---
+Ja biorę
+===
+
+My [brać] (czas teraźniejszy)
+---
+My bierzemy
+===
+
+Ty [brać] (czas teraźniejszy)
+---
+Ty bierzesz
+===
+
+Wy [brać] (czas teraźniejszy)
+---
+Wy bierzecie
+===
+
+On/Ona/Ono [brać] (czas teraźniejszy)
+---
+On/Ona/Ono bierze
+===
+
+Oni/One [brać] (czas teraźniejszy)
+---
+Oni/One biorą
+===
