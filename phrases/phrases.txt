@@ -104,3 +104,4 @@ he is younger than you|on jest młodszy od ciebie
 it is so obvious in hindsight|z perspektywy czasu jest to takie oczywiste
 i have a habit|mam zwyczaj
 i don't agree|nie zgadzam się
+та становишся таким же самым|i stajesz się taki sam

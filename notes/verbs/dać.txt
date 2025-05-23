@@ -1,0 +1,97 @@
+!type:Basic
+
+!deck:Polski::Odmiany
+
+!tags:Polski Odmiana
+
+# https://wsjp.pl/haslo/podglad/6368/dac/4851676/prezent
+
+Ja [dać] (czas teraźniejszy)
+---
+Ja dam
+===
+
+My [dać] (czas teraźniejszy)
+---
+My damy
+===
+
+Ty [dać] (czas teraźniejszy)
+---
+Ty dasz
+===
+
+Wy [dać] (czas teraźniejszy)
+---
+Wy dacie
+===
+
+On/Ona/Ono [dać] (czas teraźniejszy)
+---
+On/Ona/Ono da
+===
+
+Oni/One [dać] (czas teraźniejszy)
+---
+Oni/One dadzą
+===
+
+Ja [dać] (m, czas przeszły)
+---
+Ja dałem
+===
+
+Ja [dać] (ż, czas przeszły)
+---
+Ja dałam
+===
+
+Ja [dać] (n, czas przeszły)
+---
+Ja dałom
+===
+
+My [dać] (czas przeszły)
+---
+My daliśmy
+===
+
+Ty [dać] (m, czas przeszły)
+---
+Ty dałeś
+===
+
+Ty [dać] (ż, czas przeszły)
+---
+Ty dałaś
+===
+
+Ty [dać] (n, czas przeszły)
+---
+Ty dałoś
+===
+
+Wy [dać] (czas przeszły)
+---
+Wy daliście
+===
+
+On [dać] (czas przeszły)
+---
+On dał
+===
+
+Ona [dać] (czas przeszły)
+---
+Ona dała
+===
+
+Ono [dać] (czas przeszły)
+---
+Ono dało
+===
+
+Oni [dać] (czas przeszły)
+---
+Oni dali
+===

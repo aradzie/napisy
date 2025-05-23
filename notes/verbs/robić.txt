@@ -1,0 +1,97 @@
+!type:Basic
+
+!deck:Polski::Odmiany
+
+!tags:Polski Odmiana
+
+# https://wsjp.pl/haslo/podglad/2963/robic/4920705/kotlety
+
+Ja [robić] (czas teraźniejszy)
+---
+Ja robię
+===
+
+My [robić] (czas teraźniejszy)
+---
+My robimy
+===
+
+Ty [robić] (czas teraźniejszy)
+---
+Ty robisz
+===
+
+Wy [robić] (czas teraźniejszy)
+---
+Wy robicie
+===
+
+On/Ona/Ono [robić] (czas teraźniejszy)
+---
+On/Ona/Ono robi
+===
+
+Oni/One [robić] (czas teraźniejszy)
+---
+Oni/One robią
+===
+
+Ja [robić] (m, czas przeszły)
+---
+Ja robiłem
+===
+
+Ja [robić] (ż, czas przeszły)
+---
+Ja robiłam
+===
+
+Ja [robić] (n, czas przeszły)
+---
+Ja robiłom
+===
+
+My [robić] (czas przeszły)
+---
+My robiliśmy
+===
+
+Ty [robić] (m, czas przeszły)
+---
+Ty robiłeś
+===
+
+Ty [robić] (ż, czas przeszły)
+---
+Ty robiłaś
+===
+
+Ty [robić] (n, czas przeszły)
+---
+Ty robiłoś
+===
+
+Wy [robić] (czas przeszły)
+---
+Wy robiliście
+===
+
+On [robić] (czas przeszły)
+---
+On robił
+===
+
+Ona [robić] (czas przeszły)
+---
+Ona robiła
+===
+
+Ono [robić] (czas przeszły)
+---
+Ono robiło
+===
+
+Oni [robić] (czas przeszły)
+---
+Oni robili
+===

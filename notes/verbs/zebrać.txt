@@ -1,0 +1,97 @@
+!type:Basic
+
+!deck:Polski::Odmiany
+
+!tags:Polski Odmiana
+
+# https://wsjp.pl/haslo/podglad/25943/zebrac/5113017/kolekcje-znaczkow
+
+Ja [zebrać] (czas teraźniejszy)
+---
+Ja zbiorę
+===
+
+My [zebrać] (czas teraźniejszy)
+---
+My zbierzemy
+===
+
+Ty [zebrać] (czas teraźniejszy)
+---
+Ty zbierzesz
+===
+
+Wy [zebrać] (czas teraźniejszy)
+---
+Wy zbierzecie
+===
+
+On/Ona/Ono [zebrać] (czas teraźniejszy)
+---
+On/Ona/Ono zbierze
+===
+
+Oni/One [zebrać] (czas teraźniejszy)
+---
+Oni/One zbiorą
+===
+
+Ja [zebrać] (m, czas przeszły)
+---
+Ja zebrałem
+===
+
+Ja [zebrać] (ż, czas przeszły)
+---
+Ja zebrałam
+===
+
+Ja [zebrać] (n, czas przeszły)
+---
+Ja zebrałom
+===
+
+My [zebrać] (czas przeszły)
+---
+My zebraliśmy
+===
+
+Ty [zebrać] (m, czas przeszły)
+---
+Ty zebrałeś
+===
+
+Ty [zebrać] (ż, czas przeszły)
+---
+Ty zebrałaś
+===
+
+Ty [zebrać] (n, czas przeszły)
+---
+Ty zebrałoś
+===
+
+Wy [zebrać] (czas przeszły)
+---
+Wy zebraliście
+===
+
+On [zebrać] (czas przeszły)
+---
+On zebrał
+===
+
+Ona [zebrać] (czas przeszły)
+---
+Ona zebrała
+===
+
+Ono [zebrać] (czas przeszły)
+---
+Ono zebrało
+===
+
+Oni [zebrać] (czas przeszły)
+---
+Oni zebrali
+===

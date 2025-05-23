@@ -490,6 +490,7 @@ Basic;Polski::Frazy::phrases;Polski phrases;he is younger than you;on jest młod
 Basic;Polski::Frazy::phrases;Polski phrases;it is so obvious in hindsight;z perspektywy czasu jest to takie oczywiste
 Basic;Polski::Frazy::phrases;Polski phrases;i have a habit;mam zwyczaj
 Basic;Polski::Frazy::phrases;Polski phrases;i don't agree;nie zgadzam się
+Basic;Polski::Frazy::phrases;Polski phrases;та становишся таким же самым;i stajesz się taki sam
 Basic;Polski::Frazy::youtube1;Polski youtube1;Цены на энергоносители растут, будут расти и дальше.;Ceny energii rosną, będą rosły i będą jeszcze przyspieszały.
 Basic;Polski::Frazy::youtube1;Polski youtube1;Что можно сделать, чтобы вообще не платить по счетам?;Co zrobić żeby nie płacić w ogóle rachunków?
 Basic;Polski::Frazy::youtube1;Polski youtube1;Сколько раз вы бывали в таких местах, которые вообще не подключены к сети?;Ile razy byłeś w takim miejscu, które nie jest w ogóle podpięte do sieci?
@@ -707,6 +708,24 @@ Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (czas teraźniejszy);Ty dajesz
 Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (czas teraźniejszy);Wy dajecie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dawać] (czas teraźniejszy);On/Ona/Ono daje
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dawać] (czas teraźniejszy);Oni/One	dają
+Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (czas teraźniejszy);Ja dam
+Basic;Polski::Odmiany;Polski Odmiana;My [dać] (czas teraźniejszy);My damy
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (czas teraźniejszy);Ty dasz
+Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (czas teraźniejszy);Wy dacie
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dać] (czas teraźniejszy);On/Ona/Ono da
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dać] (czas teraźniejszy);Oni/One dadzą
+Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (m, czas przeszły);Ja dałem
+Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (ż, czas przeszły);Ja dałam
+Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (n, czas przeszły);Ja dałom
+Basic;Polski::Odmiany;Polski Odmiana;My [dać] (czas przeszły);My daliśmy
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (m, czas przeszły);Ty dałeś
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (ż, czas przeszły);Ty dałaś
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (n, czas przeszły);Ty dałoś
+Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (czas przeszły);Wy daliście
+Basic;Polski::Odmiany;Polski Odmiana;On [dać] (czas przeszły);On dał
+Basic;Polski::Odmiany;Polski Odmiana;Ona [dać] (czas przeszły);Ona dała
+Basic;Polski::Odmiany;Polski Odmiana;Ono [dać] (czas przeszły);Ono dało
+Basic;Polski::Odmiany;Polski Odmiana;Oni [dać] (czas przeszły);Oni dali
 Basic;Polski::Odmiany;Polski Odmiana;Ja [istnieć] (czas teraźniejszy);Ja istnieję
 Basic;Polski::Odmiany;Polski Odmiana;My [istnieć] (czas teraźniejszy);Ja istniejemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [istnieć] (czas teraźniejszy);Ty istniejesz
@@ -805,15 +824,93 @@ Basic;Polski::Odmiany;Polski Odmiana;Ty [potrafić] (czas teraźniejszy);Ty potr
 Basic;Polski::Odmiany;Polski Odmiana;Wy [potrafić] (czas teraźniejszy);Wy potraficie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [potrafić] (czas teraźniejszy);On/Ona/Ono potrafi
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [potrafić] (czas teraźniejszy);Oni/One potrafią
+Basic;Polski::Odmiany;Polski Odmiana;Ja [robić] (czas teraźniejszy);Ja robię
+Basic;Polski::Odmiany;Polski Odmiana;My [robić] (czas teraźniejszy);My robimy
+Basic;Polski::Odmiany;Polski Odmiana;Ty [robić] (czas teraźniejszy);Ty robisz
+Basic;Polski::Odmiany;Polski Odmiana;Wy [robić] (czas teraźniejszy);Wy robicie
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [robić] (czas teraźniejszy);On/Ona/Ono robi
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [robić] (czas teraźniejszy);Oni/One robią
+Basic;Polski::Odmiany;Polski Odmiana;Ja [robić] (m, czas przeszły);Ja robiłem
+Basic;Polski::Odmiany;Polski Odmiana;Ja [robić] (ż, czas przeszły);Ja robiłam
+Basic;Polski::Odmiany;Polski Odmiana;Ja [robić] (n, czas przeszły);Ja robiłom
+Basic;Polski::Odmiany;Polski Odmiana;My [robić] (czas przeszły);My robiliśmy
+Basic;Polski::Odmiany;Polski Odmiana;Ty [robić] (m, czas przeszły);Ty robiłeś
+Basic;Polski::Odmiany;Polski Odmiana;Ty [robić] (ż, czas przeszły);Ty robiłaś
+Basic;Polski::Odmiany;Polski Odmiana;Ty [robić] (n, czas przeszły);Ty robiłoś
+Basic;Polski::Odmiany;Polski Odmiana;Wy [robić] (czas przeszły);Wy robiliście
+Basic;Polski::Odmiany;Polski Odmiana;On [robić] (czas przeszły);On robił
+Basic;Polski::Odmiany;Polski Odmiana;Ona [robić] (czas przeszły);Ona robiła
+Basic;Polski::Odmiany;Polski Odmiana;Ono [robić] (czas przeszły);Ono robiło
+Basic;Polski::Odmiany;Polski Odmiana;Oni [robić] (czas przeszły);Oni robili
 Basic;Polski::Odmiany;Polski Odmiana;Ja [umieć] (czas teraźniejszy);Ja umiem
 Basic;Polski::Odmiany;Polski Odmiana;My [umieć] (czas teraźniejszy);My umiemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [umieć] (czas teraźniejszy);Ty umiesz
 Basic;Polski::Odmiany;Polski Odmiana;Wy [umieć] (czas teraźniejszy);Wy umiecie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [umieć] (czas teraźniejszy);On/Ona/Ono umie
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [umieć] (czas teraźniejszy);Oni/One umieją
+Basic;Polski::Odmiany;Polski Odmiana;Ja [wiedzieć] (czas teraźniejszy);Ja wiem
+Basic;Polski::Odmiany;Polski Odmiana;My [wiedzieć] (czas teraźniejszy);My wiemy
+Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (czas teraźniejszy);Ty wiesz
+Basic;Polski::Odmiany;Polski Odmiana;Wy [wiedzieć] (czas teraźniejszy);Wy wiecie
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [wiedzieć] (czas teraźniejszy);On/Ona/Ono wie
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [wiedzieć] (czas teraźniejszy);Oni/One wiedzą
+Basic;Polski::Odmiany;Polski Odmiana;Ja [wiedzieć] (m, czas przeszły);Ja wiedziałem
+Basic;Polski::Odmiany;Polski Odmiana;Ja [wiedzieć] (ż, czas przeszły);Ja wiedziałam
+Basic;Polski::Odmiany;Polski Odmiana;Ja [wiedzieć] (n, czas przeszły);Ja wiedziałom
+Basic;Polski::Odmiany;Polski Odmiana;My [wiedzieć] (czas przeszły);My wiedzieliśmy
+Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (m, czas przeszły);Ty wiedziałeś
+Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (ż, czas przeszły);Ty wiedziałaś
+Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (n, czas przeszły);Ty wiedziałoś
+Basic;Polski::Odmiany;Polski Odmiana;Wy [wiedzieć] (czas przeszły);Wy wiedzieliście
+Basic;Polski::Odmiany;Polski Odmiana;On [wiedzieć] (czas przeszły);On wiedział
+Basic;Polski::Odmiany;Polski Odmiana;Ona [wiedzieć] (czas przeszły);Ona wiedziała
+Basic;Polski::Odmiany;Polski Odmiana;Ono [wiedzieć] (czas przeszły);Ono wiedziało
+Basic;Polski::Odmiany;Polski Odmiana;Oni [wiedzieć] (czas przeszły);Oni wiedzieli
 Basic;Polski::Odmiany;Polski Odmiana;Ja [wziąć] (czas teraźniejszy);Ja wezmę
 Basic;Polski::Odmiany;Polski Odmiana;My [wziąć] (czas teraźniejszy);My weźmiemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [wziąć] (czas teraźniejszy);Ty weźmiesz
 Basic;Polski::Odmiany;Polski Odmiana;Wy [wziąć] (czas teraźniejszy);Wy weźmiecie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [wziąć] (czas teraźniejszy);On/Ona/Ono weźmie
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [wziąć] (czas teraźniejszy);Oni/One	wezmą
+Basic;Polski::Odmiany;Polski Odmiana;Ja [zebrać] (czas teraźniejszy);Ja zbiorę
+Basic;Polski::Odmiany;Polski Odmiana;My [zebrać] (czas teraźniejszy);My zbierzemy
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (czas teraźniejszy);Ty zbierzesz
+Basic;Polski::Odmiany;Polski Odmiana;Wy [zebrać] (czas teraźniejszy);Wy zbierzecie
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [zebrać] (czas teraźniejszy);On/Ona/Ono zbierze
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [zebrać] (czas teraźniejszy);Oni/One zbiorą
+Basic;Polski::Odmiany;Polski Odmiana;Ja [zebrać] (m, czas przeszły);Ja zebrałem
+Basic;Polski::Odmiany;Polski Odmiana;Ja [zebrać] (ż, czas przeszły);Ja zebrałam
+Basic;Polski::Odmiany;Polski Odmiana;Ja [zebrać] (n, czas przeszły);Ja zebrałom
+Basic;Polski::Odmiany;Polski Odmiana;My [zebrać] (czas przeszły);My zebraliśmy
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (m, czas przeszły);Ty zebrałeś
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (ż, czas przeszły);Ty zebrałaś
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (n, czas przeszły);Ty zebrałoś
+Basic;Polski::Odmiany;Polski Odmiana;Wy [zebrać] (czas przeszły);Wy zebraliście
+Basic;Polski::Odmiany;Polski Odmiana;On [zebrać] (czas przeszły);On zebrał
+Basic;Polski::Odmiany;Polski Odmiana;Ona [zebrać] (czas przeszły);Ona zebrała
+Basic;Polski::Odmiany;Polski Odmiana;Ono [zebrać] (czas przeszły);Ono zebrało
+Basic;Polski::Odmiany;Polski Odmiana;Oni [zebrać] (czas przeszły);Oni zebrali
+Basic;Polski::Odmiany;Polski Odmiana;Ja [zmusić] (czas teraźniejszy);Ja zmuszę
+Basic;Polski::Odmiany;Polski Odmiana;My [zmusić] (czas teraźniejszy);My zmusimy
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zmusić] (czas teraźniejszy);Ty zmusisz
+Basic;Polski::Odmiany;Polski Odmiana;Wy [zmusić] (czas teraźniejszy);Wy zmusicie
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [zmusić] (czas teraźniejszy);On/Ona/Ono zmusi
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [zmusić] (czas teraźniejszy);Oni/One	zmuszą
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znać] (czas teraźniejszy);Ja znam
+Basic;Polski::Odmiany;Polski Odmiana;My [znać] (czas teraźniejszy);My znamy
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (czas teraźniejszy);Ty znasz
+Basic;Polski::Odmiany;Polski Odmiana;Wy [znać] (czas teraźniejszy);Wy znacie
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [znać] (czas teraźniejszy);On/Ona/Ono zna
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [znać] (czas teraźniejszy);Oni/One znają
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znać] (m, czas przeszły);Ja znałem
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znać] (ż, czas przeszły);Ja znałam
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znać] (n, czas przeszły);Ja znałom
+Basic;Polski::Odmiany;Polski Odmiana;My [znać] (czas przeszły);My znaliśmy
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (m, czas przeszły);Ty znałeś
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (ż, czas przeszły);Ty znałaś
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (n, czas przeszły);Ty znałoś
+Basic;Polski::Odmiany;Polski Odmiana;Wy [znać] (czas przeszły);Wy znaliście
+Basic;Polski::Odmiany;Polski Odmiana;On [znać] (czas przeszły);On znał
+Basic;Polski::Odmiany;Polski Odmiana;Ona [znać] (czas przeszły);Ona znała
+Basic;Polski::Odmiany;Polski Odmiana;Ono [znać] (czas przeszły);Ono znało
+Basic;Polski::Odmiany;Polski Odmiana;Oni [znać] (czas przeszły);Oni znali

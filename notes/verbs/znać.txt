@@ -1,0 +1,97 @@
+!type:Basic
+
+!deck:Polski::Odmiany
+
+!tags:Polski Odmiana
+
+# https://wsjp.pl/haslo/podglad/36807/znac/4083225/ludzi-fakty-miejsca
+
+Ja [znać] (czas teraźniejszy)
+---
+Ja znam
+===
+
+My [znać] (czas teraźniejszy)
+---
+My znamy
+===
+
+Ty [znać] (czas teraźniejszy)
+---
+Ty znasz
+===
+
+Wy [znać] (czas teraźniejszy)
+---
+Wy znacie
+===
+
+On/Ona/Ono [znać] (czas teraźniejszy)
+---
+On/Ona/Ono zna
+===
+
+Oni/One [znać] (czas teraźniejszy)
+---
+Oni/One znają
+===
+
+Ja [znać] (m, czas przeszły)
+---
+Ja znałem
+===
+
+Ja [znać] (ż, czas przeszły)
+---
+Ja znałam
+===
+
+Ja [znać] (n, czas przeszły)
+---
+Ja znałom
+===
+
+My [znać] (czas przeszły)
+---
+My znaliśmy
+===
+
+Ty [znać] (m, czas przeszły)
+---
+Ty znałeś
+===
+
+Ty [znać] (ż, czas przeszły)
+---
+Ty znałaś
+===
+
+Ty [znać] (n, czas przeszły)
+---
+Ty znałoś
+===
+
+Wy [znać] (czas przeszły)
+---
+Wy znaliście
+===
+
+On [znać] (czas przeszły)
+---
+On znał
+===
+
+Ona [znać] (czas przeszły)
+---
+Ona znała
+===
+
+Ono [znać] (czas przeszły)
+---
+Ono znało
+===
+
+Oni [znać] (czas przeszły)
+---
+Oni znali
+===
