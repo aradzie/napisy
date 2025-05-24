@@ -1,0 +1,210 @@
+!type:Basic
+
+!deck:Polski::Słowa
+
+!tags:Polski Słowa
+
+только/only
+---
+dopiero
+
+"Otrząsnął się dopiero na ruchomych schodach."
+"Przystąpi do spowiedzi dopiero po waszej rozmowie."
+"Dziś dopiero poznałem, czym dla mnie może być kobieta."
+===
+
+все еще/still
+---
+nadal
+
+"Jeżeli ta kobieta jest nadal żywa?"
+"I cała masa innych ludzi nadal by żyli."
+"A my nadal tu będziemy?"
+===
+
+потому что/because
+---
+poniewaz
+
+"I tak sie dowiem, poniewaz jestem profesjonalista."
+"Nie zostal zlapany, poniewaz ma uklady."
+"Poniewaz nie ma szans żebyśmy mogli tu jeszcze się pokazać."
+===
+
+почти/almost
+---
+prawie
+
+"Dzieciak by prawie nie utonął, gdybym ja go nie pchnęła."
+"Ten jest w prawie świeżym stanie."
+"Teraz jestem prawie pewien, że tego nie przyjmą."
+===
+
+скорее/rather
+---
+raczej
+
+"A teraz raczej nie jest najlepsza chwila."
+"Czarna raczej nie jest."
+"Dziś będzie raczej ciężko."
+===
+
+против/against
+---
+wbrew
+
+"Wbrew jego naturze i woli."
+"Co jest wbrew zasadom."
+"A działać wbrew opinii innych."
+===
+
+тратить/to spend
+---
+spędzać
+
+"Najczęściej spędzają czas na oglądaniu telewizji."
+"Całe swoje życie spędzają w kawiarniach."
+"Przypomina mi się czas spędzany z moimi przyjaciółmi."
+===
+
+вести/to lead
+---
+prowadzić
+
+"Gdy się mylę, próbuję prowadzić dyskusję."
+"Ide tam, gdzie prowadzi mnie praca."
+"Żeby mój tata prowadził mnie do lekarza."
+===
+
+не очень/not very
+---
+niezbyt
+
+"Była niezbyt ładna."
+"Budynek banku był niezbyt duży."
+"On słuchał niezbyt uważnie."
+===
+
+но/but
+---
+lecz
+
+"Lecz równie skuteczny."
+"Lecz czuję, że ma inne plany."
+"Lecz by żył wiecznie."
+===
+
+исторический/historic
+---
+zabytkowy
+
+"Aby uzyskać status budynku zabytkowego musimy..."
+"Tutaj, na zabytkowych dachach."
+"Sprzedałam części do zabytkowego motocykla."
+===
+
+эффект/effect
+---
+skutek
+
+"Wywarło to głęboki skutek na mnie."
+"A skutek będzie odwrotny?"
+"Każdy skutek może być przewidywalny."
+===
+
+image/образ
+---
+wizerunek
+
+"Jeśli robisz to zbyt często, dostajesz zły wizerunek."
+"Mam wizerunek do utrzymania."
+"Niektórzy próbują zniszczyć wizerunek naszego kraju."
+===
+
+до сих пор/still
+---
+wciąż
+
+"Jest coś czego wciąż nie rozumiem!"
+"Książki wciąż nie przeczytałem."
+"Mamy czas, bo wciąż nie masz podpisu sędziego."
+===
+
+to look/смотреть
+---
+spojrzeć
+
+"I nawet na niego nie spojrzeć."
+"Szykowałam się i spojrzałam w lustro."
+"Ja przynajmniej spojrzę ci w oczy."
+===
+
+до/before
+---
+wcześniej
+
+"Ja przyszedłem za wcześnie."
+"Kończę dzisiaj wcześniej."
+"Mam o wiele lepsze karty niż wcześniej."
+===
+
+в соответствии с/according to
+---
+według
+
+"A atak zombie ma według ciebie lepsze szanse?"
+"Bo zazwyczaj postępowaliśmy według schematu."
+"Skąd wiemy, że zabójca będzie grał według twoich reguł?"
+===
+
+много/a lot
+---
+sporo
+
+"Sporo tu miejsca."
+"Będzie sporo roboty, kolego."
+"Ja myślałam o tym sporo."
+===
+
+тип/type
+---
+rodzaj
+
+"Ja należę do drugiego rodzaju."
+"Mam wiele rodzajów informacji."
+"Ten projekt jest swego rodzaju testem."
+===
+
+звучать/to sound
+---
+brzmieć
+
+"Jak śpiewasz to brzmisz zupełnie inaczej."
+"Nie zamierzam brzmieć okrutnie."
+"No dobrze, to brzmi świetnie."
+===
+
+узнавать/to recognize
+---
+kojarzyć
+
+"Ciebie nie kojarzę w ogóle."
+"Czemu miałbym go kojarzyć?"
+"Dopiero zaczynasz to kojarzyć."
+===
+
+# wydawać
+# ciągle
+# właściwy
+# natychmiast
+# wspaniały
+# obawiać się
+# uwielbiać
+# martwić
+# coraz
+# zacząć
+# przejść
+# nieco
+# zasada
+# stamtąd
+# szacunek

@@ -9,29 +9,35 @@
 Ja [brać] (czas teraźniejszy)
 ---
 Ja biorę
+"biorę do ręki i przeglądam"
 ===
 
 My [brać] (czas teraźniejszy)
 ---
 My bierzemy
+"lista kandydatów, których bierzemy pod uwagę"
 ===
 
 Ty [brać] (czas teraźniejszy)
 ---
 Ty bierzesz
+"skąd ty je bierzesz?"
 ===
 
 Wy [brać] (czas teraźniejszy)
 ---
 Wy bierzecie
+"wy wszak nie bierzecie pieniędzy za zabijanie"
 ===
 
 On/Ona/Ono [brać] (czas teraźniejszy)
 ---
 On/Ona/Ono bierze
+"lekarz bierze narzędzie"
 ===
 
 Oni/One [brać] (czas teraźniejszy)
 ---
 Oni/One biorą
+"skąd w ogóle biorą się dzieci"
 ===

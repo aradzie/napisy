@@ -385,28 +385,29 @@ Basic;Polski::Frazy::1670.S01E02;Polski 1670.S01E02;Извинения прин�
 Basic;Polski::Frazy::1670.S01E02;Polski 1670.S01E02;Это запах победы.;To zapach zwycięstwa.
 Basic;Polski::Frazy::1670.S01E02;Polski 1670.S01E02;Хотя, конечно, из этого ничего не выйдет.;Choć oczywiście do niczego nie dojdzie.
 Basic;Polski::Frazy::phrases;Polski phrases;this is more difficult;to jest trudniejsze
-Basic;Polski::Frazy::phrases;Polski phrases;i have already seen how people harm themselves;już widziałem jak ludzie robią sobie krzywdę
+Basic;Polski::Frazy::phrases;Polski phrases;people harm themselves;ludzie robią sobie krzywdę
 Basic;Polski::Frazy::phrases;Polski phrases;он ошибается;on się myli
-Basic;Polski::Frazy::phrases;Polski phrases;радослав сикорский больше не питает иллюзий;radosław sikorski nie ma już złudzeń
+Basic;Polski::Frazy::phrases;Polski phrases;больше не питает иллюзий;nie ma już złudzeń
 Basic;Polski::Frazy::phrases;Polski phrases;каждое утро он целует свое отражение в зеркале;każdego ranka całuje swoje odbicie w lustrze
 Basic;Polski::Frazy::phrases;Polski phrases;его невозможно оскорбить;nie da się go urazić
-Basic;Polski::Frazy::phrases;Polski phrases;президент намерен наложить вето на сокращение взносов на медицинское страхование;prezydent zamierza zawetować obniżkę składki zdrowotnej
+Basic;Polski::Frazy::phrases;Polski phrases;президент намерен наложить вето;prezydent zamierza zawetować
 Basic;Polski::Frazy::phrases;Polski phrases;готовит ли ес «атаку на сбережения»?;"ue szykuje ""zamach na oszczędności""?"
 Basic;Polski::Frazy::phrases;Polski phrases;огромный рост поддержки;olbrzymi wzrost poparcia
 Basic;Polski::Frazy::phrases;Polski phrases;я начал учить польский;zacząłem uczyć się polskiego
 Basic;Polski::Frazy::phrases;Polski phrases;вокруг солнца;wokół słońca
-Basic;Polski::Frazy::phrases;Polski phrases;предлог это слово, которое соединяется с другим словом;przyimek to słowo, które łączy się z innym wyrazem
+Basic;Polski::Frazy::phrases;Polski phrases;соединяется с другим словом;łączy się z innym wyrazem
 Basic;Polski::Frazy::phrases;Polski phrases;как вы думаете, что там?;co według was tam jest?
 Basic;Polski::Frazy::phrases;Polski phrases;по статистике, вероятность, что вы умрете;według statystyk szansa, że zginiesz
 Basic;Polski::Frazy::phrases;Polski phrases;пока что о тех, кто работает в поле;do tej pory wobec pracujących na polu
-Basic;Polski::Frazy::phrases;Polski phrases;твой кузен использует против него язык ненависти;twój kuzyn stosuje wobec niego mowę nienawiści
-Basic;Polski::Frazy::phrases;Polski phrases;были ли среди жертв поляки?;a czy wśród ofiar byli polacy?
+Basic;Polski::Frazy::phrases;Polski phrases;использует против него язык ненависти;stosuje wobec niego mowę nienawiści
+Basic;Polski::Frazy::phrases;Polski phrases;были ли среди жертв люди?;a czy wśród ofiar byli ludzie?
 Basic;Polski::Frazy::phrases;Polski phrases;рядом с кроватью сидела мама;koło łóżka siedziała mama
 Basic;Polski::Frazy::phrases;Polski phrases;несмотря на огромные человеческие потери;mimo gigantycznych strat w ludziach
 Basic;Polski::Frazy::phrases;Polski phrases;кроме моей дочери, здесь нет ни одной женщины!;oprócz mojej córki nie ma tu żadnej kobiety!
 Basic;Polski::Frazy::phrases;Polski phrases;шло к нам шаг за шагом;szło ku nam krok za krokiem
-Basic;Polski::Frazy::phrases;Polski phrases;как и иностранное насилие, с которым он боролся всю свою жизнь;jak przemoc obca przeciw której przez życie całe walczył
-Basic;Polski::Frazy::phrases;Polski phrases;его не может победить никакая сила, противостоящая всем силам зла;nie da się pokonać żadną mocą wbrew wszelkim złym mocom
+Basic;Polski::Frazy::phrases;Polski phrases;иностранное насилие;przemoc obca
+Basic;Polski::Frazy::phrases;Polski phrases;с которым он боролся всю свою жизнь;przeciw którege przez życie całe walczył
+Basic;Polski::Frazy::phrases;Polski phrases;его не может победить никакая сила;nie da się pokonać żadną mocą
 Basic;Polski::Frazy::phrases;Polski phrases;против воли отца она ушла в монастырь;wbrew ojcu poszła do zakonu
 Basic;Polski::Frazy::phrases;Polski phrases;ты можешь сделать такое же приложение;możesz stworzyć taką samą aplikację
 Basic;Polski::Frazy::phrases;Polski phrases;сломать ноутбук;zniszczyć laptopa
@@ -424,27 +425,28 @@ Basic;Polski::Frazy::phrases;Polski phrases;every time you do something;za każd
 Basic;Polski::Frazy::phrases;Polski phrases;from his point of view;z jego punktu widzenia
 Basic;Polski::Frazy::phrases;Polski phrases;what happened to him;co się z nim stało
 Basic;Polski::Frazy::phrases;Polski phrases;i am trying to do something;próbuję coś zrobić
-Basic;Polski::Frazy::phrases;Polski phrases;поляки устали от напряженности, связанной с войной на украине;polacy są zmęczeni napięciem związanym z wojną w ukrainie
-Basic;Polski::Frazy::phrases;Polski phrases;все меньше людей заявляют о своей готовности вступить в армию;coraz mniej osób deklaruje chęć wstąpienia do armii,
+Basic;Polski::Frazy::phrases;Polski phrases;все меньше людей;coraz mniej osób
+Basic;Polski::Frazy::phrases;Polski phrases;заявляют о своей готовности вступить в армию;deklaruje chęć wstąpienia do armii,
 Basic;Polski::Frazy::phrases;Polski phrases;и все больше заявляют о готовности покинуть страну;a więcej zapowiada opuszczenie kraju
 Basic;Polski::Frazy::phrases;Polski phrases;usually;obecne
-Basic;Polski::Frazy::phrases;Polski phrases;у многих людей фотоэлектричество ассоциируется в основном с микроустановками;fotowoltaika kojarzy się wielu osobom głównie z mikroinstalacjami
-Basic;Polski::Frazy::phrases;Polski phrases;в моем ближайшем окружении самые богатые люди, с которыми я когда-либо имел дело;w moim najbliższym środowisku najbogatsi ludzie, z którymi miałem do czynienia
+Basic;Polski::Frazy::phrases;Polski phrases;a promise;obietnica
+Basic;Polski::Frazy::phrases;Polski phrases;ассоциируется в основном с микроустановками;kojarzy się głównie z mikroinstalacjami
+Basic;Polski::Frazy::phrases;Polski phrases;в моем ближайшем окружении;w moim najbliższym środowisku
+Basic;Polski::Frazy::phrases;Polski phrases;самые богатые люди, с которыми я когда-либо имел дело;najbogatsi ludzie, z którymi miałem do czynienia
 Basic;Polski::Frazy::phrases;Polski phrases;и столкнулся с реальностью;i zderzyłem się z rzeczywistością
 Basic;Polski::Frazy::phrases;Polski phrases;люди становятся жертвами своей судьбы;ludzie padają ofiarami swojego losu
 Basic;Polski::Frazy::phrases;Polski phrases;потому что я встретил талантливых учителей;bo trafiłem na zdolnych nauczycieli
 Basic;Polski::Frazy::phrases;Polski phrases;но что заставило меня обратиться?;ale co mnie nawróciło?
 Basic;Polski::Frazy::phrases;Polski phrases;это довольно сложный вопрос;to dość złożona kwestia
 Basic;Polski::Frazy::phrases;Polski phrases;во многих отношениях оплот нормальности;w wielu kwestiach ostoją normalności
-Basic;Polski::Frazy::phrases;Polski phrases;подтвердил, что восхищается путиным;potwierdził, że podziwia putina
+Basic;Polski::Frazy::phrases;Polski phrases;подтвердил, что восхищается им;potwierdził, że go podziwia
 Basic;Polski::Frazy::phrases;Polski phrases;нам следует быть умными;powinniśmy być mądrzy
 Basic;Polski::Frazy::phrases;Polski phrases;i wonder how he got signatures;zastanawia mnie jak zdobył podpisy
-Basic;Polski::Frazy::phrases;Polski phrases;они справились с этим великолепно;pięknie go załatwili
+Basic;Polski::Frazy::phrases;Polski phrases;великолепно с ним справились;pięknie go załatwili
 Basic;Polski::Frazy::phrases;Polski phrases;из имеющихся на рынке и типа контракта;spośród dostępnych na rynku i rodzaju umowy
 Basic;Polski::Frazy::phrases;Polski phrases;возможность заключения договора;możliwość zawarcia umowy
-Basic;Polski::Frazy::phrases;Polski phrases;корректировка договорной мощности в соответствии с фактическим спросом;dostosowanie mocy umownej do faktycznego zapotrzebowania
-Basic;Polski::Frazy::phrases;Polski phrases;замена существующих источников света на современные энергосберегающие;wymianę istniejących źródeł światła na nowoczesne źródła energooszczędne
-Basic;Polski::Frazy::phrases;Polski phrases;диаграмма;wykres
+Basic;Polski::Frazy::phrases;Polski phrases;корректировка договорной мощности;dostosowanie mocy umownej
+Basic;Polski::Frazy::phrases;Polski phrases;замена существующих источников света;wymianę istniejących źródeł światła
 Basic;Polski::Frazy::phrases;Polski phrases;всего к оплате;do zapłaty łącznie
 Basic;Polski::Frazy::phrases;Polski phrases;estimated reading;odczyt szacowany
 Basic;Polski::Frazy::phrases;Polski phrases;i live with the idea that the one day;żyję z myślą, że pewnego dnia
@@ -456,41 +458,55 @@ Basic;Polski::Frazy::phrases;Polski phrases;это нарушает мои пр�
 Basic;Polski::Frazy::phrases;Polski phrases;максимальная грузоподъемность;maksymalna ładowność
 Basic;Polski::Frazy::phrases;Polski phrases;он никуда не исчез;nie zniknął nigdzie
 Basic;Polski::Frazy::phrases;Polski phrases;особенно;zwłaszcza
-Basic;Polski::Frazy::phrases;Polski phrases;ситуация на рынке по-прежнему сложная;sytuacja na rynku nadal jest trudna
+Basic;Polski::Frazy::phrases;Polski phrases;ситуация по-прежнему сложная;sytuacja nadal jest trudna
 Basic;Polski::Frazy::phrases;Polski phrases;это явление становится все более распространенным;zjawisko to staje się coraz bardziej powszechne
 Basic;Polski::Frazy::phrases;Polski phrases;я придерживаюсь мнения;jestem zdania
 Basic;Polski::Frazy::phrases;Polski phrases;это не совпадение;nie jest to przypadek
 Basic;Polski::Frazy::phrases;Polski phrases;это замкнутый круг;działa błędne koło
 Basic;Polski::Frazy::phrases;Polski phrases;польша уже сегодня воспринимается;polska już dziś jest postrzegana
 Basic;Polski::Frazy::phrases;Polski phrases;все менее дружелюбный;coraz mniej przyjazny
-Basic;Polski::Frazy::phrases;Polski phrases;мне кажется, что польские правые больны на голову;coś mi się wydaje, że polska prawica jest chora na głowę
+Basic;Polski::Frazy::phrases;Polski phrases;мне кажется;coś mi się wydaje
 Basic;Polski::Frazy::phrases;Polski phrases;он живет здесь только с января;mieszka tu dopiero od stycznia
 Basic;Polski::Frazy::phrases;Polski phrases;он выплатил только половину долга;spłacił dopiero połowę długu
 Basic;Polski::Frazy::phrases;Polski phrases;a to dopiero pech;вот это просто невезение
 Basic;Polski::Frazy::phrases;Polski phrases;есть только одна причина;jest tylko jeden powód
 Basic;Polski::Frazy::phrases;Polski phrases;делается предположение;robione jest założenie
-Basic;Polski::Frazy::phrases;Polski phrases;что еще должно произойти, чтобы мы серьезно начали разрушать барьеры на;co jeszcze musi się stać, byśmy na poważnie wzięli się za znoszenie barier...
-Basic;Polski::Frazy::phrases;Polski phrases;подчеркнула, что иностранцы необходимы;podkreśliła, że cudzoziemcy są niezbędni
+Basic;Polski::Frazy::phrases;Polski phrases;что еще должно произойти;co jeszcze musi się stać
+Basic;Polski::Frazy::phrases;Polski phrases;чтобы мы серьезно начали разрушать барьеры на;byśmy na poważnie wzięli się za znoszenie barier
+Basic;Polski::Frazy::phrases;Polski phrases;иностранцы необходимы;cudzoziemcy są niezbędni
 Basic;Polski::Frazy::phrases;Polski phrases;он сделает еще хуже;on tylko pogorszy sprawę
 Basic;Polski::Frazy::phrases;Polski phrases;он сделает еще лучше;poradzi sobie jeszcze lepiej
 Basic;Polski::Frazy::phrases;Polski phrases;it's difficult to stop;trudno jest się zatrzymać
 Basic;Polski::Frazy::phrases;Polski phrases;some day you will win;pewnego dnia wygrasz
 Basic;Polski::Frazy::phrases;Polski phrases;i wanted to show you;chciałem ci pokazać
 Basic;Polski::Frazy::phrases;Polski phrases;spaced repetition;powtarzanie w odstępach
-Basic;Polski::Frazy::phrases;Polski phrases;phrases;frazesy
-Basic;Polski::Frazy::phrases;Polski phrases;ambiguous answers;niejednoznaczne odpowiedzi
-Basic;Polski::Frazy::phrases;Polski phrases;and most importantly;i co najważniejsze
+Basic;Polski::Frazy::phrases;Polski phrases;неоднозначные ответы;niejednoznaczne odpowiedzi
+Basic;Polski::Frazy::phrases;Polski phrases;и самое главное;i co najważniejsze
 Basic;Polski::Frazy::phrases;Polski phrases;much better;dużo lepiej
 Basic;Polski::Frazy::phrases;Polski phrases;much worse;dużo gorzej
 Basic;Polski::Frazy::phrases;Polski phrases;никому об этом не рассказывать ни при каких обстоятельствах;żebym pod żadnym pozorem nie mówił nikomu
 Basic;Polski::Frazy::phrases;Polski phrases;i forgot;zapomniałem
 Basic;Polski::Frazy::phrases;Polski phrases;я вспомнил о тебе;pamiętałem o tobie
-Basic;Polski::Frazy::phrases;Polski phrases;where are you going;dokąd idziesz
+Basic;Polski::Frazy::phrases;Polski phrases;куда ты идешь;dokąd idziesz
 Basic;Polski::Frazy::phrases;Polski phrases;he is younger than you;on jest młodszy od ciebie
 Basic;Polski::Frazy::phrases;Polski phrases;it is so obvious in hindsight;z perspektywy czasu jest to takie oczywiste
-Basic;Polski::Frazy::phrases;Polski phrases;i have a habit;mam zwyczaj
-Basic;Polski::Frazy::phrases;Polski phrases;i don't agree;nie zgadzam się
+Basic;Polski::Frazy::phrases;Polski phrases;у меня есть привычка;mam zwyczaj
+Basic;Polski::Frazy::phrases;Polski phrases;я не согласен;nie zgadzam się
 Basic;Polski::Frazy::phrases;Polski phrases;та становишся таким же самым;i stajesz się taki sam
+Basic;Polski::Frazy::phrases;Polski phrases;надо отдать должное Рафалу;muszę zwrócić honor Rafałowi
+Basic;Polski::Frazy::phrases;Polski phrases;он все-таки умеет драться;jednak potrafi się bić
+Basic;Polski::Frazy::phrases;Polski phrases;идеально подошел для этой роли;idealnie się do tego nadawał
+Basic;Polski::Frazy::phrases;Polski phrases;брак по расчету;malozenstwo z rozsądku
+Basic;Polski::Frazy::phrases;Polski phrases;but I doubt that he has such a rubber spine;ale wątpię by on miał taki kręgosłup z gumy
+Basic;Polski::Frazy::phrases;Polski phrases;вопреки видимости, не завершил кампанию;wbrew pozorom nie skończył kampanii
+Basic;Polski::Frazy::phrases;Polski phrases;they were right;mieli rację
+Basic;Polski::Frazy::phrases;Polski phrases;я этого не отрицаю;
+Basic;Polski::Frazy::phrases;Polski phrases;второй день подряд;drugi dzień z rzędu
+Basic;Polski::Frazy::phrases;Polski phrases;не хочу показаться жестоким;nie zamierzam brzmieć okrutnie
+Basic;Polski::Frazy::phrases;Polski phrases;в отличии от других;w przeciwieństwie do innych
+Basic;Polski::Frazy::phrases;Polski phrases;рано или поздно ты это поймешь;prędzej czy później to zrozumiesz
+Basic;Polski::Frazy::phrases;Polski phrases;это сделает мою речь более натуральной;dzięki temu moja mowa będzie bardziej naturalna
+Basic;Polski::Frazy::phrases;Polski phrases;у меня такое чувство;mam przeczucie
 Basic;Polski::Frazy::youtube1;Polski youtube1;Цены на энергоносители растут, будут расти и дальше.;Ceny energii rosną, będą rosły i będą jeszcze przyspieszały.
 Basic;Polski::Frazy::youtube1;Polski youtube1;Что можно сделать, чтобы вообще не платить по счетам?;Co zrobić żeby nie płacić w ogóle rachunków?
 Basic;Polski::Frazy::youtube1;Polski youtube1;Сколько раз вы бывали в таких местах, которые вообще не подключены к сети?;Ile razy byłeś w takim miejscu, które nie jest w ogóle podpięte do sieci?
@@ -678,54 +694,204 @@ Basic;Polski::Meta::Częśći Mowy;Polski Meta;Adverb/A word that modifies a ver
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Preposition/A word that shows the relationship between a noun or pronoun and other words in the sentence;Przyimek
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Conjunction/A word that connects words, phrases, or clauses;Spójnik
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Interjection/A word that expresses strong emotion.;Wykrzyknik
-Basic;Polski::Odmiany;Polski Odmiana;Ja [brać] (czas teraźniejszy);Ja biorę
-Basic;Polski::Odmiany;Polski Odmiana;My [brać] (czas teraźniejszy);My bierzemy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [brać] (czas teraźniejszy);Ty bierzesz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [brać] (czas teraźniejszy);Wy bierzecie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [brać] (czas teraźniejszy);On/Ona/Ono bierze
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [brać] (czas teraźniejszy);Oni/One biorą
-Basic;Polski::Odmiany;Polski Odmiana;Ja [być] (czas teraźniejszy);Ja jestem
-Basic;Polski::Odmiany;Polski Odmiana;My [być] (czas teraźniejszy);My jesteśmy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [być] (czas teraźniejszy);Ty jesteś
-Basic;Polski::Odmiany;Polski Odmiana;Wy [być] (czas teraźniejszy);Wy jesteście
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [być] (czas teraźniejszy);On/Ona/Ono jest
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [być] (czas teraźniejszy);Oni/One	są
-Basic;Polski::Odmiany;Polski Odmiana;Ja [być] (czas przyszły);Ja będę
-Basic;Polski::Odmiany;Polski Odmiana;My [być] (czas przyszły);My będziemy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [być] (czas przyszły);Ty będziesz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [być] (czas przyszły);Wy będziecie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [być] (czas przyszły);On/Ona/Ono będzie
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [być] (czas przyszły);Oni/One	będą
+Basic;Polski::Słowa;Polski Słowa;только/only;"dopiero
+""Otrząsnął się dopiero na ruchomych schodach.""
+""Przystąpi do spowiedzi dopiero po waszej rozmowie.""
+""Dziś dopiero poznałem, czym dla mnie może być kobieta."""
+Basic;Polski::Słowa;Polski Słowa;все еще/still;"nadal
+""Jeżeli ta kobieta jest nadal żywa?""
+""I cała masa innych ludzi nadal by żyli.""
+""A my nadal tu będziemy?"""
+Basic;Polski::Słowa;Polski Słowa;потому что/because;"poniewaz
+""I tak sie dowiem, poniewaz jestem profesjonalista.""
+""Nie zostal zlapany, poniewaz ma uklady.""
+""Poniewaz nie ma szans żebyśmy mogli tu jeszcze się pokazać."""
+Basic;Polski::Słowa;Polski Słowa;почти/almost;"prawie
+""Dzieciak by prawie nie utonął, gdybym ja go nie pchnęła.""
+""Ten jest w prawie świeżym stanie.""
+""Teraz jestem prawie pewien, że tego nie przyjmą."""
+Basic;Polski::Słowa;Polski Słowa;скорее/rather;"raczej
+""A teraz raczej nie jest najlepsza chwila.""
+""Czarna raczej nie jest.""
+""Dziś będzie raczej ciężko."""
+Basic;Polski::Słowa;Polski Słowa;против/against;"wbrew
+""Wbrew jego naturze i woli.""
+""Co jest wbrew zasadom.""
+""A działać wbrew opinii innych."""
+Basic;Polski::Słowa;Polski Słowa;тратить/to spend;"spędzać
+""Najczęściej spędzają czas na oglądaniu telewizji.""
+""Całe swoje życie spędzają w kawiarniach.""
+""Przypomina mi się czas spędzany z moimi przyjaciółmi."""
+Basic;Polski::Słowa;Polski Słowa;вести/to lead;"prowadzić
+""Gdy się mylę, próbuję prowadzić dyskusję.""
+""Ide tam, gdzie prowadzi mnie praca.""
+""Żeby mój tata prowadził mnie do lekarza."""
+Basic;Polski::Słowa;Polski Słowa;не очень/not very;"niezbyt
+""Była niezbyt ładna.""
+""Budynek banku był niezbyt duży.""
+""On słuchał niezbyt uważnie."""
+Basic;Polski::Słowa;Polski Słowa;но/but;"lecz
+""Lecz równie skuteczny.""
+""Lecz czuję, że ma inne plany.""
+""Lecz by żył wiecznie."""
+Basic;Polski::Słowa;Polski Słowa;исторический/historic;"zabytkowy
+""Aby uzyskać status budynku zabytkowego musimy...""
+""Tutaj, na zabytkowych dachach.""
+""Sprzedałam części do zabytkowego motocykla."""
+Basic;Polski::Słowa;Polski Słowa;эффект/effect;"skutek
+""Wywarło to głęboki skutek na mnie.""
+""A skutek będzie odwrotny?""
+""Każdy skutek może być przewidywalny."""
+Basic;Polski::Słowa;Polski Słowa;image/образ;"wizerunek
+""Jeśli robisz to zbyt często, dostajesz zły wizerunek.""
+""Mam wizerunek do utrzymania.""
+""Niektórzy próbują zniszczyć wizerunek naszego kraju."""
+Basic;Polski::Słowa;Polski Słowa;до сих пор/still;"wciąż
+""Jest coś czego wciąż nie rozumiem!""
+""Książki wciąż nie przeczytałem.""
+""Mamy czas, bo wciąż nie masz podpisu sędziego."""
+Basic;Polski::Słowa;Polski Słowa;to look/смотреть;"spojrzeć
+""I nawet na niego nie spojrzeć.""
+""Szykowałam się i spojrzałam w lustro.""
+""Ja przynajmniej spojrzę ci w oczy."""
+Basic;Polski::Słowa;Polski Słowa;до/before;"wcześniej
+""Ja przyszedłem za wcześnie.""
+""Kończę dzisiaj wcześniej.""
+""Mam o wiele lepsze karty niż wcześniej."""
+Basic;Polski::Słowa;Polski Słowa;в соответствии с/according to;"według
+""A atak zombie ma według ciebie lepsze szanse?""
+""Bo zazwyczaj postępowaliśmy według schematu.""
+""Skąd wiemy, że zabójca będzie grał według twoich reguł?"""
+Basic;Polski::Słowa;Polski Słowa;много/a lot;"sporo
+""Sporo tu miejsca.""
+""Będzie sporo roboty, kolego.""
+""Ja myślałam o tym sporo."""
+Basic;Polski::Słowa;Polski Słowa;тип/type;"rodzaj
+""Ja należę do drugiego rodzaju.""
+""Mam wiele rodzajów informacji.""
+""Ten projekt jest swego rodzaju testem."""
+Basic;Polski::Słowa;Polski Słowa;звучать/to sound;"brzmieć
+""Jak śpiewasz to brzmisz zupełnie inaczej.""
+""Nie zamierzam brzmieć okrutnie.""
+""No dobrze, to brzmi świetnie."""
+Basic;Polski::Słowa;Polski Słowa;узнавать/to recognize;"kojarzyć
+""Ciebie nie kojarzę w ogóle.""
+""Czemu miałbym go kojarzyć?""
+""Dopiero zaczynasz to kojarzyć."""
+Basic;Polski::Odmiany;Polski Odmiana;Ja [brać] (czas teraźniejszy);"Ja biorę
+""biorę do ręki i przeglądam"""
+Basic;Polski::Odmiany;Polski Odmiana;My [brać] (czas teraźniejszy);"My bierzemy
+""lista kandydatów, których bierzemy pod uwagę"""
+Basic;Polski::Odmiany;Polski Odmiana;Ty [brać] (czas teraźniejszy);"Ty bierzesz
+""skąd ty je bierzesz?"""
+Basic;Polski::Odmiany;Polski Odmiana;Wy [brać] (czas teraźniejszy);"Wy bierzecie
+""wy wszak nie bierzecie pieniędzy za zabijanie"""
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [brać] (czas teraźniejszy);"On/Ona/Ono bierze
+""lekarz bierze narzędzie"""
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [brać] (czas teraźniejszy);"Oni/One biorą
+""skąd w ogóle biorą się dzieci"""
+Basic;Polski::Odmiany;Polski Odmiana;Ja [być] (czas teraźniejszy);"Ja jestem
+""ale ja jestem spokojny"""
+Basic;Polski::Odmiany;Polski Odmiana;My [być] (czas teraźniejszy);"My jesteśmy
+""to my jesteśmy trybunałem inkwizycji"""
+Basic;Polski::Odmiany;Polski Odmiana;Ty [być] (czas teraźniejszy);"Ty jesteś
+""a ty jesteś ukochaną córką"""
+Basic;Polski::Odmiany;Polski Odmiana;Wy [być] (czas teraźniejszy);"Wy jesteście
+""czy jesteście pewni"""
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [być] (czas teraźniejszy);"On/Ona/Ono jest
+""która jest zdenerwowana"""
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [być] (czas teraźniejszy);"Oni/One są
+""może to są i ważne sprawy,"""
+Basic;Polski::Odmiany;Polski Odmiana;Ja [być] (czas przyszły);"Ja będę
+""kak ja będę wyglądał"""
+Basic;Polski::Odmiany;Polski Odmiana;My [być] (czas przyszły);"My będziemy
+""tym razem będziemy mieli szczęście"""
+Basic;Polski::Odmiany;Polski Odmiana;Ty [być] (czas przyszły);"Ty będziesz
+""dopóki nie spróbujesz, nie będziesz wiedziała"""
+Basic;Polski::Odmiany;Polski Odmiana;Wy [być] (czas przyszły);"Wy będziecie
+""gdzie będziecie mieszkać"""
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [być] (czas przyszły);"On/Ona/Ono będzie
+""na pewno będzie fajnie"""
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [być] (czas przyszły);"Oni/One będą
+""nic nikomu nie będą mówić"""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [chcieć] (czas teraźniejszy);Ja chcę
 Basic;Polski::Odmiany;Polski Odmiana;My [chcieć] (czas teraźniejszy);My chcemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [chcieć] (czas teraźniejszy);Ty chcesz
 Basic;Polski::Odmiany;Polski Odmiana;Wy [chcieć] (czas teraźniejszy);Wy chcecie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [chcieć] (czas teraźniejszy);On/Ona/Ono chce
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [chcieć] (czas teraźniejszy);Oni/One	chcą
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [chcieć] (czas teraźniejszy);Oni/One chcą
 Basic;Polski::Odmiany;Polski Odmiana;Ja [dawać] (czas teraźniejszy);Ja daję
 Basic;Polski::Odmiany;Polski Odmiana;My [dawać] (czas teraźniejszy);My dajemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (czas teraźniejszy);Ty dajesz
 Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (czas teraźniejszy);Wy dajecie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dawać] (czas teraźniejszy);On/Ona/Ono daje
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dawać] (czas teraźniejszy);Oni/One	dają
-Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (czas teraźniejszy);Ja dam
-Basic;Polski::Odmiany;Polski Odmiana;My [dać] (czas teraźniejszy);My damy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (czas teraźniejszy);Ty dasz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (czas teraźniejszy);Wy dacie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dać] (czas teraźniejszy);On/Ona/Ono da
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dać] (czas teraźniejszy);Oni/One dadzą
-Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (m, czas przeszły);Ja dałem
-Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (ż, czas przeszły);Ja dałam
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dawać] (czas teraźniejszy);Oni/One dają
+Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (czas teraźniejszy);"Ja dam
+""Przyjdź jutro do mnie, to [dam] ci listę moich dłużników.""
+""[Dam] ci znać, jak tylko będę wiedział.""
+""[Dam] ci dobrą radę."""
+Basic;Polski::Odmiany;Polski Odmiana;My [dać] (czas teraźniejszy);"My damy
+""Nie [damy] się przyprzeć do muru.""
+""Nie, jutro na pewno [damy] sobie radę.""
+""I to im [damy]."""
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (czas teraźniejszy);"Ty dasz
+""Jeśli nie [dasz] mi spokoju, to cię stąd przegonię.""
+""[Dasz] im znać o mnie?""
+""Czemu nie [dasz] mi drugiego konia?"""
+Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (czas teraźniejszy);"Wy dacie
+""[Dacie] mi go?""
+""W przeciwnym razie nie [dacie] mi przepustki?""
+""Nie [dacie] rady."""
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dać] (czas teraźniejszy);"On/Ona/Ono da
+""Nie [da] rady!""
+""Niech bóg [da], że będzie znać twoją wartość.""
+""Z całym szacunkiem, panie kapitanie, co nam to [da]?"""
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dać] (czas teraźniejszy);"Oni/One dadzą
+""A co jeśli żadnego nie [dadzą]?""
+""Może [dadzą] panu szansę.""
+""Pieniądze nie [dadzą] wam szczęścia."""
+Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (m, czas przeszły);"Ja dałem
+""[Dałem] ci słowo, a ja nigdy nie łamię słowa.""
+""[Dałem] im jasno do zrozumienia...""
+""[Dałem] pani słowo i go dotrzymam."""
+Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (ż, czas przeszły);"Ja dałam
+""[Dałam] ci go potrzymać.""
+""Nic mu nie [dałam].""
+""[Dałam] ci wszystko."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (n, czas przeszły);Ja dałom
-Basic;Polski::Odmiany;Polski Odmiana;My [dać] (czas przeszły);My daliśmy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (m, czas przeszły);Ty dałeś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (ż, czas przeszły);Ty dałaś
+Basic;Polski::Odmiany;Polski Odmiana;My [dać] (czas przeszły);"My daliśmy
+""[Daliśmy] im absolutną władzę.""
+""[Daliśmy] im wszystko, co mieliśmy.""
+""[Daliśmy] ci żywność i wodę."""
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (m, czas przeszły);"Ty dałeś
+""[Dałeś] z siebie wszystko.""
+""[Dałeś] temu psu dom.""
+""Zdał sobie sprawę, że to ty [dałeś] mu broń."""
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (ż, czas przeszły);"Ty dałaś
+""Czemu nie [dałaś] znać?""
+""[Dałaś] mi całą potrzebną broń.""
+""Więc dlaczego [dałaś] mi nadzieję?"""
 Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (n, czas przeszły);Ty dałoś
-Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (czas przeszły);Wy daliście
-Basic;Polski::Odmiany;Polski Odmiana;On [dać] (czas przeszły);On dał
-Basic;Polski::Odmiany;Polski Odmiana;Ona [dać] (czas przeszły);Ona dała
-Basic;Polski::Odmiany;Polski Odmiana;Ono [dać] (czas przeszły);Ono dało
-Basic;Polski::Odmiany;Polski Odmiana;Oni [dać] (czas przeszły);Oni dali
+Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (czas przeszły);"Wy daliście
+""Wszyscy bez wyjątku [daliście] się pokonać amatorowi.""
+""[Daliście] się nabrać, oboje.""
+""[Daliście] mi wskazówkę na moje błędy."""
+Basic;Polski::Odmiany;Polski Odmiana;On [dać] (czas przeszły);"On dał
+""Proszę pana, [dał] pan nam złe pieniądze!""
+""Twój kolega [dał] ci alibi na tamtą noc.""
+""Co jej [dał] za wyjątkiem róż?"""
+Basic;Polski::Odmiany;Polski Odmiana;Ona [dać] (czas przeszły);"Ona dała
+""Chcę, abyś [dała] mi wolność.""
+""[Dała] ci swój numer?""
+""[Dała] mi czas do piątku na załatwienie pozwolenia na pracę."""
+Basic;Polski::Odmiany;Polski Odmiana;Ono [dać] (czas przeszły);"Ono dało
+""A ponieważ nie było ich widać nie [dało] się udowodnić, że nie istnieją.""
+""[Dało] jej to wystarczająco czasu.""
+""Tej nocy nie [dało] się spać."""
+Basic;Polski::Odmiany;Polski Odmiana;Oni [dać] (czas przeszły);"Oni dali
+""Oni nie [dali] rady nawałowi spraw.""
+""[Dali] mi nowe życie.""
+""Chciałem tylko, żeby mi [dali] szansę."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [istnieć] (czas teraźniejszy);Ja istnieję
 Basic;Polski::Odmiany;Polski Odmiana;My [istnieć] (czas teraźniejszy);Ja istniejemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [istnieć] (czas teraźniejszy);Ty istniejesz
@@ -738,8 +904,12 @@ Basic;Polski::Odmiany;Polski Odmiana;Ja [istnieć] (n, czas przeszły);Ja istnia
 Basic;Polski::Odmiany;Polski Odmiana;My [istnieć] (czas przeszły);My istnieliśmy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [istnieć] (m, czas przeszły);Ty istniałeś
 Basic;Polski::Odmiany;Polski Odmiana;Ty [istnieć] (ż, czas przeszły);Ty istniałaś
+Basic;Polski::Odmiany;Polski Odmiana;Ty [istnieć] (n, czas przeszły);Ty istniałoś
 Basic;Polski::Odmiany;Polski Odmiana;Wy [istnieć] (czas przeszły);Wy istnieliście
-Basic;Polski::Odmiany;Polski Odmiana;Ono [istnieć] (n, czas przeszły);Ono istniałoś
+Basic;Polski::Odmiany;Polski Odmiana;On [istnieć] (czas przeszły);On istniał
+Basic;Polski::Odmiany;Polski Odmiana;Ona [istnieć] (czas przeszły);Ona istniała
+Basic;Polski::Odmiany;Polski Odmiana;Ono [istnieć] (czas przeszły);Ono istniało
+Basic;Polski::Odmiany;Polski Odmiana;Oni [istnieć] (czas przeszły);Oni istnieli
 Basic;Polski::Odmiany;Polski Odmiana;Ja [iść] (czas teraźniejszy);Ja idę
 Basic;Polski::Odmiany;Polski Odmiana;My [iść] (czas teraźniejszy);My idziemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [iść] (czas teraźniejszy);Ty idziesz
@@ -763,7 +933,7 @@ Basic;Polski::Odmiany;Polski Odmiana;My [mieć] (czas teraźniejszy);My mamy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (czas teraźniejszy);Ty masz
 Basic;Polski::Odmiany;Polski Odmiana;Wy [mieć] (czas teraźniejszy);Wy macie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [mieć] (czas teraźniejszy);On/Ona/Ono ma
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [mieć] (czas teraźniejszy);Oni/One	mają
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [mieć] (czas teraźniejszy);Oni/One mają
 Basic;Polski::Odmiany;Polski Odmiana;Ja [mieć] (m, czas przeszły);Ja miałem
 Basic;Polski::Odmiany;Polski Odmiana;Ja [mieć] (ż, czas przeszły);Ja miałam
 Basic;Polski::Odmiany;Polski Odmiana;Ja [mieć] (n, czas przeszły);Ja miałom
@@ -842,6 +1012,24 @@ Basic;Polski::Odmiany;Polski Odmiana;On [robić] (czas przeszły);On robił
 Basic;Polski::Odmiany;Polski Odmiana;Ona [robić] (czas przeszły);Ona robiła
 Basic;Polski::Odmiany;Polski Odmiana;Ono [robić] (czas przeszły);Ono robiło
 Basic;Polski::Odmiany;Polski Odmiana;Oni [robić] (czas przeszły);Oni robili
+Basic;Polski::Odmiany;Polski Odmiana;Ja [spojrzeć] (czas teraźniejszy);Ja spojrzę
+Basic;Polski::Odmiany;Polski Odmiana;My [spojrzeć] (czas teraźniejszy);My spojrzymy
+Basic;Polski::Odmiany;Polski Odmiana;Ty [spojrzeć] (czas teraźniejszy);Ty spojrzysz
+Basic;Polski::Odmiany;Polski Odmiana;Wy [spojrzeć] (czas teraźniejszy);Wy spojrzycie
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [spojrzeć] (czas teraźniejszy);On/Ona/Ono spojrzy
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [spojrzeć] (czas teraźniejszy);Oni/One spojrzą
+Basic;Polski::Odmiany;Polski Odmiana;Ja [spojrzeć] (m, czas przeszły);Ja spojrzałem
+Basic;Polski::Odmiany;Polski Odmiana;Ja [spojrzeć] (ż, czas przeszły);Ja spojrzałam
+Basic;Polski::Odmiany;Polski Odmiana;Ja [spojrzeć] (n, czas przeszły);Ja spojrzałom
+Basic;Polski::Odmiany;Polski Odmiana;My [spojrzeć] (czas przeszły);My spojrzeliśmy
+Basic;Polski::Odmiany;Polski Odmiana;Ty [spojrzeć] (m, czas przeszły);Ty spojrzałeś
+Basic;Polski::Odmiany;Polski Odmiana;Ty [spojrzeć] (ż, czas przeszły);Ty spojrzałaś
+Basic;Polski::Odmiany;Polski Odmiana;Ty [spojrzeć] (n, czas przeszły);Ty spojrzałoś
+Basic;Polski::Odmiany;Polski Odmiana;Wy [spojrzeć] (czas przeszły);Wy spojrzeliście
+Basic;Polski::Odmiany;Polski Odmiana;On [spojrzeć] (czas przeszły);On spojrzał
+Basic;Polski::Odmiany;Polski Odmiana;Ona [spojrzeć] (czas przeszły);Ona spojrzała
+Basic;Polski::Odmiany;Polski Odmiana;Ono [spojrzeć] (czas przeszły);Ono spojrzało
+Basic;Polski::Odmiany;Polski Odmiana;Oni [spojrzeć] (czas przeszły);Oni spojrzeli
 Basic;Polski::Odmiany;Polski Odmiana;Ja [umieć] (czas teraźniejszy);Ja umiem
 Basic;Polski::Odmiany;Polski Odmiana;My [umieć] (czas teraźniejszy);My umiemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [umieć] (czas teraźniejszy);Ty umiesz
@@ -871,7 +1059,7 @@ Basic;Polski::Odmiany;Polski Odmiana;My [wziąć] (czas teraźniejszy);My weźmi
 Basic;Polski::Odmiany;Polski Odmiana;Ty [wziąć] (czas teraźniejszy);Ty weźmiesz
 Basic;Polski::Odmiany;Polski Odmiana;Wy [wziąć] (czas teraźniejszy);Wy weźmiecie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [wziąć] (czas teraźniejszy);On/Ona/Ono weźmie
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [wziąć] (czas teraźniejszy);Oni/One	wezmą
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [wziąć] (czas teraźniejszy);Oni/One wezmą
 Basic;Polski::Odmiany;Polski Odmiana;Ja [zebrać] (czas teraźniejszy);Ja zbiorę
 Basic;Polski::Odmiany;Polski Odmiana;My [zebrać] (czas teraźniejszy);My zbierzemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (czas teraźniejszy);Ty zbierzesz
@@ -895,7 +1083,7 @@ Basic;Polski::Odmiany;Polski Odmiana;My [zmusić] (czas teraźniejszy);My zmusim
 Basic;Polski::Odmiany;Polski Odmiana;Ty [zmusić] (czas teraźniejszy);Ty zmusisz
 Basic;Polski::Odmiany;Polski Odmiana;Wy [zmusić] (czas teraźniejszy);Wy zmusicie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [zmusić] (czas teraźniejszy);On/Ona/Ono zmusi
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [zmusić] (czas teraźniejszy);Oni/One	zmuszą
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [zmusić] (czas teraźniejszy);Oni/One zmuszą
 Basic;Polski::Odmiany;Polski Odmiana;Ja [znać] (czas teraźniejszy);Ja znam
 Basic;Polski::Odmiany;Polski Odmiana;My [znać] (czas teraźniejszy);My znamy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (czas teraźniejszy);Ty znasz

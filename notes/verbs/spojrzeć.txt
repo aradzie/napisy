@@ -1,0 +1,97 @@
+!type:Basic
+
+!deck:Polski::Odmiany
+
+!tags:Polski Odmiana
+
+# https://wsjp.pl/haslo/podglad/20362/spojrzec/4617734/na-zdjecie
+
+Ja [spojrzeć] (czas teraźniejszy)
+---
+Ja spojrzę
+===
+
+My [spojrzeć] (czas teraźniejszy)
+---
+My spojrzymy
+===
+
+Ty [spojrzeć] (czas teraźniejszy)
+---
+Ty spojrzysz
+===
+
+Wy [spojrzeć] (czas teraźniejszy)
+---
+Wy spojrzycie
+===
+
+On/Ona/Ono [spojrzeć] (czas teraźniejszy)
+---
+On/Ona/Ono spojrzy
+===
+
+Oni/One [spojrzeć] (czas teraźniejszy)
+---
+Oni/One spojrzą
+===
+
+Ja [spojrzeć] (m, czas przeszły)
+---
+Ja spojrzałem
+===
+
+Ja [spojrzeć] (ż, czas przeszły)
+---
+Ja spojrzałam
+===
+
+Ja [spojrzeć] (n, czas przeszły)
+---
+Ja spojrzałom
+===
+
+My [spojrzeć] (czas przeszły)
+---
+My spojrzeliśmy
+===
+
+Ty [spojrzeć] (m, czas przeszły)
+---
+Ty spojrzałeś
+===
+
+Ty [spojrzeć] (ż, czas przeszły)
+---
+Ty spojrzałaś
+===
+
+Ty [spojrzeć] (n, czas przeszły)
+---
+Ty spojrzałoś
+===
+
+Wy [spojrzeć] (czas przeszły)
+---
+Wy spojrzeliście
+===
+
+On [spojrzeć] (czas przeszły)
+---
+On spojrzał
+===
+
+Ona [spojrzeć] (czas przeszły)
+---
+Ona spojrzała
+===
+
+Ono [spojrzeć] (czas przeszły)
+---
+Ono spojrzało
+===
+
+Oni [spojrzeć] (czas przeszły)
+---
+Oni spojrzeli
+===
