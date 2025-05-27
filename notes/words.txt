@@ -213,3 +213,5 @@ kojarzyć
 # zasada
 # stamtąd
 # szacunek
+# wrzasnąć
+# sprawdzać
