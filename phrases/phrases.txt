@@ -121,3 +121,5 @@ they were right|mieli rację
 пока не попробуешь не узнаешь|dopóki nie spróbujesz, nie będziesz wiedział
 ты ещё увидишь|zobaczysz później
 за что мне это?|dlaczego to się ze mną dzieje?
+выступил намного лучше|wypadł znacznie lepiej
+выступил намного хуже|wypadł znacznie gorzej

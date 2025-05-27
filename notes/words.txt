@@ -199,6 +199,7 @@ kojarzyć
 # więc
 # uważać
 # wydawać
+# wypadać
 # ciągle
 # właściwy
 # natychmiast

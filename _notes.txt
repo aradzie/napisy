@@ -507,6 +507,8 @@ Basic;Polski::Frazy::phrases;Polski phrases;у меня такое чувств�
 Basic;Polski::Frazy::phrases;Polski phrases;пока не попробуешь не узнаешь;dopóki nie spróbujesz, nie będziesz wiedział
 Basic;Polski::Frazy::phrases;Polski phrases;ты ещё увидишь;zobaczysz później
 Basic;Polski::Frazy::phrases;Polski phrases;за что мне это?;dlaczego to się ze mną dzieje?
+Basic;Polski::Frazy::phrases;Polski phrases;выступил намного лучше;wypadł znacznie lepiej
+Basic;Polski::Frazy::phrases;Polski phrases;выступил намного хуже;wypadł znacznie gorzej
 Basic;Polski::Frazy::youtube1;Polski youtube1;Цены на энергоносители растут, будут расти и дальше.;Ceny energii rosną, będą rosły i będą jeszcze przyspieszały.
 Basic;Polski::Frazy::youtube1;Polski youtube1;Что можно сделать, чтобы вообще не платить по счетам?;Co zrobić żeby nie płacić w ogóle rachunków?
 Basic;Polski::Frazy::youtube1;Polski youtube1;Сколько раз вы бывали в таких местах, которые вообще не подключены к сети?;Ile razy byłeś w takim miejscu, które nie jest w ogóle podpięte do sieci?
