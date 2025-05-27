@@ -95,3 +95,18 @@ Oni [zebrać] (czas przeszły)
 ---
 Oni zebrali
 ===
+
+Ty [zebrać] (tryb rozkazujący)
+---
+zbierz
+===
+
+My [zebrać] (tryb rozkazujący)
+---
+zbierzmy
+===
+
+Wy [zebrać] (tryb rozkazujący)
+---
+zbierzcie
+===

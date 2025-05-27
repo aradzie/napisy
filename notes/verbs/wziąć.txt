@@ -35,3 +35,18 @@ Oni/One [wziąć] (czas teraźniejszy)
 ---
 Oni/One wezmą
 ===
+
+Ty [wziąć] (tryb rozkazujący)
+---
+weź
+===
+
+My [wziąć] (tryb rozkazujący)
+---
+weźmy
+===
+
+Wy [wziąć] (tryb rozkazujący)
+---
+weźcie
+===

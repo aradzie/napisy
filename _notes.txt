@@ -391,7 +391,6 @@ Basic;Polski::Frazy::phrases;Polski phrases;больше не питает ил�
 Basic;Polski::Frazy::phrases;Polski phrases;каждое утро он целует свое отражение в зеркале;każdego ranka całuje swoje odbicie w lustrze
 Basic;Polski::Frazy::phrases;Polski phrases;его невозможно оскорбить;nie da się go urazić
 Basic;Polski::Frazy::phrases;Polski phrases;президент намерен наложить вето;prezydent zamierza zawetować
-Basic;Polski::Frazy::phrases;Polski phrases;готовит ли ес «атаку на сбережения»?;"ue szykuje ""zamach na oszczędności""?"
 Basic;Polski::Frazy::phrases;Polski phrases;огромный рост поддержки;olbrzymi wzrost poparcia
 Basic;Polski::Frazy::phrases;Polski phrases;я начал учить польский;zacząłem uczyć się polskiego
 Basic;Polski::Frazy::phrases;Polski phrases;вокруг солнца;wokół słońca
@@ -428,8 +427,6 @@ Basic;Polski::Frazy::phrases;Polski phrases;i am trying to do something;próbuj�
 Basic;Polski::Frazy::phrases;Polski phrases;все меньше людей;coraz mniej osób
 Basic;Polski::Frazy::phrases;Polski phrases;заявляют о своей готовности вступить в армию;deklaruje chęć wstąpienia do armii,
 Basic;Polski::Frazy::phrases;Polski phrases;и все больше заявляют о готовности покинуть страну;a więcej zapowiada opuszczenie kraju
-Basic;Polski::Frazy::phrases;Polski phrases;usually;obecne
-Basic;Polski::Frazy::phrases;Polski phrases;a promise;obietnica
 Basic;Polski::Frazy::phrases;Polski phrases;ассоциируется в основном с микроустановками;kojarzy się głównie z mikroinstalacjami
 Basic;Polski::Frazy::phrases;Polski phrases;в моем ближайшем окружении;w moim najbliższym środowisku
 Basic;Polski::Frazy::phrases;Polski phrases;самые богатые люди, с которыми я когда-либо имел дело;najbogatsi ludzie, z którymi miałem do czynienia
@@ -500,13 +497,15 @@ Basic;Polski::Frazy::phrases;Polski phrases;брак по расчету;malozen
 Basic;Polski::Frazy::phrases;Polski phrases;but I doubt that he has such a rubber spine;ale wątpię by on miał taki kręgosłup z gumy
 Basic;Polski::Frazy::phrases;Polski phrases;вопреки видимости, не завершил кампанию;wbrew pozorom nie skończył kampanii
 Basic;Polski::Frazy::phrases;Polski phrases;they were right;mieli rację
-Basic;Polski::Frazy::phrases;Polski phrases;я этого не отрицаю;
+Basic;Polski::Frazy::phrases;Polski phrases;я этого не отрицаю;nie zaprzeczam temu
 Basic;Polski::Frazy::phrases;Polski phrases;второй день подряд;drugi dzień z rzędu
 Basic;Polski::Frazy::phrases;Polski phrases;не хочу показаться жестоким;nie zamierzam brzmieć okrutnie
 Basic;Polski::Frazy::phrases;Polski phrases;в отличии от других;w przeciwieństwie do innych
 Basic;Polski::Frazy::phrases;Polski phrases;рано или поздно ты это поймешь;prędzej czy później to zrozumiesz
 Basic;Polski::Frazy::phrases;Polski phrases;это сделает мою речь более натуральной;dzięki temu moja mowa będzie bardziej naturalna
 Basic;Polski::Frazy::phrases;Polski phrases;у меня такое чувство;mam przeczucie
+Basic;Polski::Frazy::phrases;Polski phrases;пока не попробуешь не узнаешь;dopóki nie spróbujesz, nie będziesz wiedział
+Basic;Polski::Frazy::phrases;Polski phrases;ты ещё увидишь;zobaczysz później
 Basic;Polski::Frazy::youtube1;Polski youtube1;Цены на энергоносители растут, будут расти и дальше.;Ceny energii rosną, będą rosły i będą jeszcze przyspieszały.
 Basic;Polski::Frazy::youtube1;Polski youtube1;Что можно сделать, чтобы вообще не платить по счетам?;Co zrobić żeby nie płacić w ogóle rachunków?
 Basic;Polski::Frazy::youtube1;Polski youtube1;Сколько раз вы бывали в таких местах, которые вообще не подключены к сети?;Ile razy byłeś w takim miejscu, które nie jest w ogóle podpięte do sieci?
@@ -779,41 +778,53 @@ Basic;Polski::Słowa;Polski Słowa;узнавать/to recognize;"kojarzyć
 ""Czemu miałbym go kojarzyć?""
 ""Dopiero zaczynasz to kojarzyć."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [brać] (czas teraźniejszy);"Ja biorę
-""biorę do ręki i przeglądam"""
+""Biorę do ręki i przeglądam."""
 Basic;Polski::Odmiany;Polski Odmiana;My [brać] (czas teraźniejszy);"My bierzemy
-""lista kandydatów, których bierzemy pod uwagę"""
+""Lista kandydatów, których bierzemy pod uwagę."""
 Basic;Polski::Odmiany;Polski Odmiana;Ty [brać] (czas teraźniejszy);"Ty bierzesz
-""skąd ty je bierzesz?"""
+""Skąd ty je bierzesz?"""
 Basic;Polski::Odmiany;Polski Odmiana;Wy [brać] (czas teraźniejszy);"Wy bierzecie
-""wy wszak nie bierzecie pieniędzy za zabijanie"""
+""Wy wszak nie bierzecie pieniędzy za zabijanie."""
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [brać] (czas teraźniejszy);"On/Ona/Ono bierze
-""lekarz bierze narzędzie"""
+""Lekarz bierze narzędzie."""
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [brać] (czas teraźniejszy);"Oni/One biorą
-""skąd w ogóle biorą się dzieci"""
+""Skąd w ogóle biorą się dzieci."""
+Basic;Polski::Odmiany;Polski Odmiana;Ty [brać] (tryb rozkazujący);"bierz
+""Ostrożnie bierz pod uwagę."""
+Basic;Polski::Odmiany;Polski Odmiana;My [brać] (tryb rozkazujący);"bierzmy
+""Więc bierzmy tylko najpotrzebniejsze rzeczy."""
+Basic;Polski::Odmiany;Polski Odmiana;Wy [brać] (tryb rozkazujący);"bierzcie
+""Panowie bierzcie przykład."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [być] (czas teraźniejszy);"Ja jestem
-""ale ja jestem spokojny"""
+""Ale ja jestem spokojny."""
 Basic;Polski::Odmiany;Polski Odmiana;My [być] (czas teraźniejszy);"My jesteśmy
-""to my jesteśmy trybunałem inkwizycji"""
+""To my jesteśmy trybunałem inkwizycji."""
 Basic;Polski::Odmiany;Polski Odmiana;Ty [być] (czas teraźniejszy);"Ty jesteś
-""a ty jesteś ukochaną córką"""
+""A ty jesteś ukochaną córką."""
 Basic;Polski::Odmiany;Polski Odmiana;Wy [być] (czas teraźniejszy);"Wy jesteście
-""czy jesteście pewni"""
+""Czy jesteście pewni."""
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [być] (czas teraźniejszy);"On/Ona/Ono jest
-""która jest zdenerwowana"""
+""Która jest zdenerwowana."""
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [być] (czas teraźniejszy);"Oni/One są
-""może to są i ważne sprawy,"""
+""Może to są i ważne sprawy."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [być] (czas przyszły);"Ja będę
-""kak ja będę wyglądał"""
+""Jak ja będę wyglądał."""
 Basic;Polski::Odmiany;Polski Odmiana;My [być] (czas przyszły);"My będziemy
-""tym razem będziemy mieli szczęście"""
+""Tym razem będziemy mieli szczęście."""
 Basic;Polski::Odmiany;Polski Odmiana;Ty [być] (czas przyszły);"Ty będziesz
-""dopóki nie spróbujesz, nie będziesz wiedziała"""
+""Dopóki nie spróbujesz, nie będziesz wiedziała."""
 Basic;Polski::Odmiany;Polski Odmiana;Wy [być] (czas przyszły);"Wy będziecie
-""gdzie będziecie mieszkać"""
+""Gdzie będziecie mieszkać."""
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [być] (czas przyszły);"On/Ona/Ono będzie
-""na pewno będzie fajnie"""
+""Na pewno będzie fajnie."""
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [być] (czas przyszły);"Oni/One będą
-""nic nikomu nie będą mówić"""
+""Nic nikomu nie będą mówić."""
+Basic;Polski::Odmiany;Polski Odmiana;Ty [być] (tryb rozkazujący);"bądź
+""Nie bądź impulsywny."""
+Basic;Polski::Odmiany;Polski Odmiana;My [być] (tryb rozkazujący);"bądźmy
+""Bądźmy tam razem."""
+Basic;Polski::Odmiany;Polski Odmiana;Wy [być] (tryb rozkazujący);"bądźcie
+""Więc nie bądźcie rozczarowani!"""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [chcieć] (czas teraźniejszy);Ja chcę
 Basic;Polski::Odmiany;Polski Odmiana;My [chcieć] (czas teraźniejszy);My chcemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [chcieć] (czas teraźniejszy);Ty chcesz
@@ -826,6 +837,9 @@ Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (czas teraźniejszy);Ty dajesz
 Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (czas teraźniejszy);Wy dajecie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dawać] (czas teraźniejszy);On/Ona/Ono daje
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dawać] (czas teraźniejszy);Oni/One dają
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (tryb rozkazujący);dawaj
+Basic;Polski::Odmiany;Polski Odmiana;My [dawać] (tryb rozkazujący);dawajmy
+Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (tryb rozkazujący);dawajcie
 Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (czas teraźniejszy);"Ja dam
 ""Przyjdź jutro do mnie, to [dam] ci listę moich dłużników.""
 ""[Dam] ci znać, jak tylko będę wiedział.""
@@ -892,6 +906,12 @@ Basic;Polski::Odmiany;Polski Odmiana;Oni [dać] (czas przeszły);"Oni dali
 ""Oni nie [dali] rady nawałowi spraw.""
 ""[Dali] mi nowe życie.""
 ""Chciałem tylko, żeby mi [dali] szansę."""
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (tryb rozkazujący);"daj
+""Daj sobie trochę więcej czasu na znalezienie miejsca."""
+Basic;Polski::Odmiany;Polski Odmiana;My [dać] (tryb rozkazujący);"dajmy
+""Ale nie dajmy się zwariować."""
+Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (tryb rozkazujący);"dajcie
+""Więc dajcie znać, co myślicie."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [istnieć] (czas teraźniejszy);Ja istnieję
 Basic;Polski::Odmiany;Polski Odmiana;My [istnieć] (czas teraźniejszy);Ja istniejemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [istnieć] (czas teraźniejszy);Ty istniejesz
@@ -928,6 +948,9 @@ Basic;Polski::Odmiany;Polski Odmiana;On [iść] (czas przeszły);On szedł
 Basic;Polski::Odmiany;Polski Odmiana;Ona [iść] (czas przeszły);Ona szła
 Basic;Polski::Odmiany;Polski Odmiana;Ono [iść] (czas przeszły);Ono szło
 Basic;Polski::Odmiany;Polski Odmiana;Oni [iść] (czas przeszły);Oni szli
+Basic;Polski::Odmiany;Polski Odmiana;Ty [iść] (tryb rozkazujący);idź
+Basic;Polski::Odmiany;Polski Odmiana;My [iść] (tryb rozkazujący);idźmy
+Basic;Polski::Odmiany;Polski Odmiana;Wy [iść] (tryb rozkazujący);idźcie
 Basic;Polski::Odmiany;Polski Odmiana;Ja [mieć] (czas teraźniejszy);Ja mam
 Basic;Polski::Odmiany;Polski Odmiana;My [mieć] (czas teraźniejszy);My mamy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (czas teraźniejszy);Ty masz
@@ -946,6 +969,9 @@ Basic;Polski::Odmiany;Polski Odmiana;On [mieć] (czas przeszły);On miał
 Basic;Polski::Odmiany;Polski Odmiana;Ona [mieć] (czas przeszły);Ona miała
 Basic;Polski::Odmiany;Polski Odmiana;Ono [mieć] (czas przeszły);Ono miało
 Basic;Polski::Odmiany;Polski Odmiana;Oni [mieć] (czas przeszły);Oni mieli
+Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (tryb rozkazujący);miej
+Basic;Polski::Odmiany;Polski Odmiana;My [mieć] (tryb rozkazujący);miejmy
+Basic;Polski::Odmiany;Polski Odmiana;Wy [mieć] (tryb rozkazujący);miejcie
 Basic;Polski::Odmiany;Polski Odmiana;Ja [musieć] (czas teraźniejszy);Ja muszę
 Basic;Polski::Odmiany;Polski Odmiana;My [musieć] (czas teraźniejszy);My musimy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [musieć] (czas teraźniejszy);Ty musisz
@@ -988,6 +1014,9 @@ Basic;Polski::Odmiany;Polski Odmiana;Ty [pomóc] (czas przyszły);Ty pomożesz
 Basic;Polski::Odmiany;Polski Odmiana;Wy [pomóc] (czas przyszły);Wy pomożecie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [pomóc] (czas przyszły);On/Ona/Ono pomoże
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [pomóc] (czas przyszły);Oni/One pomogą
+Basic;Polski::Odmiany;Polski Odmiana;Ty [pomóc] (tryb rozkazujący);pomóż
+Basic;Polski::Odmiany;Polski Odmiana;My [pomóc] (tryb rozkazujący);pomóżmy
+Basic;Polski::Odmiany;Polski Odmiana;Wy [pomóc] (tryb rozkazujący);pomóżcie
 Basic;Polski::Odmiany;Polski Odmiana;Ja [potrafić] (czas teraźniejszy);Ja potrafię
 Basic;Polski::Odmiany;Polski Odmiana;My [potrafić] (czas teraźniejszy);My potrafimy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [potrafić] (czas teraźniejszy);Ty potrafisz
@@ -1054,12 +1083,18 @@ Basic;Polski::Odmiany;Polski Odmiana;On [wiedzieć] (czas przeszły);On wiedzia�
 Basic;Polski::Odmiany;Polski Odmiana;Ona [wiedzieć] (czas przeszły);Ona wiedziała
 Basic;Polski::Odmiany;Polski Odmiana;Ono [wiedzieć] (czas przeszły);Ono wiedziało
 Basic;Polski::Odmiany;Polski Odmiana;Oni [wiedzieć] (czas przeszły);Oni wiedzieli
+Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (tryb rozkazujący);wiedz
+Basic;Polski::Odmiany;Polski Odmiana;My [wiedzieć] (tryb rozkazujący);wiedzmy
+Basic;Polski::Odmiany;Polski Odmiana;Wy [wiedzieć] (tryb rozkazujący);wiedzcie
 Basic;Polski::Odmiany;Polski Odmiana;Ja [wziąć] (czas teraźniejszy);Ja wezmę
 Basic;Polski::Odmiany;Polski Odmiana;My [wziąć] (czas teraźniejszy);My weźmiemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [wziąć] (czas teraźniejszy);Ty weźmiesz
 Basic;Polski::Odmiany;Polski Odmiana;Wy [wziąć] (czas teraźniejszy);Wy weźmiecie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [wziąć] (czas teraźniejszy);On/Ona/Ono weźmie
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [wziąć] (czas teraźniejszy);Oni/One wezmą
+Basic;Polski::Odmiany;Polski Odmiana;Ty [wziąć] (tryb rozkazujący);weź
+Basic;Polski::Odmiany;Polski Odmiana;My [wziąć] (tryb rozkazujący);weźmy
+Basic;Polski::Odmiany;Polski Odmiana;Wy [wziąć] (tryb rozkazujący);weźcie
 Basic;Polski::Odmiany;Polski Odmiana;Ja [zebrać] (czas teraźniejszy);Ja zbiorę
 Basic;Polski::Odmiany;Polski Odmiana;My [zebrać] (czas teraźniejszy);My zbierzemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (czas teraźniejszy);Ty zbierzesz
@@ -1078,12 +1113,36 @@ Basic;Polski::Odmiany;Polski Odmiana;On [zebrać] (czas przeszły);On zebrał
 Basic;Polski::Odmiany;Polski Odmiana;Ona [zebrać] (czas przeszły);Ona zebrała
 Basic;Polski::Odmiany;Polski Odmiana;Ono [zebrać] (czas przeszły);Ono zebrało
 Basic;Polski::Odmiany;Polski Odmiana;Oni [zebrać] (czas przeszły);Oni zebrali
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (tryb rozkazujący);zbierz
+Basic;Polski::Odmiany;Polski Odmiana;My [zebrać] (tryb rozkazujący);zbierzmy
+Basic;Polski::Odmiany;Polski Odmiana;Wy [zebrać] (tryb rozkazujący);zbierzcie
 Basic;Polski::Odmiany;Polski Odmiana;Ja [zmusić] (czas teraźniejszy);Ja zmuszę
 Basic;Polski::Odmiany;Polski Odmiana;My [zmusić] (czas teraźniejszy);My zmusimy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [zmusić] (czas teraźniejszy);Ty zmusisz
 Basic;Polski::Odmiany;Polski Odmiana;Wy [zmusić] (czas teraźniejszy);Wy zmusicie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [zmusić] (czas teraźniejszy);On/Ona/Ono zmusi
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [zmusić] (czas teraźniejszy);Oni/One zmuszą
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znajdować] (czas teraźniejszy);Ja znajduję
+Basic;Polski::Odmiany;Polski Odmiana;My [znajdować] (czas teraźniejszy);Ja znajdujemy
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (czas teraźniejszy);Ty znajdujesz
+Basic;Polski::Odmiany;Polski Odmiana;Wy [znajdować] (czas teraźniejszy);Wy znajdujecie
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [znajdować] (czas teraźniejszy);On/Ona/Ono znajduje
+Basic;Polski::Odmiany;Polski Odmiana;Oni [znajdować] (czas teraźniejszy);Oni znajdują
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znajdować] (m, czas przeszły);Ja znajdowałem
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znajdować] (ż, czas przeszły);Ja znajdowałam
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znajdować] (n, czas przeszły);Ja znajdowałom
+Basic;Polski::Odmiany;Polski Odmiana;My [znajdować] (czas przeszły);My znajdowaliśmy
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (m, czas przeszły);Ty znajdowałeś
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (ż, czas przeszły);Ty znajdowałaś
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (n, czas przeszły);Ty znajdowałoś
+Basic;Polski::Odmiany;Polski Odmiana;Wy [znajdować] (czas przeszły);Wy znajdowaliście
+Basic;Polski::Odmiany;Polski Odmiana;On [znajdować] (czas przeszły);On znajdował
+Basic;Polski::Odmiany;Polski Odmiana;Ona [znajdować] (czas przeszły);Ona znajdowała
+Basic;Polski::Odmiany;Polski Odmiana;Ono [znajdować] (czas przeszły);Ono znajdowało
+Basic;Polski::Odmiany;Polski Odmiana;Oni [znajdować] (czas przeszły);Oni znajdowali
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (tryb rozkazujący);znajduj
+Basic;Polski::Odmiany;Polski Odmiana;My [znajdować] (tryb rozkazujący);znajdujmy
+Basic;Polski::Odmiany;Polski Odmiana;Wy [znajdować] (tryb rozkazujący);znajdujcie
 Basic;Polski::Odmiany;Polski Odmiana;Ja [znać] (czas teraźniejszy);Ja znam
 Basic;Polski::Odmiany;Polski Odmiana;My [znać] (czas teraźniejszy);My znamy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (czas teraźniejszy);Ty znasz

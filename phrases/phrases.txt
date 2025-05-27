@@ -5,7 +5,6 @@ people harm themselves|ludzie robią sobie krzywdę
 каждое утро он целует свое отражение в зеркале|każdego ranka całuje swoje odbicie w lustrze
 его невозможно оскорбить|nie da się go urazić
 президент намерен наложить вето|prezydent zamierza zawetować
-готовит ли ес «атаку на сбережения»?|ue szykuje "zamach na oszczędności"?
 огромный рост поддержки|olbrzymi wzrost poparcia
 я начал учить польский|zacząłem uczyć się polskiego
 вокруг солнца|wokół słońca
@@ -42,8 +41,6 @@ i am trying to do something|próbuję coś zrobić
 все меньше людей|coraz mniej osób
 заявляют о своей готовности вступить в армию|deklaruje chęć wstąpienia do armii,
 и все больше заявляют о готовности покинуть страну|a więcej zapowiada opuszczenie kraju
-usually|obecne
-a promise|obietnica
 ассоциируется в основном с микроустановками|kojarzy się głównie z mikroinstalacjami
 в моем ближайшем окружении|w moim najbliższym środowisku
 самые богатые люди, с которыми я когда-либо имел дело|najbogatsi ludzie, z którymi miałem do czynienia
@@ -114,10 +111,12 @@ it is so obvious in hindsight|z perspektywy czasu jest to takie oczywiste
 but I doubt that he has such a rubber spine|ale wątpię by on miał taki kręgosłup z gumy
 вопреки видимости, не завершил кампанию|wbrew pozorom nie skończył kampanii
 they were right|mieli rację
-я этого не отрицаю||nie zaprzeczam temu
+я этого не отрицаю|nie zaprzeczam temu
 второй день подряд|drugi dzień z rzędu
 не хочу показаться жестоким|nie zamierzam brzmieć okrutnie
 в отличии от других|w przeciwieństwie do innych
 рано или поздно ты это поймешь|prędzej czy później to zrozumiesz
 это сделает мою речь более натуральной|dzięki temu moja mowa będzie bardziej naturalna
 у меня такое чувство|mam przeczucie
+пока не попробуешь не узнаешь|dopóki nie spróbujesz, nie będziesz wiedział
+ты ещё увидишь|zobaczysz później

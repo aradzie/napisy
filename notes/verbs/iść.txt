@@ -95,3 +95,18 @@ Oni [iść] (czas przeszły)
 ---
 Oni szli
 ===
+
+Ty [iść] (tryb rozkazujący)
+---
+idź
+===
+
+My [iść] (tryb rozkazujący)
+---
+idźmy
+===
+
+Wy [iść] (tryb rozkazujący)
+---
+idźcie
+===

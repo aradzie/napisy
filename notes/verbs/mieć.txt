@@ -95,3 +95,18 @@ Oni [mieć] (czas przeszły)
 ---
 Oni mieli
 ===
+
+Ty [mieć] (tryb rozkazujący)
+---
+miej
+===
+
+My [mieć] (tryb rozkazujący)
+---
+miejmy
+===
+
+Wy [mieć] (tryb rozkazujący)
+---
+miejcie
+===

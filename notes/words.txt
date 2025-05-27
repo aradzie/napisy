@@ -193,6 +193,11 @@ kojarzyć
 "Dopiero zaczynasz to kojarzyć."
 ===
 
+# obecne
+# obietnica
+# posiadać
+# więc
+# uważać
 # wydawać
 # ciągle
 # właściwy

@@ -26,13 +26,17 @@ async function scanPhrases(notes) {
     for (const line of contents.split("\n")) {
       if (line) {
         const [q, a] = line.split("|");
-        notes.push({
-          type: `Basic`,
-          deck: `Polski::Frazy::${name}`,
-          tags: `Polski ${name}`,
-          front: q,
-          back: a,
-        });
+        if (q && a) {
+          notes.push({
+            type: `Basic`,
+            deck: `Polski::Frazy::${name}`,
+            tags: `Polski ${name}`,
+            front: q,
+            back: a,
+          });
+        } else {
+          console.warn(`Invalid line "${line}" in file "${inputFile}"`);
+        }
       }
     }
   }

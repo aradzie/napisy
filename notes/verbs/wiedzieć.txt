@@ -95,3 +95,18 @@ Oni [wiedzieć] (czas przeszły)
 ---
 Oni wiedzieli
 ===
+
+Ty [wiedzieć] (tryb rozkazujący)
+---
+wiedz
+===
+
+My [wiedzieć] (tryb rozkazujący)
+---
+wiedzmy
+===
+
+Wy [wiedzieć] (tryb rozkazujący)
+---
+wiedzcie
+===

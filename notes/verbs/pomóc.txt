@@ -35,3 +35,18 @@ Oni/One [pomóc] (czas przyszły)
 ---
 Oni/One pomogą
 ===
+
+Ty [pomóc] (tryb rozkazujący)
+---
+pomóż
+===
+
+My [pomóc] (tryb rozkazujący)
+---
+pomóżmy
+===
+
+Wy [pomóc] (tryb rozkazujący)
+---
+pomóżcie
+===

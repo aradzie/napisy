@@ -35,3 +35,18 @@ Oni/One [dawać] (czas teraźniejszy)
 ---
 Oni/One dają
 ===
+
+Ty [dawać] (tryb rozkazujący)
+---
+dawaj
+===
+
+My [dawać] (tryb rozkazujący)
+---
+dawajmy
+===
+
+Wy [dawać] (tryb rozkazujący)
+---
+dawajcie
+===

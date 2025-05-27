@@ -1,0 +1,112 @@
+!type:Basic
+
+!deck:Polski::Odmiany
+
+!tags:Polski Odmiana
+
+# https://wsjp.pl/haslo/podglad/17271/znajdowac/5029302/prace
+
+Ja [znajdować] (czas teraźniejszy)
+---
+Ja znajduję
+===
+
+My [znajdować] (czas teraźniejszy)
+---
+Ja znajdujemy
+===
+
+Ty [znajdować] (czas teraźniejszy)
+---
+Ty znajdujesz
+===
+
+Wy [znajdować] (czas teraźniejszy)
+---
+Wy znajdujecie
+===
+
+On/Ona/Ono [znajdować] (czas teraźniejszy)
+---
+On/Ona/Ono znajduje
+===
+
+Oni [znajdować] (czas teraźniejszy)
+---
+Oni znajdują
+===
+
+Ja [znajdować] (m, czas przeszły)
+---
+Ja znajdowałem
+===
+
+Ja [znajdować] (ż, czas przeszły)
+---
+Ja znajdowałam
+===
+
+Ja [znajdować] (n, czas przeszły)
+---
+Ja znajdowałom
+===
+
+My [znajdować] (czas przeszły)
+---
+My znajdowaliśmy
+===
+
+Ty [znajdować] (m, czas przeszły)
+---
+Ty znajdowałeś
+===
+
+Ty [znajdować] (ż, czas przeszły)
+---
+Ty znajdowałaś
+===
+
+Ty [znajdować] (n, czas przeszły)
+---
+Ty znajdowałoś
+===
+
+Wy [znajdować] (czas przeszły)
+---
+Wy znajdowaliście
+===
+
+On [znajdować] (czas przeszły)
+---
+On znajdował
+===
+
+Ona [znajdować] (czas przeszły)
+---
+Ona znajdowała
+===
+
+Ono [znajdować] (czas przeszły)
+---
+Ono znajdowało
+===
+
+Oni [znajdować] (czas przeszły)
+---
+Oni znajdowali
+===
+
+Ty [znajdować] (tryb rozkazujący)
+---
+znajduj
+===
+
+My [znajdować] (tryb rozkazujący)
+---
+znajdujmy
+===
+
+Wy [znajdować] (tryb rozkazujący)
+---
+znajdujcie
+===
