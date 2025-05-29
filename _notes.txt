@@ -384,6 +384,7 @@ Basic;Polski::Frazy::1670.S01E02;Polski 1670.S01E02;И в то же время �
 Basic;Polski::Frazy::1670.S01E02;Polski 1670.S01E02;Извинения приняты.;Przeprosiny przyjęte.
 Basic;Polski::Frazy::1670.S01E02;Polski 1670.S01E02;Это запах победы.;To zapach zwycięstwa.
 Basic;Polski::Frazy::1670.S01E02;Polski 1670.S01E02;Хотя, конечно, из этого ничего не выйдет.;Choć oczywiście do niczego nie dojdzie.
+Basic;Polski::Frazy::phrases;Polski phrases;я уже все забыл;już wszystko zapomniałem
 Basic;Polski::Frazy::phrases;Polski phrases;this is more difficult;to jest trudniejsze
 Basic;Polski::Frazy::phrases;Polski phrases;people harm themselves;ludzie robią sobie krzywdę
 Basic;Polski::Frazy::phrases;Polski phrases;он ошибается;on się myli
