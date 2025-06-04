@@ -193,6 +193,33 @@ kojarzyć
 "Dopiero zaczynasz to kojarzyć."
 ===
 
+особенно/especially
+---
+zwłaszcza
+
+"Czas leczy rany, zwłaszcza ten dobry czas."
+"Nie ufała nikomu, zwłaszcza jemu."
+"Zwłaszcza na tym etapie, jesteśmy optymistami."
+===
+
+ужасный/terrible
+---
+okropny
+
+"Kawa jest naprawdę okropna."
+"Książki są okropne, ale nie potrafię ich odłożyć."
+"Lakie okropności musiałaś przeżyć podczas ucieczki."
+===
+
+обвинения/allegations
+---
+zarzuty
+
+"Nastepnym razem poprzyj zarzuty dowodami."
+"Kto dał ci prawo stawiać mi zarzuty?"
+"Mam spisany zarzut mojego klienta."
+===
+
 # obecne
 # obietnica
 # posiadać

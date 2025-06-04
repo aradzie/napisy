@@ -510,6 +510,51 @@ Basic;Polski::Frazy::phrases;Polski phrases;ты ещё увидишь;zobaczysz
 Basic;Polski::Frazy::phrases;Polski phrases;за что мне это?;dlaczego to się ze mną dzieje?
 Basic;Polski::Frazy::phrases;Polski phrases;выступил намного лучше;wypadł znacznie lepiej
 Basic;Polski::Frazy::phrases;Polski phrases;выступил намного хуже;wypadł znacznie gorzej
+Basic;Polski::Frazy::phrases1;Polski phrases1;odłożyć wszystko na bok;отложить все дела
+Basic;Polski::Frazy::phrases1;Polski phrases1;сделанный на основе;zrobiony na podstawie
+Basic;Polski::Frazy::phrases1;Polski phrases1;я полагаю;wydaję mi się
+Basic;Polski::Frazy::phrases1;Polski phrases1;zwłaszcza;особенно
+Basic;Polski::Frazy::phrases1;Polski phrases1;ужасный;okropny
+Basic;Polski::Frazy::phrases1;Polski phrases1;постараюсь не забыть;postaram się nie zapomnieć
+Basic;Polski::Frazy::phrases1;Polski phrases1;убеди самого себя;przekonaj się sam
+Basic;Polski::Frazy::phrases1;Polski phrases1;довести до автоматизма;doprowadzić do automatyzmu
+Basic;Polski::Frazy::phrases1;Polski phrases1;огромный шаг назад;ogromny krok wstecz
+Basic;Polski::Frazy::phrases1;Polski phrases1;здесь мы имели дело с;tutaj mieliśmy do czynienia z
+Basic;Polski::Frazy::phrases1;Polski phrases1;такие люди выдают столько тезисов;tacy ludzie rzucają tyloma tezami
+Basic;Polski::Frazy::phrases1;Polski phrases1;ни один эксперт не в состоянии;żaden ekspert nie jest w stanie
+Basic;Polski::Frazy::phrases1;Polski phrases1;их постоянно опровергать;na bieżąco ich obalać
+Basic;Polski::Frazy::phrases1;Polski phrases1;я читал довольно много;czytałem całkiem sporo
+Basic;Polski::Frazy::phrases1;Polski phrases1;и что меня исцелило;a co mnie uleczyło
+Basic;Polski::Frazy::phrases1;Polski phrases1;это в основном страхи;to są w głownie lęki
+Basic;Polski::Frazy::phrases1;Polski phrases1;в отличии от нас, они;w przeciwieństwie do nas, oni
+Basic;Polski::Frazy::phrases1;Polski phrases1;мы могли бы говорить часами;potrafiliśmy gadać godzinami
+Basic;Polski::Frazy::phrases1;Polski phrases1;и в один день;i któregoś dnia
+Basic;Polski::Frazy::phrases1;Polski phrases1;между ними нет никакой разницы;nie ma między nimi żadnej różnicy
+Basic;Polski::Frazy::phrases1;Polski phrases1;спорили часами на пролет;kłóciliśmy się godzinami
+Basic;Polski::Frazy::phrases1;Polski phrases1;поэтому я скажу это за всех вас;więc powiem to za was wszystkich
+Basic;Polski::Frazy::phrases1;Polski phrases1;и вообще этого следует избегать;i na ogół powinno się tego unikać
+Basic;Polski::Frazy::phrases1;Polski phrases1;именно об этом и шла речь;no właśnie dokładnie o to chodziło
+Basic;Polski::Frazy::phrases1;Polski phrases1;он несовместим с;nie jest kompatybilny z
+Basic;Polski::Frazy::phrases1;Polski phrases1;сам об этом понятия не имею;sam nie mam o tym pojęcia
+Basic;Polski::Frazy::phrases1;Polski phrases1;все имеет идеологическую окраску;wszystko ma zabarwienie ideologiczne
+Basic;Polski::Frazy::phrases1;Polski phrases1;не так много интересных материалов;nie ma zbyt wiele interesujących materiałów
+Basic;Polski::Frazy::phrases1;Polski phrases1;он хотел, чтобы оказалось, что он врет;chciał żeby wyszło, że on kłamie
+Basic;Polski::Frazy::phrases1;Polski phrases1;чтобы оказалось, что это хорошо;żeby okazało się, że jest dobrze
+Basic;Polski::Frazy::phrases1;Polski phrases1;игра в видимость;gra pozorów
+Basic;Polski::Frazy::phrases1;Polski phrases1;ни при каких обстоятельствах;pod żadnym pozorem
+Basic;Polski::Frazy::phrases1;Polski phrases1;но его действия гораздо хуже;ale jego czyny są o wiele gorsze
+Basic;Polski::Frazy::phrases1;Polski phrases1;полностью осознают плюсы и минусы ;mają pełną świadomość wad i zalet
+Basic;Polski::Frazy::phrases1;Polski phrases1;меня озадачивает ;mnie zastanawia
+Basic;Polski::Frazy::phrases1;Polski phrases1;мне хватило одного недостающего элемента;mnie wystarczył jeden brakujący element
+Basic;Polski::Frazy::phrases1;Polski phrases1;и я начал задаваться вопросом;i zacząłem się zastanawiać
+Basic;Polski::Frazy::phrases1;Polski phrases1;как я мог иметь такой подход ко многим темам;jak w ogóle mogłem mieć takie podejście do wielu tematów
+Basic;Polski::Frazy::phrases1;Polski phrases1;telling a lie, refuting a lie;powiedzenie kłamstwa, obalenie kłamstwa
+Basic;Polski::Frazy::phrases1;Polski phrases1;я редко помню свои сны;rzadko pamiętam swoje sny
+Basic;Polski::Frazy::phrases1;Polski phrases1;он прошел этот путь очень быстро;przeszedł tę ścieżkę bardzo szybko
+Basic;Polski::Frazy::phrases1;Polski phrases1;wojna jest prawie nieunikniona;война почти незбежна
+Basic;Polski::Frazy::phrases1;Polski phrases1;выступил намного лучше;wypadł znacznie lepiej
+Basic;Polski::Frazy::phrases1;Polski phrases1;убеди самого себя;przekonaj się sam
+Basic;Polski::Frazy::phrases1;Polski phrases1;любое выражение типа;dowolne wyrażenie typu
 Basic;Polski::Frazy::youtube1;Polski youtube1;Цены на энергоносители растут, будут расти и дальше.;Ceny energii rosną, będą rosły i będą jeszcze przyspieszały.
 Basic;Polski::Frazy::youtube1;Polski youtube1;Что можно сделать, чтобы вообще не платить по счетам?;Co zrobić żeby nie płacić w ogóle rachunków?
 Basic;Polski::Frazy::youtube1;Polski youtube1;Сколько раз вы бывали в таких местах, которые вообще не подключены к сети?;Ile razy byłeś w takim miejscu, które nie jest w ogóle podpięte do sieci?
@@ -781,6 +826,18 @@ Basic;Polski::Słowa;Polski Słowa;узнавать/to recognize;"kojarzyć
 ""Ciebie nie kojarzę w ogóle.""
 ""Czemu miałbym go kojarzyć?""
 ""Dopiero zaczynasz to kojarzyć."""
+Basic;Polski::Słowa;Polski Słowa;особенно/especially;"zwłaszcza
+""Czas leczy rany, zwłaszcza ten dobry czas.""
+""Nie ufała nikomu, zwłaszcza jemu.""
+""Zwłaszcza na tym etapie, jesteśmy optymistami."""
+Basic;Polski::Słowa;Polski Słowa;ужасный/terrible;"okropny
+""Kawa jest naprawdę okropna.""
+""Książki są okropne, ale nie potrafię ich odłożyć.""
+""Lakie okropności musiałaś przeżyć podczas ucieczki."""
+Basic;Polski::Słowa;Polski Słowa;обвинения/allegations;"zarzuty
+""Nastepnym razem poprzyj zarzuty dowodami.""
+""Kto dał ci prawo stawiać mi zarzuty?""
+""Mam spisany zarzut mojego klienta."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [brać] (czas teraźniejszy);"Ja biorę
 ""Biorę do ręki i przeglądam."""
 Basic;Polski::Odmiany;Polski Odmiana;My [brać] (czas teraźniejszy);"My bierzemy
