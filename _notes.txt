@@ -854,6 +854,14 @@ Basic;Polski::Słowa;Polski Słowa;обожать/to adore;"uwielbiać
 ""Miałem pracę, którą uwielbiałem.""
 ""Myślę, że sekretnie uwielbiasz ten chaos.""
 ""Nawet dorośli je uwielbiają."""
+Basic;Polski::Słowa;Polski Słowa;ценить/to appreciate;"doceniać
+""Bez śmierci nie doceniasz życia.""
+""Dziękuję za docenienie tych spraw.""
+""Jak możesz dziś ją docenić?"""
+Basic;Polski::Słowa;Polski Słowa;проверять/to check;"sprawdzać
+""A biletów nawet nie sprawdzali.""
+""Absolutnie wszystko jest sprawdzane.""
+""Dziecko chce się sprawdzić jako samodzielna osobowość."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [brać] (czas teraźniejszy);"Ja biorę
 ""Biorę do ręki i przeglądam."""
 Basic;Polski::Odmiany;Polski Odmiana;My [brać] (czas teraźniejszy);"My bierzemy

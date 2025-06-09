@@ -1,0 +1,72 @@
+Czasowniki Nieregularne
+=======================
+
+https://pl.wiktionary.org/wiki/Aneks:J%C4%99zyk_polski_-_czasowniki_nieregularne
+
+Czasowniki oznaczone gwiazdką (*) pierwotnie miały w bezokoliczniku końcówkę "-dz" zamiast "-c", stąd w odmianie pozostała wymiana na "-g-" i "-ż-" (np. "pomóc" – "pomogę" – "pomóż").
+
+brać
+być
+chcieć
+ciąć
+dojść
+gnieść
+iść
+jeść
+mieć
+móc *
+nieść
+pachnieć
+pomóc *
+siąść
+spiąć
+trzeć
+umieć
+usiąść
+wejść
+wiedzieć
+wziąć
+zebrać
+znaleźć
+
+wydawać
+===
+        liczba pojedyncza 	liczba mnoga
+1 os. 	wydaję              wydajemy
+2 os. 	wydajesz            wydajecie
+3 os. 	wydaje              wydają
+
+mówić
+=====
+        liczba pojedyncza 	liczba mnoga
+1 os. 	mówię               mówimy
+2 os. 	mówisz              mówicie
+3 os. 	mówi                mówią
+
+dawać*
+=====
+        liczba pojedyncza 	liczba mnoga
+1 os. 	daję                dajemy
+2 os. 	dajesz              dajecie
+3 os. 	daje                dają
+
+brać*
+====
+        liczba pojedyncza 	liczba mnoga
+1 os. 	biorę               bierzemy
+2 os. 	bierzesz            bierzecie
+3 os. 	bierze              biorą
+
+mieć*
+====
+        liczba pojedyncza 	liczba mnoga
+1 os. 	mam                 mamy
+2 os. 	masz                macie
+3 os. 	ma                  mają
+
+pomoć*
+=====
+        liczba pojedyncza 	liczba mnoga
+1 os. 	pomogę              pomożemy
+2 os. 	pomożesz            pomożecie
+3 os. 	pomoże              pomogą

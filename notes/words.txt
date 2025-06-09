@@ -256,7 +256,24 @@ uwielbiać
 "Nawet dorośli je uwielbiają."
 ===
 
-# sprawdzać
+ценить/to appreciate
+---
+doceniać
+
+"Bez śmierci nie doceniasz życia."
+"Dziękuję za docenienie tych spraw."
+"Jak możesz dziś ją docenić?"
+===
+
+проверять/to check
+---
+sprawdzać
+
+"A biletów nawet nie sprawdzali."
+"Absolutnie wszystko jest sprawdzane."
+"Dziecko chce się sprawdzić jako samodzielna osobowość."
+===
+
 # uważać
 # uznawać
 # wrzasnąć

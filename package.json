@@ -5,5 +5,9 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dictionary-pl": "^2.0.0",
+    "nspell": "^2.1.5"
   }
 }
