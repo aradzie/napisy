@@ -838,6 +838,22 @@ Basic;Polski::Słowa;Polski Słowa;обвинения/allegations;"zarzuty
 ""Nastepnym razem poprzyj zarzuty dowodami.""
 ""Kto dał ci prawo stawiać mi zarzuty?""
 ""Mam spisany zarzut mojego klienta."""
+Basic;Polski::Słowa;Polski Słowa;волноваться/to worry;"martwić
+""A babcia nie martwi sie o ciebie?""
+""Chcemy jasno określić, że nikt nie musi się martwić.""
+""Dosyć mam już zmartwień!"""
+Basic;Polski::Słowa;Polski Słowa;иметь/to own;"posiadać
+""Fantazją o posiadaniu władzy.""
+""Posiadanie tego nie stanowi problemu.""
+""Gdy przybyłem do tego miasta, nie posiadałem niczego."""
+Basic;Polski::Słowa;Polski Słowa;бояться/to fear;"obawiać się
+""Zobaczysz, że nie ma się czego obawiać.""
+""Jak cudownie nie obawiać się nieznanego.""
+""Miałem powody, by obawiać się tego."""
+Basic;Polski::Słowa;Polski Słowa;обожать/to adore;"uwielbiać
+""Miałem pracę, którą uwielbiałem.""
+""Myślę, że sekretnie uwielbiasz ten chaos.""
+""Nawet dorośli je uwielbiają."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [brać] (czas teraźniejszy);"Ja biorę
 ""Biorę do ręki i przeglądam."""
 Basic;Polski::Odmiany;Polski Odmiana;My [brać] (czas teraźniejszy);"My bierzemy

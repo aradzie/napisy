@@ -220,26 +220,58 @@ zarzuty
 "Mam spisany zarzut mojego klienta."
 ===
 
-# obecne
-# obietnica
-# posiadać
-# więc
+волноваться/to worry
+---
+martwić
+
+"A babcia nie martwi sie o ciebie?"
+"Chcemy jasno określić, że nikt nie musi się martwić."
+"Dosyć mam już zmartwień!"
+===
+
+иметь/to own
+---
+posiadać
+
+"Fantazją o posiadaniu władzy."
+"Posiadanie tego nie stanowi problemu."
+"Gdy przybyłem do tego miasta, nie posiadałem niczego."
+===
+
+бояться/to fear
+---
+obawiać się
+
+"Zobaczysz, że nie ma się czego obawiać."
+"Jak cudownie nie obawiać się nieznanego."
+"Miałem powody, by obawiać się tego."
+===
+
+обожать/to adore
+---
+uwielbiać
+
+"Miałem pracę, którą uwielbiałem."
+"Myślę, że sekretnie uwielbiasz ten chaos."
+"Nawet dorośli je uwielbiają."
+===
+
+# sprawdzać
 # uważać
+# uznawać
+# wrzasnąć
 # wydawać
 # wypadać
+
 # ciągle
-# właściwy
-# natychmiast
-# wspaniały
-# obawiać się
-# uwielbiać
-# martwić
 # coraz
-# zacząć
-# przejść
+# natychmiast
 # nieco
-# zasada
-# stamtąd
+# obecne
 # szacunek
-# wrzasnąć
-# sprawdzać
+# wspaniały
+# właściwy
+# zasada
+
+# stamtąd
+# więc
