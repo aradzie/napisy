@@ -18,6 +18,8 @@ My [brać] (czas teraźniejszy)
 My bierzemy
 
 "Lista kandydatów, których bierzemy pod uwagę."
+"Z ogromną radością bierzemy udział w takich wydarzeniach."
+"A bierzemy tych, którzy nie chcą pracować."
 ===
 
 Ty [brać] (czas teraźniejszy)
@@ -25,6 +27,8 @@ Ty [brać] (czas teraźniejszy)
 Ty bierzesz
 
 "Skąd ty je bierzesz?"
+"Tylko ty bierzesz kredyt w banku."
+"Czy po równo dajesz i bierzesz?"
 ===
 
 Wy [brać] (czas teraźniejszy)
@@ -32,6 +36,8 @@ Wy [brać] (czas teraźniejszy)
 Wy bierzecie
 
 "Wy wszak nie bierzecie pieniędzy za zabijanie."
+"Czy raczej nie bierzecie ich pod uwagę?"
+"Jakich surowców używacie i skąd je bierzecie?"
 ===
 
 On/Ona/Ono [brać] (czas teraźniejszy)
@@ -39,6 +45,8 @@ On/Ona/Ono [brać] (czas teraźniejszy)
 On/Ona/Ono bierze
 
 "Lekarz bierze narzędzie."
+"Jakie cechy bierze pod uwagę?"
+"Która nie bierze udziału w wielkich imprezach."
 ===
 
 Oni/One [brać] (czas teraźniejszy)
@@ -46,6 +54,8 @@ Oni/One [brać] (czas teraźniejszy)
 Oni/One biorą
 
 "Skąd w ogóle biorą się dzieci."
+"Jest to skok spadochronowy, w którym biorą udział dwie osoby."
+"Jest to wojna, w której biorą udział dwa państwa."
 ===
 
 Ty [brać] (tryb rozkazujący)
@@ -53,6 +63,8 @@ Ty [brać] (tryb rozkazujący)
 bierz
 
 "Ostrożnie bierz pod uwagę."
+"Nigdy nie bierz odpowiedzialności."
+"Baw się dobrze i nie bierz tego zbyt poważnie."
 ===
 
 My [brać] (tryb rozkazujący)
@@ -60,6 +72,8 @@ My [brać] (tryb rozkazujący)
 bierzmy
 
 "Więc bierzmy tylko najpotrzebniejsze rzeczy."
+"Bez zbędnego gadania bierzmy się do roboty!"
+"Bierzmy listę zadań i bierzmy się do pracy."
 ===
 
 Wy [brać] (tryb rozkazujący)
@@ -67,4 +81,6 @@ Wy [brać] (tryb rozkazujący)
 bierzcie
 
 "Panowie bierzcie przykład."
+"Koledzy, bierzcie się więc do roboty."
+"Bierzcie przykład od brata."
 ===

@@ -35,3 +35,30 @@ Oni/One [potrafić] (czas teraźniejszy)
 ---
 Oni/One potrafią
 ===
+
+Ty [potrafić] (tryb rozkazujący)
+---
+potraf
+
+"Mozę ktoś potraf obejrzeć go do końca."
+"Nie każdy je zna i potraf zastosować."
+"Nie potraf ukryć, że uważa ich za gorszych."
+===
+
+My [potrafić] (tryb rozkazujący)
+---
+potrafmy
+
+"Czy chcemy i czy potrafmy się przed tym bronić?"
+"Nie bójmy się mówić o sobie, ale potrafmy też słuchać."
+"Po prostu nie potrafmy znaleźć odpowiednich słów."
+===
+
+Wy [potrafić] (tryb rozkazujący)
+---
+potrafcie
+
+"Czy potrafcie sobie wyobrazić codzienne życie bez użytkowania paliw kopalnianych?"
+"Nie wolno jeść kwiatów, których nie potrafcie rozpoznać!"
+"Nie potrafcie zebrać dowodów."
+===

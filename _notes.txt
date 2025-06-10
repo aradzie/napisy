@@ -865,21 +865,37 @@ Basic;Polski::Słowa;Polski Słowa;проверять/to check;"sprawdzać
 Basic;Polski::Odmiany;Polski Odmiana;Ja [brać] (czas teraźniejszy);"Ja biorę
 ""Biorę do ręki i przeglądam."""
 Basic;Polski::Odmiany;Polski Odmiana;My [brać] (czas teraźniejszy);"My bierzemy
-""Lista kandydatów, których bierzemy pod uwagę."""
+""Lista kandydatów, których bierzemy pod uwagę.""
+""Z ogromną radością bierzemy udział w takich wydarzeniach.""
+""A bierzemy tych, którzy nie chcą pracować."""
 Basic;Polski::Odmiany;Polski Odmiana;Ty [brać] (czas teraźniejszy);"Ty bierzesz
-""Skąd ty je bierzesz?"""
+""Skąd ty je bierzesz?""
+""Tylko ty bierzesz kredyt w banku.""
+""Czy po równo dajesz i bierzesz?"""
 Basic;Polski::Odmiany;Polski Odmiana;Wy [brać] (czas teraźniejszy);"Wy bierzecie
-""Wy wszak nie bierzecie pieniędzy za zabijanie."""
+""Wy wszak nie bierzecie pieniędzy za zabijanie.""
+""Czy raczej nie bierzecie ich pod uwagę?""
+""Jakich surowców używacie i skąd je bierzecie?"""
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [brać] (czas teraźniejszy);"On/Ona/Ono bierze
-""Lekarz bierze narzędzie."""
+""Lekarz bierze narzędzie.""
+""Jakie cechy bierze pod uwagę?""
+""Która nie bierze udziału w wielkich imprezach."""
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [brać] (czas teraźniejszy);"Oni/One biorą
-""Skąd w ogóle biorą się dzieci."""
+""Skąd w ogóle biorą się dzieci.""
+""Jest to skok spadochronowy, w którym biorą udział dwie osoby.""
+""Jest to wojna, w której biorą udział dwa państwa."""
 Basic;Polski::Odmiany;Polski Odmiana;Ty [brać] (tryb rozkazujący);"bierz
-""Ostrożnie bierz pod uwagę."""
+""Ostrożnie bierz pod uwagę.""
+""Nigdy nie bierz odpowiedzialności.""
+""Baw się dobrze i nie bierz tego zbyt poważnie."""
 Basic;Polski::Odmiany;Polski Odmiana;My [brać] (tryb rozkazujący);"bierzmy
-""Więc bierzmy tylko najpotrzebniejsze rzeczy."""
+""Więc bierzmy tylko najpotrzebniejsze rzeczy.""
+""Bez zbędnego gadania bierzmy się do roboty!""
+""Bierzmy listę zadań i bierzmy się do pracy."""
 Basic;Polski::Odmiany;Polski Odmiana;Wy [brać] (tryb rozkazujący);"bierzcie
-""Panowie bierzcie przykład."""
+""Panowie bierzcie przykład.""
+""Koledzy, bierzcie się więc do roboty.""
+""Bierzcie przykład od brata."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [być] (czas teraźniejszy);"Ja jestem
 ""Ale ja jestem spokojny."""
 Basic;Polski::Odmiany;Polski Odmiana;My [być] (czas teraźniejszy);"My jesteśmy
@@ -916,87 +932,114 @@ Basic;Polski::Odmiany;Polski Odmiana;Ty [chcieć] (czas teraźniejszy);Ty chcesz
 Basic;Polski::Odmiany;Polski Odmiana;Wy [chcieć] (czas teraźniejszy);Wy chcecie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [chcieć] (czas teraźniejszy);On/Ona/Ono chce
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [chcieć] (czas teraźniejszy);Oni/One chcą
+Basic;Polski::Odmiany;Polski Odmiana;Ty [chcieć] (tryb rozkazujący);"chciej
+""Najpierw chciej poznawać jego serce.""
+""Bądź w tym dobry i chciej być jeszcze lepszym.""
+""Pracuj dużo, chciej sięgać po więcej."""
+Basic;Polski::Odmiany;Polski Odmiana;My [chcieć] (tryb rozkazujący);"chciejmy
+""Chciejmy więc pomagać, chciejmy dzielić się z innymi.""
+""Dlatego chciejmy dbać o nasze wspólne dobro.""
+""Na ta wielką uroczystość chciejmy się dobrze przygotować."""
+Basic;Polski::Odmiany;Polski Odmiana;Wy [chcieć] (tryb rozkazujący);"chciejcie
+""Cóż, chciejcie dalej!""
+""Bądźcie realistami, chciejcie niemożliwego.""
+""Dlatego chciejcie się dalej uczyć."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [dawać] (czas teraźniejszy);Ja daję
 Basic;Polski::Odmiany;Polski Odmiana;My [dawać] (czas teraźniejszy);My dajemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (czas teraźniejszy);Ty dajesz
 Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (czas teraźniejszy);Wy dajecie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dawać] (czas teraźniejszy);On/Ona/Ono daje
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dawać] (czas teraźniejszy);Oni/One dają
-Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (tryb rozkazujący);dawaj
-Basic;Polski::Odmiany;Polski Odmiana;My [dawać] (tryb rozkazujący);dawajmy
-Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (tryb rozkazujący);dawajcie
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (tryb rozkazujący);"dawaj
+""A jeśli wiesz o imprezie, dawaj znać!""
+""Przede wszystkim dawaj dobry przykład.""
+""Kupuj i dawaj dziecku zabawki."""
+Basic;Polski::Odmiany;Polski Odmiana;My [dawać] (tryb rozkazujący);"dawajmy
+""Małpie brzytwy nie dawajmy.""
+""Nie dawajmy gotowych rozwiązań.""
+""Nie szukajmy pracy, dawajmy pracę."""
+Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (tryb rozkazujący);"dawajcie
+""Nigdy nie dawajcie drugiej szansy.""
+""No, dawajcie, potraficie zrobić to lepiej!""
+""Oceniajcie i dawajcie poprawki."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (czas teraźniejszy);"Ja dam
-""Przyjdź jutro do mnie, to [dam] ci listę moich dłużników.""
-""[Dam] ci znać, jak tylko będę wiedział.""
-""[Dam] ci dobrą radę."""
+""Przyjdź jutro do mnie, to dam ci listę moich dłużników.""
+""Dam ci znać, jak tylko będę wiedział.""
+""Dam ci dobrą radę."""
 Basic;Polski::Odmiany;Polski Odmiana;My [dać] (czas teraźniejszy);"My damy
-""Nie [damy] się przyprzeć do muru.""
-""Nie, jutro na pewno [damy] sobie radę.""
-""I to im [damy]."""
+""Nie damy się przyprzeć do muru.""
+""Nie, jutro na pewno damy sobie radę.""
+""I to im damy."""
 Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (czas teraźniejszy);"Ty dasz
-""Jeśli nie [dasz] mi spokoju, to cię stąd przegonię.""
-""[Dasz] im znać o mnie?""
-""Czemu nie [dasz] mi drugiego konia?"""
+""Jeśli nie dasz mi spokoju, to cię stąd przegonię.""
+""Dasz im znać o mnie?""
+""Czemu nie dasz mi drugiego konia?"""
 Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (czas teraźniejszy);"Wy dacie
-""[Dacie] mi go?""
-""W przeciwnym razie nie [dacie] mi przepustki?""
-""Nie [dacie] rady."""
+""Dacie mi go?""
+""W przeciwnym razie nie dacie mi przepustki?""
+""Nie dacie rady."""
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dać] (czas teraźniejszy);"On/Ona/Ono da
-""Nie [da] rady!""
-""Niech bóg [da], że będzie znać twoją wartość.""
-""Z całym szacunkiem, panie kapitanie, co nam to [da]?"""
+""Nie da rady!""
+""Niech bóg da, że będzie znać twoją wartość.""
+""Z całym szacunkiem, panie kapitanie, co nam to da?"""
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dać] (czas teraźniejszy);"Oni/One dadzą
-""A co jeśli żadnego nie [dadzą]?""
-""Może [dadzą] panu szansę.""
-""Pieniądze nie [dadzą] wam szczęścia."""
+""A co jeśli żadnego nie dadzą?""
+""Może dadzą panu szansę.""
+""Pieniądze nie dadzą wam szczęścia."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (m, czas przeszły);"Ja dałem
-""[Dałem] ci słowo, a ja nigdy nie łamię słowa.""
-""[Dałem] im jasno do zrozumienia...""
-""[Dałem] pani słowo i go dotrzymam."""
+""Dałem ci słowo, a ja nigdy nie łamię słowa.""
+""Dałem im jasno do zrozumienia...""
+""Dałem pani słowo i go dotrzymam."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (ż, czas przeszły);"Ja dałam
-""[Dałam] ci go potrzymać.""
-""Nic mu nie [dałam].""
-""[Dałam] ci wszystko."""
+""Dałam ci go potrzymać.""
+""Nic mu nie dałam.""
+""Dałam ci wszystko."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (n, czas przeszły);Ja dałom
 Basic;Polski::Odmiany;Polski Odmiana;My [dać] (czas przeszły);"My daliśmy
-""[Daliśmy] im absolutną władzę.""
-""[Daliśmy] im wszystko, co mieliśmy.""
-""[Daliśmy] ci żywność i wodę."""
+""Daliśmy im absolutną władzę.""
+""Daliśmy im wszystko, co mieliśmy.""
+""Daliśmy ci żywność i wodę."""
 Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (m, czas przeszły);"Ty dałeś
-""[Dałeś] z siebie wszystko.""
-""[Dałeś] temu psu dom.""
-""Zdał sobie sprawę, że to ty [dałeś] mu broń."""
+""Dałeś z siebie wszystko.""
+""Dałeś temu psu dom.""
+""Zdał sobie sprawę, że to ty dałeś mu broń."""
 Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (ż, czas przeszły);"Ty dałaś
-""Czemu nie [dałaś] znać?""
-""[Dałaś] mi całą potrzebną broń.""
-""Więc dlaczego [dałaś] mi nadzieję?"""
+""Czemu nie dałaś znać?""
+""Dałaś mi całą potrzebną broń.""
+""Więc dlaczego dałaś mi nadzieję?"""
 Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (n, czas przeszły);Ty dałoś
 Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (czas przeszły);"Wy daliście
-""Wszyscy bez wyjątku [daliście] się pokonać amatorowi.""
-""[Daliście] się nabrać, oboje.""
-""[Daliście] mi wskazówkę na moje błędy."""
+""Wszyscy bez wyjątku daliście się pokonać amatorowi.""
+""Daliście się nabrać, oboje.""
+""Daliście mi wskazówkę na moje błędy."""
 Basic;Polski::Odmiany;Polski Odmiana;On [dać] (czas przeszły);"On dał
-""Proszę pana, [dał] pan nam złe pieniądze!""
-""Twój kolega [dał] ci alibi na tamtą noc.""
-""Co jej [dał] za wyjątkiem róż?"""
+""Proszę pana, dał pan nam złe pieniądze!""
+""Twój kolega dał ci alibi na tamtą noc.""
+""Co jej dał za wyjątkiem róż?"""
 Basic;Polski::Odmiany;Polski Odmiana;Ona [dać] (czas przeszły);"Ona dała
-""Chcę, abyś [dała] mi wolność.""
-""[Dała] ci swój numer?""
-""[Dała] mi czas do piątku na załatwienie pozwolenia na pracę."""
+""Chcę, abyś dała mi wolność.""
+""Dała ci swój numer?""
+""Dała mi czas do piątku na załatwienie pozwolenia na pracę."""
 Basic;Polski::Odmiany;Polski Odmiana;Ono [dać] (czas przeszły);"Ono dało
-""A ponieważ nie było ich widać nie [dało] się udowodnić, że nie istnieją.""
-""[Dało] jej to wystarczająco czasu.""
-""Tej nocy nie [dało] się spać."""
+""A ponieważ nie było ich widać nie dało się udowodnić, że nie istnieją.""
+""Dało jej to wystarczająco czasu.""
+""Tej nocy nie dało się spać."""
 Basic;Polski::Odmiany;Polski Odmiana;Oni [dać] (czas przeszły);"Oni dali
-""Oni nie [dali] rady nawałowi spraw.""
-""[Dali] mi nowe życie.""
-""Chciałem tylko, żeby mi [dali] szansę."""
+""Oni nie dali rady nawałowi spraw.""
+""Dali mi nowe życie.""
+""Chciałem tylko, żeby mi dali szansę."""
 Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (tryb rozkazujący);"daj
-""Daj sobie trochę więcej czasu na znalezienie miejsca."""
+""Daj sobie trochę więcej czasu.""
+""Daj mi spokój.""
+""A gdy upadnę, daj mi siłę, by się podnieść."""
 Basic;Polski::Odmiany;Polski Odmiana;My [dać] (tryb rozkazujący);"dajmy
-""Ale nie dajmy się zwariować."""
+""Ale nie dajmy się zwariować.""
+""Kiedy powróci, nie dajmy się mu zaskoczyć.""
+""Czyli dajmy się nadal robić w konia."""
 Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (tryb rozkazujący);"dajcie
-""Więc dajcie znać, co myślicie."""
+""Więc dajcie znać, co myślicie.""
+""A dajcie już spokój!""
+""Do picia dajcie zwykłą wodę."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [istnieć] (czas teraźniejszy);Ja istnieję
 Basic;Polski::Odmiany;Polski Odmiana;My [istnieć] (czas teraźniejszy);Ja istniejemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [istnieć] (czas teraźniejszy);Ty istniejesz
@@ -1108,6 +1151,18 @@ Basic;Polski::Odmiany;Polski Odmiana;Ty [potrafić] (czas teraźniejszy);Ty potr
 Basic;Polski::Odmiany;Polski Odmiana;Wy [potrafić] (czas teraźniejszy);Wy potraficie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [potrafić] (czas teraźniejszy);On/Ona/Ono potrafi
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [potrafić] (czas teraźniejszy);Oni/One potrafią
+Basic;Polski::Odmiany;Polski Odmiana;Ty [potrafić] (tryb rozkazujący);"potraf
+""Mozę ktoś potraf obejrzeć go do końca.""
+""Nie każdy je zna i potraf zastosować.""
+""Nie potraf ukryć, że uważa ich za gorszych."""
+Basic;Polski::Odmiany;Polski Odmiana;My [potrafić] (tryb rozkazujący);"potrafmy
+""Czy chcemy i czy potrafmy się przed tym bronić?""
+""Nie bójmy się mówić o sobie, ale potrafmy też słuchać.""
+""Po prostu nie potrafmy znaleźć odpowiednich słów."""
+Basic;Polski::Odmiany;Polski Odmiana;Wy [potrafić] (tryb rozkazujący);"potrafcie
+""Czy potrafcie sobie wyobrazić codzienne życie bez użytkowania paliw kopalnianych?""
+""Nie wolno jeść kwiatów, których nie potrafcie rozpoznać!""
+""Nie potrafcie zebrać dowodów."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [robić] (czas teraźniejszy);Ja robię
 Basic;Polski::Odmiany;Polski Odmiana;My [robić] (czas teraźniejszy);My robimy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [robić] (czas teraźniejszy);Ty robisz
@@ -1207,8 +1262,20 @@ Basic;Polski::Odmiany;Polski Odmiana;Ty [zmusić] (czas teraźniejszy);Ty zmusis
 Basic;Polski::Odmiany;Polski Odmiana;Wy [zmusić] (czas teraźniejszy);Wy zmusicie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [zmusić] (czas teraźniejszy);On/Ona/Ono zmusi
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [zmusić] (czas teraźniejszy);Oni/One zmuszą
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zmusić] (tryb rozkazujący);"zmuś
+""Gdy jest ci smutno zmuś się do aktywności fizycznej.""
+""I zmuś kogoś, żeby powiedział ci prawdę!""
+""Jeśli nie masz ochoty na uśmiech, zmuś się."""
+Basic;Polski::Odmiany;Polski Odmiana;My [zmusić] (tryb rozkazujący);"zmuśmy
+""Zmuśmy dystrybutorów do obniżki cen.""
+""Ale zmuśmy ich do myślenia o tym, skąd pochodzi ich jedzenie.""
+""Zmuśmy go do wycofania się z polityki."""
+Basic;Polski::Odmiany;Polski Odmiana;Wy [zmusić] (tryb rozkazujący);"zmuście
+""Nie zmuście mnie do zmiany mej myśli.""
+""A później zmuście ich do powrotu.""
+""Sami się zmuście do uczciwości i dobroci."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [znajdować] (czas teraźniejszy);Ja znajduję
-Basic;Polski::Odmiany;Polski Odmiana;My [znajdować] (czas teraźniejszy);Ja znajdujemy
+Basic;Polski::Odmiany;Polski Odmiana;My [znajdować] (czas teraźniejszy);My znajdujemy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (czas teraźniejszy);Ty znajdujesz
 Basic;Polski::Odmiany;Polski Odmiana;Wy [znajdować] (czas teraźniejszy);Wy znajdujecie
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [znajdować] (czas teraźniejszy);On/Ona/Ono znajduje
@@ -1225,9 +1292,18 @@ Basic;Polski::Odmiany;Polski Odmiana;On [znajdować] (czas przeszły);On znajdow
 Basic;Polski::Odmiany;Polski Odmiana;Ona [znajdować] (czas przeszły);Ona znajdowała
 Basic;Polski::Odmiany;Polski Odmiana;Ono [znajdować] (czas przeszły);Ono znajdowało
 Basic;Polski::Odmiany;Polski Odmiana;Oni [znajdować] (czas przeszły);Oni znajdowali
-Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (tryb rozkazujący);znajduj
-Basic;Polski::Odmiany;Polski Odmiana;My [znajdować] (tryb rozkazujący);znajdujmy
-Basic;Polski::Odmiany;Polski Odmiana;Wy [znajdować] (tryb rozkazujący);znajdujcie
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (tryb rozkazujący);"znajduj
+""Analizuj odchylenia i znajduj przyczyny.""
+""Szybko znajduj potrzebne dokumenty.""
+""Baw się oraz znajduj przyjemności."""
+Basic;Polski::Odmiany;Polski Odmiana;My [znajdować] (tryb rozkazujący);"znajdujmy
+""Co w tych filozofiach znajdujmy?""
+""Znajdujmy czas dla naszych najbliższych.""
+""Tylko sami znajdujmy naszych klientów."""
+Basic;Polski::Odmiany;Polski Odmiana;Wy [znajdować] (tryb rozkazujący);"znajdujcie
+""Codziennie znajdujcie powody, by radować się.""
+""Filtrujcie informacje i znajdujcie ich źródła.""
+""Znajdujcie miłość i pasję we wszystkim, co robicie."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [znać] (czas teraźniejszy);Ja znam
 Basic;Polski::Odmiany;Polski Odmiana;My [znać] (czas teraźniejszy);My znamy
 Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (czas teraźniejszy);Ty znasz

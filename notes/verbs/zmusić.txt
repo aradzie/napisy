@@ -4,7 +4,7 @@
 
 !tags:Polski Odmiana
 
-# https://wsjp.pl/haslo/podglad/6365/dawac/4488497/prezent
+# https://wsjp.pl/haslo/podglad/16811/zmusic
 
 Ja [zmusić] (czas teraźniejszy)
 ---
@@ -34,4 +34,31 @@ On/Ona/Ono zmusi
 Oni/One [zmusić] (czas teraźniejszy)
 ---
 Oni/One zmuszą
+===
+
+Ty [zmusić] (tryb rozkazujący)
+---
+zmuś
+
+"Gdy jest ci smutno zmuś się do aktywności fizycznej."
+"I zmuś kogoś, żeby powiedział ci prawdę!"
+"Jeśli nie masz ochoty na uśmiech, zmuś się."
+===
+
+My [zmusić] (tryb rozkazujący)
+---
+zmuśmy
+
+"Zmuśmy dystrybutorów do obniżki cen."
+"Ale zmuśmy ich do myślenia o tym, skąd pochodzi ich jedzenie."
+"Zmuśmy go do wycofania się z polityki."
+===
+
+Wy [zmusić] (tryb rozkazujący)
+---
+zmuście
+
+"Nie zmuście mnie do zmiany mej myśli."
+"A później zmuście ich do powrotu."
+"Sami się zmuście do uczciwości i dobroci."
 ===

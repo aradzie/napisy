@@ -39,14 +39,26 @@ Oni/One dają
 Ty [dawać] (tryb rozkazujący)
 ---
 dawaj
+
+"A jeśli wiesz o imprezie, dawaj znać!"
+"Przede wszystkim dawaj dobry przykład."
+"Kupuj i dawaj dziecku zabawki."
 ===
 
 My [dawać] (tryb rozkazujący)
 ---
 dawajmy
+
+"Małpie brzytwy nie dawajmy."
+"Nie dawajmy gotowych rozwiązań."
+"Nie szukajmy pracy, dawajmy pracę."
 ===
 
 Wy [dawać] (tryb rozkazujący)
 ---
 dawajcie
+
+"Nigdy nie dawajcie drugiej szansy."
+"No, dawajcie, potraficie zrobić to lepiej!"
+"Oceniajcie i dawajcie poprawki."
 ===

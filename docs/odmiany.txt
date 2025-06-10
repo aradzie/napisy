@@ -9,6 +9,8 @@ brać
 być
 chcieć
 ciąć
+dać
+dawać
 dojść
 gnieść
 iść
@@ -42,6 +44,13 @@ mówić
 1 os. 	mówię               mówimy
 2 os. 	mówisz              mówicie
 3 os. 	mówi                mówią
+
+dać*
+=====
+        liczba pojedyncza 	liczba mnoga
+1 os. 	dam                 damy
+2 os. 	dasz                dacie
+3 os. 	da                  dadzą
 
 dawać*
 =====
