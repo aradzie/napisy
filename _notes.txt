@@ -379,6 +379,13 @@ Basic;Polski::Frazy::1670.S01E02;Polski 1670.S01E02;И в то же время �
 Basic;Polski::Frazy::1670.S01E02;Polski 1670.S01E02;Извинения приняты.;Przeprosiny przyjęte.
 Basic;Polski::Frazy::1670.S01E02;Polski 1670.S01E02;Это запах победы.;To zapach zwycięstwa.
 Basic;Polski::Frazy::1670.S01E02;Polski 1670.S01E02;Хотя, конечно, из этого ничего не выйдет.;Choć oczywiście do niczego nie dojdzie.
+Basic;Polski::Frazy::phrases;Polski phrases;я не сидел без дела;nie siedziałem bezczynnie
+Basic;Polski::Frazy::phrases;Polski phrases;стараюсь изо всех сил;staram się jak mogę
+Basic;Polski::Frazy::phrases;Polski phrases;чем дальше, тем больше смысла;im dalej, tym więcej sensu
+Basic;Polski::Frazy::phrases;Polski phrases;это происходит один раз в год;zdarza się to raz w roku
+Basic;Polski::Frazy::phrases;Polski phrases;самые редко используемые слова;najmniej używane słowa
+Basic;Polski::Frazy::phrases;Polski phrases;самые часто используемые слова;najczęściej używane słowa
+Basic;Polski::Frazy::phrases;Polski phrases;пойти на уступки;robić ustępstwa
 Basic;Polski::Frazy::phrases;Polski phrases;здесь мы имели дело с;tutaj mieliśmy do czynienia z
 Basic;Polski::Frazy::phrases;Polski phrases;это в основном страхи;to są w głownie lęki
 Basic;Polski::Frazy::phrases;Polski phrases;он выплатил только половину долга;spłacił dopiero połowę długu
