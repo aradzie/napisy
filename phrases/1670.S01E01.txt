@@ -149,7 +149,6 @@
 Вы будете соседями.|Będziecie współlokatorami.
 И придерживаться границ.|I trzymajmy się granic.
 Но мы действуем по принципу: "оба, но по отдельности".|Ale działamy w myśl zasady: „obojga, ale osobno”.
-Пойдемте.|Chodźcie.
 Поможем хозяйке.|Pomożemy panience.
 Мы доказываем нашим братьям, что феминизм не заканчивается, когда нужно что-то передвинуть.|Udowadniamy naszym braciom, że feminizm nie kończy się wtedy, kiedy trzeba coś przenieść.
 Отец снова что-то заказал без доставки.|Ojciec znów coś zamówił bez usługi wniesienia.
@@ -208,7 +207,6 @@
 Один вопрос.|Jedno pytanie.
 Сколько стоили ваши часы?|Ile kosztował twój zegar?
 Кто выступает за повышение налогов для благородного государства?|Kto jest za podniesieniem podatków dla stanu szlacheckiego?
-Девятнадцать.|Dziewiętnaście.
 Кто против?|Kto jest przeciw?
 Liberum veto, предложение отклонено.|Liberum veto, wniosek odrzucony.
 Мне удалось убедить братьев в своих доводах.|Udało mi się przekonać braci do moich argumentów.
@@ -231,10 +229,8 @@ Liberum veto, предложение отклонено.|Liberum veto, wniosek o
 Если только помнить слова, которые каждый из нас слышит перед сном от своей матери.|O ile pamięta się słowa, które każdy z nas słyszy przed snem od swojej mamy.
 Ничего не ждите и ничего не желайте.|Niczego nie oczekuj i nie miej żadnych pragnień.
 Отличные новости!|Wspaniałe wieści!
-Ну иду.|No to idę.
 Но я ничего не жду от этой новости.|Ale niczego po tych wieściach nie oczekuję.
 Вот как это делается.|Tak to się robi.
-Идемте.|Chodźcie.
 У меня отличные новости.|Mam wspaniałe wieści.
 Угадайте, какие.|Zgadnijcie jakie.
 Богдан, с каких пор картошка - это новость?|Bogdan, od kiedy ziemniaki to wieści?

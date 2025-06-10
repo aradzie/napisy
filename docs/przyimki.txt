@@ -5,7 +5,6 @@ Przyimek to słowo, które łączy się z innym wyrazem, głównie rzeczownikiem
     Relacje celowe (np. dla, w celu)
     Relacje przyczynowe (np. z, przez, z powodu)
 
-
 Przyimki dzielimy na proste i złożone.
 
     Proste, np.: bez, do, dla, dzięki, koło, ku, między, nad, z, przez, po.

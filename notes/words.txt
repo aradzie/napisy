@@ -274,21 +274,59 @@ sprawdzać
 "Dziecko chce się sprawdzić jako samodzielna osobowość."
 ===
 
+воспринимать/to perceive
+---
+postrzegać
+
+"Chcemy być postrzegani jako ludzie kulturalni."
+"Choroba może zmienić postrzeganie sytuacji."
+"Ludzie postrzegają mnie w inny sposób."
+===
+
+удивляться/to wonder
+---
+zastanawiać się
+
+"Nie zastanawiała się nad przyszłością."
+"Możesz już przestać się nad tym zastanawiać."
+"Dziwi mnie to bardzo i zastanawiam się od czego to zależy."
+===
+
+кричать/to scream
+---
+wrzasnąć
+
+"Tym razem miał ochotę wrzasnąć."
+"I wkurzyć się potrafi, i wrzasnąć, i pięścią walnąć w stół."
+"Jeszcze raz wrzasnął na całe gardło."
+===
+
+принцип/условие/principle/term
+---
+zasada
+
+"Chcę pracować na własnych zasadach."
+"A ci, którzy złamią te zasady, zostaną przez niego ukarani."
+"Jakie proste zasady oszczędzania można wprowadzić?"
+===
+
 # uważać
 # uznawać
-# wrzasnąć
 # wydawać
 # wypadać
+
+# dowcipny
+# właściwy
+# wspaniały
+
+# szacunek
+# wezwanie
 
 # ciągle
 # coraz
 # natychmiast
 # nieco
 # obecne
-# szacunek
-# wspaniały
-# właściwy
-# zasada
 
 # stamtąd
 # więc
