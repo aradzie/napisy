@@ -10,6 +10,22 @@ Ja [dać] (czas teraźniejszy)
 ---
 Ja dam
 
+Porównaj z "Ja daję"
+
+dać
+|    |lp  |lm   |
+|----|----|-----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
+
+dawać
+|    |lp    |lm     |
+|----|------|-------|
+|1 os|daję  |dajemy |
+|2 os|dajesz|dajecie|
+|3 os|daje  |dają   |
+
 "Przyjdź jutro do mnie, to dam ci listę moich dłużników."
 "Dam ci znać, jak tylko będę wiedział."
 "Dam ci dobrą radę."
@@ -18,6 +34,8 @@ Ja dam
 My [dać] (czas teraźniejszy)
 ---
 My damy
+
+Porównaj z "My dajemy"
 
 "Nie damy się przyprzeć do muru."
 "Nie, jutro na pewno damy sobie radę."
@@ -28,6 +46,8 @@ Ty [dać] (czas teraźniejszy)
 ---
 Ty dasz
 
+Porównaj z "Ty dajesz"
+
 "Jeśli nie dasz mi spokoju, to cię stąd przegonię."
 "Dasz im znać o mnie?"
 "Czemu nie dasz mi drugiego konia?"
@@ -36,6 +56,8 @@ Ty dasz
 Wy [dać] (czas teraźniejszy)
 ---
 Wy dacie
+
+Porównaj z "Wy dajecie"
 
 "Dacie mi go?"
 "W przeciwnym razie nie dacie mi przepustki?"
@@ -46,6 +68,8 @@ On/Ona/Ono [dać] (czas teraźniejszy)
 ---
 On/Ona/Ono da
 
+Porównaj z "On/Ona/Ono daje"
+
 "Nie da rady!"
 "Niech bóg da, że będzie znać twoją wartość."
 "Z całym szacunkiem, panie kapitanie, co nam to da?"
@@ -54,6 +78,8 @@ On/Ona/Ono da
 Oni/One [dać] (czas teraźniejszy)
 ---
 Oni/One dadzą
+
+Porównaj z "Oni/One dają"
 
 "A co jeśli żadnego nie dadzą?"
 "Może dadzą panu szansę."
@@ -162,7 +188,9 @@ Oni dali
 
 Ty [dać] (tryb rozkazujący)
 ---
-daj
+Ty daj
+
+Porównaj z "Ty dawaj"
 
 "Daj sobie trochę więcej czasu."
 "Daj mi spokój."
@@ -171,7 +199,9 @@ daj
 
 My [dać] (tryb rozkazujący)
 ---
-dajmy
+My dajmy
+
+Porównaj z "My dawajmy"
 
 "Ale nie dajmy się zwariować."
 "Kiedy powróci, nie dajmy się mu zaskoczyć."
@@ -180,7 +210,9 @@ dajmy
 
 Wy [dać] (tryb rozkazujący)
 ---
-dajcie
+Wy dajcie
+
+Porównaj z "Wy dawajcie"
 
 "Więc dajcie znać, co myślicie."
 "A dajcie już spokój!"

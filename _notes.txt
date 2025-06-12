@@ -785,45 +785,102 @@ Basic;Polski::Odmiany;Polski Odmiana;Wy [chcieć] (tryb rozkazujący);"chciejcie
 ""Cóż, chciejcie dalej!""
 ""Bądźcie realistami, chciejcie niemożliwego.""
 ""Dlatego chciejcie się dalej uczyć."""
-Basic;Polski::Odmiany;Polski Odmiana;Ja [dawać] (czas teraźniejszy);Ja daję
-Basic;Polski::Odmiany;Polski Odmiana;My [dawać] (czas teraźniejszy);My dajemy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (czas teraźniejszy);Ty dajesz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (czas teraźniejszy);Wy dajecie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dawać] (czas teraźniejszy);On/Ona/Ono daje
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dawać] (czas teraźniejszy);Oni/One dają
-Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (tryb rozkazujący);"dawaj
+Basic;Polski::Odmiany;Polski Odmiana;Ja [dawać] (czas teraźniejszy);"Ja daję
+Porównaj z ""Ja dam""
+dawać
+|    |lp    |lm     |
+|----|------|-------|
+|1 os|daję  |dajemy |
+|2 os|dajesz|dajecie|
+|3 os|daje  |dają   |
+dać
+|    |lp  |lm   |
+|----|----|-----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
+""Nie daję się tak łatwo wyprowadzić z równowagi.""
+""Ja jej daję dobre rady.""
+""Pierwszy raz daję rekomendację."""
+Basic;Polski::Odmiany;Polski Odmiana;My [dawać] (czas teraźniejszy);"My dajemy
+Porównaj z ""My damy""
+""Pierwszą radę dajemy za darmo.""
+""Po drugie dajemy im możliwość powrotu.""
+""Biegamy i nie dajemy o sobie zapomnieć."""
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (czas teraźniejszy);"Ty dajesz
+Porównaj z ""Ty dasz""
+""Im dajesz więcej, niż żonie.""
+""To prezent, który dajesz również sobie.""
+""Całkiem nieźle dajesz sobie radę."""
+Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (czas teraźniejszy);"Wy dajecie
+Porównaj z ""Wy dacie""
+""Chcecie wiedzieć, komu dajecie pieniądze?""
+""Czy wy nigdy nie dajecie za wygraną?""
+""I jak dajecie, tak i wam oddadzą."""
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dawać] (czas teraźniejszy);"On/Ona/Ono daje
+Porównaj z ""On/Ona/Ono da""
+""I jak daje o sobie znać?""
+""Każdy sukces coś tam jednak daje do myślenia.""
+""Jaki wzór to daje dzieciom?"""
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dawać] (czas teraźniejszy);"Oni/One dają
+Porównaj z ""Oni/One dadzą""
+""Szereg schorzeń, które nie dają żadnych symptomów.""
+""Mnóstwo informacji, które dają olbrzymią motywację.""
+""Lepsze produkty dają przewagę nad konkurencją."""
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (tryb rozkazujący);"Ty dawaj
+Porównaj z ""Ty daj""
 ""A jeśli wiesz o imprezie, dawaj znać!""
 ""Przede wszystkim dawaj dobry przykład.""
 ""Kupuj i dawaj dziecku zabawki."""
-Basic;Polski::Odmiany;Polski Odmiana;My [dawać] (tryb rozkazujący);"dawajmy
+Basic;Polski::Odmiany;Polski Odmiana;My [dawać] (tryb rozkazujący);"My dawajmy
+Porównaj z ""My dajmy""
 ""Małpie brzytwy nie dawajmy.""
 ""Nie dawajmy gotowych rozwiązań.""
 ""Nie szukajmy pracy, dawajmy pracę."""
-Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (tryb rozkazujący);"dawajcie
+Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (tryb rozkazujący);"Wy dawajcie
+Porównaj z ""Wy dajcie""
 ""Nigdy nie dawajcie drugiej szansy.""
 ""No, dawajcie, potraficie zrobić to lepiej!""
 ""Oceniajcie i dawajcie poprawki."""
 Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (czas teraźniejszy);"Ja dam
+Porównaj z ""Ja daję""
+dać
+|    |lp  |lm   |
+|----|----|-----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
+dawać
+|    |lp    |lm     |
+|----|------|-------|
+|1 os|daję  |dajemy |
+|2 os|dajesz|dajecie|
+|3 os|daje  |dają   |
 ""Przyjdź jutro do mnie, to dam ci listę moich dłużników.""
 ""Dam ci znać, jak tylko będę wiedział.""
 ""Dam ci dobrą radę."""
 Basic;Polski::Odmiany;Polski Odmiana;My [dać] (czas teraźniejszy);"My damy
+Porównaj z ""My dajemy""
 ""Nie damy się przyprzeć do muru.""
 ""Nie, jutro na pewno damy sobie radę.""
 ""I to im damy."""
 Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (czas teraźniejszy);"Ty dasz
+Porównaj z ""Ty dajesz""
 ""Jeśli nie dasz mi spokoju, to cię stąd przegonię.""
 ""Dasz im znać o mnie?""
 ""Czemu nie dasz mi drugiego konia?"""
 Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (czas teraźniejszy);"Wy dacie
+Porównaj z ""Wy dajecie""
 ""Dacie mi go?""
 ""W przeciwnym razie nie dacie mi przepustki?""
 ""Nie dacie rady."""
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dać] (czas teraźniejszy);"On/Ona/Ono da
+Porównaj z ""On/Ona/Ono daje""
 ""Nie da rady!""
 ""Niech bóg da, że będzie znać twoją wartość.""
 ""Z całym szacunkiem, panie kapitanie, co nam to da?"""
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dać] (czas teraźniejszy);"Oni/One dadzą
+Porównaj z ""Oni/One dają""
 ""A co jeśli żadnego nie dadzą?""
 ""Może dadzą panu szansę.""
 ""Pieniądze nie dadzą wam szczęścia."""
@@ -869,15 +926,18 @@ Basic;Polski::Odmiany;Polski Odmiana;Oni [dać] (czas przeszły);"Oni dali
 ""Oni nie dali rady nawałowi spraw.""
 ""Dali mi nowe życie.""
 ""Chciałem tylko, żeby mi dali szansę."""
-Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (tryb rozkazujący);"daj
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (tryb rozkazujący);"Ty daj
+Porównaj z ""Ty dawaj""
 ""Daj sobie trochę więcej czasu.""
 ""Daj mi spokój.""
 ""A gdy upadnę, daj mi siłę, by się podnieść."""
-Basic;Polski::Odmiany;Polski Odmiana;My [dać] (tryb rozkazujący);"dajmy
+Basic;Polski::Odmiany;Polski Odmiana;My [dać] (tryb rozkazujący);"My dajmy
+Porównaj z ""My dawajmy""
 ""Ale nie dajmy się zwariować.""
 ""Kiedy powróci, nie dajmy się mu zaskoczyć.""
 ""Czyli dajmy się nadal robić w konia."""
-Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (tryb rozkazujący);"dajcie
+Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (tryb rozkazujący);"Wy dajcie
+Porównaj z ""Wy dawajcie""
 ""Więc dajcie znać, co myślicie.""
 ""A dajcie już spokój!""
 ""Do picia dajcie zwykłą wodę."""
