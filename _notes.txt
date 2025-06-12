@@ -908,55 +908,55 @@ Basic;Polski::Odmiany;Polski Odmiana;Wy [chcieć] (tryb rozkazujący);"<p>Wy chc
 <li><em>Dlatego chciejcie się dalej uczyć.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;Ja [dawać] (czas teraźniejszy);"<p>Ja daję</p>
-<p>Porównaj z &quot;Ja dam&quot;</p>
-<p>dawać</p>
+<p><em>Porównaj z &quot;Ja dam&quot;</em></p>
+<h1>dawać</h1>
 <table>
 <thead>
 <tr>
-<th></th>
-<th>lp</th>
-<th>lm</th>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>1 os</td>
-<td>daję</td>
-<td>dajemy</td>
+<td align=""left"">1 os</td>
+<td align=""left"">daję</td>
+<td align=""left"">dajemy</td>
 </tr>
 <tr>
-<td>2 os</td>
-<td>dajesz</td>
-<td>dajecie</td>
+<td align=""left"">2 os</td>
+<td align=""left"">dajesz</td>
+<td align=""left"">dajecie</td>
 </tr>
 <tr>
-<td>3 os</td>
-<td>daje</td>
-<td>dają</td>
+<td align=""left"">3 os</td>
+<td align=""left"">daje</td>
+<td align=""left"">dają</td>
 </tr>
 </tbody></table>
-<p>dać</p>
+<h1>dać</h1>
 <table>
 <thead>
 <tr>
-<th></th>
-<th>lp</th>
-<th>lm</th>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>1 os</td>
-<td>dam</td>
-<td>damy</td>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
 </tr>
 <tr>
-<td>2 os</td>
-<td>dasz</td>
-<td>dacie</td>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
 </tr>
 <tr>
-<td>3 os</td>
-<td>da</td>
-<td>dadzą</td>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
 </tr>
 </tbody></table>
 <ul>
@@ -965,111 +965,361 @@ Basic;Polski::Odmiany;Polski Odmiana;Ja [dawać] (czas teraźniejszy);"<p>Ja daj
 <li><em>Pierwszy raz daję rekomendację.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;My [dawać] (czas teraźniejszy);"<p>My dajemy</p>
-<p>Porównaj z &quot;My damy&quot;</p>
+<p><em>Porównaj z &quot;My damy&quot;</em></p>
+<h1>dawać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">daję</td>
+<td align=""left"">dajemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dajesz</td>
+<td align=""left"">dajecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">daje</td>
+<td align=""left"">dają</td>
+</tr>
+</tbody></table>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>
 <ul>
 <li><em>Pierwszą radę dajemy za darmo.</em></li>
 <li><em>Po drugie dajemy im możliwość powrotu.</em></li>
 <li><em>Biegamy i nie dajemy o sobie zapomnieć.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (czas teraźniejszy);"<p>Ty dajesz</p>
-<p>Porównaj z &quot;Ty dasz&quot;</p>
+<p><em>Porównaj z &quot;Ty dasz&quot;</em></p>
+<h1>dawać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">daję</td>
+<td align=""left"">dajemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dajesz</td>
+<td align=""left"">dajecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">daje</td>
+<td align=""left"">dają</td>
+</tr>
+</tbody></table>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>
 <ul>
 <li><em>Im dajesz więcej niż żonie.</em></li>
 <li><em>To prezent, który dajesz również sobie.</em></li>
 <li><em>Całkiem nieźle dajesz sobie radę.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (czas teraźniejszy);"<p>Wy dajecie</p>
-<p>Porównaj z &quot;Wy dacie&quot;</p>
+<p><em>Porównaj z &quot;Wy dacie&quot;</em></p>
+<h1>dawać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">daję</td>
+<td align=""left"">dajemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dajesz</td>
+<td align=""left"">dajecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">daje</td>
+<td align=""left"">dają</td>
+</tr>
+</tbody></table>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>
 <ul>
 <li><em>Chcecie wiedzieć, komu dajecie pieniądze?</em></li>
 <li><em>Czy wy nigdy nie dajecie za wygraną?</em></li>
 <li><em>I jak dajecie, tak i wam oddadzą.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dawać] (czas teraźniejszy);"<p>On/Ona/Ono daje</p>
-<p>Porównaj z &quot;On/Ona/Ono da&quot;</p>
+<p><em>Porównaj z &quot;On/Ona/Ono da&quot;</em></p>
+<h1>dawać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">daję</td>
+<td align=""left"">dajemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dajesz</td>
+<td align=""left"">dajecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">daje</td>
+<td align=""left"">dają</td>
+</tr>
+</tbody></table>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>
 <ul>
 <li><em>I jak daje o sobie znać?</em></li>
 <li><em>Każdy sukces coś tam jednak daje do myślenia.</em></li>
 <li><em>Jaki wzór to daje dzieciom?</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dawać] (czas teraźniejszy);"<p>Oni/One dają</p>
-<p>Porównaj z &quot;Oni/One dadzą&quot;</p>
+<p><em>Porównaj z &quot;Oni/One dadzą&quot;</em></p>
+<h1>dawać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">daję</td>
+<td align=""left"">dajemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dajesz</td>
+<td align=""left"">dajecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">daje</td>
+<td align=""left"">dają</td>
+</tr>
+</tbody></table>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>
 <ul>
 <li><em>Szereg schorzeń, które nie dają żadnych symptomów.</em></li>
 <li><em>Mnóstwo informacji, które dają olbrzymią motywację.</em></li>
 <li><em>Lepsze produkty dają przewagę nad konkurencją.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (tryb rozkazujący);"<p>Ty dawaj</p>
-<p>Porównaj z &quot;Ty daj&quot;</p>
+<p><em>Porównaj z &quot;Ty daj&quot;</em></p>
 <ul>
 <li><em>A jeśli wiesz o imprezie, dawaj znać!</em></li>
 <li><em>Przede wszystkim dawaj dobry przykład.</em></li>
 <li><em>Kupuj i dawaj dziecku zabawki.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;My [dawać] (tryb rozkazujący);"<p>My dawajmy</p>
-<p>Porównaj z &quot;My dajmy&quot;</p>
+<p><em>Porównaj z &quot;My dajmy&quot;</em></p>
 <ul>
 <li><em>Małpie brzytwy nie dawajmy.</em></li>
 <li><em>Nie dawajmy gotowych rozwiązań.</em></li>
 <li><em>Nie szukajmy pracy, dawajmy pracę.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (tryb rozkazujący);"<p>Wy dawajcie</p>
-<p>Porównaj z &quot;Wy dajcie&quot;</p>
+<p><em>Porównaj z &quot;Wy dajcie&quot;</em></p>
 <ul>
 <li><em>Nigdy nie dawajcie drugiej szansy.</em></li>
 <li><em>No, dawajcie, potraficie zrobić to lepiej!</em></li>
 <li><em>Oceniajcie i dawajcie poprawki.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (czas teraźniejszy);"<p>Ja dam</p>
-<p>Porównaj z &quot;Ja daję&quot;</p>
-<p>dać</p>
+<p><em>Porównaj z &quot;Ja daję&quot;</em></p>
+<h1>dać</h1>
 <table>
 <thead>
 <tr>
-<th></th>
-<th>lp</th>
-<th>lm</th>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>1 os</td>
-<td>dam</td>
-<td>damy</td>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
 </tr>
 <tr>
-<td>2 os</td>
-<td>dasz</td>
-<td>dacie</td>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
 </tr>
 <tr>
-<td>3 os</td>
-<td>da</td>
-<td>dadzą</td>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
 </tr>
 </tbody></table>
-<p>dawać</p>
+<h1>dawać</h1>
 <table>
 <thead>
 <tr>
-<th></th>
-<th>lp</th>
-<th>lm</th>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>1 os</td>
-<td>daję</td>
-<td>dajemy</td>
+<td align=""left"">1 os</td>
+<td align=""left"">daję</td>
+<td align=""left"">dajemy</td>
 </tr>
 <tr>
-<td>2 os</td>
-<td>dajesz</td>
-<td>dajecie</td>
+<td align=""left"">2 os</td>
+<td align=""left"">dajesz</td>
+<td align=""left"">dajecie</td>
 </tr>
 <tr>
-<td>3 os</td>
-<td>daje</td>
-<td>dają</td>
+<td align=""left"">3 os</td>
+<td align=""left"">daje</td>
+<td align=""left"">dają</td>
 </tr>
 </tbody></table>
 <ul>
@@ -1078,35 +1328,285 @@ Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (czas teraźniejszy);"<p>Ja dam</
 <li><em>Dam ci dobrą radę.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;My [dać] (czas teraźniejszy);"<p>My damy</p>
-<p>Porównaj z &quot;My dajemy&quot;</p>
+<p><em>Porównaj z &quot;My dajemy&quot;</em></p>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>
+<h1>dawać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">daję</td>
+<td align=""left"">dajemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dajesz</td>
+<td align=""left"">dajecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">daje</td>
+<td align=""left"">dają</td>
+</tr>
+</tbody></table>
 <ul>
 <li><em>Nie damy się przyprzeć do muru.</em></li>
 <li><em>Nie, jutro na pewno damy sobie radę.</em></li>
 <li><em>I to im damy.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (czas teraźniejszy);"<p>Ty dasz</p>
-<p>Porównaj z &quot;Ty dajesz&quot;</p>
+<p><em>Porównaj z &quot;Ty dajesz&quot;</em></p>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>
+<h1>dawać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">daję</td>
+<td align=""left"">dajemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dajesz</td>
+<td align=""left"">dajecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">daje</td>
+<td align=""left"">dają</td>
+</tr>
+</tbody></table>
 <ul>
 <li><em>Jeśli nie dasz mi spokoju, to cię stąd przegonię.</em></li>
 <li><em>Dasz im znać o mnie?</em></li>
 <li><em>Czemu nie dasz mi drugiego konia?</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (czas teraźniejszy);"<p>Wy dacie</p>
-<p>Porównaj z &quot;Wy dajecie&quot;</p>
+<p><em>Porównaj z &quot;Wy dajecie&quot;</em></p>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>
+<h1>dawać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">daję</td>
+<td align=""left"">dajemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dajesz</td>
+<td align=""left"">dajecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">daje</td>
+<td align=""left"">dają</td>
+</tr>
+</tbody></table>
 <ul>
 <li><em>Dacie mi go?</em></li>
 <li><em>W przeciwnym razie nie dacie mi przepustki?</em></li>
 <li><em>Nie dacie rady.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dać] (czas teraźniejszy);"<p>On/Ona/Ono da</p>
-<p>Porównaj z &quot;On/Ona/Ono daje&quot;</p>
+<p><em>Porównaj z &quot;On/Ona/Ono daje&quot;</em></p>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>
+<h1>dawać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">daję</td>
+<td align=""left"">dajemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dajesz</td>
+<td align=""left"">dajecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">daje</td>
+<td align=""left"">dają</td>
+</tr>
+</tbody></table>
 <ul>
 <li><em>Nie da rady!</em></li>
 <li><em>Niech bóg da, że będzie znać twoją wartość.</em></li>
 <li><em>Z całym szacunkiem, panie kapitanie, co nam to da?</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dać] (czas teraźniejszy);"<p>Oni/One dadzą</p>
-<p>Porównaj z &quot;Oni/One dają&quot;</p>
+<p><em>Porównaj z &quot;Oni/One dają&quot;</em></p>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>
+<h1>dawać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">daję</td>
+<td align=""left"">dajemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dajesz</td>
+<td align=""left"">dajecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">daje</td>
+<td align=""left"">dają</td>
+</tr>
+</tbody></table>
 <ul>
 <li><em>A co jeśli żadnego nie dadzą?</em></li>
 <li><em>Może dadzą panu szansę.</em></li>
@@ -1175,21 +1675,21 @@ Basic;Polski::Odmiany;Polski Odmiana;Oni [dać] (czas przeszły);"<p>Oni dali</p
 <li><em>Chciałem tylko, żeby mi dali szansę.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (tryb rozkazujący);"<p>Ty daj</p>
-<p>Porównaj z &quot;Ty dawaj&quot;</p>
+<p><em>Porównaj z &quot;Ty dawaj&quot;</em></p>
 <ul>
 <li><em>Daj sobie trochę więcej czasu.</em></li>
 <li><em>Daj mi spokój.</em></li>
 <li><em>A gdy upadnę, daj mi siłę, by się podnieść.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;My [dać] (tryb rozkazujący);"<p>My dajmy</p>
-<p>Porównaj z &quot;My dawajmy&quot;</p>
+<p><em>Porównaj z &quot;My dawajmy&quot;</em></p>
 <ul>
 <li><em>Ale nie dajmy się zwariować.</em></li>
 <li><em>Kiedy powróci, nie dajmy się mu zaskoczyć.</em></li>
 <li><em>Czyli dajmy się nadal robić w konia.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (tryb rozkazujący);"<p>Wy dajcie</p>
-<p>Porównaj z &quot;Wy dawajcie&quot;</p>
+<p><em>Porównaj z &quot;Wy dawajcie&quot;</em></p>
 <ul>
 <li><em>Więc dajcie znać, co myślicie.</em></li>
 <li><em>A dajcie już spokój!</em></li>

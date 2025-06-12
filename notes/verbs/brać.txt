@@ -4,7 +4,7 @@
 
 !tags:Polski Odmiana
 
-# https://wsjp.pl/haslo/podglad/40612/brac/4838057/pieniadze
+!# https://wsjp.pl/haslo/podglad/40612/brac/4838057/pieniadze
 
 Ja [brać] (czas teraźniejszy)
 ---

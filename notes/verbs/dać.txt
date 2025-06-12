@@ -4,24 +4,26 @@
 
 !tags:Polski Odmiana
 
-# https://wsjp.pl/haslo/podglad/6368/dac/4851676/prezent
+!# https://wsjp.pl/haslo/podglad/6368/dac/4851676/prezent
 
 Ja [dać] (czas teraźniejszy)
 ---
 Ja dam
 
-Porównaj z "Ja daję"
+*Porównaj z "Ja daję"*
 
-dać
+# dać
+
 |    |lp  |lm   |
-|----|----|-----|
+|:---|:---|:----|
 |1 os|dam |damy |
 |2 os|dasz|dacie|
 |3 os|da  |dadzą|
 
-dawać
+# dawać
+
 |    |lp    |lm     |
-|----|------|-------|
+|:---|:-----|:------|
 |1 os|daję  |dajemy |
 |2 os|dajesz|dajecie|
 |3 os|daje  |dają   |
@@ -35,7 +37,23 @@ My [dać] (czas teraźniejszy)
 ---
 My damy
 
-Porównaj z "My dajemy"
+*Porównaj z "My dajemy"*
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
+
+# dawać
+
+|    |lp    |lm     |
+|:---|:-----|:------|
+|1 os|daję  |dajemy |
+|2 os|dajesz|dajecie|
+|3 os|daje  |dają   |
 
 - *Nie damy się przyprzeć do muru.*
 - *Nie, jutro na pewno damy sobie radę.*
@@ -46,7 +64,23 @@ Ty [dać] (czas teraźniejszy)
 ---
 Ty dasz
 
-Porównaj z "Ty dajesz"
+*Porównaj z "Ty dajesz"*
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
+
+# dawać
+
+|    |lp    |lm     |
+|:---|:-----|:------|
+|1 os|daję  |dajemy |
+|2 os|dajesz|dajecie|
+|3 os|daje  |dają   |
 
 - *Jeśli nie dasz mi spokoju, to cię stąd przegonię.*
 - *Dasz im znać o mnie?*
@@ -57,7 +91,23 @@ Wy [dać] (czas teraźniejszy)
 ---
 Wy dacie
 
-Porównaj z "Wy dajecie"
+*Porównaj z "Wy dajecie"*
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
+
+# dawać
+
+|    |lp    |lm     |
+|:---|:-----|:------|
+|1 os|daję  |dajemy |
+|2 os|dajesz|dajecie|
+|3 os|daje  |dają   |
 
 - *Dacie mi go?*
 - *W przeciwnym razie nie dacie mi przepustki?*
@@ -68,7 +118,23 @@ On/Ona/Ono [dać] (czas teraźniejszy)
 ---
 On/Ona/Ono da
 
-Porównaj z "On/Ona/Ono daje"
+*Porównaj z "On/Ona/Ono daje"*
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
+
+# dawać
+
+|    |lp    |lm     |
+|:---|:-----|:------|
+|1 os|daję  |dajemy |
+|2 os|dajesz|dajecie|
+|3 os|daje  |dają   |
 
 - *Nie da rady!*
 - *Niech bóg da, że będzie znać twoją wartość.*
@@ -79,7 +145,23 @@ Oni/One [dać] (czas teraźniejszy)
 ---
 Oni/One dadzą
 
-Porównaj z "Oni/One dają"
+*Porównaj z "Oni/One dają"*
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
+
+# dawać
+
+|    |lp    |lm     |
+|:---|:-----|:------|
+|1 os|daję  |dajemy |
+|2 os|dajesz|dajecie|
+|3 os|daje  |dają   |
 
 - *A co jeśli żadnego nie dadzą?*
 - *Może dadzą panu szansę.*
@@ -190,7 +272,7 @@ Ty [dać] (tryb rozkazujący)
 ---
 Ty daj
 
-Porównaj z "Ty dawaj"
+*Porównaj z "Ty dawaj"*
 
 - *Daj sobie trochę więcej czasu.*
 - *Daj mi spokój.*
@@ -201,7 +283,7 @@ My [dać] (tryb rozkazujący)
 ---
 My dajmy
 
-Porównaj z "My dawajmy"
+*Porównaj z "My dawajmy"*
 
 - *Ale nie dajmy się zwariować.*
 - *Kiedy powróci, nie dajmy się mu zaskoczyć.*
@@ -212,7 +294,7 @@ Wy [dać] (tryb rozkazujący)
 ---
 Wy dajcie
 
-Porównaj z "Wy dawajcie"
+*Porównaj z "Wy dawajcie"*
 
 - *Więc dajcie znać, co myślicie.*
 - *A dajcie już spokój!*

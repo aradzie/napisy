@@ -4,7 +4,7 @@
 
 !tags:Polski Odmiana
 
-# https://wsjp.pl/haslo/podglad/17229/istniec/4636442/w-rzeczywistosci
+!# https://wsjp.pl/haslo/podglad/17229/istniec/4636442/w-rzeczywistosci
 
 Ja [istnieć] (czas teraźniejszy)
 ---

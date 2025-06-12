@@ -4,7 +4,7 @@
 
 !tags:Polski Odmiana
 
-# https://wsjp.pl/haslo/podglad/25624/pomoc/4616433/w-nauce
+!# https://wsjp.pl/haslo/podglad/25624/pomoc/4616433/w-nauce
 
 Ja [pomóc] (czas przyszły)
 ---

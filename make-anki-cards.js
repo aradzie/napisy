@@ -72,7 +72,7 @@ async function parseFile(text, notes) {
   let back = "";
 
   for (let line of text.split(/\n/g)) {
-    if (line.startsWith("#")) {
+    if (line.startsWith("!#")) {
       continue;
     }
     if (line.startsWith("!type:")) {

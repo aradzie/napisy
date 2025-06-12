@@ -4,7 +4,7 @@
 
 !tags:Polski Odmiana
 
-# https://wsjp.pl/haslo/podglad/16811/zmusic
+!# https://wsjp.pl/haslo/podglad/16811/zmusic
 
 Ja [zmusić] (czas teraźniejszy)
 ---

@@ -4,7 +4,7 @@
 
 !tags:Polski Odmiana
 
-# https://wsjp.pl/haslo/podglad/17271/znajdowac/5029302/prace
+!# https://wsjp.pl/haslo/podglad/17271/znajdowac/5029302/prace
 
 Ja [znajdować] (czas teraźniejszy)
 ---

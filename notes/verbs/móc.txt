@@ -4,7 +4,7 @@
 
 !tags:Polski Odmiana
 
-# https://wsjp.pl/haslo/podglad/35513/moc/3884666/obiektywna-mozliwosc
+!# https://wsjp.pl/haslo/podglad/35513/moc/3884666/obiektywna-mozliwosc
 
 Ja [móc] (czas teraźniejszy)
 ---

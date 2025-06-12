@@ -310,24 +310,24 @@ zasada
 - *Jakie proste zasady oszczędzania można wprowadzić?*
 ===
 
-# uważać
-# uznawać
-# wydawać
-# wypadać
+!# uważać
+!# uznawać
+!# wydawać
+!# wypadać
 
-# dowcipny
-# właściwy
-# wspaniały
+!# dowcipny
+!# właściwy
+!# wspaniały
 
-# dobroć
-# szacunek
-# wezwanie
+!# dobroć
+!# szacunek
+!# wezwanie
 
-# ciągle
-# coraz
-# natychmiast
-# nieco
-# obecne
+!# ciągle
+!# coraz
+!# natychmiast
+!# nieco
+!# obecne
 
-# stamtąd
-# więc
+!# stamtąd
+!# więc

@@ -4,7 +4,7 @@
 
 !tags:Polski Odmiana
 
-# https://wsjp.pl/haslo/podglad/19012/isc/5066139/do-domu
+!# https://wsjp.pl/haslo/podglad/19012/isc/5066139/do-domu
 
 Ja [iść] (czas teraźniejszy)
 ---

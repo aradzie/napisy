@@ -4,7 +4,7 @@
 
 !tags:Polski Odmiana
 
-# https://wsjp.pl/haslo/podglad/39060/umiec/3863303/czytac
+!# https://wsjp.pl/haslo/podglad/39060/umiec/3863303/czytac
 
 Ja [umieć] (czas teraźniejszy)
 ---

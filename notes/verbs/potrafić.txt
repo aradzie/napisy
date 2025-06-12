@@ -4,7 +4,7 @@
 
 !tags:Polski Odmiana
 
-# https://wsjp.pl/haslo/podglad/41449/potrafic/4917486/umiec
+!# https://wsjp.pl/haslo/podglad/41449/potrafic/4917486/umiec
 
 Ja [potrafić] (czas teraźniejszy)
 ---

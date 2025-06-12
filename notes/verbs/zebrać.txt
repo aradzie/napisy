@@ -4,7 +4,7 @@
 
 !tags:Polski Odmiana
 
-# https://wsjp.pl/haslo/podglad/25943/zebrac/5113017/kolekcje-znaczkow
+!# https://wsjp.pl/haslo/podglad/25943/zebrac/5113017/kolekcje-znaczkow
 
 Ja [zebrać] (czas teraźniejszy)
 ---

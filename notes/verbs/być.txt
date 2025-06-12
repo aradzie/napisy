@@ -4,7 +4,7 @@
 
 !tags:Polski Odmiana
 
-# https://wsjp.pl/haslo/podglad/31129/byc/4691500/gdzies
+!# https://wsjp.pl/haslo/podglad/31129/byc/4691500/gdzies
 
 Ja [być] (czas teraźniejszy)
 ---

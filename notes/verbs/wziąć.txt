@@ -4,7 +4,7 @@
 
 !tags:Polski Odmiana
 
-# https://wsjp.pl/haslo/podglad/44419/wziac/4941479/reka
+!# https://wsjp.pl/haslo/podglad/44419/wziac/4941479/reka
 
 Ja [wziąć] (czas teraźniejszy)
 ---
