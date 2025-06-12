@@ -40,25 +40,25 @@ Ty [chcieć] (tryb rozkazujący)
 ---
 chciej
 
-"Najpierw chciej poznawać jego serce."
-"Bądź w tym dobry i chciej być jeszcze lepszym."
-"Pracuj dużo, chciej sięgać po więcej."
+- *Najpierw chciej poznawać jego serce.*
+- *Bądź w tym dobry i chciej być jeszcze lepszym.*
+- *Pracuj dużo, chciej sięgać po więcej.*
 ===
 
 My [chcieć] (tryb rozkazujący)
 ---
 chciejmy
 
-"Chciejmy więc pomagać, chciejmy dzielić się z innymi."
-"Dlatego chciejmy dbać o nasze wspólne dobro."
-"Na ta wielką uroczystość chciejmy się dobrze przygotować."
+- *Chciejmy więc pomagać, chciejmy dzielić się z innymi.*
+- *Dlatego chciejmy dbać o nasze wspólne dobro.*
+- *Na ta wielką uroczystość chciejmy się dobrze przygotować.*
 ===
 
 Wy [chcieć] (tryb rozkazujący)
 ---
 chciejcie
 
-"Cóż, chciejcie dalej!"
-"Bądźcie realistami, chciejcie niemożliwego."
-"Dlatego chciejcie się dalej uczyć."
+- *Cóż, chciejcie dalej!*
+- *Bądźcie realistami, chciejcie niemożliwego.*
+- *Dlatego chciejcie się dalej uczyć.*
 ===

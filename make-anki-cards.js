@@ -4,6 +4,7 @@
  * The output file can be imported in Anki.
  */
 
+import { marked } from "marked";
 import { glob, readFile, writeFile } from "node:fs/promises";
 import { parse } from "node:path";
 import { formatNotes } from "./lib/anki.js";
@@ -91,27 +92,27 @@ async function parseFile(text, notes) {
       continue;
     }
     if (line.startsWith("===")) {
+      front = front.trim();
+      back = marked.parse(back.trim(), {}).trim();
       notes.push({ type, deck, tags, front, back });
       state = "front";
       front = "";
       back = "";
       continue;
     }
-    if (line) {
-      switch (state) {
-        case "front":
-          if (front) {
-            front += "\n";
-          }
-          front += line;
-          break;
-        case "back":
-          if (back) {
-            back += "\n";
-          }
-          back += line;
-          break;
-      }
+    switch (state) {
+      case "front":
+        if (front) {
+          front += "\n";
+        }
+        front += line;
+        break;
+      case "back":
+        if (back) {
+          back += "\n";
+        }
+        back += line;
+        break;
     }
   }
 }

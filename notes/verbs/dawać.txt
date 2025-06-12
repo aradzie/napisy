@@ -26,9 +26,9 @@ dać
 |2 os|dasz|dacie|
 |3 os|da  |dadzą|
 
-"Nie daję się tak łatwo wyprowadzić z równowagi."
-"Ja jej daję dobre rady."
-"Pierwszy raz daję rekomendację."
+- *Nie daję się tak łatwo wyprowadzić z równowagi.*
+- *Ja jej daję dobre rady.*
+- *Pierwszy raz daję rekomendację.*
 ===
 
 My [dawać] (czas teraźniejszy)
@@ -37,9 +37,9 @@ My dajemy
 
 Porównaj z "My damy"
 
-"Pierwszą radę dajemy za darmo."
-"Po drugie dajemy im możliwość powrotu."
-"Biegamy i nie dajemy o sobie zapomnieć."
+- *Pierwszą radę dajemy za darmo.*
+- *Po drugie dajemy im możliwość powrotu.*
+- *Biegamy i nie dajemy o sobie zapomnieć.*
 ===
 
 Ty [dawać] (czas teraźniejszy)
@@ -48,9 +48,9 @@ Ty dajesz
 
 Porównaj z "Ty dasz"
 
-"Im dajesz więcej niż żonie."
-"To prezent, który dajesz również sobie."
-"Całkiem nieźle dajesz sobie radę."
+- *Im dajesz więcej niż żonie.*
+- *To prezent, który dajesz również sobie.*
+- *Całkiem nieźle dajesz sobie radę.*
 ===
 
 Wy [dawać] (czas teraźniejszy)
@@ -59,9 +59,9 @@ Wy dajecie
 
 Porównaj z "Wy dacie"
 
-"Chcecie wiedzieć, komu dajecie pieniądze?"
-"Czy wy nigdy nie dajecie za wygraną?"
-"I jak dajecie, tak i wam oddadzą."
+- *Chcecie wiedzieć, komu dajecie pieniądze?*
+- *Czy wy nigdy nie dajecie za wygraną?*
+- *I jak dajecie, tak i wam oddadzą.*
 ===
 
 On/Ona/Ono [dawać] (czas teraźniejszy)
@@ -70,9 +70,9 @@ On/Ona/Ono daje
 
 Porównaj z "On/Ona/Ono da"
 
-"I jak daje o sobie znać?"
-"Każdy sukces coś tam jednak daje do myślenia."
-"Jaki wzór to daje dzieciom?"
+- *I jak daje o sobie znać?*
+- *Każdy sukces coś tam jednak daje do myślenia.*
+- *Jaki wzór to daje dzieciom?*
 ===
 
 Oni/One [dawać] (czas teraźniejszy)
@@ -81,9 +81,9 @@ Oni/One dają
 
 Porównaj z "Oni/One dadzą"
 
-"Szereg schorzeń, które nie dają żadnych symptomów."
-"Mnóstwo informacji, które dają olbrzymią motywację."
-"Lepsze produkty dają przewagę nad konkurencją."
+- *Szereg schorzeń, które nie dają żadnych symptomów.*
+- *Mnóstwo informacji, które dają olbrzymią motywację.*
+- *Lepsze produkty dają przewagę nad konkurencją.*
 ===
 
 Ty [dawać] (tryb rozkazujący)
@@ -92,9 +92,9 @@ Ty dawaj
 
 Porównaj z "Ty daj"
 
-"A jeśli wiesz o imprezie, dawaj znać!"
-"Przede wszystkim dawaj dobry przykład."
-"Kupuj i dawaj dziecku zabawki."
+- *A jeśli wiesz o imprezie, dawaj znać!*
+- *Przede wszystkim dawaj dobry przykład.*
+- *Kupuj i dawaj dziecku zabawki.*
 ===
 
 My [dawać] (tryb rozkazujący)
@@ -103,9 +103,9 @@ My dawajmy
 
 Porównaj z "My dajmy"
 
-"Małpie brzytwy nie dawajmy."
-"Nie dawajmy gotowych rozwiązań."
-"Nie szukajmy pracy, dawajmy pracę."
+- *Małpie brzytwy nie dawajmy.*
+- *Nie dawajmy gotowych rozwiązań.*
+- *Nie szukajmy pracy, dawajmy pracę.*
 ===
 
 Wy [dawać] (tryb rozkazujący)
@@ -114,7 +114,7 @@ Wy dawajcie
 
 Porównaj z "Wy dajcie"
 
-"Nigdy nie dawajcie drugiej szansy."
-"No, dawajcie, potraficie zrobić to lepiej!"
-"Oceniajcie i dawajcie poprawki."
+- *Nigdy nie dawajcie drugiej szansy.*
+- *No, dawajcie, potraficie zrobić to lepiej!*
+- *Oceniajcie i dawajcie poprawki.*
 ===

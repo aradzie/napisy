@@ -1,5 +1,5 @@
 #separator:semicolon
-#html:false
+#html:true
 #notetype column:1
 #deck column:2
 #tags column:3
@@ -559,667 +559,939 @@ Basic;Polski::Frazy::phrases;Polski phrases;каждый раз, когда ты
 Basic;Polski::Frazy::phrases;Polski phrases;меня удивляет, как он получил подписи;zastanawia mnie jak zdobył podpisy
 Basic;Polski::Frazy::phrases;Polski phrases;мне все равно;nie obchodzi mnie to
 Basic;Polski::Frazy::phrases;Polski phrases;пойти на уступки;robić ustępstwa
-Basic;Polski::Meta::Częśći Mowy;Polski Meta;Noun/A word that names a person, place, thing, or idea;Rzeczownik
-Basic;Polski::Meta::Częśći Mowy;Polski Meta;Pronoun/A word that replaces a noun;Zaimek
-Basic;Polski::Meta::Częśći Mowy;Polski Meta;Verb/A word that expresses action or a state of being;Czasownik
-Basic;Polski::Meta::Częśći Mowy;Polski Meta;Adjective/A word that describes or modifies a noun or pronoun;Przymiotnik
-Basic;Polski::Meta::Częśći Mowy;Polski Meta;Adverb/A word that modifies a verb, adjective, or another adverb;Przysłówek
-Basic;Polski::Meta::Częśći Mowy;Polski Meta;Preposition/A word that shows the relationship between a noun or pronoun and other words in the sentence;Przyimek
-Basic;Polski::Meta::Częśći Mowy;Polski Meta;Conjunction/A word that connects words, phrases, or clauses;Spójnik
-Basic;Polski::Meta::Częśći Mowy;Polski Meta;Interjection/A word that expresses strong emotion.;Wykrzyknik
-Basic;Polski::Słowa;Polski Słowa;только/only;"dopiero
-""Otrząsnął się dopiero na ruchomych schodach.""
-""Przystąpi do spowiedzi dopiero po waszej rozmowie.""
-""Dziś dopiero poznałem, czym dla mnie może być kobieta."""
-Basic;Polski::Słowa;Polski Słowa;все еще/still;"nadal
-""Jeżeli ta kobieta jest nadal żywa?""
-""I cała masa innych ludzi nadal by żyli.""
-""A my nadal tu będziemy?"""
-Basic;Polski::Słowa;Polski Słowa;потому что/because;"poniewaz
-""I tak sie dowiem, poniewaz jestem profesjonalista.""
-""Nie zostal zlapany, poniewaz ma uklady.""
-""Poniewaz nie ma szans żebyśmy mogli tu jeszcze się pokazać."""
-Basic;Polski::Słowa;Polski Słowa;почти/almost;"prawie
-""Dzieciak by prawie nie utonął, gdybym ja go nie pchnęła.""
-""Ten jest w prawie świeżym stanie.""
-""Teraz jestem prawie pewien, że tego nie przyjmą."""
-Basic;Polski::Słowa;Polski Słowa;скорее/rather;"raczej
-""A teraz raczej nie jest najlepsza chwila.""
-""Czarna raczej nie jest.""
-""Dziś będzie raczej ciężko."""
-Basic;Polski::Słowa;Polski Słowa;против/against;"wbrew
-""Wbrew jego naturze i woli.""
-""Co jest wbrew zasadom.""
-""A działać wbrew opinii innych."""
-Basic;Polski::Słowa;Polski Słowa;тратить/to spend;"spędzać
-""Najczęściej spędzają czas na oglądaniu telewizji.""
-""Całe swoje życie spędzają w kawiarniach.""
-""Przypomina mi się czas spędzany z moimi przyjaciółmi."""
-Basic;Polski::Słowa;Polski Słowa;вести/to lead;"prowadzić
-""Gdy się mylę, próbuję prowadzić dyskusję.""
-""Ide tam, gdzie prowadzi mnie praca.""
-""Żeby mój tata prowadził mnie do lekarza."""
-Basic;Polski::Słowa;Polski Słowa;не очень/not very;"niezbyt
-""Była niezbyt ładna.""
-""Budynek banku był niezbyt duży.""
-""On słuchał niezbyt uważnie."""
-Basic;Polski::Słowa;Polski Słowa;но/but;"lecz
-""Lecz równie skuteczny.""
-""Lecz czuję, że ma inne plany.""
-""Lecz by żył wiecznie."""
-Basic;Polski::Słowa;Polski Słowa;исторический/historic;"zabytkowy
-""Aby uzyskać status budynku zabytkowego musimy...""
-""Tutaj, na zabytkowych dachach.""
-""Sprzedałam części do zabytkowego motocykla."""
-Basic;Polski::Słowa;Polski Słowa;эффект/effect;"skutek
-""Wywarło to głęboki skutek na mnie.""
-""A skutek będzie odwrotny?""
-""Każdy skutek może być przewidywalny."""
-Basic;Polski::Słowa;Polski Słowa;image/образ;"wizerunek
-""Jeśli robisz to zbyt często, dostajesz zły wizerunek.""
-""Mam wizerunek do utrzymania.""
-""Niektórzy próbują zniszczyć wizerunek naszego kraju."""
-Basic;Polski::Słowa;Polski Słowa;до сих пор/still;"wciąż
-""Jest coś czego wciąż nie rozumiem!""
-""Książki wciąż nie przeczytałem.""
-""Mamy czas, bo wciąż nie masz podpisu sędziego."""
-Basic;Polski::Słowa;Polski Słowa;to look/смотреть;"spojrzeć
-""I nawet na niego nie spojrzeć.""
-""Szykowałam się i spojrzałam w lustro.""
-""Ja przynajmniej spojrzę ci w oczy."""
-Basic;Polski::Słowa;Polski Słowa;до/before;"wcześniej
-""Ja przyszedłem za wcześnie.""
-""Kończę dzisiaj wcześniej.""
-""Mam o wiele lepsze karty niż wcześniej."""
-Basic;Polski::Słowa;Polski Słowa;в соответствии с/according to;"według
-""A atak zombie ma według ciebie lepsze szanse?""
-""Bo zazwyczaj postępowaliśmy według schematu.""
-""Skąd wiemy, że zabójca będzie grał według twoich reguł?"""
-Basic;Polski::Słowa;Polski Słowa;много/a lot;"sporo
-""Sporo tu miejsca.""
-""Będzie sporo roboty, kolego.""
-""Ja myślałam o tym sporo."""
-Basic;Polski::Słowa;Polski Słowa;тип/type;"rodzaj
-""Ja należę do drugiego rodzaju.""
-""Mam wiele rodzajów informacji.""
-""Ten projekt jest swego rodzaju testem."""
-Basic;Polski::Słowa;Polski Słowa;звучать/to sound;"brzmieć
-""Jak śpiewasz to brzmisz zupełnie inaczej.""
-""Nie zamierzam brzmieć okrutnie.""
-""No dobrze, to brzmi świetnie."""
-Basic;Polski::Słowa;Polski Słowa;узнавать/to recognize;"kojarzyć
-""Ciebie nie kojarzę w ogóle.""
-""Czemu miałbym go kojarzyć?""
-""Dopiero zaczynasz to kojarzyć."""
-Basic;Polski::Słowa;Polski Słowa;особенно/especially;"zwłaszcza
-""Czas leczy rany, zwłaszcza ten dobry czas.""
-""Nie ufała nikomu, zwłaszcza jemu.""
-""Zwłaszcza na tym etapie, jesteśmy optymistami."""
-Basic;Polski::Słowa;Polski Słowa;ужасный/terrible;"okropny
-""Kawa jest naprawdę okropna.""
-""Książki są okropne, ale nie potrafię ich odłożyć.""
-""Lakie okropności musiałaś przeżyć podczas ucieczki."""
-Basic;Polski::Słowa;Polski Słowa;обвинения/allegations;"zarzuty
-""Nastepnym razem poprzyj zarzuty dowodami.""
-""Kto dał ci prawo stawiać mi zarzuty?""
-""Mam spisany zarzut mojego klienta."""
-Basic;Polski::Słowa;Polski Słowa;волноваться/to worry;"martwić
-""A babcia nie martwi sie o ciebie?""
-""Chcemy jasno określić, że nikt nie musi się martwić.""
-""Dosyć mam już zmartwień!"""
-Basic;Polski::Słowa;Polski Słowa;иметь/to own;"posiadać
-""Fantazją o posiadaniu władzy.""
-""Posiadanie tego nie stanowi problemu.""
-""Gdy przybyłem do tego miasta, nie posiadałem niczego."""
-Basic;Polski::Słowa;Polski Słowa;бояться/to fear;"obawiać się
-""Zobaczysz, że nie ma się czego obawiać.""
-""Jak cudownie nie obawiać się nieznanego.""
-""Miałem powody, by obawiać się tego."""
-Basic;Polski::Słowa;Polski Słowa;обожать/to adore;"uwielbiać
-""Miałem pracę, którą uwielbiałem.""
-""Myślę, że sekretnie uwielbiasz ten chaos.""
-""Nawet dorośli je uwielbiają."""
-Basic;Polski::Słowa;Polski Słowa;ценить/to appreciate;"doceniać
-""Bez śmierci nie doceniasz życia.""
-""Dziękuję za docenienie tych spraw.""
-""Jak możesz dziś ją docenić?"""
-Basic;Polski::Słowa;Polski Słowa;проверять/to check;"sprawdzać
-""A biletów nawet nie sprawdzali.""
-""Absolutnie wszystko jest sprawdzane.""
-""Dziecko chce się sprawdzić jako samodzielna osobowość."""
-Basic;Polski::Słowa;Polski Słowa;воспринимать/to perceive;"postrzegać
-""Chcemy być postrzegani jako ludzie kulturalni.""
-""Choroba może zmienić postrzeganie sytuacji.""
-""Ludzie postrzegają mnie w inny sposób."""
-Basic;Polski::Słowa;Polski Słowa;удивляться/to wonder;"zastanawiać się
-""Nie zastanawiała się nad przyszłością.""
-""Możesz już przestać się nad tym zastanawiać.""
-""Dziwi mnie to bardzo i zastanawiam się od czego to zależy."""
-Basic;Polski::Słowa;Polski Słowa;кричать/to scream;"wrzasnąć
-""Tym razem miał ochotę wrzasnąć.""
-""I wkurzyć się potrafi, i wrzasnąć, i pięścią walnąć w stół.""
-""Jeszcze raz wrzasnął na całe gardło."""
-Basic;Polski::Słowa;Polski Słowa;принцип/условие/principle/term;"zasada
-""Chcę pracować na własnych zasadach.""
-""A ci, którzy złamią te zasady, zostaną przez niego ukarani.""
-""Jakie proste zasady oszczędzania można wprowadzić?"""
-Basic;Polski::Odmiany;Polski Odmiana;Ja [brać] (czas teraźniejszy);"Ja biorę
-""Biorę do ręki i przeglądam."""
-Basic;Polski::Odmiany;Polski Odmiana;My [brać] (czas teraźniejszy);"My bierzemy
-""Lista kandydatów, których bierzemy pod uwagę.""
-""Z ogromną radością bierzemy udział w takich wydarzeniach.""
-""A bierzemy tych, którzy nie chcą pracować."""
-Basic;Polski::Odmiany;Polski Odmiana;Ty [brać] (czas teraźniejszy);"Ty bierzesz
-""Skąd ty je bierzesz?""
-""Tylko ty bierzesz kredyt w banku.""
-""Czy po równo dajesz i bierzesz?"""
-Basic;Polski::Odmiany;Polski Odmiana;Wy [brać] (czas teraźniejszy);"Wy bierzecie
-""Wy wszak nie bierzecie pieniędzy za zabijanie.""
-""Czy raczej nie bierzecie ich pod uwagę?""
-""Jakich surowców używacie i skąd je bierzecie?"""
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [brać] (czas teraźniejszy);"On/Ona/Ono bierze
-""Lekarz bierze narzędzie.""
-""Jakie cechy bierze pod uwagę?""
-""Która nie bierze udziału w wielkich imprezach."""
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [brać] (czas teraźniejszy);"Oni/One biorą
-""Skąd w ogóle biorą się dzieci.""
-""Jest to skok spadochronowy, w którym biorą udział dwie osoby.""
-""Jest to wojna, w której biorą udział dwa państwa."""
-Basic;Polski::Odmiany;Polski Odmiana;Ty [brać] (tryb rozkazujący);"bierz
-""Ostrożnie bierz pod uwagę.""
-""Nigdy nie bierz odpowiedzialności.""
-""Baw się dobrze i nie bierz tego zbyt poważnie."""
-Basic;Polski::Odmiany;Polski Odmiana;My [brać] (tryb rozkazujący);"bierzmy
-""Więc bierzmy tylko najpotrzebniejsze rzeczy.""
-""Bez zbędnego gadania bierzmy się do roboty!""
-""Bierzmy listę zadań i bierzmy się do pracy."""
-Basic;Polski::Odmiany;Polski Odmiana;Wy [brać] (tryb rozkazujący);"bierzcie
-""Panowie bierzcie przykład.""
-""Koledzy, bierzcie się więc do roboty.""
-""Bierzcie przykład od brata."""
-Basic;Polski::Odmiany;Polski Odmiana;Ja [być] (czas teraźniejszy);"Ja jestem
-""Ale ja jestem spokojny."""
-Basic;Polski::Odmiany;Polski Odmiana;My [być] (czas teraźniejszy);"My jesteśmy
-""To my jesteśmy trybunałem inkwizycji."""
-Basic;Polski::Odmiany;Polski Odmiana;Ty [być] (czas teraźniejszy);"Ty jesteś
-""A ty jesteś ukochaną córką."""
-Basic;Polski::Odmiany;Polski Odmiana;Wy [być] (czas teraźniejszy);"Wy jesteście
-""Czy jesteście pewni."""
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [być] (czas teraźniejszy);"On/Ona/Ono jest
-""Która jest zdenerwowana."""
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [być] (czas teraźniejszy);"Oni/One są
-""Może to są i ważne sprawy."""
-Basic;Polski::Odmiany;Polski Odmiana;Ja [być] (czas przyszły);"Ja będę
-""Jak ja będę wyglądał."""
-Basic;Polski::Odmiany;Polski Odmiana;My [być] (czas przyszły);"My będziemy
-""Tym razem będziemy mieli szczęście."""
-Basic;Polski::Odmiany;Polski Odmiana;Ty [być] (czas przyszły);"Ty będziesz
-""Dopóki nie spróbujesz, nie będziesz wiedziała."""
-Basic;Polski::Odmiany;Polski Odmiana;Wy [być] (czas przyszły);"Wy będziecie
-""Gdzie będziecie mieszkać."""
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [być] (czas przyszły);"On/Ona/Ono będzie
-""Na pewno będzie fajnie."""
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [być] (czas przyszły);"Oni/One będą
-""Nic nikomu nie będą mówić."""
-Basic;Polski::Odmiany;Polski Odmiana;Ty [być] (tryb rozkazujący);"bądź
-""Nie bądź impulsywny."""
-Basic;Polski::Odmiany;Polski Odmiana;My [być] (tryb rozkazujący);"bądźmy
-""Bądźmy tam razem."""
-Basic;Polski::Odmiany;Polski Odmiana;Wy [być] (tryb rozkazujący);"bądźcie
-""Więc nie bądźcie rozczarowani!"""
-Basic;Polski::Odmiany;Polski Odmiana;Ja [chcieć] (czas teraźniejszy);Ja chcę
-Basic;Polski::Odmiany;Polski Odmiana;My [chcieć] (czas teraźniejszy);My chcemy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [chcieć] (czas teraźniejszy);Ty chcesz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [chcieć] (czas teraźniejszy);Wy chcecie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [chcieć] (czas teraźniejszy);On/Ona/Ono chce
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [chcieć] (czas teraźniejszy);Oni/One chcą
-Basic;Polski::Odmiany;Polski Odmiana;Ty [chcieć] (tryb rozkazujący);"chciej
-""Najpierw chciej poznawać jego serce.""
-""Bądź w tym dobry i chciej być jeszcze lepszym.""
-""Pracuj dużo, chciej sięgać po więcej."""
-Basic;Polski::Odmiany;Polski Odmiana;My [chcieć] (tryb rozkazujący);"chciejmy
-""Chciejmy więc pomagać, chciejmy dzielić się z innymi.""
-""Dlatego chciejmy dbać o nasze wspólne dobro.""
-""Na ta wielką uroczystość chciejmy się dobrze przygotować."""
-Basic;Polski::Odmiany;Polski Odmiana;Wy [chcieć] (tryb rozkazujący);"chciejcie
-""Cóż, chciejcie dalej!""
-""Bądźcie realistami, chciejcie niemożliwego.""
-""Dlatego chciejcie się dalej uczyć."""
-Basic;Polski::Odmiany;Polski Odmiana;Ja [dawać] (czas teraźniejszy);"Ja daję
-Porównaj z ""Ja dam""
-dawać
-|    |lp    |lm     |
-|----|------|-------|
-|1 os|daję  |dajemy |
-|2 os|dajesz|dajecie|
-|3 os|daje  |dają   |
-dać
-|    |lp  |lm   |
-|----|----|-----|
-|1 os|dam |damy |
-|2 os|dasz|dacie|
-|3 os|da  |dadzą|
-""Nie daję się tak łatwo wyprowadzić z równowagi.""
-""Ja jej daję dobre rady.""
-""Pierwszy raz daję rekomendację."""
-Basic;Polski::Odmiany;Polski Odmiana;My [dawać] (czas teraźniejszy);"My dajemy
-Porównaj z ""My damy""
-""Pierwszą radę dajemy za darmo.""
-""Po drugie dajemy im możliwość powrotu.""
-""Biegamy i nie dajemy o sobie zapomnieć."""
-Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (czas teraźniejszy);"Ty dajesz
-Porównaj z ""Ty dasz""
-""Im dajesz więcej, niż żonie.""
-""To prezent, który dajesz również sobie.""
-""Całkiem nieźle dajesz sobie radę."""
-Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (czas teraźniejszy);"Wy dajecie
-Porównaj z ""Wy dacie""
-""Chcecie wiedzieć, komu dajecie pieniądze?""
-""Czy wy nigdy nie dajecie za wygraną?""
-""I jak dajecie, tak i wam oddadzą."""
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dawać] (czas teraźniejszy);"On/Ona/Ono daje
-Porównaj z ""On/Ona/Ono da""
-""I jak daje o sobie znać?""
-""Każdy sukces coś tam jednak daje do myślenia.""
-""Jaki wzór to daje dzieciom?"""
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dawać] (czas teraźniejszy);"Oni/One dają
-Porównaj z ""Oni/One dadzą""
-""Szereg schorzeń, które nie dają żadnych symptomów.""
-""Mnóstwo informacji, które dają olbrzymią motywację.""
-""Lepsze produkty dają przewagę nad konkurencją."""
-Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (tryb rozkazujący);"Ty dawaj
-Porównaj z ""Ty daj""
-""A jeśli wiesz o imprezie, dawaj znać!""
-""Przede wszystkim dawaj dobry przykład.""
-""Kupuj i dawaj dziecku zabawki."""
-Basic;Polski::Odmiany;Polski Odmiana;My [dawać] (tryb rozkazujący);"My dawajmy
-Porównaj z ""My dajmy""
-""Małpie brzytwy nie dawajmy.""
-""Nie dawajmy gotowych rozwiązań.""
-""Nie szukajmy pracy, dawajmy pracę."""
-Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (tryb rozkazujący);"Wy dawajcie
-Porównaj z ""Wy dajcie""
-""Nigdy nie dawajcie drugiej szansy.""
-""No, dawajcie, potraficie zrobić to lepiej!""
-""Oceniajcie i dawajcie poprawki."""
-Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (czas teraźniejszy);"Ja dam
-Porównaj z ""Ja daję""
-dać
-|    |lp  |lm   |
-|----|----|-----|
-|1 os|dam |damy |
-|2 os|dasz|dacie|
-|3 os|da  |dadzą|
-dawać
-|    |lp    |lm     |
-|----|------|-------|
-|1 os|daję  |dajemy |
-|2 os|dajesz|dajecie|
-|3 os|daje  |dają   |
-""Przyjdź jutro do mnie, to dam ci listę moich dłużników.""
-""Dam ci znać, jak tylko będę wiedział.""
-""Dam ci dobrą radę."""
-Basic;Polski::Odmiany;Polski Odmiana;My [dać] (czas teraźniejszy);"My damy
-Porównaj z ""My dajemy""
-""Nie damy się przyprzeć do muru.""
-""Nie, jutro na pewno damy sobie radę.""
-""I to im damy."""
-Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (czas teraźniejszy);"Ty dasz
-Porównaj z ""Ty dajesz""
-""Jeśli nie dasz mi spokoju, to cię stąd przegonię.""
-""Dasz im znać o mnie?""
-""Czemu nie dasz mi drugiego konia?"""
-Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (czas teraźniejszy);"Wy dacie
-Porównaj z ""Wy dajecie""
-""Dacie mi go?""
-""W przeciwnym razie nie dacie mi przepustki?""
-""Nie dacie rady."""
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dać] (czas teraźniejszy);"On/Ona/Ono da
-Porównaj z ""On/Ona/Ono daje""
-""Nie da rady!""
-""Niech bóg da, że będzie znać twoją wartość.""
-""Z całym szacunkiem, panie kapitanie, co nam to da?"""
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dać] (czas teraźniejszy);"Oni/One dadzą
-Porównaj z ""Oni/One dają""
-""A co jeśli żadnego nie dadzą?""
-""Może dadzą panu szansę.""
-""Pieniądze nie dadzą wam szczęścia."""
-Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (m, czas przeszły);"Ja dałem
-""Dałem ci słowo, a ja nigdy nie łamię słowa.""
-""Dałem im jasno do zrozumienia...""
-""Dałem pani słowo i go dotrzymam."""
-Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (ż, czas przeszły);"Ja dałam
-""Dałam ci go potrzymać.""
-""Nic mu nie dałam.""
-""Dałam ci wszystko."""
-Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (n, czas przeszły);Ja dałom
-Basic;Polski::Odmiany;Polski Odmiana;My [dać] (czas przeszły);"My daliśmy
-""Daliśmy im absolutną władzę.""
-""Daliśmy im wszystko, co mieliśmy.""
-""Daliśmy ci żywność i wodę."""
-Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (m, czas przeszły);"Ty dałeś
-""Dałeś z siebie wszystko.""
-""Dałeś temu psu dom.""
-""Zdał sobie sprawę, że to ty dałeś mu broń."""
-Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (ż, czas przeszły);"Ty dałaś
-""Czemu nie dałaś znać?""
-""Dałaś mi całą potrzebną broń.""
-""Więc dlaczego dałaś mi nadzieję?"""
-Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (n, czas przeszły);Ty dałoś
-Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (czas przeszły);"Wy daliście
-""Wszyscy bez wyjątku daliście się pokonać amatorowi.""
-""Daliście się nabrać, oboje.""
-""Daliście mi wskazówkę na moje błędy."""
-Basic;Polski::Odmiany;Polski Odmiana;On [dać] (czas przeszły);"On dał
-""Proszę pana, dał pan nam złe pieniądze!""
-""Twój kolega dał ci alibi na tamtą noc.""
-""Co jej dał za wyjątkiem róż?"""
-Basic;Polski::Odmiany;Polski Odmiana;Ona [dać] (czas przeszły);"Ona dała
-""Chcę, abyś dała mi wolność.""
-""Dała ci swój numer?""
-""Dała mi czas do piątku na załatwienie pozwolenia na pracę."""
-Basic;Polski::Odmiany;Polski Odmiana;Ono [dać] (czas przeszły);"Ono dało
-""A ponieważ nie było ich widać nie dało się udowodnić, że nie istnieją.""
-""Dało jej to wystarczająco czasu.""
-""Tej nocy nie dało się spać."""
-Basic;Polski::Odmiany;Polski Odmiana;Oni [dać] (czas przeszły);"Oni dali
-""Oni nie dali rady nawałowi spraw.""
-""Dali mi nowe życie.""
-""Chciałem tylko, żeby mi dali szansę."""
-Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (tryb rozkazujący);"Ty daj
-Porównaj z ""Ty dawaj""
-""Daj sobie trochę więcej czasu.""
-""Daj mi spokój.""
-""A gdy upadnę, daj mi siłę, by się podnieść."""
-Basic;Polski::Odmiany;Polski Odmiana;My [dać] (tryb rozkazujący);"My dajmy
-Porównaj z ""My dawajmy""
-""Ale nie dajmy się zwariować.""
-""Kiedy powróci, nie dajmy się mu zaskoczyć.""
-""Czyli dajmy się nadal robić w konia."""
-Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (tryb rozkazujący);"Wy dajcie
-Porównaj z ""Wy dawajcie""
-""Więc dajcie znać, co myślicie.""
-""A dajcie już spokój!""
-""Do picia dajcie zwykłą wodę."""
-Basic;Polski::Odmiany;Polski Odmiana;Ja [istnieć] (czas teraźniejszy);Ja istnieję
-Basic;Polski::Odmiany;Polski Odmiana;My [istnieć] (czas teraźniejszy);Ja istniejemy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [istnieć] (czas teraźniejszy);Ty istniejesz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [istnieć] (czas teraźniejszy);Wy istniejecie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [istnieć] (czas teraźniejszy);On/Ona/Ono istnieje
-Basic;Polski::Odmiany;Polski Odmiana;Oni [istnieć] (czas teraźniejszy);Oni istnieją
-Basic;Polski::Odmiany;Polski Odmiana;Ja [istnieć] (m, czas przeszły);Ja istniałem
-Basic;Polski::Odmiany;Polski Odmiana;Ja [istnieć] (ż, czas przeszły);Ja istniałam
-Basic;Polski::Odmiany;Polski Odmiana;Ja [istnieć] (n, czas przeszły);Ja istniałom
-Basic;Polski::Odmiany;Polski Odmiana;My [istnieć] (czas przeszły);My istnieliśmy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [istnieć] (m, czas przeszły);Ty istniałeś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [istnieć] (ż, czas przeszły);Ty istniałaś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [istnieć] (n, czas przeszły);Ty istniałoś
-Basic;Polski::Odmiany;Polski Odmiana;Wy [istnieć] (czas przeszły);Wy istnieliście
-Basic;Polski::Odmiany;Polski Odmiana;On [istnieć] (czas przeszły);On istniał
-Basic;Polski::Odmiany;Polski Odmiana;Ona [istnieć] (czas przeszły);Ona istniała
-Basic;Polski::Odmiany;Polski Odmiana;Ono [istnieć] (czas przeszły);Ono istniało
-Basic;Polski::Odmiany;Polski Odmiana;Oni [istnieć] (czas przeszły);Oni istnieli
-Basic;Polski::Odmiany;Polski Odmiana;Ja [iść] (czas teraźniejszy);Ja idę
-Basic;Polski::Odmiany;Polski Odmiana;My [iść] (czas teraźniejszy);My idziemy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [iść] (czas teraźniejszy);Ty idziesz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [iść] (czas teraźniejszy);Wy idziecie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [iść] (czas teraźniejszy);On/Ona/Ono idzie
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [iść] (czas teraźniejszy);Oni/One idą
-Basic;Polski::Odmiany;Polski Odmiana;Ja [iść] (m, czas przeszły);Ja szedłem
-Basic;Polski::Odmiany;Polski Odmiana;Ja [iść] (ż, czas przeszły);Ja szłam
-Basic;Polski::Odmiany;Polski Odmiana;Ja [iść] (n, czas przeszły);Ja szłom
-Basic;Polski::Odmiany;Polski Odmiana;My [iść] (czas przeszły);My szliśmy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [iść] (m, czas przeszły);Ty szedłeś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [iść] (ż, czas przeszły);Ty szłaś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [iść] (n, czas przeszły);Ty szłoś
-Basic;Polski::Odmiany;Polski Odmiana;Wy [iść] (czas przeszły);Wy szliście
-Basic;Polski::Odmiany;Polski Odmiana;On [iść] (czas przeszły);On szedł
-Basic;Polski::Odmiany;Polski Odmiana;Ona [iść] (czas przeszły);Ona szła
-Basic;Polski::Odmiany;Polski Odmiana;Ono [iść] (czas przeszły);Ono szło
-Basic;Polski::Odmiany;Polski Odmiana;Oni [iść] (czas przeszły);Oni szli
-Basic;Polski::Odmiany;Polski Odmiana;Ty [iść] (tryb rozkazujący);idź
-Basic;Polski::Odmiany;Polski Odmiana;My [iść] (tryb rozkazujący);idźmy
-Basic;Polski::Odmiany;Polski Odmiana;Wy [iść] (tryb rozkazujący);idźcie
-Basic;Polski::Odmiany;Polski Odmiana;Ja [mieć] (czas teraźniejszy);Ja mam
-Basic;Polski::Odmiany;Polski Odmiana;My [mieć] (czas teraźniejszy);My mamy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (czas teraźniejszy);Ty masz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [mieć] (czas teraźniejszy);Wy macie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [mieć] (czas teraźniejszy);On/Ona/Ono ma
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [mieć] (czas teraźniejszy);Oni/One mają
-Basic;Polski::Odmiany;Polski Odmiana;Ja [mieć] (m, czas przeszły);Ja miałem
-Basic;Polski::Odmiany;Polski Odmiana;Ja [mieć] (ż, czas przeszły);Ja miałam
-Basic;Polski::Odmiany;Polski Odmiana;Ja [mieć] (n, czas przeszły);Ja miałom
-Basic;Polski::Odmiany;Polski Odmiana;My [mieć] (czas przeszły);My mieliśmy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (m, czas przeszły);Ty miałeś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (ż, czas przeszły);Ty miałaś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (n, czas przeszły);Ty miałoś
-Basic;Polski::Odmiany;Polski Odmiana;Wy [mieć] (czas przeszły);Wy mieliście
-Basic;Polski::Odmiany;Polski Odmiana;On [mieć] (czas przeszły);On miał
-Basic;Polski::Odmiany;Polski Odmiana;Ona [mieć] (czas przeszły);Ona miała
-Basic;Polski::Odmiany;Polski Odmiana;Ono [mieć] (czas przeszły);Ono miało
-Basic;Polski::Odmiany;Polski Odmiana;Oni [mieć] (czas przeszły);Oni mieli
-Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (tryb rozkazujący);miej
-Basic;Polski::Odmiany;Polski Odmiana;My [mieć] (tryb rozkazujący);miejmy
-Basic;Polski::Odmiany;Polski Odmiana;Wy [mieć] (tryb rozkazujący);miejcie
-Basic;Polski::Odmiany;Polski Odmiana;Ja [musieć] (czas teraźniejszy);Ja muszę
-Basic;Polski::Odmiany;Polski Odmiana;My [musieć] (czas teraźniejszy);My musimy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [musieć] (czas teraźniejszy);Ty musisz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [musieć] (czas teraźniejszy);Wy musicie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [musieć] (czas teraźniejszy);On/Ona/Ono musi
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [musieć] (czas teraźniejszy);Oni/One muszą
-Basic;Polski::Odmiany;Polski Odmiana;Ja [musieć] (m, czas przeszły);Ja musiałem
-Basic;Polski::Odmiany;Polski Odmiana;Ja [musieć] (ż, czas przeszły);Ja musiałam
-Basic;Polski::Odmiany;Polski Odmiana;Ja [musieć] (n, czas przeszły);Ja musiałom
-Basic;Polski::Odmiany;Polski Odmiana;My [musieć] (czas przeszły);My musieliśmy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [musieć] (m, czas przeszły);Ty musiałeś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [musieć] (ż, czas przeszły);Ty musiałaś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [musieć] (n, czas przeszły);Ty musiałoś
-Basic;Polski::Odmiany;Polski Odmiana;Wy [musieć] (czas przeszły);Wy musieliście
-Basic;Polski::Odmiany;Polski Odmiana;On [musieć] (czas przeszły);On musiał
-Basic;Polski::Odmiany;Polski Odmiana;Ona [musieć] (czas przeszły);Ona musiała
-Basic;Polski::Odmiany;Polski Odmiana;Ono [musieć] (czas przeszły);Ono musiało
-Basic;Polski::Odmiany;Polski Odmiana;Oni [musieć] (czas przeszły);Oni musieli
-Basic;Polski::Odmiany;Polski Odmiana;Ja [móc] (czas teraźniejszy);Ja mogę
-Basic;Polski::Odmiany;Polski Odmiana;My [móc] (czas teraźniejszy);My możemy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [móc] (czas teraźniejszy);Ty możesz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [móc] (czas teraźniejszy);Wy możecie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [móc] (czas teraźniejszy);On/Ona/Ono może
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [móc] (czas teraźniejszy);Oni/One mogą
-Basic;Polski::Odmiany;Polski Odmiana;Ja [móc] (m, czas przeszły);Ja mogłem
-Basic;Polski::Odmiany;Polski Odmiana;Ja [móc] (ż, czas przeszły);Ja mogłam
-Basic;Polski::Odmiany;Polski Odmiana;Ja [móc] (n, czas przeszły);Ja mogłom
-Basic;Polski::Odmiany;Polski Odmiana;My [móc] (czas przeszły);My mogliśmy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [móc] (m, czas przeszły);Ty mogłeś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [móc] (ż, czas przeszły);Ty mogłaś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [móc] (n, czas przeszły);Ty mogłoś
-Basic;Polski::Odmiany;Polski Odmiana;Wy [móc] (czas przeszły);Wy mogliście
-Basic;Polski::Odmiany;Polski Odmiana;On [móc] (czas przeszły);On mógł
-Basic;Polski::Odmiany;Polski Odmiana;Ona [móc] (czas przeszły);Ona mogła
-Basic;Polski::Odmiany;Polski Odmiana;Ono [móc] (czas przeszły);Ono mogło
-Basic;Polski::Odmiany;Polski Odmiana;Oni [móc] (czas przeszły);Oni mogli
-Basic;Polski::Odmiany;Polski Odmiana;Ja [pomóc] (czas przyszły);Ja pomogę
-Basic;Polski::Odmiany;Polski Odmiana;My [pomóc] (czas przyszły);My pomożemy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [pomóc] (czas przyszły);Ty pomożesz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [pomóc] (czas przyszły);Wy pomożecie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [pomóc] (czas przyszły);On/Ona/Ono pomoże
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [pomóc] (czas przyszły);Oni/One pomogą
-Basic;Polski::Odmiany;Polski Odmiana;Ty [pomóc] (tryb rozkazujący);pomóż
-Basic;Polski::Odmiany;Polski Odmiana;My [pomóc] (tryb rozkazujący);pomóżmy
-Basic;Polski::Odmiany;Polski Odmiana;Wy [pomóc] (tryb rozkazujący);pomóżcie
-Basic;Polski::Odmiany;Polski Odmiana;Ja [potrafić] (czas teraźniejszy);Ja potrafię
-Basic;Polski::Odmiany;Polski Odmiana;My [potrafić] (czas teraźniejszy);My potrafimy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [potrafić] (czas teraźniejszy);Ty potrafisz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [potrafić] (czas teraźniejszy);Wy potraficie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [potrafić] (czas teraźniejszy);On/Ona/Ono potrafi
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [potrafić] (czas teraźniejszy);Oni/One potrafią
-Basic;Polski::Odmiany;Polski Odmiana;Ty [potrafić] (tryb rozkazujący);"potraf
-""Mozę ktoś potraf obejrzeć go do końca.""
-""Nie każdy je zna i potraf zastosować.""
-""Nie potraf ukryć, że uważa ich za gorszych."""
-Basic;Polski::Odmiany;Polski Odmiana;My [potrafić] (tryb rozkazujący);"potrafmy
-""Czy chcemy i czy potrafmy się przed tym bronić?""
-""Nie bójmy się mówić o sobie, ale potrafmy też słuchać.""
-""Po prostu nie potrafmy znaleźć odpowiednich słów."""
-Basic;Polski::Odmiany;Polski Odmiana;Wy [potrafić] (tryb rozkazujący);"potrafcie
-""Czy potrafcie sobie wyobrazić codzienne życie bez użytkowania paliw kopalnianych?""
-""Nie wolno jeść kwiatów, których nie potrafcie rozpoznać!""
-""Nie potrafcie zebrać dowodów."""
-Basic;Polski::Odmiany;Polski Odmiana;Ja [robić] (czas teraźniejszy);Ja robię
-Basic;Polski::Odmiany;Polski Odmiana;My [robić] (czas teraźniejszy);My robimy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [robić] (czas teraźniejszy);Ty robisz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [robić] (czas teraźniejszy);Wy robicie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [robić] (czas teraźniejszy);On/Ona/Ono robi
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [robić] (czas teraźniejszy);Oni/One robią
-Basic;Polski::Odmiany;Polski Odmiana;Ja [robić] (m, czas przeszły);Ja robiłem
-Basic;Polski::Odmiany;Polski Odmiana;Ja [robić] (ż, czas przeszły);Ja robiłam
-Basic;Polski::Odmiany;Polski Odmiana;Ja [robić] (n, czas przeszły);Ja robiłom
-Basic;Polski::Odmiany;Polski Odmiana;My [robić] (czas przeszły);My robiliśmy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [robić] (m, czas przeszły);Ty robiłeś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [robić] (ż, czas przeszły);Ty robiłaś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [robić] (n, czas przeszły);Ty robiłoś
-Basic;Polski::Odmiany;Polski Odmiana;Wy [robić] (czas przeszły);Wy robiliście
-Basic;Polski::Odmiany;Polski Odmiana;On [robić] (czas przeszły);On robił
-Basic;Polski::Odmiany;Polski Odmiana;Ona [robić] (czas przeszły);Ona robiła
-Basic;Polski::Odmiany;Polski Odmiana;Ono [robić] (czas przeszły);Ono robiło
-Basic;Polski::Odmiany;Polski Odmiana;Oni [robić] (czas przeszły);Oni robili
-Basic;Polski::Odmiany;Polski Odmiana;Ja [spojrzeć] (czas teraźniejszy);Ja spojrzę
-Basic;Polski::Odmiany;Polski Odmiana;My [spojrzeć] (czas teraźniejszy);My spojrzymy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [spojrzeć] (czas teraźniejszy);Ty spojrzysz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [spojrzeć] (czas teraźniejszy);Wy spojrzycie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [spojrzeć] (czas teraźniejszy);On/Ona/Ono spojrzy
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [spojrzeć] (czas teraźniejszy);Oni/One spojrzą
-Basic;Polski::Odmiany;Polski Odmiana;Ja [spojrzeć] (m, czas przeszły);Ja spojrzałem
-Basic;Polski::Odmiany;Polski Odmiana;Ja [spojrzeć] (ż, czas przeszły);Ja spojrzałam
-Basic;Polski::Odmiany;Polski Odmiana;Ja [spojrzeć] (n, czas przeszły);Ja spojrzałom
-Basic;Polski::Odmiany;Polski Odmiana;My [spojrzeć] (czas przeszły);My spojrzeliśmy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [spojrzeć] (m, czas przeszły);Ty spojrzałeś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [spojrzeć] (ż, czas przeszły);Ty spojrzałaś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [spojrzeć] (n, czas przeszły);Ty spojrzałoś
-Basic;Polski::Odmiany;Polski Odmiana;Wy [spojrzeć] (czas przeszły);Wy spojrzeliście
-Basic;Polski::Odmiany;Polski Odmiana;On [spojrzeć] (czas przeszły);On spojrzał
-Basic;Polski::Odmiany;Polski Odmiana;Ona [spojrzeć] (czas przeszły);Ona spojrzała
-Basic;Polski::Odmiany;Polski Odmiana;Ono [spojrzeć] (czas przeszły);Ono spojrzało
-Basic;Polski::Odmiany;Polski Odmiana;Oni [spojrzeć] (czas przeszły);Oni spojrzeli
-Basic;Polski::Odmiany;Polski Odmiana;Ja [umieć] (czas teraźniejszy);Ja umiem
-Basic;Polski::Odmiany;Polski Odmiana;My [umieć] (czas teraźniejszy);My umiemy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [umieć] (czas teraźniejszy);Ty umiesz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [umieć] (czas teraźniejszy);Wy umiecie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [umieć] (czas teraźniejszy);On/Ona/Ono umie
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [umieć] (czas teraźniejszy);Oni/One umieją
-Basic;Polski::Odmiany;Polski Odmiana;Ja [wiedzieć] (czas teraźniejszy);Ja wiem
-Basic;Polski::Odmiany;Polski Odmiana;My [wiedzieć] (czas teraźniejszy);My wiemy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (czas teraźniejszy);Ty wiesz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [wiedzieć] (czas teraźniejszy);Wy wiecie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [wiedzieć] (czas teraźniejszy);On/Ona/Ono wie
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [wiedzieć] (czas teraźniejszy);Oni/One wiedzą
-Basic;Polski::Odmiany;Polski Odmiana;Ja [wiedzieć] (m, czas przeszły);Ja wiedziałem
-Basic;Polski::Odmiany;Polski Odmiana;Ja [wiedzieć] (ż, czas przeszły);Ja wiedziałam
-Basic;Polski::Odmiany;Polski Odmiana;Ja [wiedzieć] (n, czas przeszły);Ja wiedziałom
-Basic;Polski::Odmiany;Polski Odmiana;My [wiedzieć] (czas przeszły);My wiedzieliśmy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (m, czas przeszły);Ty wiedziałeś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (ż, czas przeszły);Ty wiedziałaś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (n, czas przeszły);Ty wiedziałoś
-Basic;Polski::Odmiany;Polski Odmiana;Wy [wiedzieć] (czas przeszły);Wy wiedzieliście
-Basic;Polski::Odmiany;Polski Odmiana;On [wiedzieć] (czas przeszły);On wiedział
-Basic;Polski::Odmiany;Polski Odmiana;Ona [wiedzieć] (czas przeszły);Ona wiedziała
-Basic;Polski::Odmiany;Polski Odmiana;Ono [wiedzieć] (czas przeszły);Ono wiedziało
-Basic;Polski::Odmiany;Polski Odmiana;Oni [wiedzieć] (czas przeszły);Oni wiedzieli
-Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (tryb rozkazujący);wiedz
-Basic;Polski::Odmiany;Polski Odmiana;My [wiedzieć] (tryb rozkazujący);wiedzmy
-Basic;Polski::Odmiany;Polski Odmiana;Wy [wiedzieć] (tryb rozkazujący);wiedzcie
-Basic;Polski::Odmiany;Polski Odmiana;Ja [wziąć] (czas teraźniejszy);Ja wezmę
-Basic;Polski::Odmiany;Polski Odmiana;My [wziąć] (czas teraźniejszy);My weźmiemy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [wziąć] (czas teraźniejszy);Ty weźmiesz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [wziąć] (czas teraźniejszy);Wy weźmiecie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [wziąć] (czas teraźniejszy);On/Ona/Ono weźmie
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [wziąć] (czas teraźniejszy);Oni/One wezmą
-Basic;Polski::Odmiany;Polski Odmiana;Ty [wziąć] (tryb rozkazujący);weź
-Basic;Polski::Odmiany;Polski Odmiana;My [wziąć] (tryb rozkazujący);weźmy
-Basic;Polski::Odmiany;Polski Odmiana;Wy [wziąć] (tryb rozkazujący);weźcie
-Basic;Polski::Odmiany;Polski Odmiana;Ja [zebrać] (czas teraźniejszy);Ja zbiorę
-Basic;Polski::Odmiany;Polski Odmiana;My [zebrać] (czas teraźniejszy);My zbierzemy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (czas teraźniejszy);Ty zbierzesz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [zebrać] (czas teraźniejszy);Wy zbierzecie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [zebrać] (czas teraźniejszy);On/Ona/Ono zbierze
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [zebrać] (czas teraźniejszy);Oni/One zbiorą
-Basic;Polski::Odmiany;Polski Odmiana;Ja [zebrać] (m, czas przeszły);Ja zebrałem
-Basic;Polski::Odmiany;Polski Odmiana;Ja [zebrać] (ż, czas przeszły);Ja zebrałam
-Basic;Polski::Odmiany;Polski Odmiana;Ja [zebrać] (n, czas przeszły);Ja zebrałom
-Basic;Polski::Odmiany;Polski Odmiana;My [zebrać] (czas przeszły);My zebraliśmy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (m, czas przeszły);Ty zebrałeś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (ż, czas przeszły);Ty zebrałaś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (n, czas przeszły);Ty zebrałoś
-Basic;Polski::Odmiany;Polski Odmiana;Wy [zebrać] (czas przeszły);Wy zebraliście
-Basic;Polski::Odmiany;Polski Odmiana;On [zebrać] (czas przeszły);On zebrał
-Basic;Polski::Odmiany;Polski Odmiana;Ona [zebrać] (czas przeszły);Ona zebrała
-Basic;Polski::Odmiany;Polski Odmiana;Ono [zebrać] (czas przeszły);Ono zebrało
-Basic;Polski::Odmiany;Polski Odmiana;Oni [zebrać] (czas przeszły);Oni zebrali
-Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (tryb rozkazujący);zbierz
-Basic;Polski::Odmiany;Polski Odmiana;My [zebrać] (tryb rozkazujący);zbierzmy
-Basic;Polski::Odmiany;Polski Odmiana;Wy [zebrać] (tryb rozkazujący);zbierzcie
-Basic;Polski::Odmiany;Polski Odmiana;Ja [zmusić] (czas teraźniejszy);Ja zmuszę
-Basic;Polski::Odmiany;Polski Odmiana;My [zmusić] (czas teraźniejszy);My zmusimy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [zmusić] (czas teraźniejszy);Ty zmusisz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [zmusić] (czas teraźniejszy);Wy zmusicie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [zmusić] (czas teraźniejszy);On/Ona/Ono zmusi
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [zmusić] (czas teraźniejszy);Oni/One zmuszą
-Basic;Polski::Odmiany;Polski Odmiana;Ty [zmusić] (tryb rozkazujący);"zmuś
-""Gdy jest ci smutno zmuś się do aktywności fizycznej.""
-""I zmuś kogoś, żeby powiedział ci prawdę!""
-""Jeśli nie masz ochoty na uśmiech, zmuś się."""
-Basic;Polski::Odmiany;Polski Odmiana;My [zmusić] (tryb rozkazujący);"zmuśmy
-""Zmuśmy dystrybutorów do obniżki cen.""
-""Ale zmuśmy ich do myślenia o tym, skąd pochodzi ich jedzenie.""
-""Zmuśmy go do wycofania się z polityki."""
-Basic;Polski::Odmiany;Polski Odmiana;Wy [zmusić] (tryb rozkazujący);"zmuście
-""Nie zmuście mnie do zmiany mej myśli.""
-""A później zmuście ich do powrotu.""
-""Sami się zmuście do uczciwości i dobroci."""
-Basic;Polski::Odmiany;Polski Odmiana;Ja [znajdować] (czas teraźniejszy);Ja znajduję
-Basic;Polski::Odmiany;Polski Odmiana;My [znajdować] (czas teraźniejszy);My znajdujemy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (czas teraźniejszy);Ty znajdujesz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [znajdować] (czas teraźniejszy);Wy znajdujecie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [znajdować] (czas teraźniejszy);On/Ona/Ono znajduje
-Basic;Polski::Odmiany;Polski Odmiana;Oni [znajdować] (czas teraźniejszy);Oni znajdują
-Basic;Polski::Odmiany;Polski Odmiana;Ja [znajdować] (m, czas przeszły);Ja znajdowałem
-Basic;Polski::Odmiany;Polski Odmiana;Ja [znajdować] (ż, czas przeszły);Ja znajdowałam
-Basic;Polski::Odmiany;Polski Odmiana;Ja [znajdować] (n, czas przeszły);Ja znajdowałom
-Basic;Polski::Odmiany;Polski Odmiana;My [znajdować] (czas przeszły);My znajdowaliśmy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (m, czas przeszły);Ty znajdowałeś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (ż, czas przeszły);Ty znajdowałaś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (n, czas przeszły);Ty znajdowałoś
-Basic;Polski::Odmiany;Polski Odmiana;Wy [znajdować] (czas przeszły);Wy znajdowaliście
-Basic;Polski::Odmiany;Polski Odmiana;On [znajdować] (czas przeszły);On znajdował
-Basic;Polski::Odmiany;Polski Odmiana;Ona [znajdować] (czas przeszły);Ona znajdowała
-Basic;Polski::Odmiany;Polski Odmiana;Ono [znajdować] (czas przeszły);Ono znajdowało
-Basic;Polski::Odmiany;Polski Odmiana;Oni [znajdować] (czas przeszły);Oni znajdowali
-Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (tryb rozkazujący);"znajduj
-""Analizuj odchylenia i znajduj przyczyny.""
-""Szybko znajduj potrzebne dokumenty.""
-""Baw się oraz znajduj przyjemności."""
-Basic;Polski::Odmiany;Polski Odmiana;My [znajdować] (tryb rozkazujący);"znajdujmy
-""Co w tych filozofiach znajdujmy?""
-""Znajdujmy czas dla naszych najbliższych.""
-""Tylko sami znajdujmy naszych klientów."""
-Basic;Polski::Odmiany;Polski Odmiana;Wy [znajdować] (tryb rozkazujący);"znajdujcie
-""Codziennie znajdujcie powody, by radować się.""
-""Filtrujcie informacje i znajdujcie ich źródła.""
-""Znajdujcie miłość i pasję we wszystkim, co robicie."""
-Basic;Polski::Odmiany;Polski Odmiana;Ja [znać] (czas teraźniejszy);Ja znam
-Basic;Polski::Odmiany;Polski Odmiana;My [znać] (czas teraźniejszy);My znamy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (czas teraźniejszy);Ty znasz
-Basic;Polski::Odmiany;Polski Odmiana;Wy [znać] (czas teraźniejszy);Wy znacie
-Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [znać] (czas teraźniejszy);On/Ona/Ono zna
-Basic;Polski::Odmiany;Polski Odmiana;Oni/One [znać] (czas teraźniejszy);Oni/One znają
-Basic;Polski::Odmiany;Polski Odmiana;Ja [znać] (m, czas przeszły);Ja znałem
-Basic;Polski::Odmiany;Polski Odmiana;Ja [znać] (ż, czas przeszły);Ja znałam
-Basic;Polski::Odmiany;Polski Odmiana;Ja [znać] (n, czas przeszły);Ja znałom
-Basic;Polski::Odmiany;Polski Odmiana;My [znać] (czas przeszły);My znaliśmy
-Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (m, czas przeszły);Ty znałeś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (ż, czas przeszły);Ty znałaś
-Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (n, czas przeszły);Ty znałoś
-Basic;Polski::Odmiany;Polski Odmiana;Wy [znać] (czas przeszły);Wy znaliście
-Basic;Polski::Odmiany;Polski Odmiana;On [znać] (czas przeszły);On znał
-Basic;Polski::Odmiany;Polski Odmiana;Ona [znać] (czas przeszły);Ona znała
-Basic;Polski::Odmiany;Polski Odmiana;Ono [znać] (czas przeszły);Ono znało
-Basic;Polski::Odmiany;Polski Odmiana;Oni [znać] (czas przeszły);Oni znali
+Basic;Polski::Meta::Częśći Mowy;Polski Meta;Noun/A word that names a person, place, thing, or idea;<p>Rzeczownik</p>
+Basic;Polski::Meta::Częśći Mowy;Polski Meta;Pronoun/A word that replaces a noun;<p>Zaimek</p>
+Basic;Polski::Meta::Częśći Mowy;Polski Meta;Verb/A word that expresses action or a state of being;<p>Czasownik</p>
+Basic;Polski::Meta::Częśći Mowy;Polski Meta;Adjective/A word that describes or modifies a noun or pronoun;<p>Przymiotnik</p>
+Basic;Polski::Meta::Częśći Mowy;Polski Meta;Adverb/A word that modifies a verb, adjective, or another adverb;<p>Przysłówek</p>
+Basic;Polski::Meta::Częśći Mowy;Polski Meta;Preposition/A word that shows the relationship between a noun or pronoun and other words in the sentence;<p>Przyimek</p>
+Basic;Polski::Meta::Częśći Mowy;Polski Meta;Conjunction/A word that connects words, phrases, or clauses;<p>Spójnik</p>
+Basic;Polski::Meta::Częśći Mowy;Polski Meta;Interjection/A word that expresses strong emotion.;<p>Wykrzyknik</p>
+Basic;Polski::Słowa;Polski Słowa;только/only;"<p>dopiero</p>
+<ul>
+<li><em>Otrząsnął się dopiero na ruchomych schodach.</em></li>
+<li><em>Przystąpi do spowiedzi dopiero po waszej rozmowie.</em></li>
+<li><em>Dziś dopiero poznałem, czym dla mnie może być kobieta.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;все еще/still;"<p>nadal</p>
+<ul>
+<li><em>Jeżeli ta kobieta jest nadal żywa?</em></li>
+<li><em>I cała masa innych ludzi nadal by żyli.</em></li>
+<li><em>A my nadal tu będziemy?</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;потому что/because;"<p>poniewaz</p>
+<ul>
+<li><em>I tak sie dowiem, poniewaz jestem profesjonalista.</em></li>
+<li><em>Nie zostal zlapany, poniewaz ma uklady.</em></li>
+<li><em>Poniewaz nie ma szans żebyśmy mogli tu jeszcze się pokazać.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;почти/almost;"<p>prawie</p>
+<ul>
+<li><em>Dzieciak by prawie nie utonął, gdybym ja go nie pchnęła.</em></li>
+<li><em>Ten jest w prawie świeżym stanie.</em></li>
+<li><em>Teraz jestem prawie pewien, że tego nie przyjmą.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;скорее/rather;"<p>raczej</p>
+<ul>
+<li><em>A teraz raczej nie jest najlepsza chwila.</em></li>
+<li><em>Czarna raczej nie jest.</em></li>
+<li><em>Dziś będzie raczej ciężko.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;против/against;"<p>wbrew</p>
+<ul>
+<li><em>Wbrew jego naturze i woli.</em></li>
+<li><em>Co jest wbrew zasadom.</em></li>
+<li><em>A działać wbrew opinii innych.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;тратить/to spend;"<p>spędzać</p>
+<ul>
+<li><em>Najczęściej spędzają czas na oglądaniu telewizji.</em></li>
+<li><em>Całe swoje życie spędzają w kawiarniach.</em></li>
+<li><em>Przypomina mi się czas spędzany z moimi przyjaciółmi.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;вести/to lead;"<p>prowadzić</p>
+<ul>
+<li><em>Gdy się mylę, próbuję prowadzić dyskusję.</em></li>
+<li><em>Ide tam, gdzie prowadzi mnie praca.</em></li>
+<li><em>Żeby mój tata prowadził mnie do lekarza.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;не очень/not very;"<p>niezbyt</p>
+<ul>
+<li><em>Była niezbyt ładna.</em></li>
+<li><em>Budynek banku był niezbyt duży.</em></li>
+<li><em>On słuchał niezbyt uważnie.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;но/but;"<p>lecz</p>
+<ul>
+<li><em>Lecz równie skuteczny.</em></li>
+<li><em>Lecz czuję, że ma inne plany.</em></li>
+<li><em>Lecz by żył wiecznie.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;исторический/historic;"<p>zabytkowy</p>
+<ul>
+<li><em>Aby uzyskać status budynku zabytkowego musimy...</em></li>
+<li><em>Tutaj, na zabytkowych dachach.</em></li>
+<li><em>Sprzedałam części do zabytkowego motocykla.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;эффект/effect;"<p>skutek</p>
+<ul>
+<li><em>Wywarło to głęboki skutek na mnie.</em></li>
+<li><em>A skutek będzie odwrotny?</em></li>
+<li><em>Każdy skutek może być przewidywalny.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;image/образ;"<p>wizerunek</p>
+<ul>
+<li><em>Jeśli robisz to zbyt często, dostajesz zły wizerunek.</em></li>
+<li><em>Mam wizerunek do utrzymania.</em></li>
+<li><em>Niektórzy próbują zniszczyć wizerunek naszego kraju.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;до сих пор/still;"<p>wciąż</p>
+<ul>
+<li><em>Jest coś czego wciąż nie rozumiem!</em></li>
+<li><em>Książki wciąż nie przeczytałem.</em></li>
+<li><em>Mamy czas, bo wciąż nie masz podpisu sędziego.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;to look/смотреть;"<p>spojrzeć</p>
+<ul>
+<li><em>I nawet na niego nie spojrzeć.</em></li>
+<li><em>Szykowałam się i spojrzałam w lustro.</em></li>
+<li><em>Ja przynajmniej spojrzę ci w oczy.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;до/before;"<p>wcześniej</p>
+<ul>
+<li><em>Ja przyszedłem za wcześnie.</em></li>
+<li><em>Kończę dzisiaj wcześniej.</em></li>
+<li><em>Mam o wiele lepsze karty niż wcześniej.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;в соответствии с/according to;"<p>według</p>
+<ul>
+<li><em>A atak zombie ma według ciebie lepsze szanse?</em></li>
+<li><em>Bo zazwyczaj postępowaliśmy według schematu.</em></li>
+<li><em>Skąd wiemy, że zabójca będzie grał według twoich reguł?</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;много/a lot;"<p>sporo</p>
+<ul>
+<li><em>Sporo tu miejsca.</em></li>
+<li><em>Będzie sporo roboty, kolego.</em></li>
+<li><em>Ja myślałam o tym sporo.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;тип/type;"<p>rodzaj</p>
+<ul>
+<li><em>Ja należę do drugiego rodzaju.</em></li>
+<li><em>Mam wiele rodzajów informacji.</em></li>
+<li><em>Ten projekt jest swego rodzaju testem.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;звучать/to sound;"<p>brzmieć</p>
+<ul>
+<li><em>Jak śpiewasz to brzmisz zupełnie inaczej.</em></li>
+<li><em>Nie zamierzam brzmieć okrutnie.</em></li>
+<li><em>No dobrze, to brzmi świetnie.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;узнавать/to recognize;"<p>kojarzyć</p>
+<ul>
+<li><em>Ciebie nie kojarzę w ogóle.</em></li>
+<li><em>Czemu miałbym go kojarzyć?</em></li>
+<li><em>Dopiero zaczynasz to kojarzyć.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;особенно/especially;"<p>zwłaszcza</p>
+<ul>
+<li><em>Czas leczy rany, zwłaszcza ten dobry czas.</em></li>
+<li><em>Nie ufała nikomu, zwłaszcza jemu.</em></li>
+<li><em>Zwłaszcza na tym etapie, jesteśmy optymistami.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;ужасный/terrible;"<p>okropny</p>
+<ul>
+<li><em>Kawa jest naprawdę okropna.</em></li>
+<li><em>Książki są okropne, ale nie potrafię ich odłożyć.</em></li>
+<li><em>Lakie okropności musiałaś przeżyć podczas ucieczki.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;обвинения/allegations;"<p>zarzuty</p>
+<ul>
+<li><em>Nastepnym razem poprzyj zarzuty dowodami.</em></li>
+<li><em>Kto dał ci prawo stawiać mi zarzuty?</em></li>
+<li><em>Mam spisany zarzut mojego klienta.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;волноваться/to worry;"<p>martwić</p>
+<ul>
+<li><em>A babcia nie martwi sie o ciebie?</em></li>
+<li><em>Chcemy jasno określić, że nikt nie musi się martwić.</em></li>
+<li><em>Dosyć mam już zmartwień!</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;иметь/to own;"<p>posiadać</p>
+<ul>
+<li><em>Fantazją o posiadaniu władzy.</em></li>
+<li><em>Posiadanie tego nie stanowi problemu.</em></li>
+<li><em>Gdy przybyłem do tego miasta, nie posiadałem niczego.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;бояться/to fear;"<p>obawiać się</p>
+<ul>
+<li><em>Zobaczysz, że nie ma się czego obawiać.</em></li>
+<li><em>Jak cudownie nie obawiać się nieznanego.</em></li>
+<li><em>Miałem powody, by obawiać się tego.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;обожать/to adore;"<p>uwielbiać</p>
+<ul>
+<li><em>Miałem pracę, którą uwielbiałem.</em></li>
+<li><em>Myślę, że sekretnie uwielbiasz ten chaos.</em></li>
+<li><em>Nawet dorośli je uwielbiają.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;ценить/to appreciate;"<p>doceniać</p>
+<ul>
+<li><em>Bez śmierci nie doceniasz życia.</em></li>
+<li><em>Dziękuję za docenienie tych spraw.</em></li>
+<li><em>Jak możesz dziś ją docenić?</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;проверять/to check;"<p>sprawdzać</p>
+<ul>
+<li><em>A biletów nawet nie sprawdzali.</em></li>
+<li><em>Absolutnie wszystko jest sprawdzane.</em></li>
+<li><em>Dziecko chce się sprawdzić jako samodzielna osobowość.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;воспринимать/to perceive;"<p>postrzegać</p>
+<ul>
+<li><em>Chcemy być postrzegani jako ludzie kulturalni.</em></li>
+<li><em>Choroba może zmienić postrzeganie sytuacji.</em></li>
+<li><em>Ludzie postrzegają mnie w inny sposób.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;удивляться/to wonder;"<p>zastanawiać się</p>
+<ul>
+<li><em>Nie zastanawiała się nad przyszłością.</em></li>
+<li><em>Możesz już przestać się nad tym zastanawiać.</em></li>
+<li><em>Dziwi mnie to bardzo i zastanawiam się od czego to zależy.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;кричать/to scream;"<p>wrzasnąć</p>
+<ul>
+<li><em>Tym razem miał ochotę wrzasnąć.</em></li>
+<li><em>I wkurzyć się potrafi, i wrzasnąć, i pięścią walnąć w stół.</em></li>
+<li><em>Jeszcze raz wrzasnął na całe gardło.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;принцип/условие/principle/term;"<p>zasada</p>
+<ul>
+<li><em>Chcę pracować na własnych zasadach.</em></li>
+<li><em>A ci, którzy złamią te zasady, zostaną przez niego ukarani.</em></li>
+<li><em>Jakie proste zasady oszczędzania można wprowadzić?</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ja [brać] (czas teraźniejszy);"<p>Ja biorę</p>
+<ul>
+<li><em>Biorę do ręki i przeglądam.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [brać] (czas teraźniejszy);"<p>My bierzemy</p>
+<ul>
+<li><em>Lista kandydatów, których bierzemy pod uwagę.</em></li>
+<li><em>Z ogromną radością bierzemy udział w takich wydarzeniach.</em></li>
+<li><em>A bierzemy tych, którzy nie chcą pracować.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ty [brać] (czas teraźniejszy);"<p>Ty bierzesz</p>
+<ul>
+<li><em>Skąd ty je bierzesz?</em></li>
+<li><em>Tylko ty bierzesz kredyt w banku.</em></li>
+<li><em>Czy po równo dajesz i bierzesz?</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [brać] (czas teraźniejszy);"<p>Wy bierzecie</p>
+<ul>
+<li><em>Wy wszak nie bierzecie pieniędzy za zabijanie.</em></li>
+<li><em>Czy raczej nie bierzecie ich pod uwagę?</em></li>
+<li><em>Jakich surowców używacie i skąd je bierzecie?</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [brać] (czas teraźniejszy);"<p>On/Ona/Ono bierze</p>
+<ul>
+<li><em>Lekarz bierze narzędzie.</em></li>
+<li><em>Jakie cechy bierze pod uwagę?</em></li>
+<li><em>Która nie bierze udziału w wielkich imprezach.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [brać] (czas teraźniejszy);"<p>Oni/One biorą</p>
+<ul>
+<li><em>Skąd w ogóle biorą się dzieci.</em></li>
+<li><em>Jest to skok spadochronowy, w którym biorą udział dwie osoby.</em></li>
+<li><em>Jest to wojna, w której biorą udział dwa państwa.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ty [brać] (tryb rozkazujący);"<p>bierz</p>
+<ul>
+<li><em>Ostrożnie bierz pod uwagę.</em></li>
+<li><em>Nigdy nie bierz odpowiedzialności.</em></li>
+<li><em>Baw się dobrze i nie bierz tego zbyt poważnie.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [brać] (tryb rozkazujący);"<p>bierzmy</p>
+<ul>
+<li><em>Więc bierzmy tylko najpotrzebniejsze rzeczy.</em></li>
+<li><em>Bez zbędnego gadania bierzmy się do roboty!</em></li>
+<li><em>Bierzmy listę zadań i bierzmy się do pracy.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [brać] (tryb rozkazujący);"<p>bierzcie</p>
+<ul>
+<li><em>Panowie bierzcie przykład.</em></li>
+<li><em>Koledzy, bierzcie się więc do roboty.</em></li>
+<li><em>Bierzcie przykład od brata.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ja [być] (czas teraźniejszy);"<p>Ja jestem</p>
+<ul>
+<li><em>Ale ja jestem spokojny.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [być] (czas teraźniejszy);"<p>My jesteśmy</p>
+<ul>
+<li><em>To my jesteśmy trybunałem inkwizycji.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ty [być] (czas teraźniejszy);"<p>Ty jesteś</p>
+<ul>
+<li><em>A ty jesteś ukochaną córką.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [być] (czas teraźniejszy);"<p>Wy jesteście</p>
+<ul>
+<li><em>Czy jesteście pewni.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [być] (czas teraźniejszy);"<p>On/Ona/Ono jest</p>
+<ul>
+<li><em>Która jest zdenerwowana.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [być] (czas teraźniejszy);"<p>Oni/One są</p>
+<ul>
+<li><em>Może to są i ważne sprawy.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ja [być] (czas przyszły);"<p>Ja będę</p>
+<ul>
+<li><em>Jak ja będę wyglądał.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [być] (czas przyszły);"<p>My będziemy</p>
+<ul>
+<li><em>Tym razem będziemy mieli szczęście.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ty [być] (czas przyszły);"<p>Ty będziesz</p>
+<ul>
+<li><em>Dopóki nie spróbujesz, nie będziesz wiedziała.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [być] (czas przyszły);"<p>Wy będziecie</p>
+<ul>
+<li><em>Gdzie będziecie mieszkać.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [być] (czas przyszły);"<p>On/Ona/Ono będzie</p>
+<ul>
+<li><em>Na pewno będzie fajnie.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [być] (czas przyszły);"<p>Oni/One będą</p>
+<ul>
+<li><em>Nic nikomu nie będą mówić.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ty [być] (tryb rozkazujący);"<p>bądź</p>
+<ul>
+<li><em>Nie bądź impulsywny.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [być] (tryb rozkazujący);"<p>bądźmy</p>
+<ul>
+<li><em>Bądźmy tam razem.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [być] (tryb rozkazujący);"<p>bądźcie</p>
+<ul>
+<li><em>Więc nie bądźcie rozczarowani!</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ja [chcieć] (czas teraźniejszy);<p>Ja chcę</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [chcieć] (czas teraźniejszy);<p>My chcemy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [chcieć] (czas teraźniejszy);<p>Ty chcesz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [chcieć] (czas teraźniejszy);<p>Wy chcecie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [chcieć] (czas teraźniejszy);<p>On/Ona/Ono chce</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [chcieć] (czas teraźniejszy);<p>Oni/One chcą</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [chcieć] (tryb rozkazujący);"<p>chciej</p>
+<ul>
+<li><em>Najpierw chciej poznawać jego serce.</em></li>
+<li><em>Bądź w tym dobry i chciej być jeszcze lepszym.</em></li>
+<li><em>Pracuj dużo, chciej sięgać po więcej.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [chcieć] (tryb rozkazujący);"<p>chciejmy</p>
+<ul>
+<li><em>Chciejmy więc pomagać, chciejmy dzielić się z innymi.</em></li>
+<li><em>Dlatego chciejmy dbać o nasze wspólne dobro.</em></li>
+<li><em>Na ta wielką uroczystość chciejmy się dobrze przygotować.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [chcieć] (tryb rozkazujący);"<p>chciejcie</p>
+<ul>
+<li><em>Cóż, chciejcie dalej!</em></li>
+<li><em>Bądźcie realistami, chciejcie niemożliwego.</em></li>
+<li><em>Dlatego chciejcie się dalej uczyć.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ja [dawać] (czas teraźniejszy);"<p>Ja daję</p>
+<p>Porównaj z &quot;Ja dam&quot;</p>
+<p>dawać</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>lp</th>
+<th>lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1 os</td>
+<td>daję</td>
+<td>dajemy</td>
+</tr>
+<tr>
+<td>2 os</td>
+<td>dajesz</td>
+<td>dajecie</td>
+</tr>
+<tr>
+<td>3 os</td>
+<td>daje</td>
+<td>dają</td>
+</tr>
+</tbody></table>
+<p>dać</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>lp</th>
+<th>lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1 os</td>
+<td>dam</td>
+<td>damy</td>
+</tr>
+<tr>
+<td>2 os</td>
+<td>dasz</td>
+<td>dacie</td>
+</tr>
+<tr>
+<td>3 os</td>
+<td>da</td>
+<td>dadzą</td>
+</tr>
+</tbody></table>
+<ul>
+<li><em>Nie daję się tak łatwo wyprowadzić z równowagi.</em></li>
+<li><em>Ja jej daję dobre rady.</em></li>
+<li><em>Pierwszy raz daję rekomendację.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [dawać] (czas teraźniejszy);"<p>My dajemy</p>
+<p>Porównaj z &quot;My damy&quot;</p>
+<ul>
+<li><em>Pierwszą radę dajemy za darmo.</em></li>
+<li><em>Po drugie dajemy im możliwość powrotu.</em></li>
+<li><em>Biegamy i nie dajemy o sobie zapomnieć.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (czas teraźniejszy);"<p>Ty dajesz</p>
+<p>Porównaj z &quot;Ty dasz&quot;</p>
+<ul>
+<li><em>Im dajesz więcej niż żonie.</em></li>
+<li><em>To prezent, który dajesz również sobie.</em></li>
+<li><em>Całkiem nieźle dajesz sobie radę.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (czas teraźniejszy);"<p>Wy dajecie</p>
+<p>Porównaj z &quot;Wy dacie&quot;</p>
+<ul>
+<li><em>Chcecie wiedzieć, komu dajecie pieniądze?</em></li>
+<li><em>Czy wy nigdy nie dajecie za wygraną?</em></li>
+<li><em>I jak dajecie, tak i wam oddadzą.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dawać] (czas teraźniejszy);"<p>On/Ona/Ono daje</p>
+<p>Porównaj z &quot;On/Ona/Ono da&quot;</p>
+<ul>
+<li><em>I jak daje o sobie znać?</em></li>
+<li><em>Każdy sukces coś tam jednak daje do myślenia.</em></li>
+<li><em>Jaki wzór to daje dzieciom?</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dawać] (czas teraźniejszy);"<p>Oni/One dają</p>
+<p>Porównaj z &quot;Oni/One dadzą&quot;</p>
+<ul>
+<li><em>Szereg schorzeń, które nie dają żadnych symptomów.</em></li>
+<li><em>Mnóstwo informacji, które dają olbrzymią motywację.</em></li>
+<li><em>Lepsze produkty dają przewagę nad konkurencją.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dawać] (tryb rozkazujący);"<p>Ty dawaj</p>
+<p>Porównaj z &quot;Ty daj&quot;</p>
+<ul>
+<li><em>A jeśli wiesz o imprezie, dawaj znać!</em></li>
+<li><em>Przede wszystkim dawaj dobry przykład.</em></li>
+<li><em>Kupuj i dawaj dziecku zabawki.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [dawać] (tryb rozkazujący);"<p>My dawajmy</p>
+<p>Porównaj z &quot;My dajmy&quot;</p>
+<ul>
+<li><em>Małpie brzytwy nie dawajmy.</em></li>
+<li><em>Nie dawajmy gotowych rozwiązań.</em></li>
+<li><em>Nie szukajmy pracy, dawajmy pracę.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [dawać] (tryb rozkazujący);"<p>Wy dawajcie</p>
+<p>Porównaj z &quot;Wy dajcie&quot;</p>
+<ul>
+<li><em>Nigdy nie dawajcie drugiej szansy.</em></li>
+<li><em>No, dawajcie, potraficie zrobić to lepiej!</em></li>
+<li><em>Oceniajcie i dawajcie poprawki.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (czas teraźniejszy);"<p>Ja dam</p>
+<p>Porównaj z &quot;Ja daję&quot;</p>
+<p>dać</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>lp</th>
+<th>lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1 os</td>
+<td>dam</td>
+<td>damy</td>
+</tr>
+<tr>
+<td>2 os</td>
+<td>dasz</td>
+<td>dacie</td>
+</tr>
+<tr>
+<td>3 os</td>
+<td>da</td>
+<td>dadzą</td>
+</tr>
+</tbody></table>
+<p>dawać</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>lp</th>
+<th>lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1 os</td>
+<td>daję</td>
+<td>dajemy</td>
+</tr>
+<tr>
+<td>2 os</td>
+<td>dajesz</td>
+<td>dajecie</td>
+</tr>
+<tr>
+<td>3 os</td>
+<td>daje</td>
+<td>dają</td>
+</tr>
+</tbody></table>
+<ul>
+<li><em>Przyjdź jutro do mnie, to dam ci listę moich dłużników.</em></li>
+<li><em>Dam ci znać, jak tylko będę wiedział.</em></li>
+<li><em>Dam ci dobrą radę.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [dać] (czas teraźniejszy);"<p>My damy</p>
+<p>Porównaj z &quot;My dajemy&quot;</p>
+<ul>
+<li><em>Nie damy się przyprzeć do muru.</em></li>
+<li><em>Nie, jutro na pewno damy sobie radę.</em></li>
+<li><em>I to im damy.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (czas teraźniejszy);"<p>Ty dasz</p>
+<p>Porównaj z &quot;Ty dajesz&quot;</p>
+<ul>
+<li><em>Jeśli nie dasz mi spokoju, to cię stąd przegonię.</em></li>
+<li><em>Dasz im znać o mnie?</em></li>
+<li><em>Czemu nie dasz mi drugiego konia?</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (czas teraźniejszy);"<p>Wy dacie</p>
+<p>Porównaj z &quot;Wy dajecie&quot;</p>
+<ul>
+<li><em>Dacie mi go?</em></li>
+<li><em>W przeciwnym razie nie dacie mi przepustki?</em></li>
+<li><em>Nie dacie rady.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [dać] (czas teraźniejszy);"<p>On/Ona/Ono da</p>
+<p>Porównaj z &quot;On/Ona/Ono daje&quot;</p>
+<ul>
+<li><em>Nie da rady!</em></li>
+<li><em>Niech bóg da, że będzie znać twoją wartość.</em></li>
+<li><em>Z całym szacunkiem, panie kapitanie, co nam to da?</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [dać] (czas teraźniejszy);"<p>Oni/One dadzą</p>
+<p>Porównaj z &quot;Oni/One dają&quot;</p>
+<ul>
+<li><em>A co jeśli żadnego nie dadzą?</em></li>
+<li><em>Może dadzą panu szansę.</em></li>
+<li><em>Pieniądze nie dadzą wam szczęścia.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (m, czas przeszły);"<p>Ja dałem</p>
+<ul>
+<li><em>Dałem ci słowo, a ja nigdy nie łamię słowa.</em></li>
+<li><em>Dałem im jasno do zrozumienia...</em></li>
+<li><em>Dałem pani słowo i go dotrzymam.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (ż, czas przeszły);"<p>Ja dałam</p>
+<ul>
+<li><em>Dałam ci go potrzymać.</em></li>
+<li><em>Nic mu nie dałam.</em></li>
+<li><em>Dałam ci wszystko.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ja [dać] (n, czas przeszły);<p>Ja dałom</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [dać] (czas przeszły);"<p>My daliśmy</p>
+<ul>
+<li><em>Daliśmy im absolutną władzę.</em></li>
+<li><em>Daliśmy im wszystko, co mieliśmy.</em></li>
+<li><em>Daliśmy ci żywność i wodę.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (m, czas przeszły);"<p>Ty dałeś</p>
+<ul>
+<li><em>Dałeś z siebie wszystko.</em></li>
+<li><em>Dałeś temu psu dom.</em></li>
+<li><em>Zdał sobie sprawę, że to ty dałeś mu broń.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (ż, czas przeszły);"<p>Ty dałaś</p>
+<ul>
+<li><em>Czemu nie dałaś znać?</em></li>
+<li><em>Dałaś mi całą potrzebną broń.</em></li>
+<li><em>Więc dlaczego dałaś mi nadzieję?</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (n, czas przeszły);<p>Ty dałoś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (czas przeszły);"<p>Wy daliście</p>
+<ul>
+<li><em>Wszyscy bez wyjątku daliście się pokonać amatorowi.</em></li>
+<li><em>Daliście się nabrać, oboje.</em></li>
+<li><em>Daliście mi wskazówkę na moje błędy.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;On [dać] (czas przeszły);"<p>On dał</p>
+<ul>
+<li><em>Proszę pana, dał pan nam złe pieniądze!</em></li>
+<li><em>Twój kolega dał ci alibi na tamtą noc.</em></li>
+<li><em>Co jej dał za wyjątkiem róż?</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ona [dać] (czas przeszły);"<p>Ona dała</p>
+<ul>
+<li><em>Chcę, abyś dała mi wolność.</em></li>
+<li><em>Dała ci swój numer?</em></li>
+<li><em>Dała mi czas do piątku na załatwienie pozwolenia na pracę.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ono [dać] (czas przeszły);"<p>Ono dało</p>
+<ul>
+<li><em>A ponieważ nie było ich widać nie dało się udowodnić, że nie istnieją.</em></li>
+<li><em>Dało jej to wystarczająco czasu.</em></li>
+<li><em>Tej nocy nie dało się spać.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Oni [dać] (czas przeszły);"<p>Oni dali</p>
+<ul>
+<li><em>Oni nie dali rady nawałowi spraw.</em></li>
+<li><em>Dali mi nowe życie.</em></li>
+<li><em>Chciałem tylko, żeby mi dali szansę.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ty [dać] (tryb rozkazujący);"<p>Ty daj</p>
+<p>Porównaj z &quot;Ty dawaj&quot;</p>
+<ul>
+<li><em>Daj sobie trochę więcej czasu.</em></li>
+<li><em>Daj mi spokój.</em></li>
+<li><em>A gdy upadnę, daj mi siłę, by się podnieść.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [dać] (tryb rozkazujący);"<p>My dajmy</p>
+<p>Porównaj z &quot;My dawajmy&quot;</p>
+<ul>
+<li><em>Ale nie dajmy się zwariować.</em></li>
+<li><em>Kiedy powróci, nie dajmy się mu zaskoczyć.</em></li>
+<li><em>Czyli dajmy się nadal robić w konia.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [dać] (tryb rozkazujący);"<p>Wy dajcie</p>
+<p>Porównaj z &quot;Wy dawajcie&quot;</p>
+<ul>
+<li><em>Więc dajcie znać, co myślicie.</em></li>
+<li><em>A dajcie już spokój!</em></li>
+<li><em>Do picia dajcie zwykłą wodę.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ja [istnieć] (czas teraźniejszy);<p>Ja istnieję</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [istnieć] (czas teraźniejszy);<p>Ja istniejemy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [istnieć] (czas teraźniejszy);<p>Ty istniejesz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [istnieć] (czas teraźniejszy);<p>Wy istniejecie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [istnieć] (czas teraźniejszy);<p>On/Ona/Ono istnieje</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni [istnieć] (czas teraźniejszy);<p>Oni istnieją</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [istnieć] (m, czas przeszły);<p>Ja istniałem</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [istnieć] (ż, czas przeszły);<p>Ja istniałam</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [istnieć] (n, czas przeszły);<p>Ja istniałom</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [istnieć] (czas przeszły);<p>My istnieliśmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [istnieć] (m, czas przeszły);<p>Ty istniałeś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [istnieć] (ż, czas przeszły);<p>Ty istniałaś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [istnieć] (n, czas przeszły);<p>Ty istniałoś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [istnieć] (czas przeszły);<p>Wy istnieliście</p>
+Basic;Polski::Odmiany;Polski Odmiana;On [istnieć] (czas przeszły);<p>On istniał</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ona [istnieć] (czas przeszły);<p>Ona istniała</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ono [istnieć] (czas przeszły);<p>Ono istniało</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni [istnieć] (czas przeszły);<p>Oni istnieli</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [iść] (czas teraźniejszy);<p>Ja idę</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [iść] (czas teraźniejszy);<p>My idziemy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [iść] (czas teraźniejszy);<p>Ty idziesz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [iść] (czas teraźniejszy);<p>Wy idziecie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [iść] (czas teraźniejszy);<p>On/Ona/Ono idzie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [iść] (czas teraźniejszy);<p>Oni/One idą</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [iść] (m, czas przeszły);<p>Ja szedłem</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [iść] (ż, czas przeszły);<p>Ja szłam</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [iść] (n, czas przeszły);<p>Ja szłom</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [iść] (czas przeszły);<p>My szliśmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [iść] (m, czas przeszły);<p>Ty szedłeś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [iść] (ż, czas przeszły);<p>Ty szłaś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [iść] (n, czas przeszły);<p>Ty szłoś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [iść] (czas przeszły);<p>Wy szliście</p>
+Basic;Polski::Odmiany;Polski Odmiana;On [iść] (czas przeszły);<p>On szedł</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ona [iść] (czas przeszły);<p>Ona szła</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ono [iść] (czas przeszły);<p>Ono szło</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni [iść] (czas przeszły);<p>Oni szli</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [iść] (tryb rozkazujący);<p>idź</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [iść] (tryb rozkazujący);<p>idźmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [iść] (tryb rozkazujący);<p>idźcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [mieć] (czas teraźniejszy);<p>Ja mam</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [mieć] (czas teraźniejszy);<p>My mamy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (czas teraźniejszy);<p>Ty masz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [mieć] (czas teraźniejszy);<p>Wy macie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [mieć] (czas teraźniejszy);<p>On/Ona/Ono ma</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [mieć] (czas teraźniejszy);<p>Oni/One mają</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [mieć] (m, czas przeszły);<p>Ja miałem</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [mieć] (ż, czas przeszły);<p>Ja miałam</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [mieć] (n, czas przeszły);<p>Ja miałom</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [mieć] (czas przeszły);<p>My mieliśmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (m, czas przeszły);<p>Ty miałeś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (ż, czas przeszły);<p>Ty miałaś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (n, czas przeszły);<p>Ty miałoś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [mieć] (czas przeszły);<p>Wy mieliście</p>
+Basic;Polski::Odmiany;Polski Odmiana;On [mieć] (czas przeszły);<p>On miał</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ona [mieć] (czas przeszły);<p>Ona miała</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ono [mieć] (czas przeszły);<p>Ono miało</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni [mieć] (czas przeszły);<p>Oni mieli</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (tryb rozkazujący);<p>miej</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [mieć] (tryb rozkazujący);<p>miejmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [mieć] (tryb rozkazujący);<p>miejcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [musieć] (czas teraźniejszy);<p>Ja muszę</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [musieć] (czas teraźniejszy);<p>My musimy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [musieć] (czas teraźniejszy);<p>Ty musisz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [musieć] (czas teraźniejszy);<p>Wy musicie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [musieć] (czas teraźniejszy);<p>On/Ona/Ono musi</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [musieć] (czas teraźniejszy);<p>Oni/One muszą</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [musieć] (m, czas przeszły);<p>Ja musiałem</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [musieć] (ż, czas przeszły);<p>Ja musiałam</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [musieć] (n, czas przeszły);<p>Ja musiałom</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [musieć] (czas przeszły);<p>My musieliśmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [musieć] (m, czas przeszły);<p>Ty musiałeś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [musieć] (ż, czas przeszły);<p>Ty musiałaś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [musieć] (n, czas przeszły);<p>Ty musiałoś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [musieć] (czas przeszły);<p>Wy musieliście</p>
+Basic;Polski::Odmiany;Polski Odmiana;On [musieć] (czas przeszły);<p>On musiał</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ona [musieć] (czas przeszły);<p>Ona musiała</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ono [musieć] (czas przeszły);<p>Ono musiało</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni [musieć] (czas przeszły);<p>Oni musieli</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [móc] (czas teraźniejszy);<p>Ja mogę</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [móc] (czas teraźniejszy);<p>My możemy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [móc] (czas teraźniejszy);<p>Ty możesz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [móc] (czas teraźniejszy);<p>Wy możecie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [móc] (czas teraźniejszy);<p>On/Ona/Ono może</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [móc] (czas teraźniejszy);<p>Oni/One mogą</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [móc] (m, czas przeszły);<p>Ja mogłem</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [móc] (ż, czas przeszły);<p>Ja mogłam</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [móc] (n, czas przeszły);<p>Ja mogłom</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [móc] (czas przeszły);<p>My mogliśmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [móc] (m, czas przeszły);<p>Ty mogłeś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [móc] (ż, czas przeszły);<p>Ty mogłaś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [móc] (n, czas przeszły);<p>Ty mogłoś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [móc] (czas przeszły);<p>Wy mogliście</p>
+Basic;Polski::Odmiany;Polski Odmiana;On [móc] (czas przeszły);<p>On mógł</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ona [móc] (czas przeszły);<p>Ona mogła</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ono [móc] (czas przeszły);<p>Ono mogło</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni [móc] (czas przeszły);<p>Oni mogli</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [pomóc] (czas przyszły);<p>Ja pomogę</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [pomóc] (czas przyszły);<p>My pomożemy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [pomóc] (czas przyszły);<p>Ty pomożesz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [pomóc] (czas przyszły);<p>Wy pomożecie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [pomóc] (czas przyszły);<p>On/Ona/Ono pomoże</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [pomóc] (czas przyszły);<p>Oni/One pomogą</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [pomóc] (tryb rozkazujący);<p>pomóż</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [pomóc] (tryb rozkazujący);<p>pomóżmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [pomóc] (tryb rozkazujący);<p>pomóżcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [potrafić] (czas teraźniejszy);<p>Ja potrafię</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [potrafić] (czas teraźniejszy);<p>My potrafimy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [potrafić] (czas teraźniejszy);<p>Ty potrafisz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [potrafić] (czas teraźniejszy);<p>Wy potraficie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [potrafić] (czas teraźniejszy);<p>On/Ona/Ono potrafi</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [potrafić] (czas teraźniejszy);<p>Oni/One potrafią</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [potrafić] (tryb rozkazujący);"<p>potraf</p>
+<ul>
+<li><em>Mozę ktoś potraf obejrzeć go do końca.</em></li>
+<li><em>Nie każdy je zna i potraf zastosować.</em></li>
+<li><em>Nie potraf ukryć, że uważa ich za gorszych.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [potrafić] (tryb rozkazujący);"<p>potrafmy</p>
+<ul>
+<li><em>Czy chcemy i czy potrafmy się przed tym bronić?</em></li>
+<li><em>Nie bójmy się mówić o sobie, ale potrafmy też słuchać.</em></li>
+<li><em>Po prostu nie potrafmy znaleźć odpowiednich słów.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [potrafić] (tryb rozkazujący);"<p>potrafcie</p>
+<ul>
+<li><em>Czy potrafcie sobie wyobrazić codzienne życie bez użytkowania paliw kopalnianych?</em></li>
+<li><em>Nie wolno jeść kwiatów, których nie potrafcie rozpoznać!</em></li>
+<li><em>Nie potrafcie zebrać dowodów.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ja [robić] (czas teraźniejszy);<p>Ja robię</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [robić] (czas teraźniejszy);<p>My robimy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [robić] (czas teraźniejszy);<p>Ty robisz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [robić] (czas teraźniejszy);<p>Wy robicie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [robić] (czas teraźniejszy);<p>On/Ona/Ono robi</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [robić] (czas teraźniejszy);<p>Oni/One robią</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [robić] (m, czas przeszły);<p>Ja robiłem</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [robić] (ż, czas przeszły);<p>Ja robiłam</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [robić] (n, czas przeszły);<p>Ja robiłom</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [robić] (czas przeszły);<p>My robiliśmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [robić] (m, czas przeszły);<p>Ty robiłeś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [robić] (ż, czas przeszły);<p>Ty robiłaś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [robić] (n, czas przeszły);<p>Ty robiłoś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [robić] (czas przeszły);<p>Wy robiliście</p>
+Basic;Polski::Odmiany;Polski Odmiana;On [robić] (czas przeszły);<p>On robił</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ona [robić] (czas przeszły);<p>Ona robiła</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ono [robić] (czas przeszły);<p>Ono robiło</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni [robić] (czas przeszły);<p>Oni robili</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [spojrzeć] (czas teraźniejszy);<p>Ja spojrzę</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [spojrzeć] (czas teraźniejszy);<p>My spojrzymy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [spojrzeć] (czas teraźniejszy);<p>Ty spojrzysz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [spojrzeć] (czas teraźniejszy);<p>Wy spojrzycie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [spojrzeć] (czas teraźniejszy);<p>On/Ona/Ono spojrzy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [spojrzeć] (czas teraźniejszy);<p>Oni/One spojrzą</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [spojrzeć] (m, czas przeszły);<p>Ja spojrzałem</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [spojrzeć] (ż, czas przeszły);<p>Ja spojrzałam</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [spojrzeć] (n, czas przeszły);<p>Ja spojrzałom</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [spojrzeć] (czas przeszły);<p>My spojrzeliśmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [spojrzeć] (m, czas przeszły);<p>Ty spojrzałeś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [spojrzeć] (ż, czas przeszły);<p>Ty spojrzałaś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [spojrzeć] (n, czas przeszły);<p>Ty spojrzałoś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [spojrzeć] (czas przeszły);<p>Wy spojrzeliście</p>
+Basic;Polski::Odmiany;Polski Odmiana;On [spojrzeć] (czas przeszły);<p>On spojrzał</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ona [spojrzeć] (czas przeszły);<p>Ona spojrzała</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ono [spojrzeć] (czas przeszły);<p>Ono spojrzało</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni [spojrzeć] (czas przeszły);<p>Oni spojrzeli</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [umieć] (czas teraźniejszy);<p>Ja umiem</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [umieć] (czas teraźniejszy);<p>My umiemy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [umieć] (czas teraźniejszy);<p>Ty umiesz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [umieć] (czas teraźniejszy);<p>Wy umiecie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [umieć] (czas teraźniejszy);<p>On/Ona/Ono umie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [umieć] (czas teraźniejszy);<p>Oni/One umieją</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [wiedzieć] (czas teraźniejszy);<p>Ja wiem</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [wiedzieć] (czas teraźniejszy);<p>My wiemy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (czas teraźniejszy);<p>Ty wiesz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [wiedzieć] (czas teraźniejszy);<p>Wy wiecie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [wiedzieć] (czas teraźniejszy);<p>On/Ona/Ono wie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [wiedzieć] (czas teraźniejszy);<p>Oni/One wiedzą</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [wiedzieć] (m, czas przeszły);<p>Ja wiedziałem</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [wiedzieć] (ż, czas przeszły);<p>Ja wiedziałam</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [wiedzieć] (n, czas przeszły);<p>Ja wiedziałom</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [wiedzieć] (czas przeszły);<p>My wiedzieliśmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (m, czas przeszły);<p>Ty wiedziałeś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (ż, czas przeszły);<p>Ty wiedziałaś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (n, czas przeszły);<p>Ty wiedziałoś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [wiedzieć] (czas przeszły);<p>Wy wiedzieliście</p>
+Basic;Polski::Odmiany;Polski Odmiana;On [wiedzieć] (czas przeszły);<p>On wiedział</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ona [wiedzieć] (czas przeszły);<p>Ona wiedziała</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ono [wiedzieć] (czas przeszły);<p>Ono wiedziało</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni [wiedzieć] (czas przeszły);<p>Oni wiedzieli</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (tryb rozkazujący);<p>wiedz</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [wiedzieć] (tryb rozkazujący);<p>wiedzmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [wiedzieć] (tryb rozkazujący);<p>wiedzcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [wziąć] (czas teraźniejszy);<p>Ja wezmę</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [wziąć] (czas teraźniejszy);<p>My weźmiemy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [wziąć] (czas teraźniejszy);<p>Ty weźmiesz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [wziąć] (czas teraźniejszy);<p>Wy weźmiecie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [wziąć] (czas teraźniejszy);<p>On/Ona/Ono weźmie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [wziąć] (czas teraźniejszy);<p>Oni/One wezmą</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [wziąć] (tryb rozkazujący);<p>weź</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [wziąć] (tryb rozkazujący);<p>weźmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [wziąć] (tryb rozkazujący);<p>weźcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [zebrać] (czas teraźniejszy);<p>Ja zbiorę</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [zebrać] (czas teraźniejszy);<p>My zbierzemy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (czas teraźniejszy);<p>Ty zbierzesz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [zebrać] (czas teraźniejszy);<p>Wy zbierzecie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [zebrać] (czas teraźniejszy);<p>On/Ona/Ono zbierze</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [zebrać] (czas teraźniejszy);<p>Oni/One zbiorą</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [zebrać] (m, czas przeszły);<p>Ja zebrałem</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [zebrać] (ż, czas przeszły);<p>Ja zebrałam</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [zebrać] (n, czas przeszły);<p>Ja zebrałom</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [zebrać] (czas przeszły);<p>My zebraliśmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (m, czas przeszły);<p>Ty zebrałeś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (ż, czas przeszły);<p>Ty zebrałaś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (n, czas przeszły);<p>Ty zebrałoś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [zebrać] (czas przeszły);<p>Wy zebraliście</p>
+Basic;Polski::Odmiany;Polski Odmiana;On [zebrać] (czas przeszły);<p>On zebrał</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ona [zebrać] (czas przeszły);<p>Ona zebrała</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ono [zebrać] (czas przeszły);<p>Ono zebrało</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni [zebrać] (czas przeszły);<p>Oni zebrali</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (tryb rozkazujący);<p>zbierz</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [zebrać] (tryb rozkazujący);<p>zbierzmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [zebrać] (tryb rozkazujący);<p>zbierzcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [zmusić] (czas teraźniejszy);<p>Ja zmuszę</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [zmusić] (czas teraźniejszy);<p>My zmusimy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zmusić] (czas teraźniejszy);<p>Ty zmusisz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [zmusić] (czas teraźniejszy);<p>Wy zmusicie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [zmusić] (czas teraźniejszy);<p>On/Ona/Ono zmusi</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [zmusić] (czas teraźniejszy);<p>Oni/One zmuszą</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zmusić] (tryb rozkazujący);"<p>zmuś</p>
+<ul>
+<li><em>Gdy jest ci smutno zmuś się do aktywności fizycznej.</em></li>
+<li><em>I zmuś kogoś, żeby powiedział ci prawdę!</em></li>
+<li><em>Jeśli nie masz ochoty na uśmiech, zmuś się.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [zmusić] (tryb rozkazujący);"<p>zmuśmy</p>
+<ul>
+<li><em>Zmuśmy dystrybutorów do obniżki cen.</em></li>
+<li><em>Ale zmuśmy ich do myślenia o tym, skąd pochodzi ich jedzenie.</em></li>
+<li><em>Zmuśmy go do wycofania się z polityki.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [zmusić] (tryb rozkazujący);"<p>zmuście</p>
+<ul>
+<li><em>Nie zmuście mnie do zmiany mej myśli.</em></li>
+<li><em>A później zmuście ich do powrotu.</em></li>
+<li><em>Sami się zmuście do uczciwości i dobroci.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znajdować] (czas teraźniejszy);<p>Ja znajduję</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [znajdować] (czas teraźniejszy);<p>My znajdujemy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (czas teraźniejszy);<p>Ty znajdujesz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [znajdować] (czas teraźniejszy);<p>Wy znajdujecie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [znajdować] (czas teraźniejszy);<p>On/Ona/Ono znajduje</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni [znajdować] (czas teraźniejszy);<p>Oni znajdują</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znajdować] (m, czas przeszły);<p>Ja znajdowałem</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znajdować] (ż, czas przeszły);<p>Ja znajdowałam</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znajdować] (n, czas przeszły);<p>Ja znajdowałom</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [znajdować] (czas przeszły);<p>My znajdowaliśmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (m, czas przeszły);<p>Ty znajdowałeś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (ż, czas przeszły);<p>Ty znajdowałaś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (n, czas przeszły);<p>Ty znajdowałoś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [znajdować] (czas przeszły);<p>Wy znajdowaliście</p>
+Basic;Polski::Odmiany;Polski Odmiana;On [znajdować] (czas przeszły);<p>On znajdował</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ona [znajdować] (czas przeszły);<p>Ona znajdowała</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ono [znajdować] (czas przeszły);<p>Ono znajdowało</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni [znajdować] (czas przeszły);<p>Oni znajdowali</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (tryb rozkazujący);"<p>znajduj</p>
+<ul>
+<li><em>Analizuj odchylenia i znajduj przyczyny.</em></li>
+<li><em>Szybko znajduj potrzebne dokumenty.</em></li>
+<li><em>Baw się oraz znajduj przyjemności.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [znajdować] (tryb rozkazujący);"<p>znajdujmy</p>
+<ul>
+<li><em>Co w tych filozofiach znajdujmy?</em></li>
+<li><em>Znajdujmy czas dla naszych najbliższych.</em></li>
+<li><em>Tylko sami znajdujmy naszych klientów.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [znajdować] (tryb rozkazujący);"<p>znajdujcie</p>
+<ul>
+<li><em>Codziennie znajdujcie powody, by radować się.</em></li>
+<li><em>Filtrujcie informacje i znajdujcie ich źródła.</em></li>
+<li><em>Znajdujcie miłość i pasję we wszystkim, co robicie.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znać] (czas teraźniejszy);<p>Ja znam</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [znać] (czas teraźniejszy);<p>My znamy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (czas teraźniejszy);<p>Ty znasz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [znać] (czas teraźniejszy);<p>Wy znacie</p>
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [znać] (czas teraźniejszy);<p>On/Ona/Ono zna</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [znać] (czas teraźniejszy);<p>Oni/One znają</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znać] (m, czas przeszły);<p>Ja znałem</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znać] (ż, czas przeszły);<p>Ja znałam</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [znać] (n, czas przeszły);<p>Ja znałom</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [znać] (czas przeszły);<p>My znaliśmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (m, czas przeszły);<p>Ty znałeś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (ż, czas przeszły);<p>Ty znałaś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (n, czas przeszły);<p>Ty znałoś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [znać] (czas przeszły);<p>Wy znaliście</p>
+Basic;Polski::Odmiany;Polski Odmiana;On [znać] (czas przeszły);<p>On znał</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ona [znać] (czas przeszły);<p>Ona znała</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ono [znać] (czas przeszły);<p>Ono znało</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni [znać] (czas przeszły);<p>Oni znali</p>

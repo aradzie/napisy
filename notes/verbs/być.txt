@@ -10,103 +10,103 @@ Ja [być] (czas teraźniejszy)
 ---
 Ja jestem
 
-"Ale ja jestem spokojny."
+- *Ale ja jestem spokojny.*
 ===
 
 My [być] (czas teraźniejszy)
 ---
 My jesteśmy
 
-"To my jesteśmy trybunałem inkwizycji."
+- *To my jesteśmy trybunałem inkwizycji.*
 ===
 
 Ty [być] (czas teraźniejszy)
 ---
 Ty jesteś
 
-"A ty jesteś ukochaną córką."
+- *A ty jesteś ukochaną córką.*
 ===
 
 Wy [być] (czas teraźniejszy)
 ---
 Wy jesteście
 
-"Czy jesteście pewni."
+- *Czy jesteście pewni.*
 ===
 
 On/Ona/Ono [być] (czas teraźniejszy)
 ---
 On/Ona/Ono jest
 
-"Która jest zdenerwowana."
+- *Która jest zdenerwowana.*
 ===
 
 Oni/One [być] (czas teraźniejszy)
 ---
 Oni/One są
 
-"Może to są i ważne sprawy."
+- *Może to są i ważne sprawy.*
 ===
 
 Ja [być] (czas przyszły)
 ---
 Ja będę
 
-"Jak ja będę wyglądał."
+- *Jak ja będę wyglądał.*
 ===
 
 My [być] (czas przyszły)
 ---
 My będziemy
 
-"Tym razem będziemy mieli szczęście."
+- *Tym razem będziemy mieli szczęście.*
 ===
 
 Ty [być] (czas przyszły)
 ---
 Ty będziesz
 
-"Dopóki nie spróbujesz, nie będziesz wiedziała."
+- *Dopóki nie spróbujesz, nie będziesz wiedziała.*
 ===
 
 Wy [być] (czas przyszły)
 ---
 Wy będziecie
 
-"Gdzie będziecie mieszkać."
+- *Gdzie będziecie mieszkać.*
 ===
 
 On/Ona/Ono [być] (czas przyszły)
 ---
 On/Ona/Ono będzie
 
-"Na pewno będzie fajnie."
+- *Na pewno będzie fajnie.*
 ===
 
 Oni/One [być] (czas przyszły)
 ---
 Oni/One będą
 
-"Nic nikomu nie będą mówić."
+- *Nic nikomu nie będą mówić.*
 ===
 
 Ty [być] (tryb rozkazujący)
 ---
 bądź
 
-"Nie bądź impulsywny."
+- *Nie bądź impulsywny.*
 ===
 
 My [być] (tryb rozkazujący)
 ---
 bądźmy
 
-"Bądźmy tam razem."
+- *Bądźmy tam razem.*
 ===
 
 Wy [być] (tryb rozkazujący)
 ---
 bądźcie
 
-"Więc nie bądźcie rozczarowani!"
+- *Więc nie bądźcie rozczarowani!*
 ===

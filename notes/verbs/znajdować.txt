@@ -100,25 +100,25 @@ Ty [znajdować] (tryb rozkazujący)
 ---
 znajduj
 
-"Analizuj odchylenia i znajduj przyczyny."
-"Szybko znajduj potrzebne dokumenty."
-"Baw się oraz znajduj przyjemności."
+- *Analizuj odchylenia i znajduj przyczyny.*
+- *Szybko znajduj potrzebne dokumenty.*
+- *Baw się oraz znajduj przyjemności.*
 ===
 
 My [znajdować] (tryb rozkazujący)
 ---
 znajdujmy
 
-"Co w tych filozofiach znajdujmy?"
-"Znajdujmy czas dla naszych najbliższych."
-"Tylko sami znajdujmy naszych klientów."
+- *Co w tych filozofiach znajdujmy?*
+- *Znajdujmy czas dla naszych najbliższych.*
+- *Tylko sami znajdujmy naszych klientów.*
 ===
 
 Wy [znajdować] (tryb rozkazujący)
 ---
 znajdujcie
 
-"Codziennie znajdujcie powody, by radować się."
-"Filtrujcie informacje i znajdujcie ich źródła."
-"Znajdujcie miłość i pasję we wszystkim, co robicie."
+- *Codziennie znajdujcie powody, by radować się.*
+- *Filtrujcie informacje i znajdujcie ich źródła.*
+- *Znajdujcie miłość i pasję we wszystkim, co robicie.*
 ===

@@ -26,9 +26,9 @@ dawać
 |2 os|dajesz|dajecie|
 |3 os|daje  |dają   |
 
-"Przyjdź jutro do mnie, to dam ci listę moich dłużników."
-"Dam ci znać, jak tylko będę wiedział."
-"Dam ci dobrą radę."
+- *Przyjdź jutro do mnie, to dam ci listę moich dłużników.*
+- *Dam ci znać, jak tylko będę wiedział.*
+- *Dam ci dobrą radę.*
 ===
 
 My [dać] (czas teraźniejszy)
@@ -37,9 +37,9 @@ My damy
 
 Porównaj z "My dajemy"
 
-"Nie damy się przyprzeć do muru."
-"Nie, jutro na pewno damy sobie radę."
-"I to im damy."
+- *Nie damy się przyprzeć do muru.*
+- *Nie, jutro na pewno damy sobie radę.*
+- *I to im damy.*
 ===
 
 Ty [dać] (czas teraźniejszy)
@@ -48,9 +48,9 @@ Ty dasz
 
 Porównaj z "Ty dajesz"
 
-"Jeśli nie dasz mi spokoju, to cię stąd przegonię."
-"Dasz im znać o mnie?"
-"Czemu nie dasz mi drugiego konia?"
+- *Jeśli nie dasz mi spokoju, to cię stąd przegonię.*
+- *Dasz im znać o mnie?*
+- *Czemu nie dasz mi drugiego konia?*
 ===
 
 Wy [dać] (czas teraźniejszy)
@@ -59,9 +59,9 @@ Wy dacie
 
 Porównaj z "Wy dajecie"
 
-"Dacie mi go?"
-"W przeciwnym razie nie dacie mi przepustki?"
-"Nie dacie rady."
+- *Dacie mi go?*
+- *W przeciwnym razie nie dacie mi przepustki?*
+- *Nie dacie rady.*
 ===
 
 On/Ona/Ono [dać] (czas teraźniejszy)
@@ -70,9 +70,9 @@ On/Ona/Ono da
 
 Porównaj z "On/Ona/Ono daje"
 
-"Nie da rady!"
-"Niech bóg da, że będzie znać twoją wartość."
-"Z całym szacunkiem, panie kapitanie, co nam to da?"
+- *Nie da rady!*
+- *Niech bóg da, że będzie znać twoją wartość.*
+- *Z całym szacunkiem, panie kapitanie, co nam to da?*
 ===
 
 Oni/One [dać] (czas teraźniejszy)
@@ -81,27 +81,27 @@ Oni/One dadzą
 
 Porównaj z "Oni/One dają"
 
-"A co jeśli żadnego nie dadzą?"
-"Może dadzą panu szansę."
-"Pieniądze nie dadzą wam szczęścia."
+- *A co jeśli żadnego nie dadzą?*
+- *Może dadzą panu szansę.*
+- *Pieniądze nie dadzą wam szczęścia.*
 ===
 
 Ja [dać] (m, czas przeszły)
 ---
 Ja dałem
 
-"Dałem ci słowo, a ja nigdy nie łamię słowa."
-"Dałem im jasno do zrozumienia..."
-"Dałem pani słowo i go dotrzymam."
+- *Dałem ci słowo, a ja nigdy nie łamię słowa.*
+- *Dałem im jasno do zrozumienia...*
+- *Dałem pani słowo i go dotrzymam.*
 ===
 
 Ja [dać] (ż, czas przeszły)
 ---
 Ja dałam
 
-"Dałam ci go potrzymać."
-"Nic mu nie dałam."
-"Dałam ci wszystko."
+- *Dałam ci go potrzymać.*
+- *Nic mu nie dałam.*
+- *Dałam ci wszystko.*
 ===
 
 Ja [dać] (n, czas przeszły)
@@ -113,27 +113,27 @@ My [dać] (czas przeszły)
 ---
 My daliśmy
 
-"Daliśmy im absolutną władzę."
-"Daliśmy im wszystko, co mieliśmy."
-"Daliśmy ci żywność i wodę."
+- *Daliśmy im absolutną władzę.*
+- *Daliśmy im wszystko, co mieliśmy.*
+- *Daliśmy ci żywność i wodę.*
 ===
 
 Ty [dać] (m, czas przeszły)
 ---
 Ty dałeś
 
-"Dałeś z siebie wszystko."
-"Dałeś temu psu dom."
-"Zdał sobie sprawę, że to ty dałeś mu broń."
+- *Dałeś z siebie wszystko.*
+- *Dałeś temu psu dom.*
+- *Zdał sobie sprawę, że to ty dałeś mu broń.*
 ===
 
 Ty [dać] (ż, czas przeszły)
 ---
 Ty dałaś
 
-"Czemu nie dałaś znać?"
-"Dałaś mi całą potrzebną broń."
-"Więc dlaczego dałaś mi nadzieję?"
+- *Czemu nie dałaś znać?*
+- *Dałaś mi całą potrzebną broń.*
+- *Więc dlaczego dałaś mi nadzieję?*
 ===
 
 Ty [dać] (n, czas przeszły)
@@ -145,45 +145,45 @@ Wy [dać] (czas przeszły)
 ---
 Wy daliście
 
-"Wszyscy bez wyjątku daliście się pokonać amatorowi."
-"Daliście się nabrać, oboje."
-"Daliście mi wskazówkę na moje błędy."
+- *Wszyscy bez wyjątku daliście się pokonać amatorowi.*
+- *Daliście się nabrać, oboje.*
+- *Daliście mi wskazówkę na moje błędy.*
 ===
 
 On [dać] (czas przeszły)
 ---
 On dał
 
-"Proszę pana, dał pan nam złe pieniądze!"
-"Twój kolega dał ci alibi na tamtą noc."
-"Co jej dał za wyjątkiem róż?"
+- *Proszę pana, dał pan nam złe pieniądze!*
+- *Twój kolega dał ci alibi na tamtą noc.*
+- *Co jej dał za wyjątkiem róż?*
 ===
 
 Ona [dać] (czas przeszły)
 ---
 Ona dała
 
-"Chcę, abyś dała mi wolność."
-"Dała ci swój numer?"
-"Dała mi czas do piątku na załatwienie pozwolenia na pracę."
+- *Chcę, abyś dała mi wolność.*
+- *Dała ci swój numer?*
+- *Dała mi czas do piątku na załatwienie pozwolenia na pracę.*
 ===
 
 Ono [dać] (czas przeszły)
 ---
 Ono dało
 
-"A ponieważ nie było ich widać nie dało się udowodnić, że nie istnieją."
-"Dało jej to wystarczająco czasu."
-"Tej nocy nie dało się spać."
+- *A ponieważ nie było ich widać nie dało się udowodnić, że nie istnieją.*
+- *Dało jej to wystarczająco czasu.*
+- *Tej nocy nie dało się spać.*
 ===
 
 Oni [dać] (czas przeszły)
 ---
 Oni dali
 
-"Oni nie dali rady nawałowi spraw."
-"Dali mi nowe życie."
-"Chciałem tylko, żeby mi dali szansę."
+- *Oni nie dali rady nawałowi spraw.*
+- *Dali mi nowe życie.*
+- *Chciałem tylko, żeby mi dali szansę.*
 ===
 
 Ty [dać] (tryb rozkazujący)
@@ -192,9 +192,9 @@ Ty daj
 
 Porównaj z "Ty dawaj"
 
-"Daj sobie trochę więcej czasu."
-"Daj mi spokój."
-"A gdy upadnę, daj mi siłę, by się podnieść."
+- *Daj sobie trochę więcej czasu.*
+- *Daj mi spokój.*
+- *A gdy upadnę, daj mi siłę, by się podnieść.*
 ===
 
 My [dać] (tryb rozkazujący)
@@ -203,9 +203,9 @@ My dajmy
 
 Porównaj z "My dawajmy"
 
-"Ale nie dajmy się zwariować."
-"Kiedy powróci, nie dajmy się mu zaskoczyć."
-"Czyli dajmy się nadal robić w konia."
+- *Ale nie dajmy się zwariować.*
+- *Kiedy powróci, nie dajmy się mu zaskoczyć.*
+- *Czyli dajmy się nadal robić w konia.*
 ===
 
 Wy [dać] (tryb rozkazujący)
@@ -214,7 +214,7 @@ Wy dajcie
 
 Porównaj z "Wy dawajcie"
 
-"Więc dajcie znać, co myślicie."
-"A dajcie już spokój!"
-"Do picia dajcie zwykłą wodę."
+- *Więc dajcie znać, co myślicie.*
+- *A dajcie już spokój!*
+- *Do picia dajcie zwykłą wodę.*
 ===
