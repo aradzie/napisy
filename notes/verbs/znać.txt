@@ -95,3 +95,30 @@ Oni [znać] (czas przeszły)
 ---
 Oni znali
 ===
+
+Ty [znać] (tryb rozkazujący)
+---
+Ty znaj
+
+- *Bądź silna i znaj swoją wartość.*
+- *Chłopak, znaj moją dobroć.*
+- *Dobrze znaj teren, po którym się poruszasz.*
+===
+
+My [znać] (tryb rozkazujący)
+---
+My znajmy
+
+- *I my nie znajmy litości!*
+- *Miejmy swoje zdanie i znajmy swoją wartość.*
+- *Naprawdę, znajmy umiar w tym o, co oskarżamy innych.*
+===
+
+Wy [znać] (tryb rozkazujący)
+---
+Wy znajcie
+
+- *Cieszcie się każdą sekundą, lecz znajcie wasze priorytety.*
+- *Innymi słowy, znajcie swoje miejsce.*
+- *Ludzie znajcie swoje prawa!*
+===

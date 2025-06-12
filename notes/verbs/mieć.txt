@@ -98,15 +98,15 @@ Oni mieli
 
 Ty [mieć] (tryb rozkazujący)
 ---
-miej
+Ty miej
 ===
 
 My [mieć] (tryb rozkazujący)
 ---
-miejmy
+My miejmy
 ===
 
 Wy [mieć] (tryb rozkazujący)
 ---
-miejcie
+Wy miejcie
 ===

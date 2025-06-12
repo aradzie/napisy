@@ -60,7 +60,7 @@ Oni/One biorą
 
 Ty [brać] (tryb rozkazujący)
 ---
-bierz
+Ty bierz
 
 - *Ostrożnie bierz pod uwagę.*
 - *Nigdy nie bierz odpowiedzialności.*
@@ -69,7 +69,7 @@ bierz
 
 My [brać] (tryb rozkazujący)
 ---
-bierzmy
+My bierzmy
 
 - *Więc bierzmy tylko najpotrzebniejsze rzeczy.*
 - *Bez zbędnego gadania bierzmy się do roboty!*
@@ -78,7 +78,7 @@ bierzmy
 
 Wy [brać] (tryb rozkazujący)
 ---
-bierzcie
+Wy bierzcie
 
 - *Panowie bierzcie przykład.*
 - *Koledzy, bierzcie się więc do roboty.*

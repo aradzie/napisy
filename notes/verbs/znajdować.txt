@@ -98,7 +98,7 @@ Oni znajdowali
 
 Ty [znajdować] (tryb rozkazujący)
 ---
-znajduj
+Ty znajduj
 
 - *Analizuj odchylenia i znajduj przyczyny.*
 - *Szybko znajduj potrzebne dokumenty.*
@@ -107,7 +107,7 @@ znajduj
 
 My [znajdować] (tryb rozkazujący)
 ---
-znajdujmy
+My znajdujmy
 
 - *Co w tych filozofiach znajdujmy?*
 - *Znajdujmy czas dla naszych najbliższych.*
@@ -116,7 +116,7 @@ znajdujmy
 
 Wy [znajdować] (tryb rozkazujący)
 ---
-znajdujcie
+Wy znajdujcie
 
 - *Codziennie znajdujcie powody, by radować się.*
 - *Filtrujcie informacje i znajdujcie ich źródła.*

@@ -98,15 +98,27 @@ Oni wiedzieli
 
 Ty [wiedzieć] (tryb rozkazujący)
 ---
-wiedz
+Ty wiedz
+
+- *W duszy wiedz swoje i trzymaj się tego.*
+- *Czytaj i wiedz więcej.*
+- *I wiedz, kiedy milczeć.*
 ===
 
 My [wiedzieć] (tryb rozkazujący)
 ---
-wiedzmy
+My wiedzmy
+
+- *Wiedzmy, jakie mamy możliwości.*
+- *Jednak wiedzmy, że nie tylko to się liczy.*
+- *Zatem wiedzmy, o co idzie walka.*
 ===
 
 Wy [wiedzieć] (tryb rozkazujący)
 ---
-wiedzcie
+Wy wiedzcie
+
+- *Ale przede wszystkim wiedzcie, że macie w sobie te moce.*
+- *Ta książka jest bardzo dobra, wiedzcie o tym.*
+- *Bracia, wiedzcie jednak, że to nieprawda.*
 ===

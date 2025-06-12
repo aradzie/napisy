@@ -38,7 +38,7 @@ Oni/One chcą
 
 Ty [chcieć] (tryb rozkazujący)
 ---
-chciej
+Ty chciej
 
 - *Najpierw chciej poznawać jego serce.*
 - *Bądź w tym dobry i chciej być jeszcze lepszym.*
@@ -47,7 +47,7 @@ chciej
 
 My [chcieć] (tryb rozkazujący)
 ---
-chciejmy
+My chciejmy
 
 - *Chciejmy więc pomagać, chciejmy dzielić się z innymi.*
 - *Dlatego chciejmy dbać o nasze wspólne dobro.*
@@ -56,7 +56,7 @@ chciejmy
 
 Wy [chcieć] (tryb rozkazujący)
 ---
-chciejcie
+Wy chciejcie
 
 - *Cóż, chciejcie dalej!*
 - *Bądźcie realistami, chciejcie niemożliwego.*

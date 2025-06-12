@@ -95,3 +95,18 @@ Oni [robić] (czas przeszły)
 ---
 Oni robili
 ===
+
+Ty [robić] (tryb rozkazujący)
+---
+Ty rób
+===
+
+My [robić] (tryb rozkazujący)
+---
+My róbmy
+===
+
+Wy [robić] (tryb rozkazujący)
+---
+Wy róbcie
+===

@@ -38,7 +38,7 @@ Oni/One potrafią
 
 Ty [potrafić] (tryb rozkazujący)
 ---
-potraf
+Ty potraf
 
 - *Mozę ktoś potraf obejrzeć go do końca.*
 - *Nie każdy je zna i potraf zastosować.*
@@ -47,7 +47,7 @@ potraf
 
 My [potrafić] (tryb rozkazujący)
 ---
-potrafmy
+My potrafmy
 
 - *Czy chcemy i czy potrafmy się przed tym bronić?*
 - *Nie bójmy się mówić o sobie, ale potrafmy też słuchać.*
@@ -56,7 +56,7 @@ potrafmy
 
 Wy [potrafić] (tryb rozkazujący)
 ---
-potrafcie
+Wy potrafcie
 
 - *Czy potrafcie sobie wyobrazić codzienne życie bez użytkowania paliw kopalnianych?*
 - *Nie wolno jeść kwiatów, których nie potrafcie rozpoznać!*

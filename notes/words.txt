@@ -319,6 +319,7 @@ zasada
 # właściwy
 # wspaniały
 
+# dobroć
 # szacunek
 # wezwanie
 

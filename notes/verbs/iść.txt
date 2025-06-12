@@ -98,15 +98,15 @@ Oni szli
 
 Ty [iść] (tryb rozkazujący)
 ---
-idź
+Ty idź
 ===
 
 My [iść] (tryb rozkazujący)
 ---
-idźmy
+My idźmy
 ===
 
 Wy [iść] (tryb rozkazujący)
 ---
-idźcie
+Wy idźcie
 ===

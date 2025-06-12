@@ -38,15 +38,15 @@ Oni/One wezmą
 
 Ty [wziąć] (tryb rozkazujący)
 ---
-weź
+Ty weź
 ===
 
 My [wziąć] (tryb rozkazujący)
 ---
-weźmy
+My weźmy
 ===
 
 Wy [wziąć] (tryb rozkazujący)
 ---
-weźcie
+Wy weźcie
 ===

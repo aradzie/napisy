@@ -98,15 +98,15 @@ Oni zebrali
 
 Ty [zebrać] (tryb rozkazujący)
 ---
-zbierz
+Ty zbierz
 ===
 
 My [zebrać] (tryb rozkazujący)
 ---
-zbierzmy
+My zbierzmy
 ===
 
 Wy [zebrać] (tryb rozkazujący)
 ---
-zbierzcie
+Wy zbierzcie
 ===

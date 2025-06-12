@@ -38,15 +38,15 @@ Oni/One pomogą
 
 Ty [pomóc] (tryb rozkazujący)
 ---
-pomóż
+Ty pomóż
 ===
 
 My [pomóc] (tryb rozkazujący)
 ---
-pomóżmy
+My pomóżmy
 ===
 
 Wy [pomóc] (tryb rozkazujący)
 ---
-pomóżcie
+Wy pomóżcie
 ===

@@ -805,19 +805,19 @@ Basic;Polski::Odmiany;Polski Odmiana;Oni/One [brać] (czas teraźniejszy);"<p>On
 <li><em>Jest to skok spadochronowy, w którym biorą udział dwie osoby.</em></li>
 <li><em>Jest to wojna, w której biorą udział dwa państwa.</em></li>
 </ul>"
-Basic;Polski::Odmiany;Polski Odmiana;Ty [brać] (tryb rozkazujący);"<p>bierz</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [brać] (tryb rozkazujący);"<p>Ty bierz</p>
 <ul>
 <li><em>Ostrożnie bierz pod uwagę.</em></li>
 <li><em>Nigdy nie bierz odpowiedzialności.</em></li>
 <li><em>Baw się dobrze i nie bierz tego zbyt poważnie.</em></li>
 </ul>"
-Basic;Polski::Odmiany;Polski Odmiana;My [brać] (tryb rozkazujący);"<p>bierzmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [brać] (tryb rozkazujący);"<p>My bierzmy</p>
 <ul>
 <li><em>Więc bierzmy tylko najpotrzebniejsze rzeczy.</em></li>
 <li><em>Bez zbędnego gadania bierzmy się do roboty!</em></li>
 <li><em>Bierzmy listę zadań i bierzmy się do pracy.</em></li>
 </ul>"
-Basic;Polski::Odmiany;Polski Odmiana;Wy [brać] (tryb rozkazujący);"<p>bierzcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [brać] (tryb rozkazujący);"<p>Wy bierzcie</p>
 <ul>
 <li><em>Panowie bierzcie przykład.</em></li>
 <li><em>Koledzy, bierzcie się więc do roboty.</em></li>
@@ -871,15 +871,15 @@ Basic;Polski::Odmiany;Polski Odmiana;Oni/One [być] (czas przyszły);"<p>Oni/One
 <ul>
 <li><em>Nic nikomu nie będą mówić.</em></li>
 </ul>"
-Basic;Polski::Odmiany;Polski Odmiana;Ty [być] (tryb rozkazujący);"<p>bądź</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [być] (tryb rozkazujący);"<p>Ty bądź</p>
 <ul>
 <li><em>Nie bądź impulsywny.</em></li>
 </ul>"
-Basic;Polski::Odmiany;Polski Odmiana;My [być] (tryb rozkazujący);"<p>bądźmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [być] (tryb rozkazujący);"<p>My bądźmy</p>
 <ul>
 <li><em>Bądźmy tam razem.</em></li>
 </ul>"
-Basic;Polski::Odmiany;Polski Odmiana;Wy [być] (tryb rozkazujący);"<p>bądźcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [być] (tryb rozkazujący);"<p>Wy bądźcie</p>
 <ul>
 <li><em>Więc nie bądźcie rozczarowani!</em></li>
 </ul>"
@@ -889,19 +889,19 @@ Basic;Polski::Odmiany;Polski Odmiana;Ty [chcieć] (czas teraźniejszy);<p>Ty chc
 Basic;Polski::Odmiany;Polski Odmiana;Wy [chcieć] (czas teraźniejszy);<p>Wy chcecie</p>
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [chcieć] (czas teraźniejszy);<p>On/Ona/Ono chce</p>
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [chcieć] (czas teraźniejszy);<p>Oni/One chcą</p>
-Basic;Polski::Odmiany;Polski Odmiana;Ty [chcieć] (tryb rozkazujący);"<p>chciej</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [chcieć] (tryb rozkazujący);"<p>Ty chciej</p>
 <ul>
 <li><em>Najpierw chciej poznawać jego serce.</em></li>
 <li><em>Bądź w tym dobry i chciej być jeszcze lepszym.</em></li>
 <li><em>Pracuj dużo, chciej sięgać po więcej.</em></li>
 </ul>"
-Basic;Polski::Odmiany;Polski Odmiana;My [chcieć] (tryb rozkazujący);"<p>chciejmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [chcieć] (tryb rozkazujący);"<p>My chciejmy</p>
 <ul>
 <li><em>Chciejmy więc pomagać, chciejmy dzielić się z innymi.</em></li>
 <li><em>Dlatego chciejmy dbać o nasze wspólne dobro.</em></li>
 <li><em>Na ta wielką uroczystość chciejmy się dobrze przygotować.</em></li>
 </ul>"
-Basic;Polski::Odmiany;Polski Odmiana;Wy [chcieć] (tryb rozkazujący);"<p>chciejcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [chcieć] (tryb rozkazujący);"<p>Wy chciejcie</p>
 <ul>
 <li><em>Cóż, chciejcie dalej!</em></li>
 <li><em>Bądźcie realistami, chciejcie niemożliwego.</em></li>
@@ -1231,9 +1231,9 @@ Basic;Polski::Odmiany;Polski Odmiana;On [iść] (czas przeszły);<p>On szedł</p
 Basic;Polski::Odmiany;Polski Odmiana;Ona [iść] (czas przeszły);<p>Ona szła</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ono [iść] (czas przeszły);<p>Ono szło</p>
 Basic;Polski::Odmiany;Polski Odmiana;Oni [iść] (czas przeszły);<p>Oni szli</p>
-Basic;Polski::Odmiany;Polski Odmiana;Ty [iść] (tryb rozkazujący);<p>idź</p>
-Basic;Polski::Odmiany;Polski Odmiana;My [iść] (tryb rozkazujący);<p>idźmy</p>
-Basic;Polski::Odmiany;Polski Odmiana;Wy [iść] (tryb rozkazujący);<p>idźcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [iść] (tryb rozkazujący);<p>Ty idź</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [iść] (tryb rozkazujący);<p>My idźmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [iść] (tryb rozkazujący);<p>Wy idźcie</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ja [mieć] (czas teraźniejszy);<p>Ja mam</p>
 Basic;Polski::Odmiany;Polski Odmiana;My [mieć] (czas teraźniejszy);<p>My mamy</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (czas teraźniejszy);<p>Ty masz</p>
@@ -1252,9 +1252,9 @@ Basic;Polski::Odmiany;Polski Odmiana;On [mieć] (czas przeszły);<p>On miał</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ona [mieć] (czas przeszły);<p>Ona miała</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ono [mieć] (czas przeszły);<p>Ono miało</p>
 Basic;Polski::Odmiany;Polski Odmiana;Oni [mieć] (czas przeszły);<p>Oni mieli</p>
-Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (tryb rozkazujący);<p>miej</p>
-Basic;Polski::Odmiany;Polski Odmiana;My [mieć] (tryb rozkazujący);<p>miejmy</p>
-Basic;Polski::Odmiany;Polski Odmiana;Wy [mieć] (tryb rozkazujący);<p>miejcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [mieć] (tryb rozkazujący);<p>Ty miej</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [mieć] (tryb rozkazujący);<p>My miejmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [mieć] (tryb rozkazujący);<p>Wy miejcie</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ja [musieć] (czas teraźniejszy);<p>Ja muszę</p>
 Basic;Polski::Odmiany;Polski Odmiana;My [musieć] (czas teraźniejszy);<p>My musimy</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ty [musieć] (czas teraźniejszy);<p>Ty musisz</p>
@@ -1297,28 +1297,28 @@ Basic;Polski::Odmiany;Polski Odmiana;Ty [pomóc] (czas przyszły);<p>Ty pomożes
 Basic;Polski::Odmiany;Polski Odmiana;Wy [pomóc] (czas przyszły);<p>Wy pomożecie</p>
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [pomóc] (czas przyszły);<p>On/Ona/Ono pomoże</p>
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [pomóc] (czas przyszły);<p>Oni/One pomogą</p>
-Basic;Polski::Odmiany;Polski Odmiana;Ty [pomóc] (tryb rozkazujący);<p>pomóż</p>
-Basic;Polski::Odmiany;Polski Odmiana;My [pomóc] (tryb rozkazujący);<p>pomóżmy</p>
-Basic;Polski::Odmiany;Polski Odmiana;Wy [pomóc] (tryb rozkazujący);<p>pomóżcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [pomóc] (tryb rozkazujący);<p>Ty pomóż</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [pomóc] (tryb rozkazujący);<p>My pomóżmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [pomóc] (tryb rozkazujący);<p>Wy pomóżcie</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ja [potrafić] (czas teraźniejszy);<p>Ja potrafię</p>
 Basic;Polski::Odmiany;Polski Odmiana;My [potrafić] (czas teraźniejszy);<p>My potrafimy</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ty [potrafić] (czas teraźniejszy);<p>Ty potrafisz</p>
 Basic;Polski::Odmiany;Polski Odmiana;Wy [potrafić] (czas teraźniejszy);<p>Wy potraficie</p>
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [potrafić] (czas teraźniejszy);<p>On/Ona/Ono potrafi</p>
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [potrafić] (czas teraźniejszy);<p>Oni/One potrafią</p>
-Basic;Polski::Odmiany;Polski Odmiana;Ty [potrafić] (tryb rozkazujący);"<p>potraf</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [potrafić] (tryb rozkazujący);"<p>Ty potraf</p>
 <ul>
 <li><em>Mozę ktoś potraf obejrzeć go do końca.</em></li>
 <li><em>Nie każdy je zna i potraf zastosować.</em></li>
 <li><em>Nie potraf ukryć, że uważa ich za gorszych.</em></li>
 </ul>"
-Basic;Polski::Odmiany;Polski Odmiana;My [potrafić] (tryb rozkazujący);"<p>potrafmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [potrafić] (tryb rozkazujący);"<p>My potrafmy</p>
 <ul>
 <li><em>Czy chcemy i czy potrafmy się przed tym bronić?</em></li>
 <li><em>Nie bójmy się mówić o sobie, ale potrafmy też słuchać.</em></li>
 <li><em>Po prostu nie potrafmy znaleźć odpowiednich słów.</em></li>
 </ul>"
-Basic;Polski::Odmiany;Polski Odmiana;Wy [potrafić] (tryb rozkazujący);"<p>potrafcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [potrafić] (tryb rozkazujący);"<p>Wy potrafcie</p>
 <ul>
 <li><em>Czy potrafcie sobie wyobrazić codzienne życie bez użytkowania paliw kopalnianych?</em></li>
 <li><em>Nie wolno jeść kwiatów, których nie potrafcie rozpoznać!</em></li>
@@ -1342,6 +1342,9 @@ Basic;Polski::Odmiany;Polski Odmiana;On [robić] (czas przeszły);<p>On robił</
 Basic;Polski::Odmiany;Polski Odmiana;Ona [robić] (czas przeszły);<p>Ona robiła</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ono [robić] (czas przeszły);<p>Ono robiło</p>
 Basic;Polski::Odmiany;Polski Odmiana;Oni [robić] (czas przeszły);<p>Oni robili</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [robić] (tryb rozkazujący);<p>Ty rób</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [robić] (tryb rozkazujący);<p>My róbmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [robić] (tryb rozkazujący);<p>Wy róbcie</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ja [spojrzeć] (czas teraźniejszy);<p>Ja spojrzę</p>
 Basic;Polski::Odmiany;Polski Odmiana;My [spojrzeć] (czas teraźniejszy);<p>My spojrzymy</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ty [spojrzeć] (czas teraźniejszy);<p>Ty spojrzysz</p>
@@ -1384,18 +1387,33 @@ Basic;Polski::Odmiany;Polski Odmiana;On [wiedzieć] (czas przeszły);<p>On wiedz
 Basic;Polski::Odmiany;Polski Odmiana;Ona [wiedzieć] (czas przeszły);<p>Ona wiedziała</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ono [wiedzieć] (czas przeszły);<p>Ono wiedziało</p>
 Basic;Polski::Odmiany;Polski Odmiana;Oni [wiedzieć] (czas przeszły);<p>Oni wiedzieli</p>
-Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (tryb rozkazujący);<p>wiedz</p>
-Basic;Polski::Odmiany;Polski Odmiana;My [wiedzieć] (tryb rozkazujący);<p>wiedzmy</p>
-Basic;Polski::Odmiany;Polski Odmiana;Wy [wiedzieć] (tryb rozkazujący);<p>wiedzcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [wiedzieć] (tryb rozkazujący);"<p>Ty wiedz</p>
+<ul>
+<li><em>W duszy wiedz swoje i trzymaj się tego.</em></li>
+<li><em>Czytaj i wiedz więcej.</em></li>
+<li><em>I wiedz, kiedy milczeć.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [wiedzieć] (tryb rozkazujący);"<p>My wiedzmy</p>
+<ul>
+<li><em>Wiedzmy, jakie mamy możliwości.</em></li>
+<li><em>Jednak wiedzmy, że nie tylko to się liczy.</em></li>
+<li><em>Zatem wiedzmy, o co idzie walka.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [wiedzieć] (tryb rozkazujący);"<p>Wy wiedzcie</p>
+<ul>
+<li><em>Ale przede wszystkim wiedzcie, że macie w sobie te moce.</em></li>
+<li><em>Ta książka jest bardzo dobra, wiedzcie o tym.</em></li>
+<li><em>Bracia, wiedzcie jednak, że to nieprawda.</em></li>
+</ul>"
 Basic;Polski::Odmiany;Polski Odmiana;Ja [wziąć] (czas teraźniejszy);<p>Ja wezmę</p>
 Basic;Polski::Odmiany;Polski Odmiana;My [wziąć] (czas teraźniejszy);<p>My weźmiemy</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ty [wziąć] (czas teraźniejszy);<p>Ty weźmiesz</p>
 Basic;Polski::Odmiany;Polski Odmiana;Wy [wziąć] (czas teraźniejszy);<p>Wy weźmiecie</p>
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [wziąć] (czas teraźniejszy);<p>On/Ona/Ono weźmie</p>
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [wziąć] (czas teraźniejszy);<p>Oni/One wezmą</p>
-Basic;Polski::Odmiany;Polski Odmiana;Ty [wziąć] (tryb rozkazujący);<p>weź</p>
-Basic;Polski::Odmiany;Polski Odmiana;My [wziąć] (tryb rozkazujący);<p>weźmy</p>
-Basic;Polski::Odmiany;Polski Odmiana;Wy [wziąć] (tryb rozkazujący);<p>weźcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [wziąć] (tryb rozkazujący);<p>Ty weź</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [wziąć] (tryb rozkazujący);<p>My weźmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [wziąć] (tryb rozkazujący);<p>Wy weźcie</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ja [zebrać] (czas teraźniejszy);<p>Ja zbiorę</p>
 Basic;Polski::Odmiany;Polski Odmiana;My [zebrać] (czas teraźniejszy);<p>My zbierzemy</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (czas teraźniejszy);<p>Ty zbierzesz</p>
@@ -1414,28 +1432,28 @@ Basic;Polski::Odmiany;Polski Odmiana;On [zebrać] (czas przeszły);<p>On zebrał
 Basic;Polski::Odmiany;Polski Odmiana;Ona [zebrać] (czas przeszły);<p>Ona zebrała</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ono [zebrać] (czas przeszły);<p>Ono zebrało</p>
 Basic;Polski::Odmiany;Polski Odmiana;Oni [zebrać] (czas przeszły);<p>Oni zebrali</p>
-Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (tryb rozkazujący);<p>zbierz</p>
-Basic;Polski::Odmiany;Polski Odmiana;My [zebrać] (tryb rozkazujący);<p>zbierzmy</p>
-Basic;Polski::Odmiany;Polski Odmiana;Wy [zebrać] (tryb rozkazujący);<p>zbierzcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zebrać] (tryb rozkazujący);<p>Ty zbierz</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [zebrać] (tryb rozkazujący);<p>My zbierzmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [zebrać] (tryb rozkazujący);<p>Wy zbierzcie</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ja [zmusić] (czas teraźniejszy);<p>Ja zmuszę</p>
 Basic;Polski::Odmiany;Polski Odmiana;My [zmusić] (czas teraźniejszy);<p>My zmusimy</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ty [zmusić] (czas teraźniejszy);<p>Ty zmusisz</p>
 Basic;Polski::Odmiany;Polski Odmiana;Wy [zmusić] (czas teraźniejszy);<p>Wy zmusicie</p>
 Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [zmusić] (czas teraźniejszy);<p>On/Ona/Ono zmusi</p>
 Basic;Polski::Odmiany;Polski Odmiana;Oni/One [zmusić] (czas teraźniejszy);<p>Oni/One zmuszą</p>
-Basic;Polski::Odmiany;Polski Odmiana;Ty [zmusić] (tryb rozkazujący);"<p>zmuś</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [zmusić] (tryb rozkazujący);"<p>Ty zmuś</p>
 <ul>
 <li><em>Gdy jest ci smutno zmuś się do aktywności fizycznej.</em></li>
 <li><em>I zmuś kogoś, żeby powiedział ci prawdę!</em></li>
 <li><em>Jeśli nie masz ochoty na uśmiech, zmuś się.</em></li>
 </ul>"
-Basic;Polski::Odmiany;Polski Odmiana;My [zmusić] (tryb rozkazujący);"<p>zmuśmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [zmusić] (tryb rozkazujący);"<p>My zmuśmy</p>
 <ul>
 <li><em>Zmuśmy dystrybutorów do obniżki cen.</em></li>
 <li><em>Ale zmuśmy ich do myślenia o tym, skąd pochodzi ich jedzenie.</em></li>
 <li><em>Zmuśmy go do wycofania się z polityki.</em></li>
 </ul>"
-Basic;Polski::Odmiany;Polski Odmiana;Wy [zmusić] (tryb rozkazujący);"<p>zmuście</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [zmusić] (tryb rozkazujący);"<p>Wy zmuście</p>
 <ul>
 <li><em>Nie zmuście mnie do zmiany mej myśli.</em></li>
 <li><em>A później zmuście ich do powrotu.</em></li>
@@ -1459,19 +1477,19 @@ Basic;Polski::Odmiany;Polski Odmiana;On [znajdować] (czas przeszły);<p>On znaj
 Basic;Polski::Odmiany;Polski Odmiana;Ona [znajdować] (czas przeszły);<p>Ona znajdowała</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ono [znajdować] (czas przeszły);<p>Ono znajdowało</p>
 Basic;Polski::Odmiany;Polski Odmiana;Oni [znajdować] (czas przeszły);<p>Oni znajdowali</p>
-Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (tryb rozkazujący);"<p>znajduj</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znajdować] (tryb rozkazujący);"<p>Ty znajduj</p>
 <ul>
 <li><em>Analizuj odchylenia i znajduj przyczyny.</em></li>
 <li><em>Szybko znajduj potrzebne dokumenty.</em></li>
 <li><em>Baw się oraz znajduj przyjemności.</em></li>
 </ul>"
-Basic;Polski::Odmiany;Polski Odmiana;My [znajdować] (tryb rozkazujący);"<p>znajdujmy</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [znajdować] (tryb rozkazujący);"<p>My znajdujmy</p>
 <ul>
 <li><em>Co w tych filozofiach znajdujmy?</em></li>
 <li><em>Znajdujmy czas dla naszych najbliższych.</em></li>
 <li><em>Tylko sami znajdujmy naszych klientów.</em></li>
 </ul>"
-Basic;Polski::Odmiany;Polski Odmiana;Wy [znajdować] (tryb rozkazujący);"<p>znajdujcie</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [znajdować] (tryb rozkazujący);"<p>Wy znajdujcie</p>
 <ul>
 <li><em>Codziennie znajdujcie powody, by radować się.</em></li>
 <li><em>Filtrujcie informacje i znajdujcie ich źródła.</em></li>
@@ -1495,3 +1513,21 @@ Basic;Polski::Odmiany;Polski Odmiana;On [znać] (czas przeszły);<p>On znał</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ona [znać] (czas przeszły);<p>Ona znała</p>
 Basic;Polski::Odmiany;Polski Odmiana;Ono [znać] (czas przeszły);<p>Ono znało</p>
 Basic;Polski::Odmiany;Polski Odmiana;Oni [znać] (czas przeszły);<p>Oni znali</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [znać] (tryb rozkazujący);"<p>Ty znaj</p>
+<ul>
+<li><em>Bądź silna i znaj swoją wartość.</em></li>
+<li><em>Chłopak, znaj moją dobroć.</em></li>
+<li><em>Dobrze znaj teren, po którym się poruszasz.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [znać] (tryb rozkazujący);"<p>My znajmy</p>
+<ul>
+<li><em>I my nie znajmy litości!</em></li>
+<li><em>Miejmy swoje zdanie i znajmy swoją wartość.</em></li>
+<li><em>Naprawdę, znajmy umiar w tym o, co oskarżamy innych.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [znać] (tryb rozkazujący);"<p>Wy znajcie</p>
+<ul>
+<li><em>Cieszcie się każdą sekundą, lecz znajcie wasze priorytety.</em></li>
+<li><em>Innymi słowy, znajcie swoje miejsce.</em></li>
+<li><em>Ludzie znajcie swoje prawa!</em></li>
+</ul>"

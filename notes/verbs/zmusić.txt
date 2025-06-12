@@ -38,7 +38,7 @@ Oni/One zmuszą
 
 Ty [zmusić] (tryb rozkazujący)
 ---
-zmuś
+Ty zmuś
 
 - *Gdy jest ci smutno zmuś się do aktywności fizycznej.*
 - *I zmuś kogoś, żeby powiedział ci prawdę!*
@@ -47,7 +47,7 @@ zmuś
 
 My [zmusić] (tryb rozkazujący)
 ---
-zmuśmy
+My zmuśmy
 
 - *Zmuśmy dystrybutorów do obniżki cen.*
 - *Ale zmuśmy ich do myślenia o tym, skąd pochodzi ich jedzenie.*
@@ -56,7 +56,7 @@ zmuśmy
 
 Wy [zmusić] (tryb rozkazujący)
 ---
-zmuście
+Wy zmuście
 
 - *Nie zmuście mnie do zmiany mej myśli.*
 - *A później zmuście ich do powrotu.*

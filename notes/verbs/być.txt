@@ -92,21 +92,21 @@ Oni/One będą
 
 Ty [być] (tryb rozkazujący)
 ---
-bądź
+Ty bądź
 
 - *Nie bądź impulsywny.*
 ===
 
 My [być] (tryb rozkazujący)
 ---
-bądźmy
+My bądźmy
 
 - *Bądźmy tam razem.*
 ===
 
 Wy [być] (tryb rozkazujący)
 ---
-bądźcie
+Wy bądźcie
 
 - *Więc nie bądźcie rozczarowani!*
 ===
