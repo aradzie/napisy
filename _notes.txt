@@ -683,7 +683,7 @@ Basic;Polski::Słowa;Polski Słowa;тип/type;"<p>rodzaj</p>
 </ul>"
 Basic;Polski::Słowa;Polski Słowa;звучать/to sound;"<p>brzmieć</p>
 <ul>
-<li><em>Jak śpiewasz to brzmisz zupełnie inaczej.</em></li>
+<li><em>Jak śpiewasz, to brzmisz zupełnie inaczej.</em></li>
 <li><em>Nie zamierzam brzmieć okrutnie.</em></li>
 <li><em>No dobrze, to brzmi świetnie.</em></li>
 </ul>"
@@ -770,6 +770,12 @@ Basic;Polski::Słowa;Polski Słowa;принцип/условие/principle/term;
 <li><em>Chcę pracować na własnych zasadach.</em></li>
 <li><em>A ci, którzy złamią te zasady, zostaną przez niego ukarani.</em></li>
 <li><em>Jakie proste zasady oszczędzania można wprowadzić?</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;доброта/kindness;"<p>dobroć</p>
+<ul>
+<li><em>Czy my potrafimy okazywać miłość i dobroć?</em></li>
+<li><em>Gdzie jest dobroć, tam zrodzi się wdzięczność.</em></li>
+<li><em>Każda z nich ma w sobie siłę i dobroć.</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;Ja [brać] (czas teraźniejszy);"<p>Ja biorę</p>
 <ul>

@@ -179,7 +179,7 @@ rodzaj
 ---
 brzmieć
 
-- *Jak śpiewasz to brzmisz zupełnie inaczej.*
+- *Jak śpiewasz, to brzmisz zupełnie inaczej.*
 - *Nie zamierzam brzmieć okrutnie.*
 - *No dobrze, to brzmi świetnie.*
 ===
@@ -310,6 +310,15 @@ zasada
 - *Jakie proste zasady oszczędzania można wprowadzić?*
 ===
 
+доброта/kindness
+---
+dobroć
+
+- *Czy my potrafimy okazywać miłość i dobroć?*
+- *Gdzie jest dobroć, tam zrodzi się wdzięczność.*
+- *Każda z nich ma w sobie siłę i dobroć.*
+===
+
 !# uważać
 !# uznawać
 !# wydawać
@@ -319,7 +328,6 @@ zasada
 !# właściwy
 !# wspaniały
 
-!# dobroć
 !# szacunek
 !# wezwanie
 
