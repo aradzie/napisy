@@ -319,23 +319,119 @@ dobroć
 - *Każda z nich ma w sobie siłę i dobroć.*
 ===
 
+трусливый/cowardly
+---
+tchórzliwy
+
+- *Kobiety są jednak zbyt tchórzliwe.*
+- *Kochaj odważnych, rezygnuj z tchórzliwych.*
+- *Król zaś zawsze był słaby i tchórzliwy.*
+===
+
+выращивать/to grow
+---
+uprawiać
+
+**W kontekście rolnictwa** – oznacza zajmowanie się hodowlą roślin:
+
+- *Uprawiać pszenicę*
+- *Uprawiać ziemię*
+
+**W kontekście aktywności fizycznej lub hobby** – oznacza regularne wykonywanie jakiejś czynności:
+
+- *Uprawiać sport*
+- *Uprawiać jogę*
+- *Uprawiać malarstwo*
+
+**W kontekście relacji seksualnych** – kolokwialnie:
+
+- *Uprawiać seks*
+
+**W przenośni** – dążyć do czegoś, rozwijać jakąś dziedzinę:
+
+- *Uprawiać filozofię*
+- *Uprawiać politykę*
+
+- *Można uprawiać filozofię z dziećmi.*
+- *A tu kartofelki sobie uprawiał.*
+- *Co lubisz robić poza uprawianiem sportu?*
+- *Czy ktoś tu jeszcze uprawia politykę?*
+===
+
+полезный/helpful
+---
+uczynny
+
+Słowo „**uczynny**” oznacza osobę, która chętnie pomaga innym, jest skłonna do wyświadczania przysług, życzliwa i pomocna. To cecha charakteru.
+
+**Przykłady użycia:**
+
+- *To bardzo uczynny sąsiad – zawsze pomoże, gdy trzeba.*
+- *Była uczynna i zawsze gotowa do pomocy.*
+- *Czy wiecie, że zawsze warto być dobrym i uczynnym?*
+
+**Synonimy**: pomocny, życzliwy, przysłużny.
+
+**Przeciwieństwo**: nieuprzejmy, obojętny, samolubny.
+===
+
+остроумный/witty
+---
+dowcipny
+
+Słowo „**dowcipny**” oznacza osobę, która potrafi mówić rzeczy zabawne, inteligentne i błyskotliwe – często w sposób trafny i z humorem.
+
+**Przykłady użycia:**
+
+- *To bardzo dowcipny facet – zawsze rozbawi towarzystwo.*
+- *Jej komentarze były krótkie, ale niezwykle dowcipne.*
+- *Czy znacie jakąś dowcipną kobietę?*
+
+**Synonimy:** zabawny, błyskotliwy, inteligentny w żartach.
+
+**Przeciwieństwa:** ponury, sztywny, drętwy.
+===
+
+намереваться/to intend
+---
+zamierzać
+
+Słowo „*zamierzać*” oznacza mieć zamiar coś zrobić, czyli planować jakieś działanie lub myśleć o zrobieniu czegoś w przyszłości.
+
+**Przykłady użycia:**
+
+- *Zamierzam iść na studia w przyszłym roku.*
+- *Nie zamierzałem cię urazić.*
+- *Ona zamierza wyjechać za granicę.*
+
+**Synonimy**: planować, mieć zamiar, nosić się z zamiarem.
+===
+
+!# bać się
 !# uważać
 !# uznawać
 !# wydawać
 !# wypadać
 
-!# dowcipny
 !# właściwy
 !# wspaniały
 
+!# okoliczności
 !# szacunek
 !# wezwanie
+!# zaszczyt
 
 !# ciągle
 !# coraz
 !# natychmiast
 !# nieco
 !# obecne
+!# nawzajem
 
-!# stamtąd
+!# stąd/stamtąd/skąd/dokąd
+!# tamtego
 !# więc
+!# żebyście
+
+!# nieprawdaż
+!# gdziekolwiek

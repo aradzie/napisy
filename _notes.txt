@@ -513,7 +513,7 @@ Basic;Polski::Frazy::phrases;Polski phrases;вопреки видимости, �
 Basic;Polski::Frazy::phrases;Polski phrases;ты ещё увидишь;zobaczysz później
 Basic;Polski::Frazy::phrases;Polski phrases;это не совпадение;nie jest to przypadek
 Basic;Polski::Frazy::phrases;Polski phrases;мне хватило одного недостающего элемента;mnie wystarczył jeden brakujący element
-Basic;Polski::Frazy::phrases;Polski phrases;за что мне это?;dlaczego to się ze mną dzieje?
+Basic;Polski::Frazy::phrases;Polski phrases;почему это происходит со мной?;dlaczego to się ze mną dzieje?
 Basic;Polski::Frazy::phrases;Polski phrases;иностранное насилие;przemoc obca
 Basic;Polski::Frazy::phrases;Polski phrases;огромный шаг назад;ogromny krok wstecz
 Basic;Polski::Frazy::phrases;Polski phrases;откуда я тебя знаю?;skąd cię znam?
@@ -529,6 +529,7 @@ Basic;Polski::Frazy::phrases;Polski phrases;намного лучше;dużo lepi
 Basic;Polski::Frazy::phrases;Polski phrases;как ты решишь эту проблему?;jak rozwiążesz ten problem?
 Basic;Polski::Frazy::phrases;Polski phrases;чтобы оказалось, что это хорошо;żeby okazało się, że jest dobrze
 Basic;Polski::Frazy::phrases;Polski phrases;куда ты идешь;dokąd idziesz
+Basic;Polski::Frazy::phrases;Polski phrases;откуда ты идешь;skąd idziesz
 Basic;Polski::Frazy::phrases;Polski phrases;но его действия гораздо хуже;ale jego czyny są o wiele gorsze
 Basic;Polski::Frazy::phrases;Polski phrases;ни один эксперт не в состоянии;żaden ekspert nie jest w stanie
 Basic;Polski::Frazy::phrases;Polski phrases;estimated reading;odczyt szacowany
@@ -559,6 +560,12 @@ Basic;Polski::Frazy::phrases;Polski phrases;каждый раз, когда ты
 Basic;Polski::Frazy::phrases;Polski phrases;меня удивляет, как он получил подписи;zastanawia mnie jak zdobył podpisy
 Basic;Polski::Frazy::phrases;Polski phrases;мне все равно;nie obchodzi mnie to
 Basic;Polski::Frazy::phrases;Polski phrases;пойти на уступки;robić ustępstwa
+Basic;Polski::Frazy::phrases;Polski phrases;и почти все нормально;i prawie wszystko jest normalne
+Basic;Polski::Frazy::phrases;Polski phrases;откуда это начинается - куда это идет;skąd wyrusza – dokąd zmierza
+Basic;Polski::Frazy::phrases;Polski phrases;нанести непоправимый вред;spowodować nieodwracalną szkodę
+Basic;Polski::Frazy::phrases;Polski phrases;без колебаний;bez zająknięcia
+Basic;Polski::Frazy::phrases;Polski phrases;они такие же самые;są tacy sami
+Basic;Polski::Frazy::phrases;Polski phrases;выращивать овощи;uprawiać warzywa
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Noun/A word that names a person, place, thing, or idea;<p>Rzeczownik</p>
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Pronoun/A word that replaces a noun;<p>Zaimek</p>
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Verb/A word that expresses action or a state of being;<p>Czasownik</p>
@@ -776,6 +783,120 @@ Basic;Polski::Słowa;Polski Słowa;доброта/kindness;"<p>dobroć</p>
 <li><em>Czy my potrafimy okazywać miłość i dobroć?</em></li>
 <li><em>Gdzie jest dobroć, tam zrodzi się wdzięczność.</em></li>
 <li><em>Każda z nich ma w sobie siłę i dobroć.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;трусливый/cowardly;"<p>tchórzliwy</p>
+<ul>
+<li><em>Kobiety są jednak zbyt tchórzliwe.</em></li>
+<li><em>Kochaj odważnych, rezygnuj z tchórzliwych.</em></li>
+<li><em>Król zaś zawsze był słaby i tchórzliwy.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;выращивать/to grow;"<p>uprawiać</p>
+<p><strong>W kontekście rolnictwa</strong> – oznacza zajmowanie się hodowlą roślin:</p>
+<ul>
+<li><em>Uprawiać pszenicę</em></li>
+<li><em>Uprawiać ziemię</em></li>
+</ul>
+<p><strong>W kontekście aktywności fizycznej lub hobby</strong> – oznacza regularne wykonywanie jakiejś czynności:</p>
+<ul>
+<li><em>Uprawiać sport</em></li>
+<li><em>Uprawiać jogę</em></li>
+<li><em>Uprawiać malarstwo</em></li>
+</ul>
+<p><strong>W kontekście relacji seksualnych</strong> – kolokwialnie:</p>
+<ul>
+<li><em>Uprawiać seks</em></li>
+</ul>
+<p><strong>W przenośni</strong> – dążyć do czegoś, rozwijać jakąś dziedzinę:</p>
+<ul>
+<li><p><em>Uprawiać filozofię</em></p>
+</li>
+<li><p><em>Uprawiać politykę</em></p>
+</li>
+<li><p><em>Można uprawiać filozofię z dziećmi.</em></p>
+</li>
+<li><p><em>A tu kartofelki sobie uprawiał.</em></p>
+</li>
+<li><p><em>Co lubisz robić poza uprawianiem sportu?</em></p>
+</li>
+<li><p><em>Czy ktoś tu jeszcze uprawia politykę?</em></p>
+</li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;полезный/helpful;"<p>uczynny</p>
+<p>Słowo „<strong>uczynny</strong>” oznacza osobę, która chętnie pomaga innym, jest skłonna do wyświadczania przysług, życzliwa i pomocna. To cecha charakteru.</p>
+<p><strong>Przykłady użycia:</strong></p>
+<ul>
+<li><em>To bardzo uczynny sąsiad – zawsze pomoże, gdy trzeba.</em></li>
+<li><em>Była uczynna i zawsze gotowa do pomocy.</em></li>
+<li><em>Czy wiecie, że zawsze warto być dobrym i uczynnym?</em></li>
+</ul>
+<p><strong>Synonimy</strong>: pomocny, życzliwy, przysłużny.</p>
+<p><strong>Przeciwieństwo</strong>: nieuprzejmy, obojętny, samolubny.</p>"
+Basic;Polski::Słowa;Polski Słowa;остроумный/witty;"<p>dowcipny</p>
+<p>Słowo „<strong>dowcipny</strong>” oznacza osobę, która potrafi mówić rzeczy zabawne, inteligentne i błyskotliwe – często w sposób trafny i z humorem.</p>
+<p><strong>Przykłady użycia:</strong></p>
+<ul>
+<li><em>To bardzo dowcipny facet – zawsze rozbawi towarzystwo.</em></li>
+<li><em>Jej komentarze były krótkie, ale niezwykle dowcipne.</em></li>
+<li><em>Czy znacie jakąś dowcipną kobietę?</em></li>
+</ul>
+<p><strong>Synonimy:</strong> zabawny, błyskotliwy, inteligentny w żartach.</p>
+<p><strong>Przeciwieństwa:</strong> ponury, sztywny, drętwy.</p>"
+Basic;Polski::Słowa;Polski Słowa;намереваться/to intend;"<p>zamierzać</p>
+<p>Słowo „<em>zamierzać</em>” oznacza mieć zamiar coś zrobić, czyli planować jakieś działanie lub myśleć o zrobieniu czegoś w przyszłości.</p>
+<p><strong>Przykłady użycia:</strong></p>
+<ul>
+<li><em>Zamierzam iść na studia w przyszłym roku.</em></li>
+<li><em>Nie zamierzałem cię urazić.</em></li>
+<li><em>Ona zamierza wyjechać za granicę.</em></li>
+</ul>
+<p><strong>Synonimy</strong>: planować, mieć zamiar, nosić się z zamiarem.</p>"
+Basic;Polski::Odmiany;Polski Odmiana;Ja [bać się] (czas teraźniejszy);"<p>Ja boję się</p>
+<ul>
+<li><em>Nie boję się przegrywać.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [bać się] (czas teraźniejszy);"<p>My boimy się</p>
+<ul>
+<li><em>Dzisiaj nie boimy się żadnego wyzwania.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ty [bać się] (czas teraźniejszy);"<p>Ty boisz się</p>
+<ul>
+<li><em>Fajnie, że nie boisz się zmian.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [bać się] (czas teraźniejszy);"<p>Wy boicie się</p>
+<ul>
+<li><em>I boicie się że ponownie się rozczarujecie.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;On/Ona/Ono [bać się] (czas teraźniejszy);"<p>On/Ona/Ono boi się</p>
+<ul>
+<li><em>Cały czas boi się o swoje życie.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Oni/One [bać się] (czas teraźniejszy);"<p>Oni/One boją się</p>
+<ul>
+<li><em>Chyba tego scenariusza boją się inwestorzy.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Ja [bać się] (m, czas przeszły);<p>Ja bałem się</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [bać się] (ż, czas przeszły);<p>Ja bałam się</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ja [bać się] (n, czas przeszły);<p>Ja bałom się</p>
+Basic;Polski::Odmiany;Polski Odmiana;My [bać się] (czas przeszły);<p>My baliśmy się</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [bać się] (m, czas przeszły);<p>Ty bałeś się</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [bać się] (ż, czas przeszły);<p>Ty bałaś się</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [bać się] (n, czas przeszły);<p>Ty bałoś się</p>
+Basic;Polski::Odmiany;Polski Odmiana;Wy [bać się] (czas przeszły);<p>Wy baliście się</p>
+Basic;Polski::Odmiany;Polski Odmiana;On [bać się] (czas przeszły);<p>On bał się</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ona [bać się] (czas przeszły);<p>Ona bała się</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ono [bać się] (czas przeszły);<p>Ono bało się</p>
+Basic;Polski::Odmiany;Polski Odmiana;Oni [bać się] (czas przeszły);<p>Oni bali się</p>
+Basic;Polski::Odmiany;Polski Odmiana;Ty [bać się] (tryb rozkazujący);"<p>Ty bój się</p>
+<ul>
+<li><em>A co najważniejsze, nie bój się bólu.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;My [bać się] (tryb rozkazujący);"<p>My bójmy się</p>
+<ul>
+<li><em>My nie bójmy się krytykować opozycji.</em></li>
+</ul>"
+Basic;Polski::Odmiany;Polski Odmiana;Wy [bać się] (tryb rozkazujący);"<p>Wy bójcie się</p>
+<ul>
+<li><em>A więc nie bójcie się mydła i myjcie się często!</em></li>
 </ul>"
 Basic;Polski::Odmiany;Polski Odmiana;Ja [brać] (czas teraźniejszy);"<p>Ja biorę</p>
 <ul>

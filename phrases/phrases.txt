@@ -132,7 +132,7 @@ but I doubt that he has such a rubber spine|ale wątpię by on miał taki kręgo
 ты ещё увидишь|zobaczysz później
 это не совпадение|nie jest to przypadek
 мне хватило одного недостающего элемента|mnie wystarczył jeden brakujący element
-за что мне это?|dlaczego to się ze mną dzieje?
+почему это происходит со мной?|dlaczego to się ze mną dzieje?
 иностранное насилие|przemoc obca
 огромный шаг назад|ogromny krok wstecz
 откуда я тебя знаю?|skąd cię znam?
@@ -148,6 +148,7 @@ but I doubt that he has such a rubber spine|ale wątpię by on miał taki kręgo
 как ты решишь эту проблему?|jak rozwiążesz ten problem?
 чтобы оказалось, что это хорошо|żeby okazało się, że jest dobrze
 куда ты идешь|dokąd idziesz
+откуда ты идешь|skąd idziesz
 но его действия гораздо хуже|ale jego czyny są o wiele gorsze
 ни один эксперт не в состоянии|żaden ekspert nie jest w stanie
 estimated reading|odczyt szacowany
@@ -178,3 +179,9 @@ estimated reading|odczyt szacowany
 меня удивляет, как он получил подписи|zastanawia mnie jak zdobył podpisy
 мне все равно|nie obchodzi mnie to
 пойти на уступки|robić ustępstwa
+и почти все нормально|i prawie wszystko jest normalne
+откуда это начинается - куда это идет|skąd wyrusza – dokąd zmierza
+нанести непоправимый вред|spowodować nieodwracalną szkodę
+без колебаний|bez zająknięcia
+они такие же самые|są tacy sami
+выращивать овощи|uprawiać warzywa
