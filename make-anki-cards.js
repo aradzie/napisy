@@ -30,7 +30,7 @@ async function scanPhrases(notes) {
         if (q && a) {
           notes.push({
             type: `Basic`,
-            deck: `Polski::Frazy::${name}`,
+            deck: `Polski::Wyrażenia::${name}`,
             tags: `Polski ${name}`,
             front: q,
             back: a,
