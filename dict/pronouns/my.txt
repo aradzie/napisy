@@ -1,0 +1,7 @@
+my my ppron12:pl:nom:m1.m2.m3.f.n:pri
+my my ppron12:pl:voc:m1.m2.m3.f.n:pri
+nam my ppron12:pl:dat:m1.m2.m3.f.n:pri
+nami my ppron12:pl:inst:m1.m2.m3.f.n:pri
+nas my ppron12:pl:acc:m1.m2.m3.f.n:pri
+nas my ppron12:pl:gen:m1.m2.m3.f.n:pri
+nas my ppron12:pl:loc:m1.m2.m3.f.n:pri
