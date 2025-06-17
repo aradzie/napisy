@@ -1,6 +1,6 @@
 !type:Basic
 
-!deck:Polski::Odmiany
+!deck:Polski::Odmiany::Czasowniki
 
 !tags:Polski Odmiana
 
