@@ -1,0 +1,116 @@
+milejsi miły:A adj:pl:nom.voc:m1:com  gwar.
+milejsza miły:A adj:sg:nom.voc:f:com  gwar.
+milejsze miły:A adj:pl:acc:m2.m3.f.n:com  gwar.
+milejsze miły:A adj:pl:nom.voc:m2.m3.f.n:com  gwar.
+milejsze miły:A adj:sg:acc:n:com  gwar.
+milejsze miły:A adj:sg:nom.voc:n:com  gwar.
+milejszego miły:A adj:sg:acc:m1.m2:com  gwar.
+milejszego miły:A adj:sg:gen:m1.m2.m3.n:com  gwar.
+milejszej miły:A adj:sg:dat:f:com  gwar.
+milejszej miły:A adj:sg:gen:f:com  gwar.
+milejszej miły:A adj:sg:loc:f:com  gwar.
+milejszemu miły:A adj:sg:dat:m1.m2.m3.n:com  gwar.
+milejszy miły:A adj:sg:acc:m3:com  gwar.
+milejszy miły:A adj:sg:nom.voc:m1.m2.m3:com  gwar.
+milejszych miły:A adj:pl:acc:m1:com  gwar.
+milejszych miły:A adj:pl:gen:m1.m2.m3.f.n:com  gwar.
+milejszych miły:A adj:pl:loc:m1.m2.m3.f.n:com  gwar.
+milejszym miły:A adj:pl:dat:m1.m2.m3.f.n:com  gwar.
+milejszym miły:A adj:sg:inst:m1.m2.m3.n:com  gwar.
+milejszym miły:A adj:sg:loc:m1.m2.m3.n:com  gwar.
+milejszymi miły:A adj:pl:inst:m1.m2.m3.f.n:com  gwar.
+milejszą miły:A adj:sg:acc:f:com  gwar.
+milejszą miły:A adj:sg:inst:f:com  gwar.
+mili miły:A adj:pl:nom.voc:m1:pos
+milsi miły:A adj:pl:nom.voc:m1:com
+milsza miły:A adj:sg:nom.voc:f:com
+milsze miły:A adj:pl:acc:m2.m3.f.n:com
+milsze miły:A adj:pl:nom.voc:m2.m3.f.n:com
+milsze miły:A adj:sg:acc:n:com
+milsze miły:A adj:sg:nom.voc:n:com
+milszego miły:A adj:sg:acc:m1.m2:com
+milszego miły:A adj:sg:gen:m1.m2.m3.n:com
+milszej miły:A adj:sg:dat:f:com
+milszej miły:A adj:sg:gen:f:com
+milszej miły:A adj:sg:loc:f:com
+milszemu miły:A adj:sg:dat:m1.m2.m3.n:com
+milszy miły:A adj:sg:acc:m3:com
+milszy miły:A adj:sg:nom.voc:m1.m2.m3:com
+milszych miły:A adj:pl:acc:m1:com
+milszych miły:A adj:pl:gen:m1.m2.m3.f.n:com
+milszych miły:A adj:pl:loc:m1.m2.m3.f.n:com
+milszym miły:A adj:pl:dat:m1.m2.m3.f.n:com
+milszym miły:A adj:sg:inst:m1.m2.m3.n:com
+milszym miły:A adj:sg:loc:m1.m2.m3.n:com
+milszymi miły:A adj:pl:inst:m1.m2.m3.f.n:com
+milszą miły:A adj:sg:acc:f:com
+milszą miły:A adj:sg:inst:f:com
+miła miły:A adj:sg:nom.voc:f:pos
+miłe miły:A adj:pl:acc:m2.m3.f.n:pos
+miłe miły:A adj:pl:nom.voc:m2.m3.f.n:pos
+miłe miły:A adj:sg:acc:n:pos
+miłe miły:A adj:sg:nom.voc:n:pos
+miłego miły:A adj:sg:acc:m1.m2:pos
+miłego miły:A adj:sg:gen:m1.m2.m3.n:pos
+miłej miły:A adj:sg:dat:f:pos
+miłej miły:A adj:sg:gen:f:pos
+miłej miły:A adj:sg:loc:f:pos
+miłemu miły:A adj:sg:dat:m1.m2.m3.n:pos
+miło miły:A adja
+miły miły:A adj:sg:acc:m3:pos
+miły miły:A adj:sg:nom.voc:m1.m2.m3:pos
+miłych miły:A adj:pl:acc:m1:pos
+miłych miły:A adj:pl:gen:m1.m2.m3.f.n:pos
+miłych miły:A adj:pl:loc:m1.m2.m3.f.n:pos
+miłym miły:A adj:pl:dat:m1.m2.m3.f.n:pos
+miłym miły:A adj:sg:inst:m1.m2.m3.n:pos
+miłym miły:A adj:sg:loc:m1.m2.m3.n:pos
+miłymi miły:A adj:pl:inst:m1.m2.m3.f.n:pos
+miłą miły:A adj:sg:acc:f:pos
+miłą miły:A adj:sg:inst:f:pos
+najmilejsi miły:A adj:pl:nom.voc:m1:sup  gwar.
+najmilejsza miły:A adj:sg:nom.voc:f:sup  gwar.
+najmilejsze miły:A adj:pl:acc:m2.m3.f.n:sup  gwar.
+najmilejsze miły:A adj:pl:nom.voc:m2.m3.f.n:sup  gwar.
+najmilejsze miły:A adj:sg:acc:n:sup  gwar.
+najmilejsze miły:A adj:sg:nom.voc:n:sup  gwar.
+najmilejszego miły:A adj:sg:acc:m1.m2:sup  gwar.
+najmilejszego miły:A adj:sg:gen:m1.m2.m3.n:sup  gwar.
+najmilejszej miły:A adj:sg:dat:f:sup  gwar.
+najmilejszej miły:A adj:sg:gen:f:sup  gwar.
+najmilejszej miły:A adj:sg:loc:f:sup  gwar.
+najmilejszemu miły:A adj:sg:dat:m1.m2.m3.n:sup  gwar.
+najmilejszy miły:A adj:sg:acc:m3:sup  gwar.
+najmilejszy miły:A adj:sg:nom.voc:m1.m2.m3:sup  gwar.
+najmilejszych miły:A adj:pl:acc:m1:sup  gwar.
+najmilejszych miły:A adj:pl:gen:m1.m2.m3.f.n:sup  gwar.
+najmilejszych miły:A adj:pl:loc:m1.m2.m3.f.n:sup  gwar.
+najmilejszym miły:A adj:pl:dat:m1.m2.m3.f.n:sup  gwar.
+najmilejszym miły:A adj:sg:inst:m1.m2.m3.n:sup  gwar.
+najmilejszym miły:A adj:sg:loc:m1.m2.m3.n:sup  gwar.
+najmilejszymi miły:A adj:pl:inst:m1.m2.m3.f.n:sup  gwar.
+najmilejszą miły:A adj:sg:acc:f:sup  gwar.
+najmilejszą miły:A adj:sg:inst:f:sup  gwar.
+najmilsi miły:A adj:pl:nom.voc:m1:sup
+najmilsza miły:A adj:sg:nom.voc:f:sup
+najmilsze miły:A adj:pl:acc:m2.m3.f.n:sup
+najmilsze miły:A adj:pl:nom.voc:m2.m3.f.n:sup
+najmilsze miły:A adj:sg:acc:n:sup
+najmilsze miły:A adj:sg:nom.voc:n:sup
+najmilszego miły:A adj:sg:acc:m1.m2:sup
+najmilszego miły:A adj:sg:gen:m1.m2.m3.n:sup
+najmilszej miły:A adj:sg:dat:f:sup
+najmilszej miły:A adj:sg:gen:f:sup
+najmilszej miły:A adj:sg:loc:f:sup
+najmilszemu miły:A adj:sg:dat:m1.m2.m3.n:sup
+najmilszy miły:A adj:sg:acc:m3:sup
+najmilszy miły:A adj:sg:nom.voc:m1.m2.m3:sup
+najmilszych miły:A adj:pl:acc:m1:sup
+najmilszych miły:A adj:pl:gen:m1.m2.m3.f.n:sup
+najmilszych miły:A adj:pl:loc:m1.m2.m3.f.n:sup
+najmilszym miły:A adj:pl:dat:m1.m2.m3.f.n:sup
+najmilszym miły:A adj:sg:inst:m1.m2.m3.n:sup
+najmilszym miły:A adj:sg:loc:m1.m2.m3.n:sup
+najmilszymi miły:A adj:pl:inst:m1.m2.m3.f.n:sup
+najmilszą miły:A adj:sg:acc:f:sup
+najmilszą miły:A adj:sg:inst:f:sup
