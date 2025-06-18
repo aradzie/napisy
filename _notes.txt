@@ -2158,7 +2158,7 @@ Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Wy [znać] (tryb rozkazujący);
 <li><em>Innymi słowy, znajcie swoje miejsce.</em></li>
 <li><em>Ludzie znajcie swoje prawa!</em></li>
 </ul>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>) [<strong>dobrzy</strong> <strong>ludzie</strong>].;"<p>Widzimy <strong>dobrych</strong> <strong>ludzi</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukam (<em>kogo? czego?</em>) [<strong>dobry</strong> <strong>człowiek</strong>].;"<p>Szukam <strong>dobrego</strong> <strong>człowieka</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2179,7 +2179,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>) [<strong>dobry</strong> <strong>człowiek</strong>].;"<p>Widzę <strong>dobrego</strong> <strong>człowieka</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukamy (<em>kogo? czego?</em>) [<strong>dobrzy</strong> <strong>ludzie</strong>].;"<p>Szukamy <strong>dobrych</strong> <strong>ludzi</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2200,7 +2200,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>)
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>) [<strong>dobre</strong> <strong>kobiety</strong>].;"<p>Widzimy <strong>dobrych</strong> <strong>kobiet</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukam (<em>kogo? czego?</em>) [<strong>dobra</strong> <strong>kobieta</strong>].;"<p>Szukam <strong>dobrej</strong> <strong>kobiety</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2221,7 +2221,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>) [<strong>dobra</strong> <strong>kobieta</strong>].;"<p>Widzę <strong>dobrej</strong> <strong>kobiety</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukamy (<em>kogo? czego?</em>) [<strong>dobre</strong> <strong>kobiety</strong>].;"<p>Szukamy <strong>dobrych</strong> <strong>kobiet</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2242,7 +2242,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>)
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>) [<strong>dobre</strong> <strong>dzieci</strong>].;"<p>Widzimy <strong>dobrych</strong> <strong>dzieci</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukam (<em>kogo? czego?</em>) [<strong>dobre</strong> <strong>dziecko</strong>].;"<p>Szukam <strong>dobrego</strong> <strong>dziecka</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2263,7 +2263,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>) [<strong>dobre</strong> <strong>dziecko</strong>].;"<p>Widzę <strong>dobrego</strong> <strong>dziecka</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukamy (<em>kogo? czego?</em>) [<strong>dobre</strong> <strong>dzieci</strong>].;"<p>Szukamy <strong>dobrych</strong> <strong>dzieci</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2284,7 +2284,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>)
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>) [<strong>źli</strong> <strong>ludzie</strong>].;"<p>Widzimy <strong>złych</strong> <strong>ludzi</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukam (<em>kogo? czego?</em>) [<strong>zły</strong> <strong>człowiek</strong>].;"<p>Szukam <strong>złego</strong> <strong>człowieka</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2305,7 +2305,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>) [<strong>zły</strong> <strong>człowiek</strong>].;"<p>Widzę <strong>złego</strong> <strong>człowieka</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukamy (<em>kogo? czego?</em>) [<strong>źli</strong> <strong>ludzie</strong>].;"<p>Szukamy <strong>złych</strong> <strong>ludzi</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2326,7 +2326,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>)
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>) [<strong>złe</strong> <strong>kobiety</strong>].;"<p>Widzimy <strong>złych</strong> <strong>kobiet</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukam (<em>kogo? czego?</em>) [<strong>zła</strong> <strong>kobieta</strong>].;"<p>Szukam <strong>złej</strong> <strong>kobiety</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2347,7 +2347,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>) [<strong>zła</strong> <strong>kobieta</strong>].;"<p>Widzę <strong>złej</strong> <strong>kobiety</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukamy (<em>kogo? czego?</em>) [<strong>złe</strong> <strong>kobiety</strong>].;"<p>Szukamy <strong>złych</strong> <strong>kobiet</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2368,7 +2368,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>)
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>) [<strong>złe</strong> <strong>dzieci</strong>].;"<p>Widzimy <strong>złych</strong> <strong>dzieci</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukam (<em>kogo? czego?</em>) [<strong>złe</strong> <strong>dziecko</strong>].;"<p>Szukam <strong>złego</strong> <strong>dziecka</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2389,7 +2389,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>) [<strong>złe</strong> <strong>dziecko</strong>].;"<p>Widzę <strong>złego</strong> <strong>dziecka</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukamy (<em>kogo? czego?</em>) [<strong>złe</strong> <strong>dzieci</strong>].;"<p>Szukamy <strong>złych</strong> <strong>dzieci</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2410,7 +2410,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>)
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>) [<strong>tacy</strong> <strong>ludzie</strong>].;"<p>Widzimy <strong>takich</strong> <strong>ludzi</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukam (<em>kogo? czego?</em>) [<strong>taki</strong> <strong>człowiek</strong>].;"<p>Szukam <strong>takiego</strong> <strong>człowieka</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2431,7 +2431,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>) [<strong>taki</strong> <strong>człowiek</strong>].;"<p>Widzę <strong>takiego</strong> <strong>człowieka</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukamy (<em>kogo? czego?</em>) [<strong>tacy</strong> <strong>ludzie</strong>].;"<p>Szukamy <strong>takich</strong> <strong>ludzi</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2452,7 +2452,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>)
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>) [<strong>takie</strong> <strong>kobiety</strong>].;"<p>Widzimy <strong>takich</strong> <strong>kobiet</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukam (<em>kogo? czego?</em>) [<strong>taka</strong> <strong>kobieta</strong>].;"<p>Szukam <strong>takiej</strong> <strong>kobiety</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2473,7 +2473,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>) [<strong>taka</strong> <strong>kobieta</strong>].;"<p>Widzę <strong>takiej</strong> <strong>kobiety</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukamy (<em>kogo? czego?</em>) [<strong>takie</strong> <strong>kobiety</strong>].;"<p>Szukamy <strong>takich</strong> <strong>kobiet</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2494,7 +2494,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>)
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>) [<strong>takie</strong> <strong>dzieci</strong>].;"<p>Widzimy <strong>takich</strong> <strong>dzieci</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukam (<em>kogo? czego?</em>) [<strong>takie</strong> <strong>dziecko</strong>].;"<p>Szukam <strong>takiego</strong> <strong>dziecka</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2515,7 +2515,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzimy (<em>kogo? czego?</em>
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>) [<strong>takie</strong> <strong>dziecko</strong>].;"<p>Widzę <strong>takiego</strong> <strong>dziecka</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukamy (<em>kogo? czego?</em>) [<strong>takie</strong> <strong>dzieci</strong>].;"<p>Szukamy <strong>takich</strong> <strong>dzieci</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2536,7 +2536,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Widzę (<em>kogo? czego?</em>)
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytam (<em>kogo? czego?</em>) [<strong>biały</strong> <strong>magazyn</strong>].;"<p>Czytam <strong>białego</strong> <strong>magazynu</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebujemy (<em>kogo? czego?</em>) [<strong>duże</strong> <strong>magazyny</strong>].;"<p>Potrzebujemy <strong>dużych</strong> <strong>magazynów</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2557,7 +2557,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytam (<em>kogo? czego?</em>)
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytamy (<em>kogo? czego?</em>) [<strong>białe</strong> <strong>magazyny</strong>].;"<p>Czytamy <strong>białych</strong> <strong>magazynów</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebuję (<em>kogo? czego?</em>) [<strong>duży</strong> <strong>magazyn</strong>].;"<p>Potrzebuję <strong>dużego</strong> <strong>magazynu</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2578,7 +2578,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytamy (<em>kogo? czego?</em>
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytam (<em>kogo? czego?</em>) [<strong>biała</strong> <strong>książka</strong>].;"<p>Czytam <strong>białej</strong> <strong>książki</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebujemy (<em>kogo? czego?</em>) [<strong>małe</strong> <strong>magazyny</strong>].;"<p>Potrzebujemy <strong>małych</strong> <strong>magazynów</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2599,7 +2599,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytam (<em>kogo? czego?</em>)
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytamy (<em>kogo? czego?</em>) [<strong>białe</strong> <strong>książki</strong>].;"<p>Czytamy <strong>białych</strong> <strong>książek</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebuję (<em>kogo? czego?</em>) [<strong>mały</strong> <strong>magazyn</strong>].;"<p>Potrzebuję <strong>małego</strong> <strong>magazynu</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2620,7 +2620,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytamy (<em>kogo? czego?</em>
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytam (<em>kogo? czego?</em>) [<strong>czarny</strong> <strong>magazyn</strong>].;"<p>Czytam <strong>czarnego</strong> <strong>magazynu</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebujemy (<em>kogo? czego?</em>) [<strong>takie</strong> <strong>magazyny</strong>].;"<p>Potrzebujemy <strong>takich</strong> <strong>magazynów</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2641,7 +2641,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytam (<em>kogo? czego?</em>)
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytamy (<em>kogo? czego?</em>) [<strong>czarne</strong> <strong>magazyny</strong>].;"<p>Czytamy <strong>czarnych</strong> <strong>magazynów</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebuję (<em>kogo? czego?</em>) [<strong>taki</strong> <strong>magazyn</strong>].;"<p>Potrzebuję <strong>takiego</strong> <strong>magazynu</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2662,7 +2662,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytamy (<em>kogo? czego?</em>
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytam (<em>kogo? czego?</em>) [<strong>czarna</strong> <strong>książka</strong>].;"<p>Czytam <strong>czarnej</strong> <strong>książki</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebujemy (<em>kogo? czego?</em>) [<strong>białe</strong> <strong>książki</strong>].;"<p>Potrzebujemy <strong>białych</strong> <strong>książek</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2683,7 +2683,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytam (<em>kogo? czego?</em>)
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytamy (<em>kogo? czego?</em>) [<strong>czarne</strong> <strong>książki</strong>].;"<p>Czytamy <strong>czarnych</strong> <strong>książek</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebuję (<em>kogo? czego?</em>) [<strong>biała</strong> <strong>książka</strong>].;"<p>Potrzebuję <strong>białej</strong> <strong>książki</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2704,7 +2704,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytamy (<em>kogo? czego?</em>
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytam (<em>kogo? czego?</em>) [<strong>taki</strong> <strong>magazyn</strong>].;"<p>Czytam <strong>takiego</strong> <strong>magazynu</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebujemy (<em>kogo? czego?</em>) [<strong>czarne</strong> <strong>książki</strong>].;"<p>Potrzebujemy <strong>czarnych</strong> <strong>książek</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2725,7 +2725,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytam (<em>kogo? czego?</em>)
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytamy (<em>kogo? czego?</em>) [<strong>takie</strong> <strong>magazyny</strong>].;"<p>Czytamy <strong>takich</strong> <strong>magazynów</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebuję (<em>kogo? czego?</em>) [<strong>czarna</strong> <strong>książka</strong>].;"<p>Potrzebuję <strong>czarnej</strong> <strong>książki</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2746,7 +2746,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytamy (<em>kogo? czego?</em>
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytam (<em>kogo? czego?</em>) [<strong>taka</strong> <strong>książka</strong>].;"<p>Czytam <strong>takiej</strong> <strong>książki</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebujemy (<em>kogo? czego?</em>) [<strong>takie</strong> <strong>książki</strong>].;"<p>Potrzebujemy <strong>takich</strong> <strong>książek</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -2767,7 +2767,133 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytam (<em>kogo? czego?</em>)
 <td align=""left"">dobrych dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Czytamy (<em>kogo? czego?</em>) [<strong>takie</strong> <strong>książki</strong>].;"<p>Czytamy <strong>takich</strong> <strong>książek</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebuję (<em>kogo? czego?</em>) [<strong>taka</strong> <strong>książka</strong>].;"<p>Potrzebuję <strong>takiej</strong> <strong>książki</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrej kobiety</td>
+<td align=""left"">dobrych kobiet</td>
+</tr>
+<tr>
+<td align=""left"">dobrego dziecka</td>
+<td align=""left"">dobrych dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebujemy (<em>kogo? czego?</em>) [<strong>ciche</strong> <strong>miejsca</strong>].;"<p>Potrzebujemy <strong>cichych</strong> <strong>miejsc</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrej kobiety</td>
+<td align=""left"">dobrych kobiet</td>
+</tr>
+<tr>
+<td align=""left"">dobrego dziecka</td>
+<td align=""left"">dobrych dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebuję (<em>kogo? czego?</em>) [<strong>ciche</strong> <strong>miejsce</strong>].;"<p>Potrzebuję <strong>cichego</strong> <strong>miejsca</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrej kobiety</td>
+<td align=""left"">dobrych kobiet</td>
+</tr>
+<tr>
+<td align=""left"">dobrego dziecka</td>
+<td align=""left"">dobrych dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebujemy (<em>kogo? czego?</em>) [<strong>miłe</strong> <strong>miejsca</strong>].;"<p>Potrzebujemy <strong>miłych</strong> <strong>miejsc</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrej kobiety</td>
+<td align=""left"">dobrych kobiet</td>
+</tr>
+<tr>
+<td align=""left"">dobrego dziecka</td>
+<td align=""left"">dobrych dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebuję (<em>kogo? czego?</em>) [<strong>miłe</strong> <strong>miejsce</strong>].;"<p>Potrzebuję <strong>miłego</strong> <strong>miejsca</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrej kobiety</td>
+<td align=""left"">dobrych kobiet</td>
+</tr>
+<tr>
+<td align=""left"">dobrego dziecka</td>
+<td align=""left"">dobrych dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebujemy (<em>kogo? czego?</em>) [<strong>takie</strong> <strong>miejsca</strong>].;"<p>Potrzebujemy <strong>takich</strong> <strong>miejsc</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrej kobiety</td>
+<td align=""left"">dobrych kobiet</td>
+</tr>
+<tr>
+<td align=""left"">dobrego dziecka</td>
+<td align=""left"">dobrych dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Potrzebuję (<em>kogo? czego?</em>) [<strong>takie</strong> <strong>miejsce</strong>].;"<p>Potrzebuję <strong>takiego</strong> <strong>miejsca</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -3166,7 +3292,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Daję (<em>komu? czemu?</em>) 
 <td align=""left"">dobrym dzieciom</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzymy (<em>komu? czemu?</em>) [<strong>wysocy</strong> <strong>ludzie</strong>].;"<p>Wierzymy <strong>wysokim</strong> <strong>ludziom</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Pomagam (<em>komu? czemu?</em>) [<strong>ważny</strong> <strong>nauczyciel</strong>].;"<p>Pomagam <strong>ważnemu</strong> <strong>nauczycielowi</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -3187,7 +3313,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzymy (<em>komu? czemu?</em
 <td align=""left"">dobrym dzieciom</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzę (<em>komu? czemu?</em>) [<strong>wysoki</strong> <strong>człowiek</strong>].;"<p>Wierzę <strong>wysokiemu</strong> <strong>człowiekowi</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Pomagamy (<em>komu? czemu?</em>) [<strong>ważni</strong> <strong>nauczyciele</strong>].;"<p>Pomagamy <strong>ważnym</strong> <strong>nauczycielom</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -3208,7 +3334,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzę (<em>komu? czemu?</em>
 <td align=""left"">dobrym dzieciom</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzymy (<em>komu? czemu?</em>) [<strong>wysokie</strong> <strong>kobiety</strong>].;"<p>Wierzymy <strong>wysokim</strong> <strong>kobietom</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Pomagam (<em>komu? czemu?</em>) [<strong>ważna</strong> <strong>nauczycielka</strong>].;"<p>Pomagam <strong>ważnej</strong> <strong>nauczycielce</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -3229,7 +3355,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzymy (<em>komu? czemu?</em
 <td align=""left"">dobrym dzieciom</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzę (<em>komu? czemu?</em>) [<strong>wysoka</strong> <strong>kobieta</strong>].;"<p>Wierzę <strong>wysokiej</strong> <strong>kobiecie</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Pomagamy (<em>komu? czemu?</em>) [<strong>ważne</strong> <strong>nauczycielki</strong>].;"<p>Pomagamy <strong>ważnym</strong> <strong>nauczycielkom</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -3250,7 +3376,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzę (<em>komu? czemu?</em>
 <td align=""left"">dobrym dzieciom</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzymy (<em>komu? czemu?</em>) [<strong>wysokie</strong> <strong>dzieci</strong>].;"<p>Wierzymy <strong>wysokim</strong> <strong>dzieciom</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Pomagam (<em>komu? czemu?</em>) [<strong>ważne</strong> <strong>dziecko</strong>].;"<p>Pomagam <strong>ważnemu</strong> <strong>dziecku</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -3271,259 +3397,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzymy (<em>komu? czemu?</em
 <td align=""left"">dobrym dzieciom</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzę (<em>komu? czemu?</em>) [<strong>wysokie</strong> <strong>dziecko</strong>].;"<p>Wierzę <strong>wysokiemu</strong> <strong>dziecku</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobremu człowiekowi</td>
-<td align=""left"">dobrym ludziom</td>
-</tr>
-<tr>
-<td align=""left"">dobrej kobiecie</td>
-<td align=""left"">dobrym kobietom</td>
-</tr>
-<tr>
-<td align=""left"">dobremu dziecku</td>
-<td align=""left"">dobrym dzieciom</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzymy (<em>komu? czemu?</em>) [<strong>niscy</strong> <strong>ludzie</strong>].;"<p>Wierzymy <strong>niskim</strong> <strong>ludziom</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobremu człowiekowi</td>
-<td align=""left"">dobrym ludziom</td>
-</tr>
-<tr>
-<td align=""left"">dobrej kobiecie</td>
-<td align=""left"">dobrym kobietom</td>
-</tr>
-<tr>
-<td align=""left"">dobremu dziecku</td>
-<td align=""left"">dobrym dzieciom</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzę (<em>komu? czemu?</em>) [<strong>niski</strong> <strong>człowiek</strong>].;"<p>Wierzę <strong>niskiemu</strong> <strong>człowiekowi</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobremu człowiekowi</td>
-<td align=""left"">dobrym ludziom</td>
-</tr>
-<tr>
-<td align=""left"">dobrej kobiecie</td>
-<td align=""left"">dobrym kobietom</td>
-</tr>
-<tr>
-<td align=""left"">dobremu dziecku</td>
-<td align=""left"">dobrym dzieciom</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzymy (<em>komu? czemu?</em>) [<strong>niskie</strong> <strong>kobiety</strong>].;"<p>Wierzymy <strong>niskim</strong> <strong>kobietom</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobremu człowiekowi</td>
-<td align=""left"">dobrym ludziom</td>
-</tr>
-<tr>
-<td align=""left"">dobrej kobiecie</td>
-<td align=""left"">dobrym kobietom</td>
-</tr>
-<tr>
-<td align=""left"">dobremu dziecku</td>
-<td align=""left"">dobrym dzieciom</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzę (<em>komu? czemu?</em>) [<strong>niska</strong> <strong>kobieta</strong>].;"<p>Wierzę <strong>niskiej</strong> <strong>kobiecie</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobremu człowiekowi</td>
-<td align=""left"">dobrym ludziom</td>
-</tr>
-<tr>
-<td align=""left"">dobrej kobiecie</td>
-<td align=""left"">dobrym kobietom</td>
-</tr>
-<tr>
-<td align=""left"">dobremu dziecku</td>
-<td align=""left"">dobrym dzieciom</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzymy (<em>komu? czemu?</em>) [<strong>niskie</strong> <strong>dzieci</strong>].;"<p>Wierzymy <strong>niskim</strong> <strong>dzieciom</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobremu człowiekowi</td>
-<td align=""left"">dobrym ludziom</td>
-</tr>
-<tr>
-<td align=""left"">dobrej kobiecie</td>
-<td align=""left"">dobrym kobietom</td>
-</tr>
-<tr>
-<td align=""left"">dobremu dziecku</td>
-<td align=""left"">dobrym dzieciom</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzę (<em>komu? czemu?</em>) [<strong>niskie</strong> <strong>dziecko</strong>].;"<p>Wierzę <strong>niskiemu</strong> <strong>dziecku</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobremu człowiekowi</td>
-<td align=""left"">dobrym ludziom</td>
-</tr>
-<tr>
-<td align=""left"">dobrej kobiecie</td>
-<td align=""left"">dobrym kobietom</td>
-</tr>
-<tr>
-<td align=""left"">dobremu dziecku</td>
-<td align=""left"">dobrym dzieciom</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzymy (<em>komu? czemu?</em>) [<strong>tacy</strong> <strong>ludzie</strong>].;"<p>Wierzymy <strong>takim</strong> <strong>ludziom</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobremu człowiekowi</td>
-<td align=""left"">dobrym ludziom</td>
-</tr>
-<tr>
-<td align=""left"">dobrej kobiecie</td>
-<td align=""left"">dobrym kobietom</td>
-</tr>
-<tr>
-<td align=""left"">dobremu dziecku</td>
-<td align=""left"">dobrym dzieciom</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzę (<em>komu? czemu?</em>) [<strong>taki</strong> <strong>człowiek</strong>].;"<p>Wierzę <strong>takiemu</strong> <strong>człowiekowi</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobremu człowiekowi</td>
-<td align=""left"">dobrym ludziom</td>
-</tr>
-<tr>
-<td align=""left"">dobrej kobiecie</td>
-<td align=""left"">dobrym kobietom</td>
-</tr>
-<tr>
-<td align=""left"">dobremu dziecku</td>
-<td align=""left"">dobrym dzieciom</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzymy (<em>komu? czemu?</em>) [<strong>takie</strong> <strong>kobiety</strong>].;"<p>Wierzymy <strong>takim</strong> <strong>kobietom</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobremu człowiekowi</td>
-<td align=""left"">dobrym ludziom</td>
-</tr>
-<tr>
-<td align=""left"">dobrej kobiecie</td>
-<td align=""left"">dobrym kobietom</td>
-</tr>
-<tr>
-<td align=""left"">dobremu dziecku</td>
-<td align=""left"">dobrym dzieciom</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzę (<em>komu? czemu?</em>) [<strong>taka</strong> <strong>kobieta</strong>].;"<p>Wierzę <strong>takiej</strong> <strong>kobiecie</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobremu człowiekowi</td>
-<td align=""left"">dobrym ludziom</td>
-</tr>
-<tr>
-<td align=""left"">dobrej kobiecie</td>
-<td align=""left"">dobrym kobietom</td>
-</tr>
-<tr>
-<td align=""left"">dobremu dziecku</td>
-<td align=""left"">dobrym dzieciom</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzymy (<em>komu? czemu?</em>) [<strong>takie</strong> <strong>dzieci</strong>].;"<p>Wierzymy <strong>takim</strong> <strong>dzieciom</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobremu człowiekowi</td>
-<td align=""left"">dobrym ludziom</td>
-</tr>
-<tr>
-<td align=""left"">dobrej kobiecie</td>
-<td align=""left"">dobrym kobietom</td>
-</tr>
-<tr>
-<td align=""left"">dobremu dziecku</td>
-<td align=""left"">dobrym dzieciom</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Wierzę (<em>komu? czemu?</em>) [<strong>takie</strong> <strong>dziecko</strong>].;"<p>Wierzę <strong>takiemu</strong> <strong>dziecku</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Pomagamy (<em>komu? czemu?</em>) [<strong>ważne</strong> <strong>dzieci</strong>].;"<p>Pomagamy <strong>ważnym</strong> <strong>dzieciom</strong>.</p><p>Celownik (<em>komu? czemu?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -4174,7 +4048,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Lubię (<em>kogo? co?</em>) [<
 <td align=""left"">dobre dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>silny</strong> <strong>nauczyciel</strong>].;"<p>Mam <strong>silnego</strong> <strong>nauczyciela</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>ważny</strong> <strong>nauczyciel</strong>].;"<p>Mam <strong>ważnego</strong> <strong>nauczyciela</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -4195,7 +4069,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<str
 <td align=""left"">dobre dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<strong>silni</strong> <strong>nauczyciele</strong>].;"<p>Mamy <strong>silnych</strong> <strong>nauczycieli</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<strong>ważni</strong> <strong>nauczyciele</strong>].;"<p>Mamy <strong>ważnych</strong> <strong>nauczycieli</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -4216,7 +4090,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<st
 <td align=""left"">dobre dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>silna</strong> <strong>nauczycielka</strong>].;"<p>Mam <strong>silną</strong> <strong>nauczycielkę</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>ważna</strong> <strong>nauczycielka</strong>].;"<p>Mam <strong>ważną</strong> <strong>nauczycielkę</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -4237,7 +4111,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<str
 <td align=""left"">dobre dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<strong>silne</strong> <strong>nauczycielki</strong>].;"<p>Mamy <strong>silne</strong> <strong>nauczycielki</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<strong>ważne</strong> <strong>nauczycielki</strong>].;"<p>Mamy <strong>ważne</strong> <strong>nauczycielki</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -4258,7 +4132,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<st
 <td align=""left"">dobre dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>silne</strong> <strong>dziecko</strong>].;"<p>Mam <strong>silne</strong> <strong>dziecko</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>ważne</strong> <strong>dziecko</strong>].;"<p>Mam <strong>ważne</strong> <strong>dziecko</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -4279,133 +4153,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<str
 <td align=""left"">dobre dzieci</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<strong>silne</strong> <strong>dzieci</strong>].;"<p>Mamy <strong>silne</strong> <strong>dzieci</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobrego człowieka</td>
-<td align=""left"">dobrych ludzi</td>
-</tr>
-<tr>
-<td align=""left"">dobrą kobietę</td>
-<td align=""left"">dobre kobiety</td>
-</tr>
-<tr>
-<td align=""left"">dobre dziecko</td>
-<td align=""left"">dobre dzieci</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>słaby</strong> <strong>nauczyciel</strong>].;"<p>Mam <strong>słabego</strong> <strong>nauczyciela</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobrego człowieka</td>
-<td align=""left"">dobrych ludzi</td>
-</tr>
-<tr>
-<td align=""left"">dobrą kobietę</td>
-<td align=""left"">dobre kobiety</td>
-</tr>
-<tr>
-<td align=""left"">dobre dziecko</td>
-<td align=""left"">dobre dzieci</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<strong>słabi</strong> <strong>nauczyciele</strong>].;"<p>Mamy <strong>słabych</strong> <strong>nauczycieli</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobrego człowieka</td>
-<td align=""left"">dobrych ludzi</td>
-</tr>
-<tr>
-<td align=""left"">dobrą kobietę</td>
-<td align=""left"">dobre kobiety</td>
-</tr>
-<tr>
-<td align=""left"">dobre dziecko</td>
-<td align=""left"">dobre dzieci</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>słaba</strong> <strong>nauczycielka</strong>].;"<p>Mam <strong>słabą</strong> <strong>nauczycielkę</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobrego człowieka</td>
-<td align=""left"">dobrych ludzi</td>
-</tr>
-<tr>
-<td align=""left"">dobrą kobietę</td>
-<td align=""left"">dobre kobiety</td>
-</tr>
-<tr>
-<td align=""left"">dobre dziecko</td>
-<td align=""left"">dobre dzieci</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<strong>słabe</strong> <strong>nauczycielki</strong>].;"<p>Mamy <strong>słabe</strong> <strong>nauczycielki</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobrego człowieka</td>
-<td align=""left"">dobrych ludzi</td>
-</tr>
-<tr>
-<td align=""left"">dobrą kobietę</td>
-<td align=""left"">dobre kobiety</td>
-</tr>
-<tr>
-<td align=""left"">dobre dziecko</td>
-<td align=""left"">dobre dzieci</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>słabe</strong> <strong>dziecko</strong>].;"<p>Mam <strong>słabe</strong> <strong>dziecko</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">dobrego człowieka</td>
-<td align=""left"">dobrych ludzi</td>
-</tr>
-<tr>
-<td align=""left"">dobrą kobietę</td>
-<td align=""left"">dobre kobiety</td>
-</tr>
-<tr>
-<td align=""left"">dobre dziecko</td>
-<td align=""left"">dobre dzieci</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<strong>słabe</strong> <strong>dzieci</strong>].;"<p>Mamy <strong>słabe</strong> <strong>dzieci</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<strong>ważne</strong> <strong>dzieci</strong>].;"<p>Mamy <strong>ważne</strong> <strong>dzieci</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -4676,636 +4424,6 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<st
 <tr>
 <td align=""left"">dobre dziecko</td>
 <td align=""left"">dobre dzieci</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jestem (<em>z kim? z czym?</em>) [<strong>dobry</strong> <strong>człowiek</strong>].;"<p>Jestem <strong>dobrym</strong> <strong>człowiekiem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jesteśmy (<em>z kim? z czym?</em>) [<strong>dobrzy</strong> <strong>ludzie</strong>].;"<p>Jesteśmy <strong>dobrymi</strong> <strong>ludźmi</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jestem (<em>z kim? z czym?</em>) [<strong>dobra</strong> <strong>kobieta</strong>].;"<p>Jestem <strong>dobrą</strong> <strong>kobietą</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jesteśmy (<em>z kim? z czym?</em>) [<strong>dobre</strong> <strong>kobiety</strong>].;"<p>Jesteśmy <strong>dobrymi</strong> <strong>kobietami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jestem (<em>z kim? z czym?</em>) [<strong>dobre</strong> <strong>dziecko</strong>].;"<p>Jestem <strong>dobrym</strong> <strong>dzieckiem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jesteśmy (<em>z kim? z czym?</em>) [<strong>dobre</strong> <strong>dzieci</strong>].;"<p>Jesteśmy <strong>dobrymi</strong> <strong>dziećmi</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jestem (<em>z kim? z czym?</em>) [<strong>dobry</strong> <strong>nauczyciel</strong>].;"<p>Jestem <strong>dobrym</strong> <strong>nauczycielem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jesteśmy (<em>z kim? z czym?</em>) [<strong>dobrzy</strong> <strong>nauczyciele</strong>].;"<p>Jesteśmy <strong>dobrymi</strong> <strong>nauczycielami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jestem (<em>z kim? z czym?</em>) [<strong>dobra</strong> <strong>nauczycielka</strong>].;"<p>Jestem <strong>dobrą</strong> <strong>nauczycielką</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jesteśmy (<em>z kim? z czym?</em>) [<strong>dobre</strong> <strong>nauczycielki</strong>].;"<p>Jesteśmy <strong>dobrymi</strong> <strong>nauczycielkami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jestem (<em>z kim? z czym?</em>) [<strong>zły</strong> <strong>człowiek</strong>].;"<p>Jestem <strong>złym</strong> <strong>człowiekiem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jesteśmy (<em>z kim? z czym?</em>) [<strong>źli</strong> <strong>ludzie</strong>].;"<p>Jesteśmy <strong>złymi</strong> <strong>ludźmi</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jestem (<em>z kim? z czym?</em>) [<strong>zła</strong> <strong>kobieta</strong>].;"<p>Jestem <strong>złą</strong> <strong>kobietą</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jesteśmy (<em>z kim? z czym?</em>) [<strong>złe</strong> <strong>kobiety</strong>].;"<p>Jesteśmy <strong>złymi</strong> <strong>kobietami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jestem (<em>z kim? z czym?</em>) [<strong>złe</strong> <strong>dziecko</strong>].;"<p>Jestem <strong>złym</strong> <strong>dzieckiem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jesteśmy (<em>z kim? z czym?</em>) [<strong>złe</strong> <strong>dzieci</strong>].;"<p>Jesteśmy <strong>złymi</strong> <strong>dziećmi</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jestem (<em>z kim? z czym?</em>) [<strong>zły</strong> <strong>nauczyciel</strong>].;"<p>Jestem <strong>złym</strong> <strong>nauczycielem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jesteśmy (<em>z kim? z czym?</em>) [<strong>źli</strong> <strong>nauczyciele</strong>].;"<p>Jesteśmy <strong>złymi</strong> <strong>nauczycielami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jestem (<em>z kim? z czym?</em>) [<strong>zła</strong> <strong>nauczycielka</strong>].;"<p>Jestem <strong>złą</strong> <strong>nauczycielką</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jesteśmy (<em>z kim? z czym?</em>) [<strong>złe</strong> <strong>nauczycielki</strong>].;"<p>Jesteśmy <strong>złymi</strong> <strong>nauczycielkami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jestem (<em>z kim? z czym?</em>) [<strong>taki</strong> <strong>człowiek</strong>].;"<p>Jestem <strong>takim</strong> <strong>człowiekiem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jesteśmy (<em>z kim? z czym?</em>) [<strong>tacy</strong> <strong>ludzie</strong>].;"<p>Jesteśmy <strong>takimi</strong> <strong>ludźmi</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jestem (<em>z kim? z czym?</em>) [<strong>taka</strong> <strong>kobieta</strong>].;"<p>Jestem <strong>taką</strong> <strong>kobietą</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jesteśmy (<em>z kim? z czym?</em>) [<strong>takie</strong> <strong>kobiety</strong>].;"<p>Jesteśmy <strong>takimi</strong> <strong>kobietami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jestem (<em>z kim? z czym?</em>) [<strong>takie</strong> <strong>dziecko</strong>].;"<p>Jestem <strong>takim</strong> <strong>dzieckiem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jesteśmy (<em>z kim? z czym?</em>) [<strong>takie</strong> <strong>dzieci</strong>].;"<p>Jesteśmy <strong>takimi</strong> <strong>dziećmi</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jestem (<em>z kim? z czym?</em>) [<strong>taki</strong> <strong>nauczyciel</strong>].;"<p>Jestem <strong>takim</strong> <strong>nauczycielem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jesteśmy (<em>z kim? z czym?</em>) [<strong>tacy</strong> <strong>nauczyciele</strong>].;"<p>Jesteśmy <strong>takimi</strong> <strong>nauczycielami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jestem (<em>z kim? z czym?</em>) [<strong>taka</strong> <strong>nauczycielka</strong>].;"<p>Jestem <strong>taką</strong> <strong>nauczycielką</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
-</tr>
-</tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Jesteśmy (<em>z kim? z czym?</em>) [<strong>takie</strong> <strong>nauczycielki</strong>].;"<p>Jesteśmy <strong>takimi</strong> <strong>nauczycielkami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
-<table>
-<thead>
-<tr>
-<th align=""left"">lp</th>
-<th align=""left"">lm</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align=""left"">z dobrym człowiekiem</td>
-<td align=""left"">z dobrymi ludźmi</td>
-</tr>
-<tr>
-<td align=""left"">z dobrą kobietą</td>
-<td align=""left"">z dobrymi kobietami</td>
-</tr>
-<tr>
-<td align=""left"">z dobrym dzieckiem</td>
-<td align=""left"">z dobrymi dziećmi</td>
 </tr>
 </tbody></table>"
 Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Rozmawiam z (<em>z kim? z czym?</em>) [<strong>dobry</strong> <strong>człowiek</strong>].;"<p>Rozmawiam z <strong>dobrym</strong> <strong>człowiekiem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
@@ -5918,6 +5036,426 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Rozmawiam z (<em>z kim? z czym
 </tr>
 </tbody></table>"
 Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Rozmawiamy z (<em>z kim? z czym?</em>) [<strong>takie</strong> <strong>nauczycielki</strong>].;"<p>Rozmawiamy z <strong>takimi</strong> <strong>nauczycielkami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesujemy się (<em>z kim? z czym?</em>) [<strong>silni</strong> <strong>ludzie</strong>].;"<p>Interesujemy się <strong>silnymi</strong> <strong>ludźmi</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesuję się (<em>z kim? z czym?</em>) [<strong>silny</strong> <strong>człowiek</strong>].;"<p>Interesuję się <strong>silnym</strong> <strong>człowiekiem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesujemy się (<em>z kim? z czym?</em>) [<strong>silne</strong> <strong>kobiety</strong>].;"<p>Interesujemy się <strong>silnymi</strong> <strong>kobietami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesuję się (<em>z kim? z czym?</em>) [<strong>silna</strong> <strong>kobieta</strong>].;"<p>Interesuję się <strong>silną</strong> <strong>kobietą</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesujemy się (<em>z kim? z czym?</em>) [<strong>silne</strong> <strong>dzieci</strong>].;"<p>Interesujemy się <strong>silnymi</strong> <strong>dziećmi</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesuję się (<em>z kim? z czym?</em>) [<strong>silne</strong> <strong>dziecko</strong>].;"<p>Interesuję się <strong>silnym</strong> <strong>dzieckiem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesujemy się (<em>z kim? z czym?</em>) [<strong>silni</strong> <strong>nauczyciele</strong>].;"<p>Interesujemy się <strong>silnymi</strong> <strong>nauczycielami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesuję się (<em>z kim? z czym?</em>) [<strong>silny</strong> <strong>nauczyciel</strong>].;"<p>Interesuję się <strong>silnym</strong> <strong>nauczycielem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesujemy się (<em>z kim? z czym?</em>) [<strong>silne</strong> <strong>nauczycielki</strong>].;"<p>Interesujemy się <strong>silnymi</strong> <strong>nauczycielkami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesuję się (<em>z kim? z czym?</em>) [<strong>silna</strong> <strong>nauczycielka</strong>].;"<p>Interesuję się <strong>silną</strong> <strong>nauczycielką</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesujemy się (<em>z kim? z czym?</em>) [<strong>słabi</strong> <strong>ludzie</strong>].;"<p>Interesujemy się <strong>słabymi</strong> <strong>ludźmi</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesuję się (<em>z kim? z czym?</em>) [<strong>słaby</strong> <strong>człowiek</strong>].;"<p>Interesuję się <strong>słabym</strong> <strong>człowiekiem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesujemy się (<em>z kim? z czym?</em>) [<strong>słabe</strong> <strong>kobiety</strong>].;"<p>Interesujemy się <strong>słabymi</strong> <strong>kobietami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesuję się (<em>z kim? z czym?</em>) [<strong>słaba</strong> <strong>kobieta</strong>].;"<p>Interesuję się <strong>słabą</strong> <strong>kobietą</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesujemy się (<em>z kim? z czym?</em>) [<strong>słabe</strong> <strong>dzieci</strong>].;"<p>Interesujemy się <strong>słabymi</strong> <strong>dziećmi</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesuję się (<em>z kim? z czym?</em>) [<strong>słabe</strong> <strong>dziecko</strong>].;"<p>Interesuję się <strong>słabym</strong> <strong>dzieckiem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesujemy się (<em>z kim? z czym?</em>) [<strong>słabi</strong> <strong>nauczyciele</strong>].;"<p>Interesujemy się <strong>słabymi</strong> <strong>nauczycielami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesuję się (<em>z kim? z czym?</em>) [<strong>słaby</strong> <strong>nauczyciel</strong>].;"<p>Interesuję się <strong>słabym</strong> <strong>nauczycielem</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesujemy się (<em>z kim? z czym?</em>) [<strong>słabe</strong> <strong>nauczycielki</strong>].;"<p>Interesujemy się <strong>słabymi</strong> <strong>nauczycielkami</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">z dobrym człowiekiem</td>
+<td align=""left"">z dobrymi ludźmi</td>
+</tr>
+<tr>
+<td align=""left"">z dobrą kobietą</td>
+<td align=""left"">z dobrymi kobietami</td>
+</tr>
+<tr>
+<td align=""left"">z dobrym dzieckiem</td>
+<td align=""left"">z dobrymi dziećmi</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Interesuję się (<em>z kim? z czym?</em>) [<strong>słaba</strong> <strong>nauczycielka</strong>].;"<p>Interesuję się <strong>słabą</strong> <strong>nauczycielką</strong>.</p><p>Narzędnik (<em>z kim? z czym?</em>)</p>
 <table>
 <thead>
 <tr>
