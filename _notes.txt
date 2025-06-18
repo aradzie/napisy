@@ -4174,6 +4174,258 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Lubię (<em>kogo? co?</em>) [<
 <td align=""left"">dobre dzieci</td>
 </tr>
 </tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>silny</strong> <strong>nauczyciel</strong>].;"<p>Mam <strong>silnego</strong> <strong>nauczyciela</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrą kobietę</td>
+<td align=""left"">dobre kobiety</td>
+</tr>
+<tr>
+<td align=""left"">dobre dziecko</td>
+<td align=""left"">dobre dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<strong>silni</strong> <strong>nauczyciele</strong>].;"<p>Mamy <strong>silnych</strong> <strong>nauczycieli</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrą kobietę</td>
+<td align=""left"">dobre kobiety</td>
+</tr>
+<tr>
+<td align=""left"">dobre dziecko</td>
+<td align=""left"">dobre dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>silna</strong> <strong>nauczycielka</strong>].;"<p>Mam <strong>silną</strong> <strong>nauczycielkę</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrą kobietę</td>
+<td align=""left"">dobre kobiety</td>
+</tr>
+<tr>
+<td align=""left"">dobre dziecko</td>
+<td align=""left"">dobre dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<strong>silne</strong> <strong>nauczycielki</strong>].;"<p>Mamy <strong>silne</strong> <strong>nauczycielki</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrą kobietę</td>
+<td align=""left"">dobre kobiety</td>
+</tr>
+<tr>
+<td align=""left"">dobre dziecko</td>
+<td align=""left"">dobre dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>silne</strong> <strong>dziecko</strong>].;"<p>Mam <strong>silne</strong> <strong>dziecko</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrą kobietę</td>
+<td align=""left"">dobre kobiety</td>
+</tr>
+<tr>
+<td align=""left"">dobre dziecko</td>
+<td align=""left"">dobre dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<strong>silne</strong> <strong>dzieci</strong>].;"<p>Mamy <strong>silne</strong> <strong>dzieci</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrą kobietę</td>
+<td align=""left"">dobre kobiety</td>
+</tr>
+<tr>
+<td align=""left"">dobre dziecko</td>
+<td align=""left"">dobre dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>słaby</strong> <strong>nauczyciel</strong>].;"<p>Mam <strong>słabego</strong> <strong>nauczyciela</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrą kobietę</td>
+<td align=""left"">dobre kobiety</td>
+</tr>
+<tr>
+<td align=""left"">dobre dziecko</td>
+<td align=""left"">dobre dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<strong>słabi</strong> <strong>nauczyciele</strong>].;"<p>Mamy <strong>słabych</strong> <strong>nauczycieli</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrą kobietę</td>
+<td align=""left"">dobre kobiety</td>
+</tr>
+<tr>
+<td align=""left"">dobre dziecko</td>
+<td align=""left"">dobre dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>słaba</strong> <strong>nauczycielka</strong>].;"<p>Mam <strong>słabą</strong> <strong>nauczycielkę</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrą kobietę</td>
+<td align=""left"">dobre kobiety</td>
+</tr>
+<tr>
+<td align=""left"">dobre dziecko</td>
+<td align=""left"">dobre dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<strong>słabe</strong> <strong>nauczycielki</strong>].;"<p>Mamy <strong>słabe</strong> <strong>nauczycielki</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrą kobietę</td>
+<td align=""left"">dobre kobiety</td>
+</tr>
+<tr>
+<td align=""left"">dobre dziecko</td>
+<td align=""left"">dobre dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>słabe</strong> <strong>dziecko</strong>].;"<p>Mam <strong>słabe</strong> <strong>dziecko</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrą kobietę</td>
+<td align=""left"">dobre kobiety</td>
+</tr>
+<tr>
+<td align=""left"">dobre dziecko</td>
+<td align=""left"">dobre dzieci</td>
+</tr>
+</tbody></table>"
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mamy (<em>kogo? co?</em>) [<strong>słabe</strong> <strong>dzieci</strong>].;"<p>Mamy <strong>słabe</strong> <strong>dzieci</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
+<table>
+<thead>
+<tr>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">dobrego człowieka</td>
+<td align=""left"">dobrych ludzi</td>
+</tr>
+<tr>
+<td align=""left"">dobrą kobietę</td>
+<td align=""left"">dobre kobiety</td>
+</tr>
+<tr>
+<td align=""left"">dobre dziecko</td>
+<td align=""left"">dobre dzieci</td>
+</tr>
+</tbody></table>"
 Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mam (<em>kogo? co?</em>) [<strong>miły</strong> <strong>nauczyciel</strong>].;"<p>Mam <strong>miłego</strong> <strong>nauczyciela</strong>.</p><p>Biernik (<em>kogo? co?</em>)</p>
 <table>
 <thead>
@@ -6526,7 +6778,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Mówię o (<em>o kim? o czym?<
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>dobrzy</strong> <strong>ludzie</strong>].;"<p>Piszemy o <strong>dobrych</strong> <strong>ludziach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>silni</strong> <strong>ludzie</strong>].;"<p>Piszemy o <strong>silnych</strong> <strong>ludziach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6547,7 +6799,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?<
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>dobry</strong> <strong>człowiek</strong>].;"<p>Piszę o <strong>dobrym</strong> <strong>człowieku</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>silny</strong> <strong>człowiek</strong>].;"<p>Piszę o <strong>silnym</strong> <strong>człowieku</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6568,7 +6820,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>dobre</strong> <strong>kobiety</strong>].;"<p>Piszemy o <strong>dobrych</strong> <strong>kobietach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>silne</strong> <strong>kobiety</strong>].;"<p>Piszemy o <strong>silnych</strong> <strong>kobietach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6589,7 +6841,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?<
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>dobra</strong> <strong>kobieta</strong>].;"<p>Piszę o <strong>dobrej</strong> <strong>kobiecie</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>silna</strong> <strong>kobieta</strong>].;"<p>Piszę o <strong>silnej</strong> <strong>kobiecie</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6610,7 +6862,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>dobre</strong> <strong>dzieci</strong>].;"<p>Piszemy o <strong>dobrych</strong> <strong>dzieciach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>silne</strong> <strong>dzieci</strong>].;"<p>Piszemy o <strong>silnych</strong> <strong>dzieciach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6631,7 +6883,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?<
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>dobre</strong> <strong>dziecko</strong>].;"<p>Piszę o <strong>dobrym</strong> <strong>dziecku</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>silne</strong> <strong>dziecko</strong>].;"<p>Piszę o <strong>silnym</strong> <strong>dziecku</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6652,7 +6904,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>dobrzy</strong> <strong>nauczyciele</strong>].;"<p>Piszemy o <strong>dobrych</strong> <strong>nauczycielach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>silni</strong> <strong>nauczyciele</strong>].;"<p>Piszemy o <strong>silnych</strong> <strong>nauczycielach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6673,7 +6925,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?<
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>dobry</strong> <strong>nauczyciel</strong>].;"<p>Piszę o <strong>dobrym</strong> <strong>nauczycielu</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>silny</strong> <strong>nauczyciel</strong>].;"<p>Piszę o <strong>silnym</strong> <strong>nauczycielu</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6694,7 +6946,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>dobre</strong> <strong>nauczycielki</strong>].;"<p>Piszemy o <strong>dobrych</strong> <strong>nauczycielkach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>silne</strong> <strong>nauczycielki</strong>].;"<p>Piszemy o <strong>silnych</strong> <strong>nauczycielkach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6715,7 +6967,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?<
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>dobra</strong> <strong>nauczycielka</strong>].;"<p>Piszę o <strong>dobrej</strong> <strong>nauczycielce</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>silna</strong> <strong>nauczycielka</strong>].;"<p>Piszę o <strong>silnej</strong> <strong>nauczycielce</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6736,7 +6988,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>źli</strong> <strong>ludzie</strong>].;"<p>Piszemy o <strong>złych</strong> <strong>ludziach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>słabi</strong> <strong>ludzie</strong>].;"<p>Piszemy o <strong>słabych</strong> <strong>ludziach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6757,7 +7009,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?<
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>zły</strong> <strong>człowiek</strong>].;"<p>Piszę o <strong>złym</strong> <strong>człowieku</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>słaby</strong> <strong>człowiek</strong>].;"<p>Piszę o <strong>słabym</strong> <strong>człowieku</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6778,7 +7030,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>złe</strong> <strong>kobiety</strong>].;"<p>Piszemy o <strong>złych</strong> <strong>kobietach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>słabe</strong> <strong>kobiety</strong>].;"<p>Piszemy o <strong>słabych</strong> <strong>kobietach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6799,7 +7051,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?<
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>zła</strong> <strong>kobieta</strong>].;"<p>Piszę o <strong>złej</strong> <strong>kobiecie</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>słaba</strong> <strong>kobieta</strong>].;"<p>Piszę o <strong>słabej</strong> <strong>kobiecie</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6820,7 +7072,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>złe</strong> <strong>dzieci</strong>].;"<p>Piszemy o <strong>złych</strong> <strong>dzieciach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>słabe</strong> <strong>dzieci</strong>].;"<p>Piszemy o <strong>słabych</strong> <strong>dzieciach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6841,7 +7093,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?<
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>złe</strong> <strong>dziecko</strong>].;"<p>Piszę o <strong>złym</strong> <strong>dziecku</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>słabe</strong> <strong>dziecko</strong>].;"<p>Piszę o <strong>słabym</strong> <strong>dziecku</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6862,7 +7114,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>źli</strong> <strong>nauczyciele</strong>].;"<p>Piszemy o <strong>złych</strong> <strong>nauczycielach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>słabi</strong> <strong>nauczyciele</strong>].;"<p>Piszemy o <strong>słabych</strong> <strong>nauczycielach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6883,7 +7135,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?<
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>zły</strong> <strong>nauczyciel</strong>].;"<p>Piszę o <strong>złym</strong> <strong>nauczycielu</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>słaby</strong> <strong>nauczyciel</strong>].;"<p>Piszę o <strong>słabym</strong> <strong>nauczycielu</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6904,7 +7156,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>złe</strong> <strong>nauczycielki</strong>].;"<p>Piszemy o <strong>złych</strong> <strong>nauczycielkach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?</em>) [<strong>słabe</strong> <strong>nauczycielki</strong>].;"<p>Piszemy o <strong>słabych</strong> <strong>nauczycielkach</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
@@ -6925,7 +7177,7 @@ Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszemy o (<em>o kim? o czym?<
 <td align=""left"">o dobrych dzieciach</td>
 </tr>
 </tbody></table>"
-Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>zła</strong> <strong>nauczycielka</strong>].;"<p>Piszę o <strong>złej</strong> <strong>nauczycielce</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
+Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Piszę o (<em>o kim? o czym?</em>) [<strong>słaba</strong> <strong>nauczycielka</strong>].;"<p>Piszę o <strong>słabej</strong> <strong>nauczycielce</strong>.</p><p>Miejscownik (<em>o kim? o czym?</em>)</p>
 <table>
 <thead>
 <tr>
