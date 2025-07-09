@@ -9,17 +9,14 @@
 это в основном страхи|to są w głownie lęki
 он выплатил только половину долга|spłacił dopiero połowę długu
 он прошел этот путь очень быстро|przeszedł tę ścieżkę bardzo szybko
-и что меня исцелило|a co mnie uleczyło
 это сложнее|to jest trudniejsze
 это проще|to jest łatwiejsze
 кроме моей дочери, здесь нет ни одной женщины!|oprócz mojej córki nie ma tu żadnej kobiety!
 не хочу показаться жестоким|nie zamierzam brzmieć okrutnie
 я делаю это по своему|robię to po swojemu
-надо отдать должное Рафалу|muszę zwrócić honor Rafałowi
 с которым он боролся всю свою жизнь|przeciw którege przez życie całe walczył
 spaced repetition|powtarzanie w odstępach
 отложить все дела|odłożyć wszystko na bok
-каждое утро он целует свое отражение в зеркале|każdego ranka całuje swoje odbicie w lustrze
 делается предположение|robione jest założenie
 ситуация по-прежнему сложная|sytuacja nadal jest trudna
 из имеющихся на рынке и типа контракта|spośród dostępnych na rynku i rodzaju umowy
@@ -32,10 +29,7 @@ spaced repetition|powtarzanie w odstępach
 президент намерен наложить вето|prezydent zamierza zawetować
 довести до автоматизма|doprowadzić do automatyzmu
 как вы думаете, что там?|co według was tam jest?
-вокруг солнца|wokół słońca
 люди становятся жертвами своей судьбы|ludzie padają ofiarami swojego losu
-были ли среди жертв люди?|a czy wśród ofiar byli ludzie?
-польша уже сегодня воспринимается|polska już dziś jest postrzegana
 именно об этом и шла речь|no właśnie dokładnie o to chodziło
 с его точки зрения|z jego punktu widzenia
 это явление становится все более распространенным|zjawisko to staje się coraz bardziej powszechne
@@ -70,9 +64,6 @@ it is so obvious in hindsight|z perspektywy czasu jest to takie oczywiste
 ни при каких обстоятельствах|pod żadnym pozorem
 убеди самого себя|przekonaj się sam
 огромный рост поддержки|olbrzymi wzrost poparcia
-надо просто перестать|musisz się po prostu zatrzymać
-чтобы мы серьезно начали разрушать барьеры на|byśmy na poważnie wzięli się za znoszenie barier
-больше не питает иллюзий|nie ma już złudzeń
 во многих отношениях оплот нормальности|w wielu kwestiach ostoją normalności
 я этого не отрицаю|nie zaprzeczam temu
 гораздо хуже|dużo gorzej
@@ -84,17 +75,14 @@ telling a lie, refuting a lie|powiedzenie kłamstwa, obalenie kłamstwa
 убеди самого себя|przekonaj się sam
 они были правы|mieli rację
 соединяется с другим словом|łączy się z innym wyrazem
-he has won the battle|wygrał bitwę
 я читал довольно много|czytałem całkiem sporo
 навсегда|na zawsze
-это нарушает мои права|to narusza moje prawa
 я полагаю|wydaję mi się
 ты можешь сделать такое же приложение|możesz stworzyć taką samą aplikację
 самые богатые люди, с которыми я когда-либо имел дело|najbogatsi ludzie, z którymi miałem do czynienia
 я пытаюсь что-то сделать|próbuję coś zrobić
 я уже все забыл|już wszystko zapomniałem
 они не понимают, что кому-то это может быть неинтересно|nie ogarną, że kogoś może nie interesować
-шло к нам шаг за шагом|szło ku nam krok za krokiem
 и я начал задаваться вопросом|i zacząłem się zastanawiać
 огромный шаг вперёд|ogromny krok naprzód
 корректировка договорной мощности|dostosowanie mocy umownej
@@ -103,7 +91,7 @@ he has won the battle|wygrał bitwę
 его невозможно оскорбить|nie da się go urazić
 чтобы доказать, что безопасность больше не существует|aby udowodnić, że bezpieczeństwo już nie istnieje
 рано или поздно ты это поймешь|prędzej czy później to zrozumiesz
-people harm themselves|ludzie robią sobie krzywdę
+люди причиняют себе вред|ludzie robią sobie krzywdę
 максимальная грузоподъемность|maksymalna ładowność
 сколько времени он тратит на|ile czasu spędza na
 однажды ты победишь|pewnego dnia wygrasz
@@ -117,7 +105,7 @@ people harm themselves|ludzie robią sobie krzywdę
 but I doubt that he has such a rubber spine|ale wątpię by on miał taki kręgosłup z gumy
 не так много интересных материалов|nie ma zbyt wiele interesujących materiałów
 выступил намного хуже|wypadł znacznie gorzej
-в отличии от нас, они|w przeciwieństwie do nas, oni
+в отличии от нас|w przeciwieństwie do nas
 брак по расчету|malozenstwo z rozsądku
 спорили часами на пролет|kłóciliśmy się godzinami
 любое выражение типа|dowolne wyrażenie typu
@@ -127,8 +115,8 @@ but I doubt that he has such a rubber spine|ale wątpię by on miał taki kręgo
 он моложе тебя|on jest młodszy od ciebie
 всего к оплате|do zapłaty łącznie
 и без последствий|i bez konsekwencji
-заявляют о своей готовности вступить в армию|deklaruje chęć wstąpienia do armii,
-вопреки видимости, не завершил кампанию|wbrew pozorom nie skończył kampanii
+заявляют о своей готовности вступить в армию|deklaruje chęć wstąpienia do armii
+вопреки видимости не завершил кампанию|wbrew pozorom nie skończył kampanii
 ты ещё увидишь|zobaczysz później
 это не совпадение|nie jest to przypadek
 мне хватило одного недостающего элемента|mnie wystarczył jeden brakujący element
@@ -170,7 +158,6 @@ estimated reading|odczyt szacowany
 война почти незбежна|wojna jest prawie nieunikniona
 такие люди выдают столько тезисов|tacy ludzie rzucają tyloma tezami
 он сделает еще лучше|poradzi sobie jeszcze lepiej
-я не согласен|nie zgadzam się
 и вообще этого следует избегать|i na ogół powinno się tego unikać
 использует против него язык ненависти|stosuje wobec niego mowę nienawiści
 в моем ближайшем окружении|w moim najbliższym środowisku
@@ -178,10 +165,22 @@ estimated reading|odczyt szacowany
 каждый раз, когда ты что-то делаешь|za każdym razem, gdy coś robisz
 меня удивляет, как он получил подписи|zastanawia mnie jak zdobył podpisy
 мне все равно|nie obchodzi mnie to
-пойти на уступки|robić ustępstwa
 и почти все нормально|i prawie wszystko jest normalne
 откуда это начинается - куда это идет|skąd wyrusza – dokąd zmierza
 нанести непоправимый вред|spowodować nieodwracalną szkodę
 без колебаний|bez zająknięcia
 они такие же самые|są tacy sami
 выращивать овощи|uprawiać warzywa
+обоснованность конкретных действий|słuszności określonych działań
+необходимое оборудование|niezbędny sprzęt
+помогаю достичь намеченной цели|pomagam osiągnąć zamierzony cel
+он скажет все что надо|powie wszystko, co trzeba
+я бы сказал по другому|powiedziałbym to inaczej
+скопировать текст|skopiować tekst
+выделить текст|zaznaczyć tekst
+работа с людьми — моя стихия|praca z ludźmi to mój żywioł
+проверка|sprawdzanie
+деятельность|czynności
+соблюдение|przestrzeganie
+необходимая информация|niezbędne informacje
+они сделали такой вывод|doszli do takiego wniosku

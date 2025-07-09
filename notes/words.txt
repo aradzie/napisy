@@ -13,13 +13,31 @@ dopiero
 - *Dziś dopiero poznałem, czym dla mnie może być kobieta.*
 ===
 
-все еще/still
+рано,раньше
+---
+wcześniej
+
+- *Ja przyszedłem za wcześnie.*
+- *Kończę dzisiaj wcześniej.*
+- *Mam o wiele lepsze karty niż wcześniej.*
+===
+
+все еще
 ---
 nadal
 
 - *Jeżeli ta kobieta jest nadal żywa?*
 - *I cała masa innych ludzi nadal by żyli.*
 - *A my nadal tu będziemy?*
+===
+
+до сих пор
+---
+wciąż
+
+- *Jest coś czego wciąż nie rozumiem!*
+- *Książki wciąż nie przeczytałem.*
+- *Mamy czas, bo wciąż nie masz podpisu sędziego.*
 ===
 
 потому что/because
@@ -94,15 +112,6 @@ lecz
 - *Lecz by żył wiecznie.*
 ===
 
-исторический/historic
----
-zabytkowy
-
-- *Aby uzyskać status budynku zabytkowego musimy...*
-- *Tutaj, na zabytkowych dachach.*
-- *Sprzedałam części do zabytkowego motocykla.*
-===
-
 эффект/effect
 ---
 skutek
@@ -121,15 +130,6 @@ wizerunek
 - *Niektórzy próbują zniszczyć wizerunek naszego kraju.*
 ===
 
-до сих пор/still
----
-wciąż
-
-- *Jest coś czego wciąż nie rozumiem!*
-- *Książki wciąż nie przeczytałem.*
-- *Mamy czas, bo wciąż nie masz podpisu sędziego.*
-===
-
 to look/смотреть
 ---
 spojrzeć
@@ -137,15 +137,6 @@ spojrzeć
 - *I nawet na niego nie spojrzeć.*
 - *Szykowałam się i spojrzałam w lustro.*
 - *Ja przynajmniej spojrzę ci w oczy.*
-===
-
-до/before
----
-wcześniej
-
-- *Ja przyszedłem za wcześnie.*
-- *Kończę dzisiaj wcześniej.*
-- *Mam o wiele lepsze karty niż wcześniej.*
 ===
 
 в соответствии с/according to
@@ -413,6 +404,11 @@ Słowo „*zamierzać*” oznacza mieć zamiar coś zrobić, czyli planować jak
 !# wydawać
 !# wypadać
 
+!# czasochłonny
+!# niezbędny
+!# niezdarny
+!# przyjazny
+!# uprzejmy
 !# właściwy
 !# wspaniały
 
@@ -435,3 +431,12 @@ Słowo „*zamierzać*” oznacza mieć zamiar coś zrobić, czyli planować jak
 
 !# nieprawdaż
 !# gdziekolwiek
+
+!# проверка|sprawdzanie
+!# деятельность|czynności
+!# соблюдение|przestrzeganie
+!# обручение|zaangażowanie
+!# страх|lęk
+!# повышение|awans
+!# щедрый|szczodry/hojny
+!# добросовестность|sumienność
