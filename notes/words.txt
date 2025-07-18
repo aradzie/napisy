@@ -398,12 +398,14 @@ Słowo „*zamierzać*” oznacza mieć zamiar coś zrobić, czyli planować jak
 **Synonimy**: planować, mieć zamiar, nosić się z zamiarem.
 ===
 
-!# bać się
-!# uważać
-!# uznawać
-!# wydawać
-!# wypadać
+!# быть осторожным/uważać
+!# распознавать/uznawać
+!# подстрекать/wpieniać
+!# тратить/wydawać
+!# выпадать/wypadać
+!# предполагать/zgadywać
 
+!# naczelny
 !# czasochłonny
 !# niezbędny
 !# niezdarny
@@ -411,11 +413,26 @@ Słowo „*zamierzać*” oznacza mieć zamiar coś zrobić, czyli planować jak
 !# uprzejmy
 !# właściwy
 !# wspaniały
+!# щедрый|szczodry/hojny
+!# добросовестный|sumienny
 
+!# obecność
 !# okoliczności
+!# skuteczność
 !# szacunek
 !# wezwanie
 !# zaszczyt
+!# założenie
+!# деятельность|czynności
+!# добросовестность/sumienność
+!# обручение???|zaangażowanie
+!# повышение|awans
+!# проверка|sprawdzanie
+!# соблюдение|przestrzeganie
+!# создание|utworzenie
+!# страх|lęk
+
+!# достигать/osiągnąć
 
 !# ciągle
 !# coraz
@@ -423,20 +440,13 @@ Słowo „*zamierzać*” oznacza mieć zamiar coś zrobić, czyli planować jak
 !# nieco
 !# obecne
 !# nawzajem
+!# owszem
 
 !# stąd/stamtąd/skąd/dokąd
 !# tamtego
 !# więc
 !# żebyście
-
 !# nieprawdaż
 !# gdziekolwiek
 
-!# проверка|sprawdzanie
-!# деятельность|czynności
-!# соблюдение|przestrzeganie
-!# обручение|zaangażowanie
-!# страх|lęk
-!# повышение|awans
-!# щедрый|szczodry/hojny
-!# добросовестность|sumienność
+!# Wspierać/Popierać https://pl.hinative.com/questions/15507513

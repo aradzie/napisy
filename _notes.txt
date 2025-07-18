@@ -380,27 +380,26 @@ Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Извине
 Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Это запах победы.;To zapach zwycięstwa.
 Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Хотя, конечно, из этого ничего не выйдет.;Choć oczywiście do niczego nie dojdzie.
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я не сидел без дела;nie siedziałem bezczynnie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;стараюсь изо всех сил;staram się jak mogę
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я стараюсь изо всех сил;staram się jak mogę
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;чем дальше, тем больше смысла;im dalej, tym więcej sensu
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это происходит один раз в год;zdarza się to raz w roku
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;самые редко используемые слова;najmniej używane słowa
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;самые часто используемые слова;najczęściej używane słowa
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;пойти на уступки;robić ustępstwa
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;здесь мы имели дело с;tutaj mieliśmy do czynienia z
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это в основном страхи;to są w głownie lęki
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он выплатил только половину долга;spłacił dopiero połowę długu
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он прошел этот путь очень быстро;przeszedł tę ścieżkę bardzo szybko
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это сложнее;to jest trudniejsze
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это проще;to jest łatwiejsze
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;кроме моей дочери, здесь нет ни одной женщины!;oprócz mojej córki nie ma tu żadnej kobiety!
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;кроме моей дочери;oprócz mojej córki
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;здесь нет ни одной женщины;nie ma tu żadnej kobiety
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;не хочу показаться жестоким;nie zamierzam brzmieć okrutnie
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я делаю это по своему;robię to po swojemu
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;с которым он боролся всю свою жизнь;przeciw którege przez życie całe walczył
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;spaced repetition;powtarzanie w odstępach
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;отложить все дела;odłożyć wszystko na bok
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;делается предположение;robione jest założenie
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;ситуация по-прежнему сложная;sytuacja nadal jest trudna
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;из имеющихся на рынке и типа контракта;spośród dostępnych na rynku i rodzaju umowy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;среди доступных на рынке и типа контракта;spośród dostępnych na rynku i rodzaju umowy
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;как раньше уже не будет;już nie będzie tak jak kiedyś
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;мне кажется;coś mi się wydaje
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;их постоянно опровергать;na bieżąco ich obalać
@@ -415,27 +414,26 @@ Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;именно �
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;с его точки зрения;z jego punktu widzenia
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это явление становится все более распространенным;zjawisko to staje się coraz bardziej powszechne
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;пока не попробуешь не узнаешь;dopóki nie spróbujesz, nie będziesz wiedział
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он ошибается;on się myli
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;и все больше заявляют о готовности покинуть страну;a więcej zapowiada opuszczenie kraju
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он живет здесь только с января;mieszka tu dopiero od stycznia
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;кажется, гораздо разумнее подождать;dużo bardziej rozsądnym wydaje się czekanie
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;второй день подряд;drugi dzień z rzędu
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;возможность заключения договора;możliwość zawarcia umowy
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;подтвердил, что восхищается им;potwierdził, że go podziwia
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;постараюсь не забыть;postaram się nie zapomnieć
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;и столкнулся с реальностью;i zderzyłem się z rzeczywistością
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;та становишся таким же самым;i stajesz się taki sam
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;столкнулся с реальностью;zderzyłem się z rzeczywistością
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;становишся таким же самым;stajesz się taki sam
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я редко помню свои сны;rzadko pamiętam swoje sny
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;но что заставило меня обратиться?;ale co mnie nawróciło?
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;пока что о тех, кто работает в поле;do tej pory wobec pracujących na polu
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я вспомнил о тебе;pamiętałem o tobie
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;потому что я встретил талантливых учителей;bo trafiłem na zdolnych nauczycieli
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;между ними нет никакой разницы;nie ma między nimi żadnej różnicy
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;в отличии от других;w przeciwieństwie do innych
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я забыл;zapomniałem
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;постараюсь не забыть;postaram się nie zapomnieć
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я уже все забыл;już wszystko zapomniałem
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;только что вспомнил о тебе;właśnie o tobie pomyślałem
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;есть только одна причина;jest tylko jeden powód
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он сделает еще хуже;on tylko pogorszy sprawę
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;it is so obvious in hindsight;z perspektywy czasu jest to takie oczywiste
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;оглядываясь назад, это настолько очевидно;z perspektywy czasu jest to takie oczywiste
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;по статистике, вероятность, что вы умрете;według statystyk szansa, że zginiesz
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;несмотря на огромные человеческие потери;mimo gigantycznych strat w ludziach
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;и самое главное;i co najważniejsze
@@ -453,7 +451,6 @@ Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;все мен�
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это просто невезение;a to dopiero pech
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;telling a lie, refuting a lie;powiedzenie kłamstwa, obalenie kłamstwa
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;конечная цель это не победа;ostatecznym celem nie jest zwycięstwo
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;убеди самого себя;przekonaj się sam
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;они были правы;mieli rację
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;соединяется с другим словом;łączy się z innym wyrazem
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я читал довольно много;czytałem całkiem sporo
@@ -462,7 +459,6 @@ Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я полаг�
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;ты можешь сделать такое же приложение;możesz stworzyć taką samą aplikację
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;самые богатые люди, с которыми я когда-либо имел дело;najbogatsi ludzie, z którymi miałem do czynienia
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я пытаюсь что-то сделать;próbuję coś zrobić
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я уже все забыл;już wszystko zapomniałem
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;они не понимают, что кому-то это может быть неинтересно;nie ogarną, że kogoś może nie interesować
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;и я начал задаваться вопросом;i zacząłem się zastanawiać
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;огромный шаг вперёд;ogromny krok naprzód
@@ -472,9 +468,8 @@ Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это выз�
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;его невозможно оскорбить;nie da się go urazić
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;чтобы доказать, что безопасность больше не существует;aby udowodnić, że bezpieczeństwo już nie istnieje
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;рано или поздно ты это поймешь;prędzej czy później to zrozumiesz
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;люди причиняют себе вред;ludzie robią sobie krzywdę
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;люди делают себе вред;ludzie robią sobie krzywdę
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;максимальная грузоподъемность;maksymalna ładowność
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;сколько времени он тратит на;ile czasu spędza na
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;однажды ты победишь;pewnego dnia wygrasz
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он все-таки умеет драться;jednak potrafi się bić
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;все имеет идеологическую окраску;wszystko ma zabarwienie ideologiczne
@@ -483,7 +478,6 @@ Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это зам�
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;великолепно с ним справились;pięknie go załatwili
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;у меня такое чувство;mam przeczucie
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я приспособлюсь;ja się dostosuję
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;but I doubt that he has such a rubber spine;ale wątpię by on miał taki kręgosłup z gumy
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;не так много интересных материалов;nie ma zbyt wiele interesujących materiałów
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;выступил намного хуже;wypadł znacznie gorzej
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;в отличии от нас;w przeciwieństwie do nas
@@ -492,12 +486,11 @@ Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;спорили
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;любое выражение типа;dowolne wyrażenie typu
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;идеально подошел для этой роли;idealnie się do tego nadawał
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это довольно сложный вопрос;to dość złożona kwestia
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он несовместим с;nie jest kompatybilny z
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он моложе тебя;on jest młodszy od ciebie
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;всего к оплате;do zapłaty łącznie
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;и без последствий;i bez konsekwencji
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;заявляют о своей готовности вступить в армию;deklaruje chęć wstąpienia do armii
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;вопреки видимости не завершил кампанию;wbrew pozorom nie skończył kampanii
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;вопреки видимости;wbrew pozorom
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;ты ещё увидишь;zobaczysz później
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это не совпадение;nie jest to przypadek
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;мне хватило одного недостающего элемента;mnie wystarczył jeden brakujący element
@@ -506,7 +499,6 @@ Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;иностра
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;огромный шаг назад;ogromny krok wstecz
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;откуда я тебя знаю?;skąd cię znam?
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он никуда не исчез;nie zniknął nigdzie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;ассоциируется в основном с микроустановками;kojarzy się głównie z mikroinstalacjami
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;неоднозначные ответы;niejednoznaczne odpowiedzi
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;трудно остановиться;trudno jest się zatrzymać
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;его не может победить никакая сила;nie da się pokonać żadną mocą
@@ -521,7 +513,7 @@ Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;откуда �
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;но его действия гораздо хуже;ale jego czyny są o wiele gorsze
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;ни один эксперт не в состоянии;żaden ekspert nie jest w stanie
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;estimated reading;odczyt szacowany
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;никому об этом не рассказывать ни при каких обстоятельствах;żebym pod żadnym pozorem nie mówił nikomu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;никому ни при каких обстоятельствах об этом не рассказывать;żebym pod żadnym pozorem nie mówił nikomu
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;мы могли бы говорить часами;potrafiliśmy gadać godzinami
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;преимущества и недостатки;zalety i wady
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;меня озадачивает;mnie zastanawia
@@ -545,7 +537,7 @@ Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;в моем б
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я не выдавал себя за полицию;nie podawałem się za policję
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;каждый раз, когда ты что-то делаешь;za każdym razem, gdy coś robisz
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;меня удивляет, как он получил подписи;zastanawia mnie jak zdobył podpisy
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;мне все равно;nie obchodzi mnie to
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;мне все равно;nie obchodzi mnie
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;и почти все нормально;i prawie wszystko jest normalne
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;откуда это начинается - куда это идет;skąd wyrusza – dokąd zmierza
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;нанести непоправимый вред;spowodować nieodwracalną szkodę
@@ -564,7 +556,21 @@ Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;проверк
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;деятельность;czynności
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;соблюдение;przestrzeganie
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;необходимая информация;niezbędne informacje
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;они сделали такой вывод;doszli do takiego wniosku
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;они пришли к такому выводу;doszli do takiego wniosku
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;еще один тяжелый день подряд;kolejny ciężki dzień z rzędu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;наплыв мыслей;natłok myśli
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;наплыв стресса в последние несколько дней;natłok stresu w przeciągu ostatnich dni
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;мои навыки;moje umiejętności
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;раскрыли проект бюджета;ujawnili projekt budżetu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;текущий бюджет;obecny budżet
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;когда появится следующая возможность;kiedy trafi się kolejna okazja
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;не дал бы решить о покупке косилки;nie dałbym zadecydować o zakupie kosiarki
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;экономика идет в никуда;gospodarka zmierza donikąd
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;основание языковой школы;założenie szkoły językowej
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;создание языковой школы;utworzenie szkoły językowej
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;какое мне дело до того, что волнует тебя;co mnie obchodzi co ciebie obchodzi
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;почему меня это должно волновать?;dlaczego powinno mnie obchodzić?
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;честно говоря, мне все равно;mówiąc szczerze mało mnie obchodzi
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Noun/A word that names a person, place, thing, or idea;<p>Rzeczownik</p>
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Pronoun/A word that replaces a noun;<p>Zaimek</p>
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Verb/A word that expresses action or a state of being;<p>Czasownik</p>
