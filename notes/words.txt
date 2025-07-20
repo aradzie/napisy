@@ -121,6 +121,15 @@ skutek
 - *Każdy skutek może być przewidywalny.*
 ===
 
+эффективный/effective
+---
+skuteczny
+
+- *Bronić musisz się skutecznie.*
+- *Skuteczne sposoby zmiany tych zachowań.*
+- *Możemy opracować skuteczne zalecenia.*
+===
+
 image/образ
 ---
 wizerunek
@@ -355,8 +364,6 @@ uczynny
 
 Słowo „**uczynny**” oznacza osobę, która chętnie pomaga innym, jest skłonna do wyświadczania przysług, życzliwa i pomocna. To cecha charakteru.
 
-**Przykłady użycia:**
-
 - *To bardzo uczynny sąsiad – zawsze pomoże, gdy trzeba.*
 - *Była uczynna i zawsze gotowa do pomocy.*
 - *Czy wiecie, że zawsze warto być dobrym i uczynnym?*
@@ -371,8 +378,6 @@ Słowo „**uczynny**” oznacza osobę, która chętnie pomaga innym, jest skł
 dowcipny
 
 Słowo „**dowcipny**” oznacza osobę, która potrafi mówić rzeczy zabawne, inteligentne i błyskotliwe – często w sposób trafny i z humorem.
-
-**Przykłady użycia:**
 
 - *To bardzo dowcipny facet – zawsze rozbawi towarzystwo.*
 - *Jej komentarze były krótkie, ale niezwykle dowcipne.*
@@ -389,13 +394,48 @@ zamierzać
 
 Słowo „*zamierzać*” oznacza mieć zamiar coś zrobić, czyli planować jakieś działanie lub myśleć o zrobieniu czegoś w przyszłości.
 
-**Przykłady użycia:**
-
 - *Zamierzam iść na studia w przyszłym roku.*
 - *Nie zamierzałem cię urazić.*
 - *Ona zamierza wyjechać za granicę.*
 
 **Synonimy**: planować, mieć zamiar, nosić się z zamiarem.
+===
+
+тратить/to spend
+---
+wydawać
+
+- *Wydał wszystkie pieniądze.*
+- *I zawsze mające wydać resztę.*
+- *Wydać resztę ze stu złotych.*
+
+**Synonimy**: zużywać
+===
+
+выдавать/to hand over
+---
+wydawać
+
+- *Urzędy będą wydawać paszporty spełniające.*
+- *Wydać towar.*
+
+**Synonimy**: przekazywać
+===
+
+публиковать/to publish
+---
+wydawać
+
+- *Wydać książkę.*
+===
+
+предпочитать/to предпочитать
+---
+woleć
+
+- *Wolę szczerość od obłudy.*
+- *Każda z nas wolała milczeć, niż działać.*
+- *Trzeba szanować jego wolę.*
 ===
 
 !# быть осторожным/uważać
@@ -404,6 +444,11 @@ Słowo „*zamierzać*” oznacza mieć zamiar coś zrobić, czyli planować jak
 !# тратить/wydawać
 !# выпадать/wypadać
 !# предполагать/zgadywać
+!# przekazywać
+!# wykonywać
+!# skupić
+!# łudzić
+!# podważać
 
 !# naczelny
 !# czasochłonny
@@ -415,6 +460,7 @@ Słowo „*zamierzać*” oznacza mieć zamiar coś zrobić, czyli planować jak
 !# wspaniały
 !# щедрый|szczodry/hojny
 !# добросовестный|sumienny
+!# doskonały/niedoskonały
 
 !# obecność
 !# okoliczności
@@ -431,6 +477,9 @@ Słowo „*zamierzać*” oznacza mieć zamiar coś zrobić, czyli planować jak
 !# соблюдение|przestrzeganie
 !# создание|utworzenie
 !# страх|lęk
+!# wściekłość
+!# ujemność
+!# obelga
 
 !# достигать/osiągnąć
 
@@ -449,4 +498,8 @@ Słowo „*zamierzać*” oznacza mieć zamiar coś zrobić, czyli planować jak
 !# nieprawdaż
 !# gdziekolwiek
 
-!# Wspierać/Popierać https://pl.hinative.com/questions/15507513
+!# wspierać/popierać https://pl.hinative.com/questions/15507513
+!# wypadek a przypadek
+!# przyczyna powód
+!# znalezienie/wyszukiwanie
+!# niezdarny/niezgrabny.

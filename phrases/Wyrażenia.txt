@@ -164,7 +164,7 @@ estimated reading|odczyt szacowany
 они такие же самые|są tacy sami
 выращивать овощи|uprawiać warzywa
 обоснованность конкретных действий|słuszności określonych działań
-необходимое оборудование|niezbędny sprzęt
+необходимое оборудование|niezbędny sprzęt/niezbędne wyposażenie
 помогаю достичь намеченной цели|pomagam osiągnąć zamierzony cel
 он скажет все что надо|powie wszystko, co trzeba
 я бы сказал по другому|powiedziałbym to inaczej
@@ -190,3 +190,64 @@ estimated reading|odczyt szacowany
 какое мне дело до того, что волнует тебя|co mnie obchodzi co ciebie obchodzi
 почему меня это должно волновать?|dlaczego powinno mnie obchodzić?
 честно говоря, мне все равно|mówiąc szczerze mało mnie obchodzi
+это меня сильно пугает|to mnie bardzo przeraża
+thick|gruby
+thin|cienki
+разрушение|zagłada
+однажды, от скуки, я немного углубился в эту тему|kiedyś z nudów zanurkowałem trochę w ten temat
+это очень печально|to bardzo przykre
+чувствуют себя совершенно безнаказанными|czuja się całkowicie bezkarne
+с восторгом смотрят в зеркало|patrzą w lustro w zachwyceniu
+сценарий, которого я лично очень опасаюсь|scenariusz którego się bardzo osobiście obawiam
+отвратительная ложь|obleśne kłamstwa
+делание глупых людей знаменитыми|robienie głupich ludzi sławnymi
+очень точно|bardzo trafne
+прошлый год был холоднее|ostatni rok był zimniejszy
+прошлой зимой у нас не было снега|zeszłej zimy nie mieliśmy śniegu
+что их вчера расстроило|co ich wpieniło wczoraj
+им все равно|nie przejmują się
+стандартное оборудование|standardowe wyposażenie
+лицензия на вождение велосипеда|uprawnienia do jazdy rowerem
+вопреки видимости|wbrew pozorom
+не ставит перед собой целей|nie narzuca sobie celów
+разница в том|różnica polega na tym
+вырвано из контекста|wyjęte z kontekstu
+прогрессирует поляризация общества|postępuje polaryzacja społeczeństwa
+идет в плохом направлении|idzie to w złą stronę
+я сторонник приобретения знаний|ja akurat jestem zwolennikiem pozyskiwania wiedzy
+как оцениваешь этого политика|jak oceniasz tego polityka
+прошлый год был вторым подряд, когда|miniony rok był już drugim z rzędu, gdy
+на улицы выйдут как противники, так и сторонники|na ulice wyjadą przeciwnicy oraz zwolennicy
+из-за страха конфронтации|w obawie przed konfrontacją
+wyraź sprzeciw wobec nieudolności władzy|выразь несогласие с некомпетентностью властей
+услышали обвинения|usłyszeli zarzuty
+пусть скажет то же самое|niech powie to samo
+скоро|wkrótce
+на работе подвергаются словесным нападкам|są atakowani słownie w pracy
+неудачная авария водителя|pechowa kraksa kierowcy
+собираюсь потратить|zamierzam wydać
+поэтому собираюсь дать ей шанс|więc zamierzam dać jej szansę
+чтобы быть уверенным|aby mieć pewność
+вам понадобится правильный инструмент|będziesz potrzebować odpowiedniego narzędzia
+испытывает колоссальное трение|doświadcza ogromnego tarcia
+постоянно подвергается трению|wielokrotnie podlega tarciu
+также является ключевым фактором|jest również kluczowym czynnikiem
+обычно|zazwyczaj
+что именно мы обычно делаем неправильно|co konkretnie zazwyczaj robimy źle
+я предпочитаю качественную информацию|wolę wysokiej jakości informację
+но одинаково эффективный|lecz równie skuteczny
+презрительный термин|pogardliwy termin
+если факты не соответствуют мнениям, тем хуже для фактов|jeśli fakty nie pasują do opinii, to tym gorzej dla faktów
+не предоставляет полезной информации|nie dostarcza użytecznych informacji
+способствует глобальному потеплению|napędza globalne ocieplenie
+происходят быстрые изменения климата|zachodzą gwałtowne zmiany klimatu
+ассоциация слов с погромами может показаться преувеличенной|skojarzenie słów z pogromami może wydawać się przesadzone
+власти не противодействуют угрозе и скрывают информацию|władza nie przeciwdziała zagrożeniu, ukrywa informacje
+бессмертная сцена|nieśmiertelna scena
+не имею возражений|nie mam zastrzeżeń
+обрати особое внимание|zwróć szczególną uwagę
+хотим продолжать ездить|chcemy jeździć nadal
+а где главный пожарный?|gdzie jest naczelny strażak?
+главный проект|naczelny projekt
+это одна из моих основных ценностей|to jedna z moich naczelnych wartości
+либо неуклюжая правда, либо идеальная ложь|albo niezdarna prawda, albo doskonałe kłamstwo

@@ -545,7 +545,7 @@ Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;без кол�
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;они такие же самые;są tacy sami
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;выращивать овощи;uprawiać warzywa
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;обоснованность конкретных действий;słuszności określonych działań
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;необходимое оборудование;niezbędny sprzęt
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;необходимое оборудование;niezbędny sprzęt/niezbędne wyposażenie
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;помогаю достичь намеченной цели;pomagam osiągnąć zamierzony cel
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он скажет все что надо;powie wszystko, co trzeba
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я бы сказал по другому;powiedziałbym to inaczej
@@ -571,6 +571,67 @@ Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;создани
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;какое мне дело до того, что волнует тебя;co mnie obchodzi co ciebie obchodzi
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;почему меня это должно волновать?;dlaczego powinno mnie obchodzić?
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;честно говоря, мне все равно;mówiąc szczerze mało mnie obchodzi
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это меня сильно пугает;to mnie bardzo przeraża
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;thick;gruby
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;thin;cienki
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;разрушение;zagłada
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;однажды, от скуки, я немного углубился в эту тему;kiedyś z nudów zanurkowałem trochę w ten temat
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это очень печально;to bardzo przykre
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;чувствуют себя совершенно безнаказанными;czuja się całkowicie bezkarne
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;с восторгом смотрят в зеркало;patrzą w lustro w zachwyceniu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;сценарий, которого я лично очень опасаюсь;scenariusz którego się bardzo osobiście obawiam
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;отвратительная ложь;obleśne kłamstwa
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;делание глупых людей знаменитыми;robienie głupich ludzi sławnymi
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;очень точно;bardzo trafne
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;прошлый год был холоднее;ostatni rok był zimniejszy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;прошлой зимой у нас не было снега;zeszłej zimy nie mieliśmy śniegu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;что их вчера расстроило;co ich wpieniło wczoraj
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;им все равно;nie przejmują się
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;стандартное оборудование;standardowe wyposażenie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;лицензия на вождение велосипеда;uprawnienia do jazdy rowerem
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;вопреки видимости;wbrew pozorom
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;не ставит перед собой целей;nie narzuca sobie celów
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;разница в том;różnica polega na tym
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;вырвано из контекста;wyjęte z kontekstu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;прогрессирует поляризация общества;postępuje polaryzacja społeczeństwa
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;идет в плохом направлении;idzie to w złą stronę
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я сторонник приобретения знаний;ja akurat jestem zwolennikiem pozyskiwania wiedzy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;как оцениваешь этого политика;jak oceniasz tego polityka
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;прошлый год был вторым подряд, когда;miniony rok był już drugim z rzędu, gdy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;на улицы выйдут как противники, так и сторонники;na ulice wyjadą przeciwnicy oraz zwolennicy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;из-за страха конфронтации;w obawie przed konfrontacją
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;wyraź sprzeciw wobec nieudolności władzy;выразь несогласие с некомпетентностью властей
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;услышали обвинения;usłyszeli zarzuty
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;пусть скажет то же самое;niech powie to samo
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;скоро;wkrótce
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;на работе подвергаются словесным нападкам;są atakowani słownie w pracy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;неудачная авария водителя;pechowa kraksa kierowcy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;собираюсь потратить;zamierzam wydać
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;поэтому собираюсь дать ей шанс;więc zamierzam dać jej szansę
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;чтобы быть уверенным;aby mieć pewność
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;вам понадобится правильный инструмент;będziesz potrzebować odpowiedniego narzędzia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;испытывает колоссальное трение;doświadcza ogromnego tarcia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;постоянно подвергается трению;wielokrotnie podlega tarciu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;также является ключевым фактором;jest również kluczowym czynnikiem
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;обычно;zazwyczaj
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;что именно мы обычно делаем неправильно;co konkretnie zazwyczaj robimy źle
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я предпочитаю качественную информацию;wolę wysokiej jakości informację
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;но одинаково эффективный;lecz równie skuteczny
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;презрительный термин;pogardliwy termin
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;если факты не соответствуют мнениям, тем хуже для фактов;jeśli fakty nie pasują do opinii, to tym gorzej dla faktów
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;не предоставляет полезной информации;nie dostarcza użytecznych informacji
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;способствует глобальному потеплению;napędza globalne ocieplenie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;происходят быстрые изменения климата;zachodzą gwałtowne zmiany klimatu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;ассоциация слов с погромами может показаться преувеличенной;skojarzenie słów z pogromami może wydawać się przesadzone
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;власти не противодействуют угрозе и скрывают информацию;władza nie przeciwdziała zagrożeniu, ukrywa informacje
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;бессмертная сцена;nieśmiertelna scena
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;не имею возражений;nie mam zastrzeżeń
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;обрати особое внимание;zwróć szczególną uwagę
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;хотим продолжать ездить;chcemy jeździć nadal
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;а где главный пожарный?;gdzie jest naczelny strażak?
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;главный проект;naczelny projekt
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это одна из моих основных ценностей;to jedna z moich naczelnych wartości
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;либо неуклюжая правда, либо идеальная ложь;albo niezdarna prawda, albo doskonałe kłamstwo
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Noun/A word that names a person, place, thing, or idea;<p>Rzeczownik</p>
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Pronoun/A word that replaces a noun;<p>Zaimek</p>
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Verb/A word that expresses action or a state of being;<p>Czasownik</p>
@@ -656,6 +717,12 @@ Basic;Polski::Słowa;Polski Słowa;эффект/effect;"<p>skutek</p>
 <li><em>Wywarło to głęboki skutek na mnie.</em></li>
 <li><em>A skutek będzie odwrotny?</em></li>
 <li><em>Każdy skutek może być przewidywalny.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;эффективный/effective;"<p>skuteczny</p>
+<ul>
+<li><em>Bronić musisz się skutecznie.</em></li>
+<li><em>Skuteczne sposoby zmiany tych zachowań.</em></li>
+<li><em>Możemy opracować skuteczne zalecenia.</em></li>
 </ul>"
 Basic;Polski::Słowa;Polski Słowa;image/образ;"<p>wizerunek</p>
 <ul>
@@ -822,7 +889,6 @@ Basic;Polski::Słowa;Polski Słowa;выращивать/to grow;"<p>uprawiać</p
 </ul>"
 Basic;Polski::Słowa;Polski Słowa;полезный/helpful;"<p>uczynny</p>
 <p>Słowo „<strong>uczynny</strong>” oznacza osobę, która chętnie pomaga innym, jest skłonna do wyświadczania przysług, życzliwa i pomocna. To cecha charakteru.</p>
-<p><strong>Przykłady użycia:</strong></p>
 <ul>
 <li><em>To bardzo uczynny sąsiad – zawsze pomoże, gdy trzeba.</em></li>
 <li><em>Była uczynna i zawsze gotowa do pomocy.</em></li>
@@ -832,7 +898,6 @@ Basic;Polski::Słowa;Polski Słowa;полезный/helpful;"<p>uczynny</p>
 <p><strong>Przeciwieństwo</strong>: nieuprzejmy, obojętny, samolubny.</p>"
 Basic;Polski::Słowa;Polski Słowa;остроумный/witty;"<p>dowcipny</p>
 <p>Słowo „<strong>dowcipny</strong>” oznacza osobę, która potrafi mówić rzeczy zabawne, inteligentne i błyskotliwe – często w sposób trafny i z humorem.</p>
-<p><strong>Przykłady użycia:</strong></p>
 <ul>
 <li><em>To bardzo dowcipny facet – zawsze rozbawi towarzystwo.</em></li>
 <li><em>Jej komentarze były krótkie, ale niezwykle dowcipne.</em></li>
@@ -842,13 +907,35 @@ Basic;Polski::Słowa;Polski Słowa;остроумный/witty;"<p>dowcipny</p>
 <p><strong>Przeciwieństwa:</strong> ponury, sztywny, drętwy.</p>"
 Basic;Polski::Słowa;Polski Słowa;намереваться/to intend;"<p>zamierzać</p>
 <p>Słowo „<em>zamierzać</em>” oznacza mieć zamiar coś zrobić, czyli planować jakieś działanie lub myśleć o zrobieniu czegoś w przyszłości.</p>
-<p><strong>Przykłady użycia:</strong></p>
 <ul>
 <li><em>Zamierzam iść na studia w przyszłym roku.</em></li>
 <li><em>Nie zamierzałem cię urazić.</em></li>
 <li><em>Ona zamierza wyjechać za granicę.</em></li>
 </ul>
 <p><strong>Synonimy</strong>: planować, mieć zamiar, nosić się z zamiarem.</p>"
+Basic;Polski::Słowa;Polski Słowa;тратить/to spend;"<p>wydawać</p>
+<ul>
+<li><em>Wydał wszystkie pieniądze.</em></li>
+<li><em>I zawsze mające wydać resztę.</em></li>
+<li><em>Wydać resztę ze stu złotych.</em></li>
+</ul>
+<p><strong>Synonimy</strong>: zużywać</p>"
+Basic;Polski::Słowa;Polski Słowa;выдавать/to hand over;"<p>wydawać</p>
+<ul>
+<li><em>Urzędy będą wydawać paszporty spełniające.</em></li>
+<li><em>Wydać towar.</em></li>
+</ul>
+<p><strong>Synonimy</strong>: przekazywać</p>"
+Basic;Polski::Słowa;Polski Słowa;публиковать/to publish;"<p>wydawać</p>
+<ul>
+<li><em>Wydać książkę.</em></li>
+</ul>"
+Basic;Polski::Słowa;Polski Słowa;предпочитать/to предпочитать;"<p>woleć</p>
+<ul>
+<li><em>Wolę szczerość od obłudy.</em></li>
+<li><em>Każda z nas wolała milczeć, niż działać.</em></li>
+<li><em>Trzeba szanować jego wolę.</em></li>
+</ul>"
 Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Ja [bać się] (czas teraźniejszy);"<p>Ja boję się</p>
 <ul>
 <li><em>Nie boję się przegrywać.</em></li>
@@ -1822,7 +1909,7 @@ Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Wy [dać] (tryb rozkazujący);"
 <li><em>Do picia dajcie zwykłą wodę.</em></li>
 </ul>"
 Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Ja [istnieć] (czas teraźniejszy);<p>Ja istnieję</p>
-Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;My [istnieć] (czas teraźniejszy);<p>Ja istniejemy</p>
+Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;My [istnieć] (czas teraźniejszy);<p>My istniejemy</p>
 Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Ty [istnieć] (czas teraźniejszy);<p>Ty istniejesz</p>
 Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Wy [istnieć] (czas teraźniejszy);<p>Wy istniejecie</p>
 Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;On/Ona/Ono [istnieć] (czas teraźniejszy);<p>On/Ona/Ono istnieje</p>
@@ -2031,6 +2118,45 @@ Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Wy [wiedzieć] (tryb rozkazują
 <li><em>Ta książka jest bardzo dobra, wiedzcie o tym.</em></li>
 <li><em>Bracia, wiedzcie jednak, że to nieprawda.</em></li>
 </ul>"
+Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Ja [woleć] (czas teraźniejszy);"<p>Ja wolę</p>
+<ul>
+<li><em>Jednak wolę unikać spoilerów.</em></li>
+<li><em>Wolę wydawać pieniądze na motocykle.</em></li>
+<li><em>Tak wolę spędzać wolny czas.</em></li>
+</ul>"
+Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;My [woleć] (czas teraźniejszy);"<p>My wolimy</p>
+<ul>
+<li><em>Wolimy robić rzeczy po swojemu.</em></li>
+<li><em>Wolimy o tym nie rozmawiać.</em></li>
+<li><em>Przeszłość, o której wolimy zapomnieć.</em></li>
+</ul>"
+Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Ty [woleć] (czas teraźniejszy);"<p>Ty wolisz</p>
+<ul>
+<li><em>Jeśli wolisz aktywny wypoczynek, możesz wybrać się w góry.</em></li>
+<li><em>Kiedy wolisz, żeby ktoś myślał za ciebie.</em></li>
+<li><em>Kochanie, co wolisz?</em></li>
+</ul>"
+Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Wy [woleć] (czas teraźniejszy);"<p>Wy wolicie</p>
+<ul>
+<li><em>Kogo wolicie spotkać w lesie?</em></li>
+<li><em>Wolicie uniknąć ryzyka.</em></li>
+<li><em>Jeśli tak wolicie to rozumieć.</em></li>
+</ul>"
+Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;On/Ona/Ono [woleć] (czas teraźniejszy);"<p>On/Ona/Ono woli</p>
+<ul>
+<li><em>Większość z nich nie woli za to płacić.</em></li>
+<li><em>Wielu ludzi woli żyć dobrze.</em></li>
+<li><em>Młody człowiek wcale nie woli rozmawiać.</em></li>
+</ul>"
+Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Oni/One [woleć] (czas teraźniejszy);"<p>Oni/One wolą</p>
+<ul>
+<li><em>Czy młodzi nie wolą właśnie pozorów?</em></li>
+<li><em>Dlaczego nie wolą leżeć na plaży?</em></li>
+<li><em>Wolą jednak iść do lekarza.</em></li>
+</ul>"
+Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Ty [woleć] (tryb rozkazujący);<p>Ty wól</p>
+Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;My [woleć] (tryb rozkazujący);<p>My wólmy</p>
+Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Wy [woleć] (tryb rozkazujący);<p>Wy wólcie</p>
 Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Ja [wziąć] (czas teraźniejszy);<p>Ja wezmę</p>
 Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;My [wziąć] (czas teraźniejszy);<p>My weźmiemy</p>
 Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Ty [wziąć] (czas teraźniejszy);<p>Ty weźmiesz</p>
