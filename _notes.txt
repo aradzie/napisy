@@ -632,6 +632,37 @@ Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;а где гл
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;главный проект;naczelny projekt
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это одна из моих основных ценностей;to jedna z moich naczelnych wartości
 Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;либо неуклюжая правда, либо идеальная ложь;albo niezdarna prawda, albo doskonałe kłamstwo
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Bardzo {{c1::dobrą::dobra}} {{c1::wiadomością::wiadomość}} jest to, że autorka planuje kontynuację.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Trzeba znaleźć {{c1::dobrą::dobra}} {{c1::szkołę::szkoła}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Spółki posiadają {{c1::dobrą::dobra}} {{c1::historię::historia}} wyników.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Aktywność fizyczna może stać się bardzo {{c1::dobrą::dobra}} {{c1::formą::forma}} spędzania czasu.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Banknoty są {{c1::dobrej::dobra}} {{c1::jakości::jakośc}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Aktywność fizyczna jest niezbędna dla zachowania {{c1::dobrej::dobra}} {{c1::formy::forma}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Przygotuj się na {{c1::ogromną::ogromna}} {{c1::dawkę::dawka}} {{c2::dobrej::dobra}} {{c2::telewizji::telewizja}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Atak w momencie, w którym nie mają {{c1::dobrej::dobra}} {{c1::odpowiedzi::odpowiedz}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Wiem, że wykonałaś kawał {{c1::dobrej::dobra}} {{c1::roboty::robota}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Bo wówczas nie napiszesz {{c1::dobrej::dobra}} {{c1::książki::książka}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Zabrakło {{c1::chemii::chemia}}, {{c1::dobrej::dobra}} {{c1::energii::energia}} między nami.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Będziemy szukać {{c1::dobrej::dobra}} {{c1::nazwy::nazwa}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Będziemy trzymać {{c1::dobrą::dobra}} {{c1::pamięć::pamięć}} naszego pobytu.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Chciał mieć rodzinę, {{c1::dobrą::dobra}} {{c1::pracę::praca}} i dużo pieniędzy.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Cicha i spokojna okolica z {{c1::dobrą::dobra}} {{c1::infrastrukturą::infrastruktura}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Gra jest oprawiona w {{c1::kolorową::kolorowa}} {{c1::grafikę::grafika}} oraz {{c2::miłą::miła}} {{c2::wesołą::wesoła}} {{c2::melodię::melodia}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Dobieraj kości i buduj witraże w tej {{c1::kolorowej::kolorowa}} {{c1::grze::gra}} dla {{c2::całej::cała}} {{c2::rodziny::rodzina}}!;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Dziś już nie jestem {{c1::tą::ta}} {{c1::dziewczyną::dziewczyna}} w {{c2::kolorowej::kolorowa}} {{c2::koszulce::koszulka}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Entuzjaści samochodów elektrycznych długo czekali {{c1::tą::ta}} {{c1::decyzję::decyzja}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Ona kalkuluje {{c1::każdą::każda}} {{c1::decyzję::decyzja}}, waży każde słowo.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Etyka powinna kierować {{c1::każdą::każda}} jego {{c1::decyzję::decyzja}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Euforia i napięcie rośnie z {{c1::każdą::każda}} {{c1::minutą::minuta}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Bezpieczeństwo przeprowadzenia {{c1::każdej::każda}} {{c1::transakcji::transakcja}} po prostu nie ma ceny.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Będzie {{c1::wspaniałą::wspaniała}} {{c1::ozdobą::ozdoba}} pokoiku {{c2::każdej::każda}} {{c2::dziewczynki::dziewczynka}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Czy kombinezon przeznaczony jest dla {{c1::każdej::każda}} {{c1::kobiety::kobieta}}?;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Dlaczego cena {{c1::każdej::każda}} {{c1::butelki::butelka}} wina jest inna?;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Dlaczego jest on na {{c1::każdą::każda}} {{c1::porę::pora}} roku?;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Do pracy wykorzystywano {{c1::każdą::każda}} {{c1::parę::para}} rąk.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Dopiero teraz zauważyła jakąś {{c1::biedną::biedna}} {{c1::dziewczynę::dziewczyna}}, siedzącą na podłodze, płaczącą.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Drogie i niepraktyczne zakupy świadczą o tym, że jesteś {{c1::biedną::biedna}} {{c1::osobą::osoba}}.;
+Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Ile pieniędzy potrzebujesz żeby poczuć się {{c1::bogatą::bogata}} {{c1::osobą::osoba}}?;
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Noun/A word that names a person, place, thing, or idea;<p>Rzeczownik</p>
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Pronoun/A word that replaces a noun;<p>Zaimek</p>
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Verb/A word that expresses action or a state of being;<p>Czasownik</p>

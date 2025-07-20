@@ -1,0 +1,99 @@
+!type:Cloze
+
+!deck:Polski::Odmiany::Przykłady
+
+!tags:Polski Odmiana
+
+Bardzo {{c1::dobrą::dobra}} {{c1::wiadomością::wiadomość}} jest to, że autorka planuje kontynuację.
+===
+
+Trzeba znaleźć {{c1::dobrą::dobra}} {{c1::szkołę::szkoła}}.
+===
+
+Spółki posiadają {{c1::dobrą::dobra}} {{c1::historię::historia}} wyników.
+===
+
+Aktywność fizyczna może stać się bardzo {{c1::dobrą::dobra}} {{c1::formą::forma}} spędzania czasu.
+===
+
+Banknoty są {{c1::dobrej::dobra}} {{c1::jakości::jakośc}}.
+===
+
+Aktywność fizyczna jest niezbędna dla zachowania {{c1::dobrej::dobra}} {{c1::formy::forma}}.
+===
+
+Przygotuj się na {{c1::ogromną::ogromna}} {{c1::dawkę::dawka}} {{c2::dobrej::dobra}} {{c2::telewizji::telewizja}}.
+===
+
+Atak w momencie, w którym nie mają {{c1::dobrej::dobra}} {{c1::odpowiedzi::odpowiedz}}.
+===
+
+
+Wiem, że wykonałaś kawał {{c1::dobrej::dobra}} {{c1::roboty::robota}}.
+===
+
+Bo wówczas nie napiszesz {{c1::dobrej::dobra}} {{c1::książki::książka}}.
+===
+
+Zabrakło {{c1::chemii::chemia}}, {{c1::dobrej::dobra}} {{c1::energii::energia}} między nami.
+===
+
+Będziemy szukać {{c1::dobrej::dobra}} {{c1::nazwy::nazwa}}.
+===
+
+Będziemy trzymać {{c1::dobrą::dobra}} {{c1::pamięć::pamięć}} naszego pobytu.
+===
+
+Chciał mieć rodzinę, {{c1::dobrą::dobra}} {{c1::pracę::praca}} i dużo pieniędzy.
+===
+
+Cicha i spokojna okolica z {{c1::dobrą::dobra}} {{c1::infrastrukturą::infrastruktura}}.
+===
+
+Gra jest oprawiona w {{c1::kolorową::kolorowa}} {{c1::grafikę::grafika}} oraz {{c2::miłą::miła}} {{c2::wesołą::wesoła}} {{c2::melodię::melodia}}.
+===
+
+Dobieraj kości i buduj witraże w tej {{c1::kolorowej::kolorowa}} {{c1::grze::gra}} dla {{c2::całej::cała}} {{c2::rodziny::rodzina}}!
+===
+
+Dziś już nie jestem {{c1::tą::ta}} {{c1::dziewczyną::dziewczyna}} w {{c2::kolorowej::kolorowa}} {{c2::koszulce::koszulka}}.
+===
+
+Entuzjaści samochodów elektrycznych długo czekali {{c1::tą::ta}} {{c1::decyzję::decyzja}}.
+===
+
+Ona kalkuluje {{c1::każdą::każda}} {{c1::decyzję::decyzja}}, waży każde słowo.
+===
+
+Etyka powinna kierować {{c1::każdą::każda}} jego {{c1::decyzję::decyzja}}.
+===
+
+Euforia i napięcie rośnie z {{c1::każdą::każda}} {{c1::minutą::minuta}}.
+===
+
+Bezpieczeństwo przeprowadzenia {{c1::każdej::każda}} {{c1::transakcji::transakcja}} po prostu nie ma ceny.
+===
+
+Będzie {{c1::wspaniałą::wspaniała}} {{c1::ozdobą::ozdoba}} pokoiku {{c2::każdej::każda}} {{c2::dziewczynki::dziewczynka}}.
+===
+
+Czy kombinezon przeznaczony jest dla {{c1::każdej::każda}} {{c1::kobiety::kobieta}}?
+===
+
+Dlaczego cena {{c1::każdej::każda}} {{c1::butelki::butelka}} wina jest inna?
+===
+
+Dlaczego jest on na {{c1::każdą::każda}} {{c1::porę::pora}} roku?
+===
+
+Do pracy wykorzystywano {{c1::każdą::każda}} {{c1::parę::para}} rąk.
+===
+
+Dopiero teraz zauważyła jakąś {{c1::biedną::biedna}} {{c1::dziewczynę::dziewczyna}}, siedzącą na podłodze, płaczącą.
+===
+
+Drogie i niepraktyczne zakupy świadczą o tym, że jesteś {{c1::biedną::biedna}} {{c1::osobą::osoba}}.
+===
+
+Ile pieniędzy potrzebujesz żeby poczuć się {{c1::bogatą::bogata}} {{c1::osobą::osoba}}?
+===
