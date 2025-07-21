@@ -3,666 +3,6 @@
 #notetype column:1
 #deck column:2
 #tags column:3
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Да, я знаю, что вы скажете.;Tak, wiem, co powiecie.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Как летит время, а?;Jak ten czas leci, co?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Мы, сарматы, - избранный народ.;My, Sarmaci, jesteśmy narodem wybranym.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Поэтому я стараюсь наслаждаться тем, что у меня есть.;Dlatego staram się cieszyć tym, co mam.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Ведь, в конце концов, где-то в мире дети голодают.;Bo w końcu gdzieś tam na świecie dzieci głodują.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Вот, например, здесь.;O, na przykład tutaj.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Бедные, голодные дети.;Biedne, głodne dzieciaczki.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;У меня два сына.;Mam dwóch synów.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Старший когда-нибудь унаследует от меня землю.;Starszy kiedyś odziedziczy po mnie ziemię.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Но пока у нас с ним проблемы с воспитанием.;Ale na razie mamy z nim pewne problemy wychowawcze.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;У нас есть команда с мальчиками.;Mamy zespół z chłopakami.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Мы только начинаем, но я чувствую, что это будет нечто.;Dopiero się rozkręcamy, ale czuję, że to będzie coś.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;От сердца.;Od serca.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;О вещах, которые нас окружают.;O rzeczach, które nas otaczają.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Немедленно остановитесь!;Przestańcie natychmiast!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Папа, теперь игра идет так.;Tato, tak się teraz gra.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Не в моем сарае!;Nie w mojej stodole!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Не говори так!;Nie mów tak!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Не помнишь, что казаки сделали с твоим дедом!;Nie pamiętasz, co Kozacy zrobili dziadkowi?!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Мой второй сын, гордость семьи.;Mój drugi syn, to duma rodziny.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Он делает карьеру в корпорации.;Robi karierę w korporacji.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Мне все равно, можешь ты или не можешь.;Nic mnie nie obchodzi, czy się da, czy nie da.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я приказал процветать Польше, и она будет процветать!;Zamawiałem pomyślność dla Polski i ma być pomyślność dla Polski!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;С кем ты разговариваещь?;Z kim ty rozmawiasz?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Разве ты не видишь, что я молюсь, папа?;Nie widzisz, że się modlę, tato?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Не забудьте про удачу для Польши.;Nie zapomnij o pomyślności dla Polski.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;И по призванию.;I z powołania.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Но это известно. Какому принципу я следую в жизни?;Ale to wiadomo. Zasada, którą kieruję się w życiu?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Видишь пятнышко в глазу своего ближнего?;Widzisz źdźbło w oku bliźniego?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Посмотри в его второй глаз.;Spójrz mu w drugie oko.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Может найдешь другое.;Może znajdziesz kolejne.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Никогда не знаешь, когда это пригодится;Nigdy nie wiadomo, kiedy się przyda”.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;У меня также есть дочь.;Mam też córkę.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я закатываю глаза. Что ты делаешь?;Moje oczko w głowie. Co robisz?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я чищу зубы?;Myję zęby?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Кто их поймет?;Kto je zrozumie?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Сейчас уже не то время, когда ценность женщины зависит от того, нравится ли она какому-то мужчине.;To już nie czas, żeby wartość kobiety zależała od tego, czy podoba się jakiemuś tam mężczyźnie.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Сегодня женщина должна быть решительной и красноречивой.;Dzisiaj kobieta powinna być rezolutna i elokwentna.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Чтобы угодить сыну магната.;Żeby podobała się synowi magnata.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Отличные времена, чтобы быть женщиной!;Wspaniałe czasy, żeby być kobietą!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;У отца доброе сердце, но психологически он все еще в Средневековье.;Tata ma dobre serce, ale mentalnie jest jeszcze w średniowieczu.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;И это только моя семья.;I to właśnie moja rodzina.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;А еще есть моя жена.;Jest jeszcze moja żona.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я бы не назвал ее душой компании.;Nie nazwałbym jej duszą towarzystwa.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Что обеспечивает долговечность отношений, так это общие увлечения.;To, co zapewnia związkom długowieczność, to wspólne pasje.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Наша ненависть - это ненависть к ближнему.;Naszą jest nienawiść do sąsiada.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Нам, полякам, не повезло с соседями.;My, Polacy, nie mamy szczęścia do sąsiadów.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;А этот, как и я, тоже землянин.;I ten, jak ja, też jest ziemianinem.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;У него большая половина.;On ma większą połowę.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Он тоже инвалид.;On jest też niepełnosprawny.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;У него самого есть дочери.;Ma same córki.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;И какую нибудь из них он хотел бы выдать за сына магната.;I którąś chciałby wydać za syna magnata.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Но это мы выдаем дочь замуж за сына магната.;Ale to my wydamy córkę za syna magnata.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Они пришли и зарядили.;No przyszli i nałobuzowali.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Папа, я не интересуюсь историей.;Tato, ja się nie interesuję historią.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Это было десять лет назад.;To było dziesięć lat temu.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Станислав, тебе нужно больше работать.;Stanisław, musisz się bardziej zaangażować.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Ты должен любить своих крестьян, погонять.;Musisz kochać swoich chłopów, poganiać.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Мне тоже никто ничего не давал бесплатно.;Mnie też nikt nic nie dał za darmo.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Мне пришлось унаследовать все самому.;Wszystko musiałem sam odziedziczyć.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Сколько часов было проведено с этим.;Ile to godzin spędziło się z tym.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Простите, но это новые кузнечные инструменты.;Przepraszam, ale to są nowe narzędzia kowalskie.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Теперь это оборудование кузнеца.;Teraz to jest sprzęt kowalski.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;В мое время мы перекапывали целые гектары.;Za moich czasów tym całe hektary przekopywaliśmy.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;И никто не жаловался.;I nikt nie narzekał.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Таковы были времена.;Takie to były czasy.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;А кто ты вообще такой?;A coś ty w ogóle za jeden?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Пару дней назад я принес письмо его светлости. Письмо вашему сиятельству.;List parę dni temu przyniosłem jaśnie panu. List do jaśnie pana.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Тот о завтрашнем собрании.;Ten o jutrzejszym sejmiku.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Завтрашнем?;Jutrzejszym?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Тогда читай письмо.;No to czytaj ten list.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я не умею читать.;Ja nie potrafię czytać.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Смотрите и пируйте, мои дорогие крестьяне.;Patrzta i uczta się, chłopiska moje kochane.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Да, я знаю их всех.;Tak, znam wszystkie.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Как они тебя называют?;Jak na ciebie wołają?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Меня зовут Мацей.;Nazywam się Maciej.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я родом из Литвы.;Pochodzę z Litwy.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я приехал в деревню Адамчиха в рамках крестьянского обмена Erasmus.;Przyjechałem do wsi Adamczycha w ramach wymiany chłopskiej Erasmus.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я мог бы поехать во Францию, но родственники убедили меня, что Польша - это сильная страна.;Mogłem jechać do Francji, ale bliscy przekonali mnie, że Polska to potęga.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я новый помощник кузнеца.;Jestem nowym pomocnikiem kowala.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Затем беги к кузнецу и скажи ему, чтобы...;To pędź do kowala i przekaż mu, żeby...
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я постараюсь запомнить.;Spróbuję zapamiętać.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Ты сам себе крестьянин!;Jesteś swój chłop!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Так они говорят.;Tak się tylko mówi.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Конечно, ты мой парень!;Oczywiście jesteś mój chłop!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Мы можем уже уйти?;Czy my możemy już odejść?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Работа ждет.;Praca czeka.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Это всего лишь две строки текста.;To dwie linijki tekstu raptem.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Коней нужно кормить.;Konie trzeba nakarmić.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Вы позаботитесь об этом?;Zajmiesz się tym?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Когда у меня есть свободная минутка.;Jak będę miała wolną chwilę.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Ну так займитесь этим, ведь они голодны, бедняжки.;No, to weź zasuwaj, bo głodne są, biedne.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Сколько раз я должен это повторять?;Ile razy mam powtarzać?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Шляхта не работает!;Szlachta nie pracuje!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Что ж, я продолжу.;No, to zasuwam.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я позвал вас, потому что нам нужно срочно посоветоваться.;Wezwałem was, bo musimy się pilnie naradzić.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Потому что ты очень мудрый и проницательный человек.;Bo jesteś niezwykle mądrą i przenikliwą osobą.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Всегда рад помочь, отец.;Zawsze chętnie pomogę, ojcze.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;"Отец, но я просил тебя не называть меня ""отцом"".";Ojcze, ale prosiłem, żebyś nie mówił do mnie „ojcze”.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Почему женщины участвуют в обсуждениях?;Dlaczego w naradzie biorą udział kobiety?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;"Я просил тебя называть меня ""отец""?";Prosiłem, byś mówiła do mnie „ojcze”?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Сейчас не время спорить!;Nie czas na kłótnie!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я расшифровал информацию, скрытую в письме.;Odszyfrowałem ukrytą w liście informację.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;А завтра я должен явиться на земельное собрание.;I jutro muszę się zjawić na sejmiku ziemskim.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;С нашим благородным братством!;Z naszą szlachecką bracią!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Но, к сожалению, некоторые из наших братьев - ублюдки.;Ale niestety część z naszych braci to skurwysyny.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Особенно тот Анджей, который снова замышляет увеличить налоги.;Zwłaszcza ten Andrzej, który znowu kombinuje, żeby podwyższyć podatki.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;А сколько сейчас платишь?;A ile teraz płacisz?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Три процента!;Trzy procent!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;И он хочет, чтобы мы заплатили пять!;A on chce, żebyśmy płacili pięć!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Человек добивается чего-то тяжелым трудом своих крестьян, а потом это забирают у него!;Człowiek dochodzi do czegoś ciężką pracą własnych chłopów, to zabrać mu!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Такой менталитет.;Taka mentalność.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Неудивительно.;Niedziwne.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Национальная казна находится в плачевном состоянии.;Skarb państwa jest w opłakanym stanie.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Все эти войны, грабежи шведов.;Te wszystkie wojny, rabunki Szwedów.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Вы должны помочь мне подготовить речь для собрания.;Musicie mi pomóc przygotować przemowę na sejmik.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я знаю, как ты выиграешь этот спор.;Wiem, jak wygrasz tę dysputę.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Мы пойдем в лес, соберем кучу сухих прутьев.;Pójdziemy do lasu, nazbieramy pęk suchych rózg.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;И будем пороть себя всю ночь, чтобы задобрить создателя.;I całą noc będziemy się chłostać, aby udobruchać stworzyciela.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Запишем эту идею, чтобы не забыть, и продолжим думать.;Zapiszmy ten pomysł, żeby nam nie wyleciał, i myślimy dalej.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Завтрашнее собрание?;Jutrzejszy sejmik?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я спокоен.;Jestem spokojny.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Мы практикуем лучшие польские традиционные риторические пьесы.;Trenujemy najlepsze polskie tradycyjne zagrywki retoryczne.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я вас не перебивал. Смотрите мне в глаза!;Ja panu nie przerywałem. Patrz mi w oczy!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Сильно!;Twardo!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Не обязательно.;Nie trzeba.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Ты бедный крестьянин.;Ty chłopie marny.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Похоже, вы не знаете, с кем имеете дело!;Ty chyba nie wiesz, z kim ty masz do czynienia!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Меня зовут Богдан.;Ja się nazywam Bogdan.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я чистокровный дворянин в шестом поколении!;Jestem czystej krwi szlachcicem w szóstym pokoleniu!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Временно безземельный.;Chwilowo bez ziemi.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Последние войны шли не по моему сценарию.;Ostatnie wojny nie poszły po mojej myśli.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я участвовал во всех крупных поражениях нашей армии.;Brałem udział we wszystkich najważniejszych klęskach naszej armii.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Семь раз я умолял своих врагов о пощаде.;Siedem razy błagałem wrogów o litość.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Шесть раз я притворялся мертвым.;Sześć razy udawałem martwego.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;О таких как я пишут песни.;O takich jak ja piszą pieśni.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Сестра, дорогая! - Я думала, ты умерла.;Siostro kochana! - Myślałam, że nie żyjesz.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;И все же, отличные новости!;A jednak, wspaniałe wieści!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Здесь ты осуществишь мечту о собственном доме в Адамче.;Tu zrealizujesz marzenie o własnym lokum w Adamczysze.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Хорошая связь, отсутствие скота в непосредственной близости.;Dobra komunikacja, brak bydła w bezpośrednim sąsiedztwie.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Воистину, идеальное место для бездомного.;Naprawdę, idealne miejsce dla bezdomnego.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;А если хотите, мы можем поставить перегородку.;A jeżeli chcesz, możemy postawić ściankę działową.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я предпочитаю просторные помещения.;Wolę taką jedną przestronną przestrzeń.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Здесь я буду отдыхать.;Tu się będę relaksował.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;И здесь я буду планировать новые войны.;A tu będę planował kolejne wojny.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;И правильно.;Słusznie.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Если вы работаете дома, то лучше выделить одно место исключительно для работы.;Pracując z domu, warto przeznaczyć jedno miejsce wyłącznie do pracy.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;А еще в кузнице живет новый крестьянин.;A, i mieszka tu w kuźni nowy chłop.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Вы будете соседями.;Będziecie współlokatorami.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;И придерживаться границ.;I trzymajmy się granic.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;"Но мы действуем по принципу: ""оба, но по отдельности"".";Ale działamy w myśl zasady: „obojga, ale osobno”.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Поможем хозяйке.;Pomożemy panience.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Мы доказываем нашим братьям, что феминизм не заканчивается, когда нужно что-то передвинуть.;Udowadniamy naszym braciom, że feminizm nie kończy się wtedy, kiedy trzeba coś przenieść.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Отец снова что-то заказал без доставки.;Ojciec znów coś zamówił bez usługi wniesienia.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Сложная тема.;Ciężki temat.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я хотел извиниться перед пани за лошадей сегодня.;Chciałem panią przeprosić za to dzisiaj z tymi końmi.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Вы хотели, чтобы я накормил лошадей, потому что они были голодны.;Chciałeś, żebym nakarmiła konie, bo były głodne.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я тоже не знал, кто ты, и до сих пор не знаю.;Ja też nie wiedziałam, kim jesteś, i nadal nie wiem.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Новый помощник кузнеца.;Nowy pomocnik kowala.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я бы пожал вам руку, но не могу.;Podałabym ci rękę, ale nie mogę.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Регина, вы тоже крестьянка, и мы как-то общаемся.;Regina, ty też jesteś chłopką, a jakoś rozmawiamy.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Возвращаемся к хатам.;Wracamy na chałupy.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Вы похожи на человека, с которым можно поговорить.;Wyglądasz na takiego, z którym da się pogadać.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Но это было трудно.;Ale to było ciężkie.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я рекомендую себя на будущее, если что-то снова надо будет перенести.;Polecam się na przyszłość, gdyby znowu trzeba było czegoś przenieść.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Провидение следит за нами!;Opatrzność nad nami czuwa!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Этим я покорю сеймик.;Podbiję tym sejmik.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Занеси его на тележку!;Zanieś to na wóz!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Тогда иди и исправь это. Сам иди и исправь это.;To weź to popraw. Sam weź to popraw.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Мацей кажется милым и умным.;Maciej wydaje się miły i bystry.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;С другой стороны, что касается прав женщин, я пытаюсь начать дискусси.;Z kolei co do praw kobiet, to staram się zainicjować dyskus.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Женщины интересны только тогда, когда они говорят о мужчинах?;Czy kobiety są interesujące tylko, kiedy mówią o mężczyznach?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Может быть, стоит немного затянуть ремешок?;Może jeszcze ściągnąć ramiączko?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Люди, проснитесь!;Ludzie, obudźcie się!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Торжество демократии.;Święto demokracji.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;День, когда все голосуют.;Dzień, w którym wszyscy głosują.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Кроме крестьянства, конечно.;Poza chłopstwem oczywiście.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Они не могут.;Oni nie mogą.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я часто говорю своим крестьянам.;Często powtarzam moim chłopom.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Не голосуешь - не имеешь права жаловаться.;Nie głosujesz – nie masz prawa narzekać.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Вы пили перед поездкой?;Piłeś przed podróżą?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Какой то ты нервный.;Coś nerwowy jesteś.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Страшно сесть.;Strach wsiadać.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Чтобы победить в дебатах, я должен быть идеальным во всех отношениях.;Żeby wygrać debatę, muszę być perfekcyjny w każdym calu.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Важны не только слова, но и внешний вид.;Liczą się nie tylko słowa, ale też prezencja.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;А что является визиткой каждого мужчины?;A co jest wizytówką każdego mężczyzny?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Атрибут его престижа?;Atrybutem jego prestiżu?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Этот маленький гаджет просто необходим на любой встрече на высшем уровне.;Ten niewielki gadżet to niezbędnik każdego spotkania na szczycie.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;"Незаметный способ сказать: ""Да, я серьезный человек"".";Dyskretny sposób, żeby powiedzieć: „Tak, jestem kimś poważnym”.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;А зачем вы взяли с собой часы?;A dlaczego wziąłeś ze sobą zegar?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;И скажу так.;I powiem tak.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Такие вещи стоят недешево.;Nie są to tanie rzeczy.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Если вы хотите знать.;Skoro musisz wiedzieć.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Рад вас видеть.;Dobrze was widzieć.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Поэтому, если мы хотим, чтобы Республика вышла из кризиса.;Dlatego jeżeli chcemy, by Rzeczpospolita wyszła z kryzysu.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Нам придется пойти на определенные жертвы.;Musimy dokonać pewnego poświęcenia.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Я призываю всех проголосовать за то, чтобы наш представитель в сейме поддержал повышение налогов.;Apeluję do wszystkich o zagłosowanie za zobowiązaniem naszego przedstawiciela na sejmie walnym do poparcia podwyższenia podatków.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;"Потому что, как говорил Цицерон: ""Благо государства - высший закон"".";Bo jak mawiał Cyceron: „Dobro państwa jest najwyższym prawem”.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;"Цицерон также сказал: ""Если поляки поднимут налоги на себя, их ждет неминуемая гибель"".";Cyceron powiedział też: „Jeżeli Polacy podniosą sobie podatki, czeka ich rychła zguba”.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Цицерон жил задолго до образования польского государства.;Cyceron żył na długo przed polską państwowością.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;И все же это его слова.;A jednak to jego słowa.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Если Цицерона не волновала судьба поляков, почему мы должны прислушиваться к его советам?;Skoro Cycerona nie obchodził los Polaków, czemu mielibyśmy słuchać jego rad?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Ну, это верно.;No racja.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Это не мои слова, а Цицерона.;To nie moje słowa, to Cyceron.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Хватит, братья!;Wystarczy, bracia!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Желает ли кто-нибудь из аудитории задать вопросы докладчику Эндрю?;Czy ktoś ze zgromadzonych chce zadać pytania przemawiającemu Andrzejowi?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Один вопрос.;Jedno pytanie.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Сколько стоили ваши часы?;Ile kosztował twój zegar?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Кто выступает за повышение налогов для благородного государства?;Kto jest za podniesieniem podatków dla stanu szlacheckiego?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Кто против?;Kto jest przeciw?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Liberum veto, предложение отклонено.;Liberum veto, wniosek odrzucony.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Мне удалось убедить братьев в своих доводах.;Udało mi się przekonać braci do moich argumentów.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Голосование за голосованием, победа за победой.;Głosowanie za głosowaniem, zwycięstwo za zwycięstwem.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Мне даже стало жаль Анджея.;Aż nawet żal mi się zrobiło Andrzeja.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Но за кем осталось последнее слово?;Ale do kogo należało ostatnie słowo?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Братья, сегодняшнее голосование прошло не по нашему сценарию, это правда.;Bracia, dzisiejsze głosowania nie poszły po naszej myśli, to prawda.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Но позиция большинства дает надежду на то,;Ale postawa większości daje nadzieję,
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Дайте нам жить!;Dajże żyć!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Все хотели. Один человек был против!;Wszyscym chcieli. Jedna osoba była przeciw!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Конец темы.;Koniec tematu.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;У нас демократия!;Mamy demokrację!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Ну, который час?;No, która to godzina?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Все еще молода.;Jeszcze młoda.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Приходите в гостиницу!;Chodźcie do karczmy!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;У меня есть деньги, с которыми я не знаю, что делать, потому что они должны были пойти на налоги.;Mam trochę pieniędzy, z którymi nie wiem, co zrobić, bo miały iść na podatki.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Мы можем спорить, можем ссориться, но в конце мы всегда остаемся дружной стаей.;Możemy się kłócić, możemy się spierać, ale na końcu zawsze jesteśmy zgraną paczką.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Но это можно пережить.;Ale da się go przeżyć.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Даже с улыбкой на лице.;Nawet z uśmiechem na twarzy.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Если только помнить слова, которые каждый из нас слышит перед сном от своей матери.;O ile pamięta się słowa, które każdy z nas słyszy przed snem od swojej mamy.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Ничего не ждите и ничего не желайте.;Niczego nie oczekuj i nie miej żadnych pragnień.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Отличные новости!;Wspaniałe wieści!
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Но я ничего не жду от этой новости.;Ale niczego po tych wieściach nie oczekuję.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Вот как это делается.;Tak to się robi.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;У меня отличные новости.;Mam wspaniałe wieści.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Угадайте, какие.;Zgadnijcie jakie.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Богдан, с каких пор картошка - это новость?;Bogdan, od kiedy ziemniaki to wieści?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Признайтесь в своей идее.;Idź się wyspowiadaj z tego pomysłu.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Хорошо, я сам вам расскажу.;Dobra, sam wam powiem.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;У меня был отличный триумф на собрании, и я не буду платить больше налогов.;Odniosłem wielki tryumf na sejmiku i nie będę płacił wyższych podatków.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Ты, кто бы ты ни был.;Ty, kimkolwiek jesteś.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Значит ли это что мы будем меньше работать?;Czy to znaczy że będziemy mniej pracować?
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;К вам это не относится.;Was to nie dotyczy.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Это начало большой политической карьеры.;To początek wielkiej kariery politycznej.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Тогда почему это хорошая новость для нас.;To dlaczego to są dobre wieści dla nas.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Когда-нибудь вы сможете похвастаться тем, что знали короля еще до того, как он стал известен.;Kiedyś może będziecie się chwalić, że znaliście króla, zanim był znany.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Помните: ключ к мирной жизни - это отсутствие желаний.;Zapamiętajcie: klucz do spokojnego życia to brak pragnień.
-Basic;Polski::Wyrażenia::1670.S01E01;Polski Wyrażenia 1670.S01E01;Потому что в крестьянской жизни желания означают неприятности.;Bo w życiu chłopa pragnienia oznaczają kłopoty.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Это вмешательство.;To jest interwencja.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Мы уже давно обеспокоены вашим поведением.;Od pewnego czasu jesteśmy zaniepokojeni twoim zachowaniem.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Ты всегда была душой компании.;Zawsze byłeś duszą towarzystwa.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Человек, полный энергии.;Człowiekiem pełnym energii.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Тот, чьи шутки запоминаются.;Takim, którego żart się trzyma.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Однако в последнее время ситуация изменилась.;Jednak ostatnio to się zmieniło.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Трудно не связать этот случай с алкоголем.;Trudno nie łączyć tej sprawy z alkoholem.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Да, алкоголь мне не помог.;No tak, alkohol mi nie służył.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Пора вам просыпаться.;Pora, żebyś się obudził.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;С тех пор как вы перестали пить, вы плохо спите и крититесь в постели, что иногда доставляет мне дискомфорт.;Odkąd przestałeś pić, źle sypiasz i kręcisz się w łóżku, co bywa dla mnie źródłem dyskomfortu.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Ну, а до этого, когда я выпивал, я засыпал под забором.;No ale wcześniej, jak piłem, to zasypiałem pod płotem.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Ты помнишь, как они тебя называли?;Pamiętasz, jak na ciebie wołali?
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Вы создали свой бренд.;Zbudowałeś swoją markę.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;У вас было прозвище.;Miałeś przydomek.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Вы дарили людям радость в те трудные времена.;Dawałeś ludziom trochę radości w tych trudnych czasach.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Например, как вы бегали голым с топором по деревне и кричали, что убъете кого-нибудь.;Na przykład jak biegałeś na golasa z siekierą przez wieś i krzyczałeś, że kogoś zamordujesz.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Это было круто.;To było fajne.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Возможно, я действительно утратил часть своего позитивного сумасшествия.;Może faktycznie straciłem trochę z tego mojego pozytywnego szaleństwa.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;О своем собственном сыне мне приходится слышать в церкви, что он льет за воротник.;O własnym synu muszę słuchać pod kościołem, że wylewa za kołnierz.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Я не знал, что вы так на это смотрите.;Ja nie wiedziałem, że tak na to patrzycie.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Ну, для этого у вас есть самые близкие люди.;No, od tego masz najbliższych.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Чтобы помочь вам, когда вы достигнете дна.;Żeby ci pomogli, kiedy sięgniesz dna.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;И помни.;I pamiętaj.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Самая дешевая водка только в трактире вашего хозяина.;Najtańsza wódka tylko u twojego pana w karczmie.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;А кто не пьёт, тот докладывает.;A kto nie pije еen donosi.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Наша экономика основана на том, что мы экспортируем зерно на Запад и импортируем предметы роскоши.;Nasza gospodarka opiera się na tym, że eksportujemy zboże na zachód, a dobra luksusowe sprowadzamy.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;В результате нам не нужно развивать технологию.;Dzięki temu nie musimy rozwijać technologii.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Вот что они говорят о нас.;Tak o nas mówią.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Куда это ты собралась? - У меня есть свои дела.;Dokąd idziesz? - Mam swoje sprawy.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Только не ходи в лес, а то швед отведет тебя в мешок.;Tylko nie idź do lasu, bo cię Szwed do wora zabierze.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Позади остались годы неурожаев, болезней и войн.;Za nami lata nieurodzaju, chorób i wojen.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Поэтому нужно радоваться тому, что...;Dlatego trzeba się cieszyć z tego, co...
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Убирайтесь из нашей истории!;Won z naszej historii!
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;По какой-то причине крестьяне Andrzeja получают более высокие выплаты, чем мои.;Z jakiegoś powodu chłopi Andrzeja uzyskują lepsze plony niż moi.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;И этот мерзкий ублюдок никогда не скажет, почему.;A to wredne bydlę nigdy nie powie dlaczego.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Он просто плохой человек.;To po prostu jest zły człowiek.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Это всегда было гордостью района.;Ten zawsze był dumą okolicy.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;И как только я взял его на себя, он вдруг стал работать хуже.;I akurat jak ja go przejąłem, to nagle zaczął działać gorzej.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Ну, вам, должно быть, не повезло.;No trzeba mieć pecha.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;И тут внезапно появился Анджей.;Wtedy nagle pojawił się tu Andrzej.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Когда умерла моя любимая жена, я решил сменить обстановку.;Kiedy umarła moja ukochana żona, postanowiłem zmienić otoczenie.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;И я искал место. А он решил переехать сюда.;I szukałem miejsca. I postanowił się tu przenieść.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;И он воспользовался моей шестилетней слабостью, выкупив половину деревни.;I wykorzystał mój sześcioletni moment słabości, odkupując połowę wsi.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Большая половина.;Większą połowę.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Неважно.;Nieistotne.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;В любом случае, размер не имеет значения.;Zresztą rozmiar się nie liczy.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Так говорят те, у кого маленькие деревни.;Tak mówią ci z małymi wsiami.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Но даже если она временно не принадлежит мне целиком.;Ale nawet jeśli chwilowo w całości nie należy do mnie.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;И здесь, когда прозвенит последний звонок, я буду похоронен.;I tu, gdy zabije ostatni dzwon, zostanę pochowany.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;За исключением сердца.;Za wyjątkiem serca.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Мы можем повесить всех дворян.;Moglibyśmy powiesić wszystkich szlachciców.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Я приспособлюсь.;Ja się dostosuję.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Сегодня я отправляюсь к холопам с заданием.;Wyruszam dzisiaj do chłopów z misją.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Изменения происходят на наших глазах.;Zmiany dzieją się na naszych oczach.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Мы должны действовать.;Musimy działać.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Нам нужно серьезно поговорить.;Musimy poważnie porozmawiać.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Из-за изменения климата жизнь людей на этой планете находится под серьезной угрозой.;Przez zmiany klimatyczne życie ludzi na tej planecie jest poważnie zagrożone.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Ну, я так и знал.;No wiedziałem.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Это было слишком хорошо.;Za dobrze było.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Звучит пугающе, не правда ли?;To faktycznie brzmi przerażająco, nie?
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Сколько времени у нас есть?;Ile mamy czasu?
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Через 380 лет изменения станут необратимыми.;Za 380 lat zmiany będą nieodwracalne.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Это может показаться далеким будущим, но чем раньше мы начнем...;To może brzmieć jak odległa przyszłość, ale im wcześniej zaczniemy...
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Тридцать звучит ужасающе.;Trzydzieści brzmi przerażająco.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Тогда мы точно начнем действовать.;Wtedy na pewno byśmy zaczęli działać.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;У каждого человека должны быть глаза вокруг головы.;Wszyscy mają mieć oczy dookoła głowy.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Нам нужно выяснить, почему наша ферма проигрывает.;Musimy odkryć, dlaczego nasz folwark przegrywa.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Холопов надо выжимать, как червяков.;Chłopów trzeba wycisnąć jak robaków.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;У нас встреча.;Naradę mamy.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Жизнь проходит мимо вас.;Życie cię omija.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;В конце дня я хочу услышать, что вы сделали сегодня.;Na koniec dnia chcę usłyszeć, co dziś zrobiłeś.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Это была слабая шутка, но не настолько.;To był słaby żart, ale nie aż tak słaby.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Ты на меня злишься?;Jesteś na mnie zła?
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Здесь холодно!;Zimno tu!
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Думаю, я ошибался насчет тебя.;Chyba się co do ciebie myliłam.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Вот список посещаемости на работе.;Oto lista obecności w pracy.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;И это стоит повторить.;I to się powtarza.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Может, кто-то плохо смотрел, когда записывал?;Może ktoś źle spojrzał przy zapisywaniu?
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Именно для таких ситуаций и была придумана эта поговорка.;Właśnie na taką sytuację wymyślono to powiedzenie.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Ну, я думаю, что это чушь.;No ale ja myślę, że to bujda.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Кто же заменит холопа?;No bo kto zastąpi chłopa?
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Давай подумаем.;Zastanówmy się.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Кто освободит его от титанической задачи?;Kto wyręczy go w jego tytanicznej pracy?
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Я всегда говорю что-то глупое.;Zawsze coś głupio palnę.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;И меня еще не приглашали ни в один заговор.;A mnie jeszcze nikt do żadnego spisku nie zaprosił.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Или все евреи сговорились.;Albo wszyscy Żydzi spiskują.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Меня одного не приглашают.;Tylko mnie jednego nie zapraszają.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Потому что я глупый и не гожусь для этого.;No bo głupi jestem i się nie nadaję.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Вы очень проницательны.;Jesteś bardzo spostrzegawczy.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Мне кажется забавным, что люди рядом с известными людьми ведут себя по-разному.;Śmieszy mnie, jak ludzie przy znanych osobach zachowują się inaczej.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;У меня здесь есть прозвище - Последний Самаритянин.;Mam tutaj taki przydomek – Ostatni Samarytanin.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;В конце концов, он такой же человек, как и все остальные.;Przecież to człowiek jak każdy inny.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Я думал об этом.;Przemyślałem to.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Я следую вашему совету.;Idę za twoją radą.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Мы давим крестьян, как червей.;Dociskamy chłopów jak robaków.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Я этого не говорил.;Ja tak nie powiedziałem.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;На вопрос, что делать с Гжегожем, вы ответили „бей его долго и сильно”.;Na pytanie, co zrobić z Grzegorzem, powiedziałeś, że „bij go długo i mocno”.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;В конце концов, речь шла о том, чтобы победить его любовью.;Przecież chodziło o to żebyś go bił miłością.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;"Нет-нет, я пости уверен, что вы сказали ""бей его цепью"".";Nie no, jestem prawie pewien, że powiedziałeś, że „bij go cepem”.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Якуб заставил меня задуматься.;Jakub dał mi do myślenia.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;До сих пор в отношении работников я использовал метод кнута и пряника.;Do tej pory wobec pracujących stosowałem metodę marchewki i kija.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Судьба ждет вас.;Los na was czyha.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Я бы хотел, чтобы мои холопы верили в себя.;Chciałbym, by moi chłopi uwierzyli w siebie.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Конечно, судьба кузнеца зависит от меня.;Oczywiście los kowala zależy ode mnie.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Как?;W jaki sposób?
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Неужели нас ждет такая судьба?;Czy to jest ten los, co na nas czyha?
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Отец Иаков приказал мне. Что он приказал тебе сделать?;Ksiądz Jakub mi kazał. Co ci kazał?
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Чувствуйте себя как дома.;Czuć się jak w domu.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Что это должно быть?;Co to ma być?
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Вы не поверите, это он.;Nie uwierzysz, to on.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;У меня к вам одна просьба.;Mam do ciebie jedną prośbę.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Прошу прощения?;Słucham?
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Пройдите по воде до середины пруда.;Idź po wodzie na środek stawu.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Будешь свободным.;Będziesz wolny.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Это положительный аспект ситуации, но я так же вижу и минусы.;To jest pozytywny aspekt tej sytuacji, ale dostrzegam także minusy.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Что мне придется идти в середину пруда, а это невозможно.;Że mam wejść na środek stawu, co jest niemożliwe.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;И ты не умеешь плавать.;I nie umiesz pływać.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Дает пищу для размышлений.;Daje do myślenia.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Он отдал письмо и тут же помчался.;Dał list i od razu popędził.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Мне придется жить под бременем этой лжи.;Będę musiał żyć z ciężarem kłamstwa.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Но самое главное, что я смог улучшить работу в поместье.;Ale najważniejsze, że udało mi się usprawnić prace w folwarku.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Убедить крестьян изменить свои привычки оказывается очень сложно.;Okazuje się, że przekonanie chłopów do zmiany nawyków jest bardzo trudne.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Люди не хотят отказываться даже от небольшого комфорта.;Ludzie nie chcą zrezygnować choćby z odrobiny komfortu.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Я хотел сказать, что переосмыслил свое отношение.;Chciałem ci powiedzieć, że przemyślałem swoją postawę.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Это самая странная история, которую я когда-либо слышал.;To najdziwniejsza historia, jaką kiedykolwiek słyszałam.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;И в то же время это самая милая вещь, которую кто-либо когда-либо для меня делал.;I zarazem najsłodsza rzecz, jaką ktoś dla mnie zrobił.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Извинения приняты.;Przeprosiny przyjęte.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Это запах победы.;To zapach zwycięstwa.
-Basic;Polski::Wyrażenia::1670.S01E02;Polski Wyrażenia 1670.S01E02;Хотя, конечно, из этого ничего не выйдет.;Choć oczywiście do niczego nie dojdzie.
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я не сидел без дела;nie siedziałem bezczynnie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я стараюсь изо всех сил;staram się jak mogę
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;чем дальше, тем больше смысла;im dalej, tym więcej sensu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это происходит один раз в год;zdarza się to raz w roku
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;самые редко используемые слова;najmniej używane słowa
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;самые часто используемые слова;najczęściej używane słowa
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;пойти на уступки;robić ustępstwa
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;здесь мы имели дело с;tutaj mieliśmy do czynienia z
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он выплатил только половину долга;spłacił dopiero połowę długu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он прошел этот путь очень быстро;przeszedł tę ścieżkę bardzo szybko
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это сложнее;to jest trudniejsze
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это проще;to jest łatwiejsze
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;кроме моей дочери;oprócz mojej córki
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;здесь нет ни одной женщины;nie ma tu żadnej kobiety
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;не хочу показаться жестоким;nie zamierzam brzmieć okrutnie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я делаю это по своему;robię to po swojemu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;с которым он боролся всю свою жизнь;przeciw którege przez życie całe walczył
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;spaced repetition;powtarzanie w odstępach
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;отложить все дела;odłożyć wszystko na bok
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;ситуация по-прежнему сложная;sytuacja nadal jest trudna
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;среди доступных на рынке и типа контракта;spośród dostępnych na rynku i rodzaju umowy
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;как раньше уже не будет;już nie będzie tak jak kiedyś
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;мне кажется;coś mi się wydaje
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;их постоянно опровергать;na bieżąco ich obalać
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;иностранцы необходимы;cudzoziemcy są niezbędni
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;живу с мыслью, что однажды;żyję z myślą, że pewnego dnia
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;полностью осознают плюсы и минусы;mają pełną świadomość wad i zalet
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;президент намерен наложить вето;prezydent zamierza zawetować
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;довести до автоматизма;doprowadzić do automatyzmu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;как вы думаете, что там?;co według was tam jest?
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;люди становятся жертвами своей судьбы;ludzie padają ofiarami swojego losu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;именно об этом и шла речь;no właśnie dokładnie o to chodziło
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;с его точки зрения;z jego punktu widzenia
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это явление становится все более распространенным;zjawisko to staje się coraz bardziej powszechne
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;пока не попробуешь не узнаешь;dopóki nie spróbujesz, nie będziesz wiedział
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;и все больше заявляют о готовности покинуть страну;a więcej zapowiada opuszczenie kraju
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он живет здесь только с января;mieszka tu dopiero od stycznia
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;кажется, гораздо разумнее подождать;dużo bardziej rozsądnym wydaje się czekanie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;второй день подряд;drugi dzień z rzędu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;возможность заключения договора;możliwość zawarcia umowy
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;подтвердил, что восхищается им;potwierdził, że go podziwia
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;столкнулся с реальностью;zderzyłem się z rzeczywistością
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;становишся таким же самым;stajesz się taki sam
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я редко помню свои сны;rzadko pamiętam swoje sny
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;пока что о тех, кто работает в поле;do tej pory wobec pracujących na polu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я вспомнил о тебе;pamiętałem o tobie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;потому что я встретил талантливых учителей;bo trafiłem na zdolnych nauczycieli
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;между ними нет никакой разницы;nie ma między nimi żadnej różnicy
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;в отличии от других;w przeciwieństwie do innych
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;постараюсь не забыть;postaram się nie zapomnieć
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я уже все забыл;już wszystko zapomniałem
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;только что вспомнил о тебе;właśnie o tobie pomyślałem
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;есть только одна причина;jest tylko jeden powód
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он сделает еще хуже;on tylko pogorszy sprawę
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;оглядываясь назад, это настолько очевидно;z perspektywy czasu jest to takie oczywiste
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;по статистике, вероятность, что вы умрете;według statystyk szansa, że zginiesz
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;несмотря на огромные человеческие потери;mimo gigantycznych strat w ludziach
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;и самое главное;i co najważniejsze
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;в таких обстоятельствах;w takich okolicznościach
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;сделанный на основе;zrobiony na podstawie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;что еще должно произойти;co jeszcze musi się stać
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;ни при каких обстоятельствах;pod żadnym pozorem
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;убеди самого себя;przekonaj się sam
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;огромный рост поддержки;olbrzymi wzrost poparcia
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;во многих отношениях оплот нормальности;w wielu kwestiach ostoją normalności
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я этого не отрицаю;nie zaprzeczam temu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;гораздо хуже;dużo gorzej
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;выступил намного лучше;wypadł znacznie lepiej
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;все меньше людей;coraz mniej osób
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это просто невезение;a to dopiero pech
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;telling a lie, refuting a lie;powiedzenie kłamstwa, obalenie kłamstwa
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;конечная цель это не победа;ostatecznym celem nie jest zwycięstwo
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;они были правы;mieli rację
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;соединяется с другим словом;łączy się z innym wyrazem
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я читал довольно много;czytałem całkiem sporo
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;навсегда;na zawsze
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я полагаю;wydaję mi się
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;ты можешь сделать такое же приложение;możesz stworzyć taką samą aplikację
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;самые богатые люди, с которыми я когда-либо имел дело;najbogatsi ludzie, z którymi miałem do czynienia
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я пытаюсь что-то сделать;próbuję coś zrobić
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;они не понимают, что кому-то это может быть неинтересно;nie ogarną, że kogoś może nie interesować
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;и я начал задаваться вопросом;i zacząłem się zastanawiać
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;огромный шаг вперёд;ogromny krok naprzód
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;корректировка договорной мощности;dostosowanie mocy umownej
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;нам следует быть умными;powinniśmy być mądrzy
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это вызовет большие волны миграции;spowoduje to duże fale migracji
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;его невозможно оскорбить;nie da się go urazić
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;чтобы доказать, что безопасность больше не существует;aby udowodnić, że bezpieczeństwo już nie istnieje
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;рано или поздно ты это поймешь;prędzej czy później to zrozumiesz
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;люди делают себе вред;ludzie robią sobie krzywdę
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;максимальная грузоподъемность;maksymalna ładowność
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;однажды ты победишь;pewnego dnia wygrasz
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он все-таки умеет драться;jednak potrafi się bić
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;все имеет идеологическую окраску;wszystko ma zabarwienie ideologiczne
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это сделает мою речь более натуральной;dzięki temu moja mowa będzie bardziej naturalna
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это замкнутый круг;działa błędne koło
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;великолепно с ним справились;pięknie go załatwili
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;у меня такое чувство;mam przeczucie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я приспособлюсь;ja się dostosuję
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;не так много интересных материалов;nie ma zbyt wiele interesujących materiałów
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;выступил намного хуже;wypadł znacznie gorzej
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;в отличии от нас;w przeciwieństwie do nas
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;брак по расчету;malozenstwo z rozsądku
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;спорили часами на пролет;kłóciliśmy się godzinami
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;любое выражение типа;dowolne wyrażenie typu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;идеально подошел для этой роли;idealnie się do tego nadawał
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это довольно сложный вопрос;to dość złożona kwestia
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он моложе тебя;on jest młodszy od ciebie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;всего к оплате;do zapłaty łącznie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;и без последствий;i bez konsekwencji
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;заявляют о своей готовности вступить в армию;deklaruje chęć wstąpienia do armii
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;вопреки видимости;wbrew pozorom
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;ты ещё увидишь;zobaczysz później
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это не совпадение;nie jest to przypadek
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;мне хватило одного недостающего элемента;mnie wystarczył jeden brakujący element
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;почему это происходит со мной?;dlaczego to się ze mną dzieje?
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;иностранное насилие;przemoc obca
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;огромный шаг назад;ogromny krok wstecz
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;откуда я тебя знаю?;skąd cię znam?
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он никуда не исчез;nie zniknął nigdzie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;неоднозначные ответы;niejednoznaczne odpowiedzi
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;трудно остановиться;trudno jest się zatrzymać
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;его не может победить никакая сила;nie da się pokonać żadną mocą
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;и в один день;i któregoś dnia
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я придерживаюсь мнения;jestem zdania
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;сам об этом понятия не имею;sam nie mam o tym pojęcia
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;намного лучше;dużo lepiej
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;как ты решишь эту проблему?;jak rozwiążesz ten problem?
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;чтобы оказалось, что это хорошо;żeby okazało się, że jest dobrze
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;куда ты идешь;dokąd idziesz
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;откуда ты идешь;skąd idziesz
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;но его действия гораздо хуже;ale jego czyny są o wiele gorsze
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;ни один эксперт не в состоянии;żaden ekspert nie jest w stanie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;estimated reading;odczyt szacowany
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;никому ни при каких обстоятельствах об этом не рассказывать;żebym pod żadnym pozorem nie mówił nikomu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;мы могли бы говорить часами;potrafiliśmy gadać godzinami
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;преимущества и недостатки;zalety i wady
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;меня озадачивает;mnie zastanawia
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;у меня есть привычка;mam zwyczaj
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;рядом с кроватью сидела мама;koło łóżka siedziała mama
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;что с ним случилось;co się z nim stało
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;выступил намного лучше;wypadł znacznie lepiej
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он хотел, чтобы оказалось, что он врет;chciał żeby wyszło, że on kłamie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;замена существующих источников света;wymianę istniejących źródeł światła
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;поэтому я скажу это за всех вас;więc powiem to za was wszystkich
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я начал учить польский;zacząłem uczyć się polskiego
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;как я мог иметь такой подход ко многим темам;jak w ogóle mogłem mieć takie podejście do wielu tematów
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;все менее дружелюбный;coraz mniej przyjazny
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;в любом случае, размер не имеет значения;zresztą rozmiar się nie liczy
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;война почти незбежна;wojna jest prawie nieunikniona
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;такие люди выдают столько тезисов;tacy ludzie rzucają tyloma tezami
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он сделает еще лучше;poradzi sobie jeszcze lepiej
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;и вообще этого следует избегать;i na ogół powinno się tego unikać
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;использует против него язык ненависти;stosuje wobec niego mowę nienawiści
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;в моем ближайшем окружении;w moim najbliższym środowisku
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я не выдавал себя за полицию;nie podawałem się za policję
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;каждый раз, когда ты что-то делаешь;za każdym razem, gdy coś robisz
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;меня удивляет, как он получил подписи;zastanawia mnie jak zdobył podpisy
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;мне все равно;nie obchodzi mnie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;и почти все нормально;i prawie wszystko jest normalne
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;откуда это начинается - куда это идет;skąd wyrusza – dokąd zmierza
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;нанести непоправимый вред;spowodować nieodwracalną szkodę
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;без колебаний;bez zająknięcia
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;они такие же самые;są tacy sami
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;выращивать овощи;uprawiać warzywa
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;обоснованность конкретных действий;słuszności określonych działań
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;необходимое оборудование;niezbędny sprzęt/niezbędne wyposażenie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;помогаю достичь намеченной цели;pomagam osiągnąć zamierzony cel
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;он скажет все что надо;powie wszystko, co trzeba
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я бы сказал по другому;powiedziałbym to inaczej
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;скопировать текст;skopiować tekst
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;выделить текст;zaznaczyć tekst
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;работа с людьми — моя стихия;praca z ludźmi to mój żywioł
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;проверка;sprawdzanie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;деятельность;czynności
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;соблюдение;przestrzeganie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;необходимая информация;niezbędne informacje
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;они пришли к такому выводу;doszli do takiego wniosku
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;еще один тяжелый день подряд;kolejny ciężki dzień z rzędu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;наплыв мыслей;natłok myśli
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;наплыв стресса в последние несколько дней;natłok stresu w przeciągu ostatnich dni
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;мои навыки;moje umiejętności
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;раскрыли проект бюджета;ujawnili projekt budżetu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;текущий бюджет;obecny budżet
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;когда появится следующая возможность;kiedy trafi się kolejna okazja
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;не дал бы решить о покупке косилки;nie dałbym zadecydować o zakupie kosiarki
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;экономика идет в никуда;gospodarka zmierza donikąd
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;основание языковой школы;założenie szkoły językowej
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;создание языковой школы;utworzenie szkoły językowej
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;какое мне дело до того, что волнует тебя;co mnie obchodzi co ciebie obchodzi
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;почему меня это должно волновать?;dlaczego powinno mnie obchodzić?
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;честно говоря, мне все равно;mówiąc szczerze mało mnie obchodzi
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это меня сильно пугает;to mnie bardzo przeraża
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;thick;gruby
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;thin;cienki
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;разрушение;zagłada
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;однажды, от скуки, я немного углубился в эту тему;kiedyś z nudów zanurkowałem trochę w ten temat
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это очень печально;to bardzo przykre
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;чувствуют себя совершенно безнаказанными;czuja się całkowicie bezkarne
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;с восторгом смотрят в зеркало;patrzą w lustro w zachwyceniu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;сценарий, которого я лично очень опасаюсь;scenariusz którego się bardzo osobiście obawiam
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;отвратительная ложь;obleśne kłamstwa
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;делание глупых людей знаменитыми;robienie głupich ludzi sławnymi
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;очень точно;bardzo trafne
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;прошлый год был холоднее;ostatni rok był zimniejszy
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;прошлой зимой у нас не было снега;zeszłej zimy nie mieliśmy śniegu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;что их вчера расстроило;co ich wpieniło wczoraj
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;им все равно;nie przejmują się
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;стандартное оборудование;standardowe wyposażenie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;лицензия на вождение велосипеда;uprawnienia do jazdy rowerem
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;вопреки видимости;wbrew pozorom
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;не ставит перед собой целей;nie narzuca sobie celów
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;разница в том;różnica polega na tym
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;вырвано из контекста;wyjęte z kontekstu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;прогрессирует поляризация общества;postępuje polaryzacja społeczeństwa
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;идет в плохом направлении;idzie to w złą stronę
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я сторонник приобретения знаний;ja akurat jestem zwolennikiem pozyskiwania wiedzy
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;как оцениваешь этого политика;jak oceniasz tego polityka
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;прошлый год был вторым подряд, когда;miniony rok był już drugim z rzędu, gdy
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;на улицы выйдут как противники, так и сторонники;na ulice wyjadą przeciwnicy oraz zwolennicy
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;из-за страха конфронтации;w obawie przed konfrontacją
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;wyraź sprzeciw wobec nieudolności władzy;выразь несогласие с некомпетентностью властей
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;услышали обвинения;usłyszeli zarzuty
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;пусть скажет то же самое;niech powie to samo
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;скоро;wkrótce
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;на работе подвергаются словесным нападкам;są atakowani słownie w pracy
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;неудачная авария водителя;pechowa kraksa kierowcy
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;собираюсь потратить;zamierzam wydać
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;поэтому собираюсь дать ей шанс;więc zamierzam dać jej szansę
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;чтобы быть уверенным;aby mieć pewność
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;вам понадобится правильный инструмент;będziesz potrzebować odpowiedniego narzędzia
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;испытывает колоссальное трение;doświadcza ogromnego tarcia
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;постоянно подвергается трению;wielokrotnie podlega tarciu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;также является ключевым фактором;jest również kluczowym czynnikiem
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;обычно;zazwyczaj
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;что именно мы обычно делаем неправильно;co konkretnie zazwyczaj robimy źle
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;я предпочитаю качественную информацию;wolę wysokiej jakości informację
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;но одинаково эффективный;lecz równie skuteczny
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;презрительный термин;pogardliwy termin
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;если факты не соответствуют мнениям, тем хуже для фактов;jeśli fakty nie pasują do opinii, to tym gorzej dla faktów
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;не предоставляет полезной информации;nie dostarcza użytecznych informacji
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;способствует глобальному потеплению;napędza globalne ocieplenie
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;происходят быстрые изменения климата;zachodzą gwałtowne zmiany klimatu
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;ассоциация слов с погромами может показаться преувеличенной;skojarzenie słów z pogromami może wydawać się przesadzone
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;власти не противодействуют угрозе и скрывают информацию;władza nie przeciwdziała zagrożeniu, ukrywa informacje
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;бессмертная сцена;nieśmiertelna scena
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;не имею возражений;nie mam zastrzeżeń
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;обрати особое внимание;zwróć szczególną uwagę
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;хотим продолжать ездить;chcemy jeździć nadal
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;а где главный пожарный?;gdzie jest naczelny strażak?
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;главный проект;naczelny projekt
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;это одна из моих основных ценностей;to jedna z moich naczelnych wartości
-Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenia Wyrażenia;либо неуклюжая правда, либо идеальная ложь;albo niezdarna prawda, albo doskonałe kłamstwo
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Bardzo {{c1::dobrą::dobra}} {{c1::wiadomością::wiadomość}} jest to, że autorka planuje kontynuację.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Trzeba znaleźć {{c1::dobrą::dobra}} {{c1::szkołę::szkoła}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Spółki posiadają {{c1::dobrą::dobra}} {{c1::historię::historia}} wyników.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Aktywność fizyczna może stać się bardzo {{c1::dobrą::dobra}} {{c1::formą::forma}} spędzania czasu.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Banknoty są {{c1::dobrej::dobra}} {{c1::jakości::jakośc}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Aktywność fizyczna jest niezbędna dla zachowania {{c1::dobrej::dobra}} {{c1::formy::forma}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Przygotuj się na {{c1::ogromną::ogromna}} {{c1::dawkę::dawka}} {{c2::dobrej::dobra}} {{c2::telewizji::telewizja}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Atak w momencie, w którym nie mają {{c1::dobrej::dobra}} {{c1::odpowiedzi::odpowiedz}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Wiem, że wykonałaś kawał {{c1::dobrej::dobra}} {{c1::roboty::robota}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Bo wówczas nie napiszesz {{c1::dobrej::dobra}} {{c1::książki::książka}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Zabrakło {{c1::chemii::chemia}}, {{c1::dobrej::dobra}} {{c1::energii::energia}} między nami.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Będziemy szukać {{c1::dobrej::dobra}} {{c1::nazwy::nazwa}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Będziemy trzymać {{c1::dobrą::dobra}} {{c1::pamięć::pamięć}} naszego pobytu.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Chciał mieć rodzinę, {{c1::dobrą::dobra}} {{c1::pracę::praca}} i dużo pieniędzy.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Cicha i spokojna okolica z {{c1::dobrą::dobra}} {{c1::infrastrukturą::infrastruktura}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Gra jest oprawiona w {{c1::kolorową::kolorowa}} {{c1::grafikę::grafika}} oraz {{c2::miłą::miła}} {{c2::wesołą::wesoła}} {{c2::melodię::melodia}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Dobieraj kości i buduj witraże w tej {{c1::kolorowej::kolorowa}} {{c1::grze::gra}} dla {{c2::całej::cała}} {{c2::rodziny::rodzina}}!;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Dziś już nie jestem {{c1::tą::ta}} {{c1::dziewczyną::dziewczyna}} w {{c2::kolorowej::kolorowa}} {{c2::koszulce::koszulka}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Entuzjaści samochodów elektrycznych długo czekali {{c1::tą::ta}} {{c1::decyzję::decyzja}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Ona kalkuluje {{c1::każdą::każda}} {{c1::decyzję::decyzja}}, waży każde słowo.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Etyka powinna kierować {{c1::każdą::każda}} jego {{c1::decyzję::decyzja}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Euforia i napięcie rośnie z {{c1::każdą::każda}} {{c1::minutą::minuta}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Bezpieczeństwo przeprowadzenia {{c1::każdej::każda}} {{c1::transakcji::transakcja}} po prostu nie ma ceny.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Będzie {{c1::wspaniałą::wspaniała}} {{c1::ozdobą::ozdoba}} pokoiku {{c2::każdej::każda}} {{c2::dziewczynki::dziewczynka}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Czy kombinezon przeznaczony jest dla {{c1::każdej::każda}} {{c1::kobiety::kobieta}}?;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Dlaczego cena {{c1::każdej::każda}} {{c1::butelki::butelka}} wina jest inna?;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Dlaczego jest on na {{c1::każdą::każda}} {{c1::porę::pora}} roku?;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Do pracy wykorzystywano {{c1::każdą::każda}} {{c1::parę::para}} rąk.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Dopiero teraz zauważyła jakąś {{c1::biedną::biedna}} {{c1::dziewczynę::dziewczyna}}, siedzącą na podłodze, płaczącą.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Drogie i niepraktyczne zakupy świadczą o tym, że jesteś {{c1::biedną::biedna}} {{c1::osobą::osoba}}.;
-Cloze;Polski::Odmiany::Przykłady;Polski Odmiana;Ile pieniędzy potrzebujesz żeby poczuć się {{c1::bogatą::bogata}} {{c1::osobą::osoba}}?;
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Noun/A word that names a person, place, thing, or idea;<p>Rzeczownik</p>
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Pronoun/A word that replaces a noun;<p>Zaimek</p>
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Verb/A word that expresses action or a state of being;<p>Czasownik</p>
@@ -671,223 +11,266 @@ Basic;Polski::Meta::Częśći Mowy;Polski Meta;Adverb/A word that modifies a ver
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Preposition/A word that shows the relationship between a noun or pronoun and other words in the sentence;<p>Przyimek</p>
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Conjunction/A word that connects words, phrases, or clauses;<p>Spójnik</p>
 Basic;Polski::Meta::Częśći Mowy;Polski Meta;Interjection/A word that expresses strong emotion.;<p>Wykrzyknik</p>
-Basic;Polski::Słowa;Polski Słowa;только/only;"<p>dopiero</p>
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Bardzo {{c1::dobrą::dobra}} {{c1::wiadomością::wiadomość}} jest to, że autorka planuje kontynuację.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Trzeba znaleźć {{c1::dobrą::dobra}} {{c1::szkołę::szkoła}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Spółki posiadają {{c1::dobrą::dobra}} {{c1::historię::historia}} wyników.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Aktywność fizyczna może stać się bardzo {{c1::dobrą::dobra}} {{c1::formą::forma}} spędzania czasu.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Banknoty są {{c1::dobrej::dobra}} {{c1::jakości::jakośc}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Aktywność fizyczna jest niezbędna dla zachowania {{c1::dobrej::dobra}} {{c1::formy::forma}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Przygotuj się na {{c1::ogromną::ogromna}} {{c1::dawkę::dawka}} {{c2::dobrej::dobra}} {{c2::telewizji::telewizja}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Atak w momencie, w którym nie mają {{c1::dobrej::dobra}} {{c1::odpowiedzi::odpowiedz}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Wiem, że wykonałaś kawał {{c1::dobrej::dobra}} {{c1::roboty::robota}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Bo wówczas nie napiszesz {{c1::dobrej::dobra}} {{c1::książki::książka}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Zabrakło {{c1::chemii::chemia}}, {{c1::dobrej::dobra}} {{c1::energii::energia}} między nami.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Będziemy szukać {{c1::dobrej::dobra}} {{c1::nazwy::nazwa}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Będziemy trzymać {{c1::dobrą::dobra}} {{c1::pamięć::pamięć}} naszego pobytu.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Chciał mieć rodzinę, {{c1::dobrą::dobra}} {{c1::pracę::praca}} i dużo pieniędzy.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Cicha i spokojna okolica z {{c1::dobrą::dobra}} {{c1::infrastrukturą::infrastruktura}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Gra jest oprawiona w {{c1::kolorową::kolorowa}} {{c1::grafikę::grafika}} oraz {{c2::miłą::miła}} {{c2::wesołą::wesoła}} {{c2::melodię::melodia}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Dobieraj kości i buduj witraże w tej {{c1::kolorowej::kolorowa}} {{c1::grze::gra}} dla {{c2::całej::cała}} {{c2::rodziny::rodzina}}!;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Dziś już nie jestem {{c1::tą::ta}} {{c1::dziewczyną::dziewczyna}} w {{c2::kolorowej::kolorowa}} {{c2::koszulce::koszulka}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Entuzjaści samochodów elektrycznych długo czekali {{c1::tą::ta}} {{c1::decyzję::decyzja}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Ona kalkuluje {{c1::każdą::każda}} {{c1::decyzję::decyzja}}, waży każde słowo.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Etyka powinna kierować {{c1::każdą::każda}} jego {{c1::decyzją::decyzja}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Euforia i napięcie rośnie z {{c1::każdą::każda}} {{c1::minutą::minuta}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Bezpieczeństwo przeprowadzenia {{c1::każdej::każda}} {{c1::transakcji::transakcja}} po prostu nie ma ceny.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Będzie {{c1::wspaniałą::wspaniała}} {{c1::ozdobą::ozdoba}} pokoiku {{c2::każdej::każda}} {{c2::dziewczynki::dziewczynka}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Czy kombinezon przeznaczony jest dla {{c1::każdej::każda}} {{c1::kobiety::kobieta}}?;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Dlaczego cena {{c1::każdej::każda}} {{c1::butelki::butelka}} wina jest inna?;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Dlaczego jest on na {{c1::każdą::każda}} {{c1::porę::pora}} roku?;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Do pracy wykorzystywano {{c1::każdą::każda}} {{c1::parę::para}} rąk.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Dopiero teraz zauważyła jakąś {{c1::biedną::biedna}} {{c1::dziewczynę::dziewczyna}}, siedzącą na podłodze, płaczącą.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Drogie i niepraktyczne zakupy świadczą o tym, że jesteś {{c1::biedną::biedna}} {{c1::osobą::osoba}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Ile pieniędzy potrzebujesz żeby poczuć się {{c1::bogatą::bogata}} {{c1::osobą::osoba}}?;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Widzę {{c1::dużego::duży}} {{c1::psa::pies}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Kupuję {{c1::nowy::nowy}} {{c1::telefon::telefon}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Czytam {{c1::ciekawą::ciekawa}} {{c1::książkę::książka}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Mam {{c1::dobrą::dobra}} {{c1::kawę::kawa}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Znam tego {{c1::miłego::miły}} {{c1::chłopaka::chłopak}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Gotuję {{c1::pyszną::pyszna}} {{c1::zupę::zupa}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Piszę {{c1::długi::długi}} {{c1::list::list}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Niosę {{c1::ciężką::ciężka}} {{c1::torbę::torba}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Pamiętam tamten {{c1::stary::stary}} {{c1::film::film}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Lubię tę {{c1::czerwoną::czerwona}} {{c1::sukienkę::sukienka}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Nagroda za {{c1::ciężką::ciężka}} {{c1::pracę::praca}} na treningach.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;To wielkie wydarzenie po tych dwóch latach {{c1::ciężkiej::ciężka}} i {{c1::intensywnej::intensywna}} {{c1::pracy::praca}}.;
+Basic;Polski::Słowa;Polski Słowo;только/only;"<p>dopiero</p>
 <ul>
 <li><em>Otrząsnął się dopiero na ruchomych schodach.</em></li>
 <li><em>Przystąpi do spowiedzi dopiero po waszej rozmowie.</em></li>
 <li><em>Dziś dopiero poznałem, czym dla mnie może być kobieta.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;рано,раньше;"<p>wcześniej</p>
+Basic;Polski::Słowa;Polski Słowo;рано,раньше;"<p>wcześniej</p>
 <ul>
 <li><em>Ja przyszedłem za wcześnie.</em></li>
 <li><em>Kończę dzisiaj wcześniej.</em></li>
 <li><em>Mam o wiele lepsze karty niż wcześniej.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;все еще;"<p>nadal</p>
+Basic;Polski::Słowa;Polski Słowo;все еще;"<p>nadal</p>
 <ul>
 <li><em>Jeżeli ta kobieta jest nadal żywa?</em></li>
 <li><em>I cała masa innych ludzi nadal by żyli.</em></li>
 <li><em>A my nadal tu będziemy?</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;до сих пор;"<p>wciąż</p>
+Basic;Polski::Słowa;Polski Słowo;до сих пор;"<p>wciąż</p>
 <ul>
 <li><em>Jest coś czego wciąż nie rozumiem!</em></li>
 <li><em>Książki wciąż nie przeczytałem.</em></li>
 <li><em>Mamy czas, bo wciąż nie masz podpisu sędziego.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;потому что/because;"<p>poniewaz</p>
+Basic;Polski::Słowa;Polski Słowo;потому что/because;"<p>poniewaz</p>
 <ul>
 <li><em>I tak sie dowiem, poniewaz jestem profesjonalista.</em></li>
 <li><em>Nie zostal zlapany, poniewaz ma uklady.</em></li>
 <li><em>Poniewaz nie ma szans żebyśmy mogli tu jeszcze się pokazać.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;почти/almost;"<p>prawie</p>
+Basic;Polski::Słowa;Polski Słowo;почти/almost;"<p>prawie</p>
 <ul>
 <li><em>Dzieciak by prawie nie utonął, gdybym ja go nie pchnęła.</em></li>
 <li><em>Ten jest w prawie świeżym stanie.</em></li>
 <li><em>Teraz jestem prawie pewien, że tego nie przyjmą.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;скорее/rather;"<p>raczej</p>
+Basic;Polski::Słowa;Polski Słowo;скорее/rather;"<p>raczej</p>
 <ul>
 <li><em>A teraz raczej nie jest najlepsza chwila.</em></li>
 <li><em>Czarna raczej nie jest.</em></li>
 <li><em>Dziś będzie raczej ciężko.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;против/against;"<p>wbrew</p>
+Basic;Polski::Słowa;Polski Słowo;против/against;"<p>wbrew</p>
 <ul>
 <li><em>Wbrew jego naturze i woli.</em></li>
 <li><em>Co jest wbrew zasadom.</em></li>
 <li><em>A działać wbrew opinii innych.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;тратить/to spend;"<p>spędzać</p>
+Basic;Polski::Słowa;Polski Słowo;тратить/to spend;"<p>spędzać</p>
 <ul>
 <li><em>Najczęściej spędzają czas na oglądaniu telewizji.</em></li>
 <li><em>Całe swoje życie spędzają w kawiarniach.</em></li>
 <li><em>Przypomina mi się czas spędzany z moimi przyjaciółmi.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;вести/to lead;"<p>prowadzić</p>
+Basic;Polski::Słowa;Polski Słowo;вести/to lead;"<p>prowadzić</p>
 <ul>
 <li><em>Gdy się mylę, próbuję prowadzić dyskusję.</em></li>
 <li><em>Ide tam, gdzie prowadzi mnie praca.</em></li>
 <li><em>Żeby mój tata prowadził mnie do lekarza.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;не очень/not very;"<p>niezbyt</p>
+Basic;Polski::Słowa;Polski Słowo;не очень/not very;"<p>niezbyt</p>
 <ul>
 <li><em>Była niezbyt ładna.</em></li>
 <li><em>Budynek banku był niezbyt duży.</em></li>
 <li><em>On słuchał niezbyt uważnie.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;но/but;"<p>lecz</p>
+Basic;Polski::Słowa;Polski Słowo;но/but;"<p>lecz</p>
 <ul>
 <li><em>Lecz równie skuteczny.</em></li>
 <li><em>Lecz czuję, że ma inne plany.</em></li>
 <li><em>Lecz by żył wiecznie.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;эффект/effect;"<p>skutek</p>
+Basic;Polski::Słowa;Polski Słowo;эффект/effect;"<p>skutek</p>
 <ul>
 <li><em>Wywarło to głęboki skutek na mnie.</em></li>
 <li><em>A skutek będzie odwrotny?</em></li>
 <li><em>Każdy skutek może być przewidywalny.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;эффективный/effective;"<p>skuteczny</p>
+Basic;Polski::Słowa;Polski Słowo;эффективный/effective;"<p>skuteczny</p>
 <ul>
 <li><em>Bronić musisz się skutecznie.</em></li>
 <li><em>Skuteczne sposoby zmiany tych zachowań.</em></li>
 <li><em>Możemy opracować skuteczne zalecenia.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;image/образ;"<p>wizerunek</p>
+Basic;Polski::Słowa;Polski Słowo;image/образ;"<p>wizerunek</p>
 <ul>
 <li><em>Jeśli robisz to zbyt często, dostajesz zły wizerunek.</em></li>
 <li><em>Mam wizerunek do utrzymania.</em></li>
 <li><em>Niektórzy próbują zniszczyć wizerunek naszego kraju.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;to look/смотреть;"<p>spojrzeć</p>
+Basic;Polski::Słowa;Polski Słowo;to look/смотреть;"<p>spojrzeć</p>
 <ul>
 <li><em>I nawet na niego nie spojrzeć.</em></li>
 <li><em>Szykowałam się i spojrzałam w lustro.</em></li>
 <li><em>Ja przynajmniej spojrzę ci w oczy.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;в соответствии с/according to;"<p>według</p>
+Basic;Polski::Słowa;Polski Słowo;в соответствии с/according to;"<p>według</p>
 <ul>
 <li><em>A atak zombie ma według ciebie lepsze szanse?</em></li>
 <li><em>Bo zazwyczaj postępowaliśmy według schematu.</em></li>
 <li><em>Skąd wiemy, że zabójca będzie grał według twoich reguł?</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;много/a lot;"<p>sporo</p>
+Basic;Polski::Słowa;Polski Słowo;много/a lot;"<p>sporo</p>
 <ul>
 <li><em>Sporo tu miejsca.</em></li>
 <li><em>Będzie sporo roboty, kolego.</em></li>
 <li><em>Ja myślałam o tym sporo.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;тип/type;"<p>rodzaj</p>
+Basic;Polski::Słowa;Polski Słowo;тип/type;"<p>rodzaj</p>
 <ul>
 <li><em>Ja należę do drugiego rodzaju.</em></li>
 <li><em>Mam wiele rodzajów informacji.</em></li>
 <li><em>Ten projekt jest swego rodzaju testem.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;звучать/to sound;"<p>brzmieć</p>
+Basic;Polski::Słowa;Polski Słowo;звучать/to sound;"<p>brzmieć</p>
 <ul>
 <li><em>Jak śpiewasz, to brzmisz zupełnie inaczej.</em></li>
 <li><em>Nie zamierzam brzmieć okrutnie.</em></li>
 <li><em>No dobrze, to brzmi świetnie.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;узнавать/to recognize;"<p>kojarzyć</p>
+Basic;Polski::Słowa;Polski Słowo;узнавать/to recognize;"<p>kojarzyć</p>
 <ul>
 <li><em>Ciebie nie kojarzę w ogóle.</em></li>
 <li><em>Czemu miałbym go kojarzyć?</em></li>
 <li><em>Dopiero zaczynasz to kojarzyć.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;особенно/especially;"<p>zwłaszcza</p>
+Basic;Polski::Słowa;Polski Słowo;особенно/especially;"<p>zwłaszcza</p>
 <ul>
 <li><em>Czas leczy rany, zwłaszcza ten dobry czas.</em></li>
 <li><em>Nie ufała nikomu, zwłaszcza jemu.</em></li>
 <li><em>Zwłaszcza na tym etapie, jesteśmy optymistami.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;ужасный/terrible;"<p>okropny</p>
+Basic;Polski::Słowa;Polski Słowo;ужасный/terrible;"<p>okropny</p>
 <ul>
 <li><em>Kawa jest naprawdę okropna.</em></li>
 <li><em>Książki są okropne, ale nie potrafię ich odłożyć.</em></li>
 <li><em>Lakie okropności musiałaś przeżyć podczas ucieczki.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;обвинения/allegations;"<p>zarzuty</p>
+Basic;Polski::Słowa;Polski Słowo;обвинения/allegations;"<p>zarzuty</p>
 <ul>
 <li><em>Nastepnym razem poprzyj zarzuty dowodami.</em></li>
 <li><em>Kto dał ci prawo stawiać mi zarzuty?</em></li>
 <li><em>Mam spisany zarzut mojego klienta.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;волноваться/to worry;"<p>martwić</p>
+Basic;Polski::Słowa;Polski Słowo;волноваться/to worry;"<p>martwić</p>
 <ul>
 <li><em>A babcia nie martwi sie o ciebie?</em></li>
 <li><em>Chcemy jasno określić, że nikt nie musi się martwić.</em></li>
 <li><em>Dosyć mam już zmartwień!</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;иметь/to own;"<p>posiadać</p>
+Basic;Polski::Słowa;Polski Słowo;иметь/to own;"<p>posiadać</p>
 <ul>
 <li><em>Fantazją o posiadaniu władzy.</em></li>
 <li><em>Posiadanie tego nie stanowi problemu.</em></li>
 <li><em>Gdy przybyłem do tego miasta, nie posiadałem niczego.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;бояться/to fear;"<p>obawiać się</p>
+Basic;Polski::Słowa;Polski Słowo;бояться/to fear;"<p>obawiać się</p>
 <ul>
 <li><em>Zobaczysz, że nie ma się czego obawiać.</em></li>
 <li><em>Jak cudownie nie obawiać się nieznanego.</em></li>
 <li><em>Miałem powody, by obawiać się tego.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;обожать/to adore;"<p>uwielbiać</p>
+Basic;Polski::Słowa;Polski Słowo;обожать/to adore;"<p>uwielbiać</p>
 <ul>
 <li><em>Miałem pracę, którą uwielbiałem.</em></li>
 <li><em>Myślę, że sekretnie uwielbiasz ten chaos.</em></li>
 <li><em>Nawet dorośli je uwielbiają.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;ценить/to appreciate;"<p>doceniać</p>
+Basic;Polski::Słowa;Polski Słowo;ценить/to appreciate;"<p>doceniać</p>
 <ul>
 <li><em>Bez śmierci nie doceniasz życia.</em></li>
 <li><em>Dziękuję za docenienie tych spraw.</em></li>
 <li><em>Jak możesz dziś ją docenić?</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;проверять/to check;"<p>sprawdzać</p>
+Basic;Polski::Słowa;Polski Słowo;проверять/to check;"<p>sprawdzać</p>
 <ul>
 <li><em>A biletów nawet nie sprawdzali.</em></li>
 <li><em>Absolutnie wszystko jest sprawdzane.</em></li>
 <li><em>Dziecko chce się sprawdzić jako samodzielna osobowość.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;воспринимать/to perceive;"<p>postrzegać</p>
+Basic;Polski::Słowa;Polski Słowo;воспринимать/to perceive;"<p>postrzegać</p>
 <ul>
 <li><em>Chcemy być postrzegani jako ludzie kulturalni.</em></li>
 <li><em>Choroba może zmienić postrzeganie sytuacji.</em></li>
 <li><em>Ludzie postrzegają mnie w inny sposób.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;удивляться/to wonder;"<p>zastanawiać się</p>
+Basic;Polski::Słowa;Polski Słowo;удивляться/to wonder;"<p>zastanawiać się</p>
 <ul>
 <li><em>Nie zastanawiała się nad przyszłością.</em></li>
 <li><em>Możesz już przestać się nad tym zastanawiać.</em></li>
 <li><em>Dziwi mnie to bardzo i zastanawiam się od czego to zależy.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;кричать/to scream;"<p>wrzasnąć</p>
+Basic;Polski::Słowa;Polski Słowo;кричать/to scream;"<p>wrzasnąć</p>
 <ul>
 <li><em>Tym razem miał ochotę wrzasnąć.</em></li>
 <li><em>I wkurzyć się potrafi, i wrzasnąć, i pięścią walnąć w stół.</em></li>
 <li><em>Jeszcze raz wrzasnął na całe gardło.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;принцип/условие/principle/term;"<p>zasada</p>
+Basic;Polski::Słowa;Polski Słowo;принцип/условие/principle/term;"<p>zasada</p>
 <ul>
 <li><em>Chcę pracować na własnych zasadach.</em></li>
 <li><em>A ci, którzy złamią te zasady, zostaną przez niego ukarani.</em></li>
 <li><em>Jakie proste zasady oszczędzania można wprowadzić?</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;доброта/kindness;"<p>dobroć</p>
+Basic;Polski::Słowa;Polski Słowo;доброта/kindness;"<p>dobroć</p>
 <ul>
 <li><em>Czy my potrafimy okazywać miłość i dobroć?</em></li>
 <li><em>Gdzie jest dobroć, tam zrodzi się wdzięczność.</em></li>
 <li><em>Każda z nich ma w sobie siłę i dobroć.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;трусливый/cowardly;"<p>tchórzliwy</p>
+Basic;Polski::Słowa;Polski Słowo;трусливый/cowardly;"<p>tchórzliwy</p>
 <ul>
 <li><em>Kobiety są jednak zbyt tchórzliwe.</em></li>
 <li><em>Kochaj odważnych, rezygnuj z tchórzliwych.</em></li>
 <li><em>Król zaś zawsze był słaby i tchórzliwy.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;выращивать/to grow;"<p>uprawiać</p>
+Basic;Polski::Słowa;Polski Słowo;выращивать/to grow;"<p>uprawiać</p>
 <p><strong>W kontekście rolnictwa</strong> – oznacza zajmowanie się hodowlą roślin:</p>
 <ul>
 <li><em>Uprawiać pszenicę</em></li>
@@ -918,7 +301,7 @@ Basic;Polski::Słowa;Polski Słowa;выращивать/to grow;"<p>uprawiać</p
 <li><p><em>Czy ktoś tu jeszcze uprawia politykę?</em></p>
 </li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;полезный/helpful;"<p>uczynny</p>
+Basic;Polski::Słowa;Polski Słowo;полезный/helpful;"<p>uczynny</p>
 <p>Słowo „<strong>uczynny</strong>” oznacza osobę, która chętnie pomaga innym, jest skłonna do wyświadczania przysług, życzliwa i pomocna. To cecha charakteru.</p>
 <ul>
 <li><em>To bardzo uczynny sąsiad – zawsze pomoże, gdy trzeba.</em></li>
@@ -927,7 +310,7 @@ Basic;Polski::Słowa;Polski Słowa;полезный/helpful;"<p>uczynny</p>
 </ul>
 <p><strong>Synonimy</strong>: pomocny, życzliwy, przysłużny.</p>
 <p><strong>Przeciwieństwo</strong>: nieuprzejmy, obojętny, samolubny.</p>"
-Basic;Polski::Słowa;Polski Słowa;остроумный/witty;"<p>dowcipny</p>
+Basic;Polski::Słowa;Polski Słowo;остроумный/witty;"<p>dowcipny</p>
 <p>Słowo „<strong>dowcipny</strong>” oznacza osobę, która potrafi mówić rzeczy zabawne, inteligentne i błyskotliwe – często w sposób trafny i z humorem.</p>
 <ul>
 <li><em>To bardzo dowcipny facet – zawsze rozbawi towarzystwo.</em></li>
@@ -936,7 +319,7 @@ Basic;Polski::Słowa;Polski Słowa;остроумный/witty;"<p>dowcipny</p>
 </ul>
 <p><strong>Synonimy:</strong> zabawny, błyskotliwy, inteligentny w żartach.</p>
 <p><strong>Przeciwieństwa:</strong> ponury, sztywny, drętwy.</p>"
-Basic;Polski::Słowa;Polski Słowa;намереваться/to intend;"<p>zamierzać</p>
+Basic;Polski::Słowa;Polski Słowo;намереваться/to intend;"<p>zamierzać</p>
 <p>Słowo „<em>zamierzać</em>” oznacza mieć zamiar coś zrobić, czyli planować jakieś działanie lub myśleć o zrobieniu czegoś w przyszłości.</p>
 <ul>
 <li><em>Zamierzam iść na studia w przyszłym roku.</em></li>
@@ -944,24 +327,24 @@ Basic;Polski::Słowa;Polski Słowa;намереваться/to intend;"<p>zamier
 <li><em>Ona zamierza wyjechać za granicę.</em></li>
 </ul>
 <p><strong>Synonimy</strong>: planować, mieć zamiar, nosić się z zamiarem.</p>"
-Basic;Polski::Słowa;Polski Słowa;тратить/to spend;"<p>wydawać</p>
+Basic;Polski::Słowa;Polski Słowo;тратить/to spend;"<p>wydawać</p>
 <ul>
 <li><em>Wydał wszystkie pieniądze.</em></li>
 <li><em>I zawsze mające wydać resztę.</em></li>
 <li><em>Wydać resztę ze stu złotych.</em></li>
 </ul>
 <p><strong>Synonimy</strong>: zużywać</p>"
-Basic;Polski::Słowa;Polski Słowa;выдавать/to hand over;"<p>wydawać</p>
+Basic;Polski::Słowa;Polski Słowo;выдавать/to hand over;"<p>wydawać</p>
 <ul>
 <li><em>Urzędy będą wydawać paszporty spełniające.</em></li>
 <li><em>Wydać towar.</em></li>
 </ul>
 <p><strong>Synonimy</strong>: przekazywać</p>"
-Basic;Polski::Słowa;Polski Słowa;публиковать/to publish;"<p>wydawać</p>
+Basic;Polski::Słowa;Polski Słowo;публиковать/to publish;"<p>wydawać</p>
 <ul>
 <li><em>Wydać książkę.</em></li>
 </ul>"
-Basic;Polski::Słowa;Polski Słowa;предпочитать/to предпочитать;"<p>woleć</p>
+Basic;Polski::Słowa;Polski Słowo;предпочитать/to предпочитать;"<p>woleć</p>
 <ul>
 <li><em>Wolę szczerość od obłudy.</em></li>
 <li><em>Każda z nas wolała milczeć, niż działać.</em></li>
@@ -2314,6 +1697,278 @@ Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Wy [znać] (tryb rozkazujący);
 <li><em>Innymi słowy, znajcie swoje miejsce.</em></li>
 <li><em>Ludzie znajcie swoje prawa!</em></li>
 </ul>"
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я не сидел без дела;nie siedziałem bezczynnie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я стараюсь изо всех сил;staram się jak mogę
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;чем дальше, тем больше смысла;im dalej, tym więcej sensu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;это происходит один раз в год;zdarza się to raz w roku
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;самые редко используемые слова;najmniej używane słowa
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;самые часто используемые слова;najczęściej używane słowa
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;пойти на уступки;robić ustępstwa
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;здесь мы имели дело с;tutaj mieliśmy do czynienia z
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;он выплатил только половину долга;spłacił dopiero połowę długu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;он прошел этот путь очень быстро;przeszedł tę ścieżkę bardzo szybko
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;это сложнее;to jest trudniejsze
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;это проще;to jest łatwiejsze
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;кроме моей дочери;oprócz mojej córki
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;здесь нет ни одной женщины;nie ma tu żadnej kobiety
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;не хочу показаться жестоким;nie zamierzam brzmieć okrutnie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я делаю это по своему;robię to po swojemu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;с которым он боролся всю свою жизнь;przeciw którege przez życie całe walczył
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;spaced repetition;powtarzanie w odstępach
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;отложить все дела;odłożyć wszystko na bok
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;ситуация по-прежнему сложная;sytuacja nadal jest trudna
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;среди доступных на рынке и типа контракта;spośród dostępnych na rynku i rodzaju umowy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;как раньше уже не будет;już nie będzie tak jak kiedyś
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;мне кажется;coś mi się wydaje
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;их постоянно опровергать;na bieżąco ich obalać
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;иностранцы необходимы;cudzoziemcy są niezbędni
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;живу с мыслью, что однажды;żyję z myślą, że pewnego dnia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;полностью осознают плюсы и минусы;mają pełną świadomość wad i zalet
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;президент намерен наложить вето;prezydent zamierza zawetować
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;довести до автоматизма;doprowadzić do automatyzmu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;как вы думаете, что там?;co według was tam jest?
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;люди становятся жертвами своей судьбы;ludzie padają ofiarami swojego losu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;именно об этом и шла речь;no właśnie dokładnie o to chodziło
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;с его точки зрения;z jego punktu widzenia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;это явление становится все более распространенным;zjawisko to staje się coraz bardziej powszechne
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;пока не попробуешь не узнаешь;dopóki nie spróbujesz, nie będziesz wiedział
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;и все больше заявляют о готовности покинуть страну;a więcej zapowiada opuszczenie kraju
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;он живет здесь только с января;mieszka tu dopiero od stycznia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;кажется, гораздо разумнее подождать;dużo bardziej rozsądnym wydaje się czekanie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;второй день подряд;drugi dzień z rzędu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;возможность заключения договора;możliwość zawarcia umowy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;подтвердил, что восхищается им;potwierdził, że go podziwia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;столкнулся с реальностью;zderzyłem się z rzeczywistością
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;становишся таким же самым;stajesz się taki sam
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я редко помню свои сны;rzadko pamiętam swoje sny
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;пока что о тех, кто работает в поле;do tej pory wobec pracujących na polu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я вспомнил о тебе;pamiętałem o tobie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;потому что я встретил талантливых учителей;bo trafiłem na zdolnych nauczycieli
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;между ними нет никакой разницы;nie ma między nimi żadnej różnicy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;в отличии от других;w przeciwieństwie do innych
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;постараюсь не забыть;postaram się nie zapomnieć
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я уже все забыл;już wszystko zapomniałem
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;только что вспомнил о тебе;właśnie o tobie pomyślałem
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;есть только одна причина;jest tylko jeden powód
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;он сделает еще хуже;on tylko pogorszy sprawę
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;оглядываясь назад, это настолько очевидно;z perspektywy czasu jest to takie oczywiste
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;по статистике, вероятность, что вы умрете;według statystyk szansa, że zginiesz
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;несмотря на огромные человеческие потери;mimo gigantycznych strat w ludziach
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;и самое главное;i co najważniejsze
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;в таких обстоятельствах;w takich okolicznościach
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;сделанный на основе;zrobiony na podstawie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;что еще должно произойти;co jeszcze musi się stać
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;ни при каких обстоятельствах;pod żadnym pozorem
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;убеди самого себя;przekonaj się sam
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;огромный рост поддержки;olbrzymi wzrost poparcia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;во многих отношениях оплот нормальности;w wielu kwestiach ostoją normalności
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я этого не отрицаю;nie zaprzeczam temu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;гораздо хуже;dużo gorzej
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;выступил намного лучше;wypadł znacznie lepiej
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;все меньше людей;coraz mniej osób
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;это просто невезение;a to dopiero pech
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;telling a lie, refuting a lie;powiedzenie kłamstwa, obalenie kłamstwa
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;конечная цель это не победа;ostatecznym celem nie jest zwycięstwo
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;они были правы;mieli rację
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;соединяется с другим словом;łączy się z innym wyrazem
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я читал довольно много;czytałem całkiem sporo
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;навсегда;na zawsze
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я полагаю;wydaję mi się
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;ты можешь сделать такое же приложение;możesz stworzyć taką samą aplikację
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;самые богатые люди, с которыми я когда-либо имел дело;najbogatsi ludzie, z którymi miałem do czynienia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я пытаюсь что-то сделать;próbuję coś zrobić
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;они не понимают, что кому-то это может быть неинтересно;nie ogarną, że kogoś może nie interesować
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;и я начал задаваться вопросом;i zacząłem się zastanawiać
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;огромный шаг вперёд;ogromny krok naprzód
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;корректировка договорной мощности;dostosowanie mocy umownej
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;нам следует быть умными;powinniśmy być mądrzy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;это вызовет большие волны миграции;spowoduje to duże fale migracji
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;его невозможно оскорбить;nie da się go urazić
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;чтобы доказать, что безопасность больше не существует;aby udowodnić, że bezpieczeństwo już nie istnieje
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;рано или поздно ты это поймешь;prędzej czy później to zrozumiesz
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;люди делают себе вред;ludzie robią sobie krzywdę
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;максимальная грузоподъемность;maksymalna ładowność
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;однажды ты победишь;pewnego dnia wygrasz
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;он все-таки умеет драться;jednak potrafi się bić
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;это сделает мою речь более натуральной;dzięki temu moja mowa będzie bardziej naturalna
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;это замкнутый круг;działa błędne koło
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;великолепно с ним справились;pięknie go załatwili
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;у меня такое чувство;mam przeczucie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я приспособлюсь;ja się dostosuję
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;не так много интересных материалов;nie ma zbyt wiele interesujących materiałów
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;выступил намного хуже;wypadł znacznie gorzej
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;в отличии от нас;w przeciwieństwie do nas
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;брак по расчету;malozenstwo z rozsądku
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;спорили часами на пролет;kłóciliśmy się godzinami
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;любое выражение типа;dowolne wyrażenie typu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;идеально подошел для этой роли;idealnie się do tego nadawał
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;это довольно сложный вопрос;to dość złożona kwestia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;он моложе тебя;on jest młodszy od ciebie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;всего к оплате;do zapłaty łącznie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;и без последствий;i bez konsekwencji
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;заявляют о своей готовности вступить в армию;deklaruje chęć wstąpienia do armii
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;вопреки видимости;wbrew pozorom
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;ты ещё увидишь;zobaczysz później
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;это не совпадение;nie jest to przypadek
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;мне хватило одного недостающего элемента;mnie wystarczył jeden brakujący element
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;почему это происходит со мной?;dlaczego to się ze mną dzieje?
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;иностранное насилие;przemoc obca
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;огромный шаг назад;ogromny krok wstecz
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;откуда я тебя знаю?;skąd cię znam?
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;он никуда не исчез;nie zniknął nigdzie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;неоднозначные ответы;niejednoznaczne odpowiedzi
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;трудно остановиться;trudno jest się zatrzymać
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;его не может победить никакая сила;nie da się pokonać żadną mocą
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;и в один день;i któregoś dnia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я придерживаюсь мнения;jestem zdania
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;сам об этом понятия не имею;sam nie mam o tym pojęcia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;намного лучше;dużo lepiej
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;как ты решишь эту проблему?;jak rozwiążesz ten problem?
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;чтобы оказалось, что это хорошо;żeby okazało się, że jest dobrze
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;куда ты идешь;dokąd idziesz
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;откуда ты идешь;skąd idziesz
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;но его действия гораздо хуже;ale jego czyny są o wiele gorsze
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;ни один эксперт не в состоянии;żaden ekspert nie jest w stanie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;estimated reading;odczyt szacowany
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;никому ни при каких обстоятельствах об этом не рассказывать;żebym pod żadnym pozorem nie mówił nikomu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;мы могли бы говорить часами;potrafiliśmy gadać godzinami
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;преимущества и недостатки;zalety i wady
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;меня озадачивает;mnie zastanawia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;у меня есть привычка;mam zwyczaj
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;рядом с кроватью сидела мама;koło łóżka siedziała mama
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;что с ним случилось;co się z nim stało
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;выступил намного лучше;wypadł znacznie lepiej
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;он хотел, чтобы оказалось, что он врет;chciał żeby wyszło, że on kłamie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;замена существующих источников света;wymianę istniejących źródeł światła
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;поэтому я скажу это за всех вас;więc powiem to za was wszystkich
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я начал учить польский;zacząłem uczyć się polskiego
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;как я мог иметь такой подход ко многим темам;jak w ogóle mogłem mieć takie podejście do wielu tematów
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;все менее дружелюбный;coraz mniej przyjazny
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;в любом случае, размер не имеет значения;zresztą rozmiar się nie liczy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;война почти незбежна;wojna jest prawie nieunikniona
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;такие люди выдают столько тезисов;tacy ludzie rzucają tyloma tezami
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;он сделает еще лучше;poradzi sobie jeszcze lepiej
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;и вообще этого следует избегать;i na ogół powinno się tego unikać
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;использует против него язык ненависти;stosuje wobec niego mowę nienawiści
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;в моем ближайшем окружении;w moim najbliższym środowisku
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я не выдавал себя за полицию;nie podawałem się za policję
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;каждый раз, когда ты что-то делаешь;za każdym razem, gdy coś robisz
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;меня удивляет, как он получил подписи;zastanawia mnie jak zdobył podpisy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;мне все равно;nie obchodzi mnie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;и почти все нормально;i prawie wszystko jest normalne
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;откуда это начинается - куда это идет;skąd wyrusza – dokąd zmierza
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;нанести непоправимый вред;spowodować nieodwracalną szkodę
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;без колебаний;bez zająknięcia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;они такие же самые;są tacy sami
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;выращивать овощи;uprawiać warzywa
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;обоснованность конкретных действий;słuszności określonych działań
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;необходимое оборудование;niezbędny sprzęt/niezbędne wyposażenie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;помогаю достичь намеченной цели;pomagam osiągnąć zamierzony cel
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;он скажет все что надо;powie wszystko, co trzeba
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я бы сказал по другому;powiedziałbym to inaczej
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;скопировать текст;skopiować tekst
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;выделить текст;zaznaczyć tekst
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;работа с людьми — моя стихия;praca z ludźmi to mój żywioł
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;проверка;sprawdzanie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;деятельность;czynności
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;соблюдение;przestrzeganie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;необходимая информация;niezbędne informacje
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;они пришли к такому выводу;doszli do takiego wniosku
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;еще один тяжелый день подряд;kolejny ciężki dzień z rzędu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;наплыв мыслей;natłok myśli
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;наплыв стресса в последние несколько дней;natłok stresu w przeciągu ostatnich dni
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;мои навыки;moje umiejętności
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;раскрыли проект бюджета;ujawnili projekt budżetu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;текущий бюджет;obecny budżet
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;когда появится следующая возможность;kiedy trafi się kolejna okazja
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;не дал бы решить о покупке косилки;nie dałbym zadecydować o zakupie kosiarki
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;экономика идет в никуда;gospodarka zmierza donikąd
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;основание языковой школы;założenie szkoły językowej
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;создание языковой школы;utworzenie szkoły językowej
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;какое мне дело до того, что волнует тебя;co mnie obchodzi co ciebie obchodzi
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;почему меня это должно волновать?;dlaczego powinno mnie obchodzić?
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;честно говоря, мне все равно;mówiąc szczerze mało mnie obchodzi
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;это меня сильно пугает;to mnie bardzo przeraża
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;толстый;gruby
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;тонкий;cienki
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;разрушение;zagłada
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;однажды, от скуки, я немного углубился в эту тему;kiedyś z nudów zanurkowałem trochę w ten temat
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;это очень печально;to bardzo przykre
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;чувствуют себя совершенно безнаказанными;czuja się całkowicie bezkarne
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;с восторгом смотрят в зеркало;patrzą w lustro w zachwyceniu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;сценарий, которого я лично очень опасаюсь;scenariusz którego się bardzo osobiście obawiam
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;отвратительная ложь;obleśne kłamstwa
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;делание глупых людей знаменитыми;robienie głupich ludzi sławnymi
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;очень точно;bardzo trafne
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;прошлый год был холоднее;ostatni rok był zimniejszy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;прошлой зимой у нас не было снега;zeszłej zimy nie mieliśmy śniegu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;что их вчера расстроило;co ich wpieniło wczoraj
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;им все равно;nie przejmują się
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;стандартное оборудование;standardowe wyposażenie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;лицензия на вождение велосипеда;uprawnienia do jazdy rowerem
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;вопреки видимости;wbrew pozorom
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;не ставит перед собой целей;nie narzuca sobie celów
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;разница в том;różnica polega na tym
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;вырвано из контекста;wyjęte z kontekstu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;прогрессирует поляризация общества;postępuje polaryzacja społeczeństwa
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;идет в плохом направлении;idzie to w złą stronę
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я сторонник приобретения знаний;ja akurat jestem zwolennikiem pozyskiwania wiedzy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;как оцениваешь этого политика;jak oceniasz tego polityka
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;прошлый год был вторым подряд, когда;miniony rok był już drugim z rzędu, gdy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;на улицы выйдут как противники, так и сторонники;na ulice wyjadą przeciwnicy oraz zwolennicy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;из-за страха конфронтации;w obawie przed konfrontacją
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;wyraź sprzeciw wobec nieudolności władzy;выразь несогласие с некомпетентностью властей
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;услышали обвинения;usłyszeli zarzuty
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;пусть скажет то же самое;niech powie to samo
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;скоро;wkrótce
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;на работе подвергаются словесным нападкам;są atakowani słownie w pracy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;неудачная авария водителя;pechowa kraksa kierowcy
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;собираюсь потратить;zamierzam wydać
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;поэтому собираюсь дать ей шанс;więc zamierzam dać jej szansę
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;чтобы быть уверенным;aby mieć pewność
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;вам понадобится правильный инструмент;będziesz potrzebować odpowiedniego narzędzia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;испытывает колоссальное трение;doświadcza ogromnego tarcia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;постоянно подвергается трению;wielokrotnie podlega tarciu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;также является ключевым фактором;jest również kluczowym czynnikiem
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;обычно;zazwyczaj
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;что именно мы обычно делаем неправильно;co konkretnie zazwyczaj robimy źle
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я предпочитаю качественную информацию;wolę wysokiej jakości informację
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;но одинаково эффективный;lecz równie skuteczny
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;презрительный термин;pogardliwy termin
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;если факты не соответствуют мнениям, тем хуже для фактов;jeśli fakty nie pasują do opinii, to tym gorzej dla faktów
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;не предоставляет полезной информации;nie dostarcza użytecznych informacji
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;способствует глобальному потеплению;napędza globalne ocieplenie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;происходят быстрые изменения климата;zachodzą gwałtowne zmiany klimatu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;ассоциация слов с погромами может показаться преувеличенной;skojarzenie słów z pogromami może wydawać się przesadzone
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;власти не противодействуют угрозе и скрывают информацию;władza nie przeciwdziała zagrożeniu, ukrywa informacje
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;бессмертная сцена;nieśmiertelna scena
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;не имею возражений;nie mam zastrzeżeń
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;обрати особое внимание;zwróć szczególną uwagę
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;хотим продолжать ездить;chcemy jeździć nadal
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;а где главный пожарный?;gdzie jest naczelny strażak?
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;главный проект;naczelny projekt
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;это одна из моих основных ценностей;to jedna z moich naczelnych wartości
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;либо неуклюжая правда, либо идеальная ложь;albo niezdarna prawda, albo doskonałe kłamstwo
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;случайная работа;praca dorywcza
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;воспринимаются серьезно;brane są na poważnie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я выражаю свои соболезнования;przesyłam wyrazy współczucia
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;доверчивость;łatwowierność
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;может изменить чье-то мнение;może zmienić czyjeś zdanie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;показывать факты;pokażywać fakty
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;болеешь странной болезнью;chorujesz na te dziwne schorzenie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;имеет небольшое влияние;ma znikomy wpływ
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;коренные граждане;rodzimy obywatele
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;слабая связь;nikły związek
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;слабый;nikły
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;не каждый день;nie codziennie
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;я такой понимающий;jestem taki wyrozumiały
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;нам не повезло;mamy pecha
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;гонка со временем;wyścig z czasem
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;преступление против собственности;przestępstwo przeciwko mieniu
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;zastępować;заменить
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;вы бы приняли участие в таком конкурсе?;bralibyście udział w takim konkursie?
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;мы были там уже два раза и хотели бы поехать в третий раз;byliśmy tam już dwa razy i z chęcią wybralibyśmy się trzeci
+Basic;Polski::Wyrażenia::Wyrażenia;Polski Wyrażenie;один говорит другому;jeden mówi do drugiego
 Basic;Polski::Odmiany::Rzeczowniki;Polski Odmiana;Szukam (<em>kogo? czego?</em>) [<strong>dobry</strong> <strong>człowiek</strong>].;"<p>Szukam <strong>dobrego</strong> <strong>człowieka</strong>.</p><p>Dopełniacz (<em>kogo? czego?</em>)</p>
 <table>
 <thead>

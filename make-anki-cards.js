@@ -6,8 +6,8 @@ import { generateExamples } from "./lib/gen/gen.js";
 import { pathTo } from "./lib/io.js";
 
 const notes = [];
-await scanPhrases(notes);
 await scanNotes(notes);
+await scanPhrases(notes);
 await generateExamples(notes);
 await writeNotes(notes, pathTo("_notes.txt"));
 

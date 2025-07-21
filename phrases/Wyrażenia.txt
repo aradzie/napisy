@@ -91,7 +91,6 @@ telling a lie, refuting a lie|powiedzenie kłamstwa, obalenie kłamstwa
 максимальная грузоподъемность|maksymalna ładowność
 однажды ты победишь|pewnego dnia wygrasz
 он все-таки умеет драться|jednak potrafi się bić
-все имеет идеологическую окраску|wszystko ma zabarwienie ideologiczne
 это сделает мою речь более натуральной|dzięki temu moja mowa będzie bardziej naturalna
 это замкнутый круг|działa błędne koło
 великолепно с ним справились|pięknie go załatwili
@@ -191,8 +190,8 @@ estimated reading|odczyt szacowany
 почему меня это должно волновать?|dlaczego powinno mnie obchodzić?
 честно говоря, мне все равно|mówiąc szczerze mało mnie obchodzi
 это меня сильно пугает|to mnie bardzo przeraża
-thick|gruby
-thin|cienki
+толстый|gruby
+тонкий|cienki
 разрушение|zagłada
 однажды, от скуки, я немного углубился в эту тему|kiedyś z nudów zanurkowałem trochę w ten temat
 это очень печально|to bardzo przykre
@@ -251,3 +250,23 @@ wyraź sprzeciw wobec nieudolności władzy|выразь несогласие с
 главный проект|naczelny projekt
 это одна из моих основных ценностей|to jedna z moich naczelnych wartości
 либо неуклюжая правда, либо идеальная ложь|albo niezdarna prawda, albo doskonałe kłamstwo
+случайная работа|praca dorywcza
+воспринимаются серьезно|brane są na poważnie
+я выражаю свои соболезнования|przesyłam wyrazy współczucia
+доверчивость|łatwowierność
+может изменить чье-то мнение|może zmienić czyjeś zdanie
+показывать факты|pokażywać fakty
+болеешь странной болезнью|chorujesz na te dziwne schorzenie
+имеет небольшое влияние|ma znikomy wpływ
+коренные граждане|rodzimy obywatele
+слабая связь|nikły związek
+слабый|nikły
+не каждый день|nie codziennie
+я такой понимающий|jestem taki wyrozumiały
+нам не повезло|mamy pecha
+гонка со временем|wyścig z czasem
+преступление против собственности|przestępstwo przeciwko mieniu
+zastępować|заменить
+вы бы приняли участие в таком конкурсе?|bralibyście udział w takim konkursie?
+мы были там уже два раза и хотели бы поехать в третий раз|byliśmy tam już dwa razy i z chęcią wybralibyśmy się trzeci
+один говорит другому|jeden mówi do drugiego

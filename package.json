@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "dictionary-pl": "^2.0.0",
-    "marked": "^15.0.12",
+    "marked": "^16.1.1",
     "nspell": "^2.1.5",
-    "random": "^5.4.0"
+    "random": "^5.4.1"
   }
 }

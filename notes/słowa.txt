@@ -2,7 +2,7 @@
 
 !deck:Polski::Słowa
 
-!tags:Polski Słowa
+!tags:Polski Słowo
 
 только/only
 ---
@@ -449,6 +449,7 @@ woleć
 !# skupić
 !# łudzić
 !# podważać
+!# zastępować
 
 !# naczelny
 !# czasochłonny
@@ -497,6 +498,7 @@ woleć
 !# żebyście
 !# nieprawdaż
 !# gdziekolwiek
+!# bynajmniej https://dictionary.cambridge.org/dictionary/polish-english/bynajmniej?q=bynajmniej
 
 !# wspierać/popierać https://pl.hinative.com/questions/15507513
 !# wypadek a przypadek

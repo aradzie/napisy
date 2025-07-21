@@ -1,6 +1,6 @@
 !type:Cloze
 
-!deck:Polski::Odmiany::Przykłady
+!deck:Polski::Odmiany::Zdania
 
 !tags:Polski Odmiana
 
@@ -65,7 +65,7 @@ Entuzjaści samochodów elektrycznych długo czekali {{c1::tą::ta}} {{c1::decyz
 Ona kalkuluje {{c1::każdą::każda}} {{c1::decyzję::decyzja}}, waży każde słowo.
 ===
 
-Etyka powinna kierować {{c1::każdą::każda}} jego {{c1::decyzję::decyzja}}.
+Etyka powinna kierować {{c1::każdą::każda}} jego {{c1::decyzją::decyzja}}.
 ===
 
 Euforia i napięcie rośnie z {{c1::każdą::każda}} {{c1::minutą::minuta}}.
@@ -96,4 +96,40 @@ Drogie i niepraktyczne zakupy świadczą o tym, że jesteś {{c1::biedną::biedn
 ===
 
 Ile pieniędzy potrzebujesz żeby poczuć się {{c1::bogatą::bogata}} {{c1::osobą::osoba}}?
+===
+
+Widzę {{c1::dużego::duży}} {{c1::psa::pies}}.
+===
+
+Kupuję {{c1::nowy::nowy}} {{c1::telefon::telefon}}.
+===
+
+Czytam {{c1::ciekawą::ciekawa}} {{c1::książkę::książka}}.
+===
+
+Mam {{c1::dobrą::dobra}} {{c1::kawę::kawa}}.
+===
+
+Znam tego {{c1::miłego::miły}} {{c1::chłopaka::chłopak}}.
+===
+
+Gotuję {{c1::pyszną::pyszna}} {{c1::zupę::zupa}}.
+===
+
+Piszę {{c1::długi::długi}} {{c1::list::list}}.
+===
+
+Niosę {{c1::ciężką::ciężka}} {{c1::torbę::torba}}.
+===
+
+Pamiętam tamten {{c1::stary::stary}} {{c1::film::film}}.
+===
+
+Lubię tę {{c1::czerwoną::czerwona}} {{c1::sukienkę::sukienka}}.
+===
+
+Nagroda za {{c1::ciężką::ciężka}} {{c1::pracę::praca}} na treningach.
+===
+
+To wielkie wydarzenie po tych dwóch latach {{c1::ciężkiej::ciężka}} i {{c1::intensywnej::intensywna}} {{c1::pracy::praca}}.
 ===
