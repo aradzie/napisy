@@ -1,0 +1,35 @@
+!type:Cloze
+
+!deck:Polski::Odmiany::Tryb Warunkowy
+
+!tags:Polski Odmiana
+
+Moi uczniowie {{c1::umieliby::umieć, oni}} wykonać te zadania.
+===
+
+{{c1::Chciałbym::Chcieć, ja/męski}} zmienić pracę, ale boję się, że nie podołam nowym obowiązkom.
+===
+
+Nie wiem, czy na twoim miejscu {{c1::zrobiłabym::zrobić, ja/żeński}} tak samo.
+===
+
+Gdyśmy mogli wziąć teraz urlp, to wspólne {{c1::pojechalibyśmy::pojechać, my/męski}} w góry.
+===
+
+Jeśli {{c1::byłyby::być, one}} panie zainteresowane naszą ofertą współpracy, zapraszamy do kontraktu.
+===
+
+Gdyby Ala nie miała tyle pracy, to {{c1::spałąby::spać, ona}} do południa.
+===
+
+{{c1::Przyszlibyśmy::Przyjść, my/męski}} na twoje urodziny, ale Maćka rozbolała głowa.
+===
+
+{{c1::Prosiłabym::Prosić, ja/żeński}} o przesłanie informacji na moją skrzynkę pocztową.
+===
+
+Chętnie {{c1::odwołałbym::odwołać, ja/męski}} to spotkanie, ale nie mogę.
+===
+
+{{c1::Moglibyście::Móc, wy/męski}} się dzisiaj ze mną spotkać?
+===

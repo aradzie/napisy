@@ -28,7 +28,6 @@ Przygotuj się na {{c1::ogromną::ogromna}} {{c1::dawkę::dawka}} {{c2::dobrej::
 Atak w momencie, w którym nie mają {{c1::dobrej::dobra}} {{c1::odpowiedzi::odpowiedz}}.
 ===
 
-
 Wiem, że wykonałaś kawał {{c1::dobrej::dobra}} {{c1::roboty::robota}}.
 ===
 
@@ -44,13 +43,13 @@ Będziemy szukać {{c1::dobrej::dobra}} {{c1::nazwy::nazwa}}.
 Będziemy trzymać {{c1::dobrą::dobra}} {{c1::pamięć::pamięć}} naszego pobytu.
 ===
 
-Chciał mieć rodzinę, {{c1::dobrą::dobra}} {{c1::pracę::praca}} i dużo pieniędzy.
+Chciał mieć {{c1::dobrą::dobra}} {{c1::pracę::praca}} i dużo pieniędzy.
 ===
 
 Cicha i spokojna okolica z {{c1::dobrą::dobra}} {{c1::infrastrukturą::infrastruktura}}.
 ===
 
-Gra jest oprawiona w {{c1::kolorową::kolorowa}} {{c1::grafikę::grafika}} oraz {{c2::miłą::miła}} {{c2::wesołą::wesoła}} {{c2::melodię::melodia}}.
+Gra jest oprawiona w {{c1::kolorową::kolorowa}} {{c1::grafikę::grafika}}.
 ===
 
 Dobieraj kości i buduj witraże w tej {{c1::kolorowej::kolorowa}} {{c1::grze::gra}} dla {{c2::całej::cała}} {{c2::rodziny::rodzina}}!

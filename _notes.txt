@@ -24,9 +24,9 @@ Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Bo wówczas nie napiszesz {{c1::dob
 Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Zabrakło {{c1::chemii::chemia}}, {{c1::dobrej::dobra}} {{c1::energii::energia}} między nami.;
 Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Będziemy szukać {{c1::dobrej::dobra}} {{c1::nazwy::nazwa}}.;
 Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Będziemy trzymać {{c1::dobrą::dobra}} {{c1::pamięć::pamięć}} naszego pobytu.;
-Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Chciał mieć rodzinę, {{c1::dobrą::dobra}} {{c1::pracę::praca}} i dużo pieniędzy.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Chciał mieć {{c1::dobrą::dobra}} {{c1::pracę::praca}} i dużo pieniędzy.;
 Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Cicha i spokojna okolica z {{c1::dobrą::dobra}} {{c1::infrastrukturą::infrastruktura}}.;
-Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Gra jest oprawiona w {{c1::kolorową::kolorowa}} {{c1::grafikę::grafika}} oraz {{c2::miłą::miła}} {{c2::wesołą::wesoła}} {{c2::melodię::melodia}}.;
+Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Gra jest oprawiona w {{c1::kolorową::kolorowa}} {{c1::grafikę::grafika}}.;
 Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Dobieraj kości i buduj witraże w tej {{c1::kolorowej::kolorowa}} {{c1::grze::gra}} dla {{c2::całej::cała}} {{c2::rodziny::rodzina}}!;
 Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Dziś już nie jestem {{c1::tą::ta}} {{c1::dziewczyną::dziewczyna}} w {{c2::kolorowej::kolorowa}} {{c2::koszulce::koszulka}}.;
 Cloze;Polski::Odmiany::Zdania;Polski Odmiana;Entuzjaści samochodów elektrycznych długo czekali {{c1::tą::ta}} {{c1::decyzję::decyzja}}.;
@@ -350,6 +350,16 @@ Basic;Polski::Słowa;Polski Słowo;предпочитать/to предпочи�
 <li><em>Każda z nas wolała milczeć, niż działać.</em></li>
 <li><em>Trzeba szanować jego wolę.</em></li>
 </ul>"
+Cloze;Polski::Odmiany::Tryb Warunkowy;Polski Odmiana;Moi uczniowie {{c1::umieliby::umieć, oni}} wykonać te zadania.;
+Cloze;Polski::Odmiany::Tryb Warunkowy;Polski Odmiana;{{c1::Chciałbym::Chcieć, ja/męski}} zmienić pracę, ale boję się, że nie podołam nowym obowiązkom.;
+Cloze;Polski::Odmiany::Tryb Warunkowy;Polski Odmiana;Nie wiem, czy na twoim miejscu {{c1::zrobiłabym::zrobić, ja/żeński}} tak samo.;
+Cloze;Polski::Odmiany::Tryb Warunkowy;Polski Odmiana;Gdyśmy mogli wziąć teraz urlp, to wspólne {{c1::pojechalibyśmy::pojechać, my/męski}} w góry.;
+Cloze;Polski::Odmiany::Tryb Warunkowy;Polski Odmiana;Jeśli {{c1::byłyby::być, one}} panie zainteresowane naszą ofertą współpracy, zapraszamy do kontraktu.;
+Cloze;Polski::Odmiany::Tryb Warunkowy;Polski Odmiana;Gdyby Ala nie miała tyle pracy, to {{c1::spałąby::spać, ona}} do południa.;
+Cloze;Polski::Odmiany::Tryb Warunkowy;Polski Odmiana;{{c1::Przyszlibyśmy::Przyjść, my/męski}} na twoje urodziny, ale Maćka rozbolała głowa.;
+Cloze;Polski::Odmiany::Tryb Warunkowy;Polski Odmiana;{{c1::Prosiłabym::Prosić, ja/żeński}} o przesłanie informacji na moją skrzynkę pocztową.;
+Cloze;Polski::Odmiany::Tryb Warunkowy;Polski Odmiana;Chętnie {{c1::odwołałbym::odwołać, ja/męski}} to spotkanie, ale nie mogę.;
+Cloze;Polski::Odmiany::Tryb Warunkowy;Polski Odmiana;{{c1::Moglibyście::Móc, wy/męski}} się dzisiaj ze mną spotkać?;
 Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;Ja [bać się] (czas teraźniejszy);"<p>Ja boję się</p>
 <ul>
 <li><em>Nie boję się przegrywać.</em></li>
