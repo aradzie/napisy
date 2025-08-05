@@ -1,6 +1,7 @@
 !type: Basic
 !deck: Polski::Wyrażenia
 !tags: Polski Wyrażenie
+!template: Basic
 
 !id: 46b4b86d-d803-4b70-9478-75fdccffb21e
 !front: я не сидел без дела
@@ -1360,4 +1361,199 @@
 !id: da575926-c3c3-49e3-8da0-e874497daced
 !front: один говорит другому
 !back: jeden mówi do drugiego
+~~~
+
+!id: d46977cc-c58a-40d0-9df3-bcba31c383fa
+!front: краткое напоминание о том, что наиболее важно
+!back: treściwe przypomnienie o tym, co najważniejsze
+~~~
+
+!id: da8037c2-c0b4-4f5c-91fa-a4ff986533b8
+!front: только сегодня я понял
+!back: dziś dopiero poznałem
+~~~
+
+!id: a7959813-60ec-4db8-b99f-6b1c9a1b68fd
+!front: только после вашего разговора
+!back: dopiero po waszej rozmowie
+~~~
+
+!id: fd55d518-c016-4b0c-b21a-ec2303d95b48
+!front: я пришёл слишком рано
+!back: ja przyszedłem za wcześnie
+~~~
+
+!id: 2d30d14e-d89f-4230-bad1-0d0059e2476b
+!front: сегодня я закончю пораньше
+!back: kończę dzisiaj wcześniej
+~~~
+
+!id: cb48738e-7164-4f2c-9f9f-b897460d551e
+!front: а что, если эта женщина еще жива?
+!back: jeżeli ta kobieta jest nadal żywa?
+~~~
+
+!id: 6c06bd88-3fb9-45ec-8be5-13d60ce4c1a0
+!front: я все равно узнаю
+!back: i tak sie dowiem
+~~~
+
+!id: fa268481-296c-4aa4-9f32-5168845b47f6
+!front: его не поймали, потому что у него есть связи
+!back: nie zostal zlapany, poniewaz ma uklady
+~~~
+
+!id: 279e7636-0b6b-4cb2-837c-c76c0ddb1f3d
+!front: они этого не примут
+!back: tego nie przyjmą
+~~~
+
+!id: 99e38b81-9ae1-4a57-874c-95c4d5514396
+!front: против правил
+!back: wbrew zasadom
+~~~
+
+!id: 2e486a29-c2c1-44ef-a658-0186d9ba0dfc
+!front: она была не очень красивой
+!back: była niezbyt ładna
+~~~
+
+!id: 6f77be08-e366-4349-981a-d3dd95ac008a
+!front: это имело глубокий эффект
+!back: wywarło to głęboki skutek
+~~~
+
+!id: 59f2858d-9484-4db4-a47c-e20edde5a740
+!front: эффект будет обратным
+!back: skutek będzie odwrotny
+~~~
+
+!id: 67256004-44fa-43be-8337-26ecb538233c
+!front: каждый эффект можно предсказать
+!back: każdy skutek może być przewidywalny
+~~~
+
+!id: 98adf204-c1bd-4caf-a21f-1669b89f906d
+!front: если делаешь это слишком часто
+!back: jeśli robisz to zbyt często
+~~~
+
+!id: 3dd9f95d-dffc-4138-9e15-7fdef1beb2f2
+!front: мы обычно следовали схеме
+!back: zazwyczaj postępowaliśmy według schematu
+~~~
+
+!id: 58c6acc6-2710-486b-ba22-fc78bccfe0d0
+!front: своего рода тест
+!back: swego rodzaju test
+~~~
+
+!id: 3676bd0e-dcad-46fa-bafc-041724e458f6
+!front: тебя совсем не узнаю
+!back: ciebie nie kojarzę w ogóle
+~~~
+
+!id: 4871a93c-d41b-444f-b30d-945803774ed7
+!front: никому, особенно ему
+!back: nikomu, zwłaszcza jemu
+~~~
+
+!id: e2538bc5-e63a-45d9-8dbe-e9a8d7c0ae5f
+!front: не могу от них оторваться
+!back: nie potrafię ich odłożyć
+~~~
+
+!id: b818b50b-8b04-4977-98ad-f41c7df5a326
+!front: подкрепи обвинения доказательствами
+!back: poprzyj zarzuty dowodami
+~~~
+
+!id: f6c260f2-b8f9-4358-b33b-25f121e78a36
+!front: никто не должен беспокоиться
+!back: nikt nie musi się martwić
+~~~
+
+!id: 3254b2d2-7ae9-4ea4-be06-7b940cc1b219
+!front: бояться неизвестности
+!back: obawiać się nieznanego
+~~~
+
+!id: 6f47a977-4288-4529-ad6d-5dc66f594d17
+!front: У меня были причины
+!back: miałem powody
+~~~
+
+!id: a65ced1d-fee8-4434-9969-9dfc28a6c5f0
+!front: на своих условиях
+!back: na własnych zasadach
+~~~
+
+!id: 2adf414a-9dfe-4611-9157-1672ef815950
+!front: сделать такое предположение
+!back: przyjąć takie założenie
+~~~
+
+!id: b5607777-003f-4a26-9839-807069875453
+!front: правильное предположение
+!back: słuszne założenie
+~~~
+
+!id: 82cd6250-df8f-4c7c-92f7-e6cee00cd6f2
+!front: выражать содержание слов
+!back: wyrazić treść słów
+~~~
+
+!id: f1772eb2-9c50-4e55-92da-2f7f41fe147b
+!front: узнаещь подробности
+!back: poznasz szczegóły
+~~~
+
+!id: b4d76f31-3752-4503-9ba4-ab103a15a2a7
+!front: содержательные истории
+!back: bogate w treść opowiadania
+~~~
+
+!id: 5b513f81-c5fd-4d96-b6d1-5a1a39dffc9c
+!front: краткое напоминание
+!back: treściwe przypomnienie
+~~~
+
+!id: f75f6e8e-577f-4bf0-bb32-0becaa214bdd
+!front: подумай об этом
+!back: przemyśl to
+~~~
+
+!id: d6ea5bd4-5a45-45a1-9a5d-945113f5d7c2
+!front: подготовленные запасы
+!back: naszykowane zapasy
+~~~
+
+!id: 5d5029fc-502e-400d-bf39-be7fdd9e35bc
+!front: в похожих обстоятельствах
+!back: w podobnych okolicznościach
+~~~
+
+!id: a45873e5-34c9-42e3-9b39-d187d002f59e
+!front: имею в виду
+!back: mam tu na myśli
+~~~
+
+!id: ccf87d15-5552-4f2c-986a-7909d0e0899e
+!front: поддержание здорового вида
+!back: zachowanie zdrowego wyglądu
+~~~
+
+!id: af1c7c87-b808-422f-b4ea-c958363a8be4
+!front: привлечь к себе внимание
+!back: zwrócić na siebie uwagę
+~~~
+
+!id: ab97eb08-5b2e-448a-a401-27146e68b614
+!front: действие, предпринятое с определенной целью
+!back: działanie podjęte w określonym celu
+~~~
+
+!id: 95a3e34a-7cd8-402c-be2d-bf683996c1a0
+!front: достичь цели
+!back: osiągnąć cel
 ~~~

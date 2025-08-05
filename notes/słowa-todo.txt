@@ -1,7 +1,9 @@
+# https://sjp.pl/
+# https://sjp.pwn.pl/slowniki/
+
 быть осторожным/uważać
 распознавать/uznawać
 подстрекать/wpieniać
-тратить/wydawać
 выпадать/wypadać
 предполагать/zgadywać
 przekazywać
@@ -37,12 +39,12 @@ założenie
 проверка|sprawdzanie
 соблюдение|przestrzeganie
 создание|utworzenie
-страх|lęk
-wściekłość
 ujemność
-obelga
-
+skłonność
+zachowanie
 достигать/osiągnąć
+zabiegami
+słuszności
 
 ciągle
 coraz
@@ -65,3 +67,9 @@ wypadek a przypadek
 przyczyna powód
 znalezienie/wyszukiwanie
 niezdarny/niezgrabny.
+
+zawarte
+Otrząsnął
+zalecenia
+przemyśl
+podjęte

@@ -7088,91 +7088,91 @@ ef182dcf-606e-4c32-ac82-a88ed13feee5;Cloze;Polski::Odmiany::Zdania;Polski Odmian
 bf1a188e-8079-4446-ace5-899cd3243cac;Cloze;Polski::Odmiany::Zdania;Polski Odmiana;<p>Lubię tę {{c1::czerwoną::czerwona}} {{c1::sukienkę::sukienka}}.</p>;
 3c43841d-e815-42b2-9603-967e43951d8a;Cloze;Polski::Odmiany::Zdania;Polski Odmiana;<p>Nagroda za {{c1::ciężką::ciężka}} {{c1::pracę::praca}} na treningach.</p>;
 2af6ebfc-cc34-4807-bb08-942000012344;Cloze;Polski::Odmiany::Zdania;Polski Odmiana;<p>To wielkie wydarzenie po tych dwóch latach {{c1::ciężkiej::ciężka}} i {{c1::intensywnej::intensywna}} {{c1::pracy::praca}}.</p>;
-9feac8f3-7e73-481c-bab5-c6ca7686e5b3;Basic;Polski::Słowa;Polski Słowo;<p>только/only</p>;"<p>dopiero</p>
+9feac8f3-7e73-481c-bab5-c6ca7686e5b3;Basic;Polski::Słowa;Polski Słowo;<p>толькі/only</p>;"<p>dopiero</p>
 <ul>
 <li><em>Otrząsnął się dopiero na ruchomych schodach.</em></li>
 <li><em>Przystąpi do spowiedzi dopiero po waszej rozmowie.</em></li>
 <li><em>Dziś dopiero poznałem, czym dla mnie może być kobieta.</em></li>
 </ul>"
-5deb1367-8455-4f8c-84cc-aba755d0a39d;Basic;Polski::Słowa;Polski Słowo;<p>рано,раньше</p>;"<p>wcześniej</p>
+5deb1367-8455-4f8c-84cc-aba755d0a39d;Basic;Polski::Słowa;Polski Słowo;<p>перад/раней</p>;"<p>wcześniej</p>
 <ul>
 <li><em>Ja przyszedłem za wcześnie.</em></li>
 <li><em>Kończę dzisiaj wcześniej.</em></li>
 <li><em>Mam o wiele lepsze karty niż wcześniej.</em></li>
 </ul>"
-5a39e858-ec2a-439f-9919-4dbb45b52b62;Basic;Polski::Słowa;Polski Słowo;<p>все еще</p>;"<p>nadal</p>
+5a39e858-ec2a-439f-9919-4dbb45b52b62;Basic;Polski::Słowa;Polski Słowo;<p>усё яшчэ</p>;"<p>nadal</p>
 <ul>
 <li><em>Jeżeli ta kobieta jest nadal żywa?</em></li>
 <li><em>I cała masa innych ludzi nadal by żyli.</em></li>
 <li><em>A my nadal tu będziemy?</em></li>
 </ul>"
-d1840815-26f1-46fc-8f34-8848aad79e1b;Basic;Polski::Słowa;Polski Słowo;<p>до сих пор</p>;"<p>wciąż</p>
+d1840815-26f1-46fc-8f34-8848aad79e1b;Basic;Polski::Słowa;Polski Słowo;<p>да гэтага часу</p>;"<p>wciąż</p>
 <ul>
 <li><em>Jest coś czego wciąż nie rozumiem!</em></li>
 <li><em>Książki wciąż nie przeczytałem.</em></li>
 <li><em>Mamy czas, bo wciąż nie masz podpisu sędziego.</em></li>
 </ul>"
-962b6024-25a9-4bfb-9317-77056f846c2f;Basic;Polski::Słowa;Polski Słowo;<p>потому что/because</p>;"<p>poniewaz</p>
+962b6024-25a9-4bfb-9317-77056f846c2f;Basic;Polski::Słowa;Polski Słowo;<p>таму што/because</p>;"<p>poniewaz</p>
 <ul>
 <li><em>I tak sie dowiem, poniewaz jestem profesjonalista.</em></li>
 <li><em>Nie zostal zlapany, poniewaz ma uklady.</em></li>
 <li><em>Poniewaz nie ma szans żebyśmy mogli tu jeszcze się pokazać.</em></li>
 </ul>"
-1a387483-e3b7-4af2-9b99-914b2c79f7fc;Basic;Polski::Słowa;Polski Słowo;<p>почти/almost</p>;"<p>prawie</p>
+1a387483-e3b7-4af2-9b99-914b2c79f7fc;Basic;Polski::Słowa;Polski Słowo;<p>амаль/almost</p>;"<p>prawie</p>
 <ul>
 <li><em>Dzieciak by prawie nie utonął, gdybym ja go nie pchnęła.</em></li>
 <li><em>Ten jest w prawie świeżym stanie.</em></li>
 <li><em>Teraz jestem prawie pewien, że tego nie przyjmą.</em></li>
 </ul>"
-88455214-4670-4bb6-a708-7dffb281d263;Basic;Polski::Słowa;Polski Słowo;<p>скорее/rather</p>;"<p>raczej</p>
+88455214-4670-4bb6-a708-7dffb281d263;Basic;Polski::Słowa;Polski Słowo;<p>хутчэй/rather</p>;"<p>raczej</p>
 <ul>
 <li><em>A teraz raczej nie jest najlepsza chwila.</em></li>
 <li><em>Czarna raczej nie jest.</em></li>
 <li><em>Dziś będzie raczej ciężko.</em></li>
 </ul>"
-db475f92-6c36-4855-b5aa-4e3977542c4e;Basic;Polski::Słowa;Polski Słowo;<p>против/against</p>;"<p>wbrew</p>
+db475f92-6c36-4855-b5aa-4e3977542c4e;Basic;Polski::Słowa;Polski Słowo;<p>супраць/against</p>;"<p>wbrew</p>
 <ul>
 <li><em>Wbrew jego naturze i woli.</em></li>
 <li><em>Co jest wbrew zasadom.</em></li>
 <li><em>A działać wbrew opinii innych.</em></li>
 </ul>"
-627805c3-daf7-49e1-bca6-42797b868021;Basic;Polski::Słowa;Polski Słowo;<p>тратить/to spend</p>;"<p>spędzać</p>
+627805c3-daf7-49e1-bca6-42797b868021;Basic;Polski::Słowa;Polski Słowo;<p>траціць/to spend</p>;"<p>spędzać</p>
 <ul>
 <li><em>Najczęściej spędzają czas na oglądaniu telewizji.</em></li>
 <li><em>Całe swoje życie spędzają w kawiarniach.</em></li>
 <li><em>Przypomina mi się czas spędzany z moimi przyjaciółmi.</em></li>
 </ul>"
-298f81bc-20f6-455a-b934-910b4327969e;Basic;Polski::Słowa;Polski Słowo;<p>вести/to lead</p>;"<p>prowadzić</p>
+298f81bc-20f6-455a-b934-910b4327969e;Basic;Polski::Słowa;Polski Słowo;<p>весці/to lead</p>;"<p>prowadzić</p>
 <ul>
 <li><em>Gdy się mylę, próbuję prowadzić dyskusję.</em></li>
 <li><em>Ide tam, gdzie prowadzi mnie praca.</em></li>
 <li><em>Żeby mój tata prowadził mnie do lekarza.</em></li>
 </ul>"
-f364064d-3e7f-44e5-a6c5-9fd843fd2ab4;Basic;Polski::Słowa;Polski Słowo;<p>не очень/not very</p>;"<p>niezbyt</p>
+f364064d-3e7f-44e5-a6c5-9fd843fd2ab4;Basic;Polski::Słowa;Polski Słowo;<p>не вельмі/not very</p>;"<p>niezbyt</p>
 <ul>
 <li><em>Była niezbyt ładna.</em></li>
 <li><em>Budynek banku był niezbyt duży.</em></li>
 <li><em>On słuchał niezbyt uważnie.</em></li>
 </ul>"
-dc776eff-9452-4bf3-8ad1-a58b3ca1541e;Basic;Polski::Słowa;Polski Słowo;<p>но/but</p>;"<p>lecz</p>
+dc776eff-9452-4bf3-8ad1-a58b3ca1541e;Basic;Polski::Słowa;Polski Słowo;<p>але/but</p>;"<p>lecz</p>
 <ul>
 <li><em>Lecz równie skuteczny.</em></li>
 <li><em>Lecz czuję, że ma inne plany.</em></li>
 <li><em>Lecz by żył wiecznie.</em></li>
 </ul>"
-92f1aa95-4638-4255-b92f-03575d9e417f;Basic;Polski::Słowa;Polski Słowo;<p>эффект/effect</p>;"<p>skutek</p>
+92f1aa95-4638-4255-b92f-03575d9e417f;Basic;Polski::Słowa;Polski Słowo;<p>эфект/effect</p>;"<p>skutek</p>
 <ul>
 <li><em>Wywarło to głęboki skutek na mnie.</em></li>
 <li><em>A skutek będzie odwrotny?</em></li>
 <li><em>Każdy skutek może być przewidywalny.</em></li>
 </ul>"
-6a73487d-5a0f-4b50-b52f-82b1614fdcba;Basic;Polski::Słowa;Polski Słowo;<p>эффективный/effective</p>;"<p>skuteczny</p>
+6a73487d-5a0f-4b50-b52f-82b1614fdcba;Basic;Polski::Słowa;Polski Słowo;<p>эфектыўны/effective</p>;"<p>skuteczny</p>
 <ul>
 <li><em>Bronić musisz się skutecznie.</em></li>
 <li><em>Skuteczne sposoby zmiany tych zachowań.</em></li>
 <li><em>Możemy opracować skuteczne zalecenia.</em></li>
 </ul>"
-640ea622-d097-4717-a2e9-6eda22e9a6e2;Basic;Polski::Słowa;Polski Słowo;<p>image/образ</p>;"<p>wizerunek</p>
+640ea622-d097-4717-a2e9-6eda22e9a6e2;Basic;Polski::Słowa;Polski Słowo;<p>выява/image</p>;"<p>wizerunek</p>
 <ul>
 <li><em>Jeśli robisz to zbyt często, dostajesz zły wizerunek.</em></li>
 <li><em>Mam wizerunek do utrzymania.</em></li>
@@ -7184,19 +7184,19 @@ f3616447-d28a-43d7-a90f-3c339d90de0f;Basic;Polski::Słowa;Polski Słowo;<p>to lo
 <li><em>Szykowałam się i spojrzałam w lustro.</em></li>
 <li><em>Ja przynajmniej spojrzę ci w oczy.</em></li>
 </ul>"
-e5fe3f05-e06d-4225-9abc-3c66b61cb610;Basic;Polski::Słowa;Polski Słowo;<p>в соответствии с/according to</p>;"<p>według</p>
+e5fe3f05-e06d-4225-9abc-3c66b61cb610;Basic;Polski::Słowa;Polski Słowo;<p>згодна з/according to</p>;"<p>według</p>
 <ul>
 <li><em>A atak zombie ma według ciebie lepsze szanse?</em></li>
 <li><em>Bo zazwyczaj postępowaliśmy według schematu.</em></li>
 <li><em>Skąd wiemy, że zabójca będzie grał według twoich reguł?</em></li>
 </ul>"
-d727dcfb-478a-45ff-82aa-6adeb6b1d4c2;Basic;Polski::Słowa;Polski Słowo;<p>много/a lot</p>;"<p>sporo</p>
+d727dcfb-478a-45ff-82aa-6adeb6b1d4c2;Basic;Polski::Słowa;Polski Słowo;<p>шмат/a lot</p>;"<p>sporo</p>
 <ul>
 <li><em>Sporo tu miejsca.</em></li>
 <li><em>Będzie sporo roboty, kolego.</em></li>
 <li><em>Ja myślałam o tym sporo.</em></li>
 </ul>"
-8da55886-c79d-4a20-8a2d-20155178a12b;Basic;Polski::Słowa;Polski Słowo;<p>тип/type</p>;"<p>rodzaj</p>
+8da55886-c79d-4a20-8a2d-20155178a12b;Basic;Polski::Słowa;Polski Słowo;<p>тып/type</p>;"<p>rodzaj</p>
 <ul>
 <li><em>Ja należę do drugiego rodzaju.</em></li>
 <li><em>Mam wiele rodzajów informacji.</em></li>
@@ -7214,37 +7214,37 @@ d727dcfb-478a-45ff-82aa-6adeb6b1d4c2;Basic;Polski::Słowa;Polski Słowo;<p>мн�
 <li><em>Czemu miałbym go kojarzyć?</em></li>
 <li><em>Dopiero zaczynasz to kojarzyć.</em></li>
 </ul>"
-0d037696-f4fe-433c-bbaa-412ff3db45f4;Basic;Polski::Słowa;Polski Słowo;<p>особенно/especially</p>;"<p>zwłaszcza</p>
+0d037696-f4fe-433c-bbaa-412ff3db45f4;Basic;Polski::Słowa;Polski Słowo;<p>асабліва/especially</p>;"<p>zwłaszcza</p>
 <ul>
 <li><em>Czas leczy rany, zwłaszcza ten dobry czas.</em></li>
 <li><em>Nie ufała nikomu, zwłaszcza jemu.</em></li>
 <li><em>Zwłaszcza na tym etapie, jesteśmy optymistami.</em></li>
 </ul>"
-3fbdddb8-d00e-41a9-a495-31b3be71a588;Basic;Polski::Słowa;Polski Słowo;<p>ужасный/terrible</p>;"<p>okropny</p>
+3fbdddb8-d00e-41a9-a495-31b3be71a588;Basic;Polski::Słowa;Polski Słowo;<p>жудасны/terrible</p>;"<p>okropny</p>
 <ul>
 <li><em>Kawa jest naprawdę okropna.</em></li>
 <li><em>Książki są okropne, ale nie potrafię ich odłożyć.</em></li>
 <li><em>Lakie okropności musiałaś przeżyć podczas ucieczki.</em></li>
 </ul>"
-19631d52-3652-4f77-8515-c2b19eecdee7;Basic;Polski::Słowa;Polski Słowo;<p>обвинения/allegations</p>;"<p>zarzuty</p>
+19631d52-3652-4f77-8515-c2b19eecdee7;Basic;Polski::Słowa;Polski Słowo;<p>абвінавачванні/allegations</p>;"<p>zarzuty</p>
 <ul>
 <li><em>Nastepnym razem poprzyj zarzuty dowodami.</em></li>
 <li><em>Kto dał ci prawo stawiać mi zarzuty?</em></li>
 <li><em>Mam spisany zarzut mojego klienta.</em></li>
 </ul>"
-1e264f55-a4dc-4a25-bc24-e5d6925d2b67;Basic;Polski::Słowa;Polski Słowo;<p>волноваться/to worry</p>;"<p>martwić</p>
+1e264f55-a4dc-4a25-bc24-e5d6925d2b67;Basic;Polski::Słowa;Polski Słowo;<p>хвалявацца/to worry</p>;"<p>martwić</p>
 <ul>
 <li><em>A babcia nie martwi sie o ciebie?</em></li>
 <li><em>Chcemy jasno określić, że nikt nie musi się martwić.</em></li>
 <li><em>Dosyć mam już zmartwień!</em></li>
 </ul>"
-b7729f9c-cc78-47f7-a7d0-8f1705a38ea6;Basic;Polski::Słowa;Polski Słowo;<p>иметь/to own</p>;"<p>posiadać</p>
+b7729f9c-cc78-47f7-a7d0-8f1705a38ea6;Basic;Polski::Słowa;Polski Słowo;<p>мець/валодаць/to own</p>;"<p>posiadać</p>
 <ul>
 <li><em>Fantazją o posiadaniu władzy.</em></li>
 <li><em>Posiadanie tego nie stanowi problemu.</em></li>
 <li><em>Gdy przybyłem do tego miasta, nie posiadałem niczego.</em></li>
 </ul>"
-2518fa12-4aac-4547-b1db-2478191c4f81;Basic;Polski::Słowa;Polski Słowo;<p>бояться/to fear</p>;"<p>obawiać się</p>
+2518fa12-4aac-4547-b1db-2478191c4f81;Basic;Polski::Słowa;Polski Słowo;<p>баяцца/to fear</p>;"<p>obawiać się</p>
 <ul>
 <li><em>Zobaczysz, że nie ma się czego obawiać.</em></li>
 <li><em>Jak cudownie nie obawiać się nieznanego.</em></li>
@@ -7256,55 +7256,55 @@ b7729f9c-cc78-47f7-a7d0-8f1705a38ea6;Basic;Polski::Słowa;Polski Słowo;<p>им�
 <li><em>Myślę, że sekretnie uwielbiasz ten chaos.</em></li>
 <li><em>Nawet dorośli je uwielbiają.</em></li>
 </ul>"
-4f100fda-31f9-421d-8cd0-3c9a638852ab;Basic;Polski::Słowa;Polski Słowo;<p>ценить/to appreciate</p>;"<p>doceniać</p>
+4f100fda-31f9-421d-8cd0-3c9a638852ab;Basic;Polski::Słowa;Polski Słowo;<p>цаніць/to appreciate</p>;"<p>doceniać</p>
 <ul>
 <li><em>Bez śmierci nie doceniasz życia.</em></li>
 <li><em>Dziękuję za docenienie tych spraw.</em></li>
 <li><em>Jak możesz dziś ją docenić?</em></li>
 </ul>"
-d7cdbfe6-0d60-4064-b8b6-cd655083c978;Basic;Polski::Słowa;Polski Słowo;<p>проверять/to check</p>;"<p>sprawdzać</p>
+d7cdbfe6-0d60-4064-b8b6-cd655083c978;Basic;Polski::Słowa;Polski Słowo;<p>правяраць/to check</p>;"<p>sprawdzać</p>
 <ul>
 <li><em>A biletów nawet nie sprawdzali.</em></li>
 <li><em>Absolutnie wszystko jest sprawdzane.</em></li>
 <li><em>Dziecko chce się sprawdzić jako samodzielna osobowość.</em></li>
 </ul>"
-d5513d4d-8b74-4654-a93a-54201c72b731;Basic;Polski::Słowa;Polski Słowo;<p>воспринимать/to perceive</p>;"<p>postrzegać</p>
+d5513d4d-8b74-4654-a93a-54201c72b731;Basic;Polski::Słowa;Polski Słowo;<p>успрымаць/to perceive</p>;"<p>postrzegać</p>
 <ul>
 <li><em>Chcemy być postrzegani jako ludzie kulturalni.</em></li>
 <li><em>Choroba może zmienić postrzeganie sytuacji.</em></li>
 <li><em>Ludzie postrzegają mnie w inny sposób.</em></li>
 </ul>"
-8441a6d7-a39e-4c70-a4b6-a95510225049;Basic;Polski::Słowa;Polski Słowo;<p>удивляться/to wonder</p>;"<p>zastanawiać się</p>
+8441a6d7-a39e-4c70-a4b6-a95510225049;Basic;Polski::Słowa;Polski Słowo;<p>здзіўляцца/to wonder</p>;"<p>zastanawiać się</p>
 <ul>
 <li><em>Nie zastanawiała się nad przyszłością.</em></li>
 <li><em>Możesz już przestać się nad tym zastanawiać.</em></li>
 <li><em>Dziwi mnie to bardzo i zastanawiam się od czego to zależy.</em></li>
 </ul>"
-f7e173ba-b06a-4843-b838-0f2115fc763b;Basic;Polski::Słowa;Polski Słowo;<p>кричать/to scream</p>;"<p>wrzasnąć</p>
+f7e173ba-b06a-4843-b838-0f2115fc763b;Basic;Polski::Słowa;Polski Słowo;<p>крычаць/to scream</p>;"<p>wrzasnąć</p>
 <ul>
 <li><em>Tym razem miał ochotę wrzasnąć.</em></li>
 <li><em>I wkurzyć się potrafi, i wrzasnąć, i pięścią walnąć w stół.</em></li>
 <li><em>Jeszcze raz wrzasnął na całe gardło.</em></li>
 </ul>"
-f0ec656f-2563-4615-82c0-32872a5fe21f;Basic;Polski::Słowa;Polski Słowo;<p>принцип/условие/principle/term</p>;"<p>zasada</p>
+f0ec656f-2563-4615-82c0-32872a5fe21f;Basic;Polski::Słowa;Polski Słowo;<p>прынцып/principle/term</p>;"<p>zasada</p>
 <ul>
 <li><em>Chcę pracować na własnych zasadach.</em></li>
 <li><em>A ci, którzy złamią te zasady, zostaną przez niego ukarani.</em></li>
 <li><em>Jakie proste zasady oszczędzania można wprowadzić?</em></li>
 </ul>"
-6b60b3bf-8a84-4673-9e61-4a0e0be6219e;Basic;Polski::Słowa;Polski Słowo;<p>доброта/kindness</p>;"<p>dobroć</p>
+6b60b3bf-8a84-4673-9e61-4a0e0be6219e;Basic;Polski::Słowa;Polski Słowo;<p>дабрыня/kindness</p>;"<p>dobroć</p>
 <ul>
 <li><em>Czy my potrafimy okazywać miłość i dobroć?</em></li>
 <li><em>Gdzie jest dobroć, tam zrodzi się wdzięczność.</em></li>
 <li><em>Każda z nich ma w sobie siłę i dobroć.</em></li>
 </ul>"
-4c6136e5-b52f-4423-a0a3-a9b4c841b999;Basic;Polski::Słowa;Polski Słowo;<p>трусливый/cowardly</p>;"<p>tchórzliwy</p>
+4c6136e5-b52f-4423-a0a3-a9b4c841b999;Basic;Polski::Słowa;Polski Słowo;<p>баязлівы/cowardly</p>;"<p>tchórzliwy</p>
 <ul>
 <li><em>Kobiety są jednak zbyt tchórzliwe.</em></li>
 <li><em>Kochaj odważnych, rezygnuj z tchórzliwych.</em></li>
 <li><em>Król zaś zawsze był słaby i tchórzliwy.</em></li>
 </ul>"
-f049cc5c-3889-48f9-afb4-44c7cf95c5be;Basic;Polski::Słowa;Polski Słowo;<p>выращивать/to grow</p>;"<p>uprawiać</p>
+f049cc5c-3889-48f9-afb4-44c7cf95c5be;Basic;Polski::Słowa;Polski Słowo;<p>вырошчваць/to grow</p>;"<p>uprawiać</p>
 <p><strong>W kontekście rolnictwa</strong> – oznacza zajmowanie się hodowlą roślin:</p>
 <ul>
 <li><em>Uprawiać pszenicę</em></li>
@@ -7329,7 +7329,7 @@ f049cc5c-3889-48f9-afb4-44c7cf95c5be;Basic;Polski::Słowa;Polski Słowo;<p>вы�
 <li><em>Co lubisz robić poza uprawianiem sportu?</em></li>
 <li><em>Czy ktoś tu jeszcze uprawia politykę?</em></li>
 </ul>"
-32ea314a-3604-4456-b771-78257284dbe6;Basic;Polski::Słowa;Polski Słowo;<p>полезный/helpful</p>;"<p>uczynny</p>
+32ea314a-3604-4456-b771-78257284dbe6;Basic;Polski::Słowa;Polski Słowo;<p>паслужлівы/helpful</p>;"<p>uczynny</p>
 <p>Słowo „<strong>uczynny</strong>” oznacza osobę, która chętnie pomaga innym, jest skłonna do wyświadczania przysług, życzliwa i pomocna. To cecha charakteru.</p>
 <ul>
 <li><em>To bardzo uczynny sąsiad – zawsze pomoże, gdy trzeba.</em></li>
@@ -7338,7 +7338,7 @@ f049cc5c-3889-48f9-afb4-44c7cf95c5be;Basic;Polski::Słowa;Polski Słowo;<p>вы�
 </ul>
 <p><strong>Synonimy</strong>: pomocny, życzliwy, przysłużny.</p>
 <p><strong>Przeciwieństwo</strong>: nieuprzejmy, obojętny, samolubny.</p>"
-3c33fd94-e0b5-44a0-b430-586829d27e73;Basic;Polski::Słowa;Polski Słowo;<p>остроумный/witty</p>;"<p>dowcipny</p>
+3c33fd94-e0b5-44a0-b430-586829d27e73;Basic;Polski::Słowa;Polski Słowo;<p>дасціпны/witty</p>;"<p>dowcipny</p>
 <p>Słowo „<strong>dowcipny</strong>” oznacza osobę, która potrafi mówić rzeczy zabawne, inteligentne i błyskotliwe – często w sposób trafny i z humorem.</p>
 <ul>
 <li><em>To bardzo dowcipny facet – zawsze rozbawi towarzystwo.</em></li>
@@ -7347,7 +7347,7 @@ f049cc5c-3889-48f9-afb4-44c7cf95c5be;Basic;Polski::Słowa;Polski Słowo;<p>вы�
 </ul>
 <p><strong>Synonimy:</strong> zabawny, błyskotliwy, inteligentny w żartach.</p>
 <p><strong>Przeciwieństwa:</strong> ponury, sztywny, drętwy.</p>"
-2d2a3135-a321-4a2c-a88f-19163fddfd4b;Basic;Polski::Słowa;Polski Słowo;<p>намереваться/to intend</p>;"<p>zamierzać</p>
+2d2a3135-a321-4a2c-a88f-19163fddfd4b;Basic;Polski::Słowa;Polski Słowo;<p>мець намер/to intend</p>;"<p>zamierzać</p>
 <p>Słowo „<em>zamierzać</em>” oznacza mieć zamiar coś zrobić, czyli planować jakieś działanie lub myśleć o zrobieniu czegoś w przyszłości.</p>
 <ul>
 <li><em>Zamierzam iść na studia w przyszłym roku.</em></li>
@@ -7355,28 +7355,124 @@ f049cc5c-3889-48f9-afb4-44c7cf95c5be;Basic;Polski::Słowa;Polski Słowo;<p>вы�
 <li><em>Ona zamierza wyjechać za granicę.</em></li>
 </ul>
 <p><strong>Synonimy</strong>: planować, mieć zamiar, nosić się z zamiarem.</p>"
-fba1a0b3-9476-4f37-918c-4cf39d8b1e19;Basic;Polski::Słowa;Polski Słowo;<p>тратить/to spend</p>;"<p>wydawać</p>
+fba1a0b3-9476-4f37-918c-4cf39d8b1e19;Basic;Polski::Słowa;Polski Słowo;<p>траціць грошы/to spend money</p>;"<p>wydawać</p>
 <ul>
 <li><em>Wydał wszystkie pieniądze.</em></li>
 <li><em>I zawsze mające wydać resztę.</em></li>
 <li><em>Wydać resztę ze stu złotych.</em></li>
 </ul>
 <p><strong>Synonimy</strong>: zużywać</p>"
-4ae78af1-dda7-4c22-bf77-5d8ba7e2a145;Basic;Polski::Słowa;Polski Słowo;<p>выдавать/to hand over</p>;"<p>wydawać</p>
+4ae78af1-dda7-4c22-bf77-5d8ba7e2a145;Basic;Polski::Słowa;Polski Słowo;<p>выдаваць/to hand over</p>;"<p>wydawać</p>
 <ul>
 <li><em>Urzędy będą wydawać paszporty spełniające.</em></li>
 <li><em>Wydać towar.</em></li>
 </ul>
 <p><strong>Synonimy</strong>: przekazywać</p>"
-15525231-17a1-4740-be40-a21fb16b8eb0;Basic;Polski::Słowa;Polski Słowo;<p>публиковать/to publish</p>;"<p>wydawać</p>
+15525231-17a1-4740-be40-a21fb16b8eb0;Basic;Polski::Słowa;Polski Słowo;<p>публікаваць/to publish</p>;"<p>wydawać</p>
 <ul>
 <li><em>Wydać książkę.</em></li>
 </ul>"
-f6920635-ac07-4558-8ade-6af5fdfa84ec;Basic;Polski::Słowa;Polski Słowo;<p>предпочитать/to предпочитать</p>;"<p>woleć</p>
+f6920635-ac07-4558-8ade-6af5fdfa84ec;Basic;Polski::Słowa;Polski Słowo;<p>аддаваць перавагу/to prefer</p>;"<p>woleć</p>
 <ul>
 <li><em>Wolę szczerość od obłudy.</em></li>
 <li><em>Każda z nas wolała milczeć, niż działać.</em></li>
 <li><em>Trzeba szanować jego wolę.</em></li>
+</ul>"
+8b7c3278-d0fb-4ea4-852f-d29c5792574a;Basic;Polski::Słowa;Polski Słowo;<p>пясочны гадзіннік/hourglass</p>;"<p>klepsydra</p>
+<ul>
+<li><em>Piasek jest używany także w klepsydrach.</em></li>
+<li><em>Ale za chwilę widzę dużą klepsydrę.</em></li>
+<li><em>Niektóre szachy zawierają małą klepsydrę lub zegar czasu.</em></li>
+</ul>"
+39799863-2edb-4fd8-93e9-0117188b95ec;Basic;Polski::Słowa;Polski Słowo;<p>падказка/a hint</p>;"<p>podpowiedź</p>
+<ul>
+<li><em>Niektóre tytuły podpowiedzieli sami uczniowie.</em></li>
+<li><em>Odnajdziemy podpowiedź, jak dbać o swoje ciało i psychikę.</em></li>
+<li><em>Odnośniki muszą dawać jasną podpowiedź dokąd prowadzą.</em></li>
+</ul>"
+8e167e58-25c4-4f52-87cf-fb2bbd2e3662;Basic;Polski::Słowa;Polski Słowo;<p>вынік/result</p>;"<p>wynik</p>
+<ul>
+<li><em>Odpadami powstałe w wyniku prowadzenia działalności gospodarczej.</em></li>
+<li><em>Alkohol zniekształca wyniki wszelkich badań.</em></li>
+<li><em>Duże zainteresowanie nimi wynika głównie z przystępnej ceny.</em></li>
+</ul>"
+0b17e59d-cfc5-47d0-9909-0921f353da38;Basic;Polski::Słowa;Polski Słowo;<p>барабаны/drums</p>;"<p>bębny</p>
+<ul>
+<li><em>Dwie gitary, bębny i elektryczne pianino.</em></li>
+<li><em>Dziewczyny przywiozły bębny.</em></li>
+<li><em>Inni w dalszym ciągu biją w bębny.</em></li>
+</ul>"
+acec38c6-4023-4252-9fc9-db2c0f53e65c;Basic;Polski::Słowa;Polski Słowo;<p>наадварот/the other way around</p>;"<p>na odwrót</p>
+<ul>
+<li><em>Inni, <strong>na odwrót</strong>, wolą bardziej neutralne meble.</em></li>
+<li><em>O tym, żeby jadła po to, żeby żyć, a nie <strong>na odwrót</strong>.</em></li>
+<li><em>Na szczęście bywa też <strong>na odwrót</strong>.</em></li>
+</ul>"
+cb0f0588-50d5-4120-8879-142f08d89051;Basic;Polski::Słowa;Polski Słowo;<p>раздзел навукі, мастацтва/a filed of science, art</p>;"<p>dziedzina</p>
+<ul>
+<li><em>W danej dziedzinie okażemy się prawdziwymi specjalistami.</em></li>
+<li><em>Połączyć dziedziny tak odległe jak informatyka i psychologia.</em></li>
+<li><em>Istnieje mało dziedzin sztuki, które są równie kreatywne co architektura.</em></li>
+</ul>"
+c6f696f3-311a-436b-a6a3-b0a505ed16d4;Basic;Polski::Słowa;Polski Słowo;<p>утрымліваць/to contain ???</p>;"<p>zawierać</p>
+<p>Oznacza:</p>
+<ul>
+<li><p>Składać się z jakichś elementów.</p>
+</li>
+<li><p>Przedstawić jakieś treści w wypowiedzi, książce, filmie itp.</p>
+</li>
+<li><p>Poznać kogoś i stać się jego znajomym lub przyjacielem</p>
+</li>
+<li><p><em>Morska woda zawiera wiele minerałów.</em></p>
+</li>
+<li><p><em>Istnieje mnóstwo herbat, jakie zawierają odchudzić twoje ciało.</em></p>
+</li>
+<li><p><em>Jeśli chcemy przyjrzeć się temu, co zawierają.</em></p>
+</li>
+</ul>"
+5a3e8f70-2667-476a-8523-d0c06931be40;Basic;Polski::Słowa;Polski Słowo;<p>лютасць/rage</p>;"<p>wściekłość</p>
+<ul>
+<li><em>Morze jest tuż, wieczne i wściekłe.</em></li>
+<li><em>A byłam najzwyczajniej w świecie wściekła.</em></li>
+<li><em>Największym zagrożeniem dla człowieka jest wściekły wilk.</em></li>
+</ul>"
+6506666c-fbce-496b-bfc5-e6081d95a826;Basic;Polski::Słowa;Polski Słowo;<p>абраза/an insult</p>;"<p>obelga</p>
+<ul>
+<li><em>Największą obelgą będzie twierdzenie, że człowiek został stworzony przez cud nauki.</em></li>
+<li><em>Nie był w stanie wymyślić gorszej obelgi.</em></li>
+<li><em>Dzieci dzisiaj wciąż lubią obelgi, prawda?</em></li>
+</ul>"
+bfc3cfc2-e9ca-41d0-ad9b-99f8efe22900;Basic;Polski::Słowa;Polski Słowo;<p>здагадка/assumption</p>;"<p>założenie</p>
+<ul>
+<li><em>Krótko o najważniejszych założeniach projektu.</em></li>
+<li><em>Możemy przyjąć takie założenie?</em></li>
+<li><em>Przemyśl, czy to słuszne założenie.</em></li>
+</ul>"
+76f2c11e-b69b-4101-827c-3cb1fa6bfa75;Basic;Polski::Słowa;Polski Słowo;<p>змест/content</p>;"<p>treść/treści</p>
+<p>Spis rozdziałów lub artykułów umieszczony na początku albo na końcu książki lub czasopisma.</p>
+<ul>
+<li><em>Dzieci mają wyrazić treść słów w odpowiednich symbolach graficznych.</em></li>
+<li><em>Jeśli wczytasz się w przytoczoną powyżej treść, poznasz szczegóły.</em></li>
+<li><em>Krótkie, ale dość bogate w treść opowiadania.</em></li>
+<li><em>Krótkie, ale treściwe przypomnienie o tym, co najważniejsze.</em></li>
+</ul>"
+6c371969-a175-447b-8d30-881d831037c9;Basic;Polski::Słowa;Polski Słowo;<p>падрыхтаваць/to prepare</p>;"<p>szykować</p>
+<ul>
+<li><em>Już czas szykować się do wyjścia.</em></li>
+<li><em>Do czego innego jak nie do wojny ma się szykować armia?</em></li>
+<li><em>Naszykowałam całe mnóstwo jedzenia.</em></li>
+</ul>"
+1972b494-3b9f-4050-9311-5f402d98c197;Basic;Polski::Słowa;Polski Słowo;<p>абставіны/circumstances</p>;"<p>okoliczności</p>
+<ul>
+<li><em>Mam skłonność do przypisywania swoich sukcesów zewnętrznym okolicznościom.</em></li>
+<li><em>Umiejętność przystosowania się do okoliczności.</em></li>
+<li><em>Mamy do czynienia z nowymi okolicznościami, które wymagają innych technik i zachowań.</em></li>
+</ul>"
+d628e05a-6651-4b46-97d1-f54294facff8;Basic;Polski::Słowa;Polski Słowo;<p>паводзіны/behavior</p>;"<p>zachowanie</p>
+<ul>
+<li><em>Ciało wpływa na nasze zachowanie.</em></li>
+<li><em>Być może swoim zachowaniem próbują nam coś powiedzieć.</em></li>
+<li><em>Czy jest takie zachowanie godne pogardy czy pochwały?</em></li>
 </ul>"
 46b4b86d-d803-4b70-9478-75fdccffb21e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я не сидел без дела</p>;<p>nie siedziałem bezczynnie</p>
 32598f8a-338e-4db2-b5d1-f3599ea1d12d;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я стараюсь изо всех сил</p>;<p>staram się jak mogę</p>
@@ -7650,3 +7746,42 @@ d3e46ab4-f419-4371-91a8-b5b14e3f6437;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 1fd90e02-81a9-446d-9314-ea33aaffbbcf;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>вы бы приняли участие в таком конкурсе?</p>;<p>bralibyście udział w takim konkursie?</p>
 3ecc7f31-a2c8-4f56-b0b9-9efa56fcd02f;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>мы были там уже два раза и хотели бы поехать в третий раз</p>;<p>byliśmy tam już dwa razy i z chęcią wybralibyśmy się trzeci</p>
 da575926-c3c3-49e3-8da0-e874497daced;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>один говорит другому</p>;<p>jeden mówi do drugiego</p>
+d46977cc-c58a-40d0-9df3-bcba31c383fa;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>краткое напоминание о том, что наиболее важно</p>;<p>treściwe przypomnienie o tym, co najważniejsze</p>
+da8037c2-c0b4-4f5c-91fa-a4ff986533b8;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>только сегодня я понял</p>;<p>dziś dopiero poznałem</p>
+a7959813-60ec-4db8-b99f-6b1c9a1b68fd;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>только после вашего разговора</p>;<p>dopiero po waszej rozmowie</p>
+fd55d518-c016-4b0c-b21a-ec2303d95b48;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я пришёл слишком рано</p>;<p>ja przyszedłem za wcześnie</p>
+2d30d14e-d89f-4230-bad1-0d0059e2476b;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>сегодня я закончю пораньше</p>;<p>kończę dzisiaj wcześniej</p>
+cb48738e-7164-4f2c-9f9f-b897460d551e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>а что, если эта женщина еще жива?</p>;<p>jeżeli ta kobieta jest nadal żywa?</p>
+6c06bd88-3fb9-45ec-8be5-13d60ce4c1a0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я все равно узнаю</p>;<p>i tak sie dowiem</p>
+fa268481-296c-4aa4-9f32-5168845b47f6;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>его не поймали, потому что у него есть связи</p>;<p>nie zostal zlapany, poniewaz ma uklady</p>
+279e7636-0b6b-4cb2-837c-c76c0ddb1f3d;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>они этого не примут</p>;<p>tego nie przyjmą</p>
+99e38b81-9ae1-4a57-874c-95c4d5514396;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>против правил</p>;<p>wbrew zasadom</p>
+2e486a29-c2c1-44ef-a658-0186d9ba0dfc;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>она была не очень красивой</p>;<p>była niezbyt ładna</p>
+6f77be08-e366-4349-981a-d3dd95ac008a;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это имело глубокий эффект</p>;<p>wywarło to głęboki skutek</p>
+59f2858d-9484-4db4-a47c-e20edde5a740;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>эффект будет обратным</p>;<p>skutek będzie odwrotny</p>
+67256004-44fa-43be-8337-26ecb538233c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>каждый эффект можно предсказать</p>;<p>każdy skutek może być przewidywalny</p>
+98adf204-c1bd-4caf-a21f-1669b89f906d;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>если делаешь это слишком часто</p>;<p>jeśli robisz to zbyt często</p>
+3dd9f95d-dffc-4138-9e15-7fdef1beb2f2;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>мы обычно следовали схеме</p>;<p>zazwyczaj postępowaliśmy według schematu</p>
+58c6acc6-2710-486b-ba22-fc78bccfe0d0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>своего рода тест</p>;<p>swego rodzaju test</p>
+3676bd0e-dcad-46fa-bafc-041724e458f6;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>тебя совсем не узнаю</p>;<p>ciebie nie kojarzę w ogóle</p>
+4871a93c-d41b-444f-b30d-945803774ed7;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>никому, особенно ему</p>;<p>nikomu, zwłaszcza jemu</p>
+e2538bc5-e63a-45d9-8dbe-e9a8d7c0ae5f;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>не могу от них оторваться</p>;<p>nie potrafię ich odłożyć</p>
+b818b50b-8b04-4977-98ad-f41c7df5a326;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>подкрепи обвинения доказательствами</p>;<p>poprzyj zarzuty dowodami</p>
+f6c260f2-b8f9-4358-b33b-25f121e78a36;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>никто не должен беспокоиться</p>;<p>nikt nie musi się martwić</p>
+3254b2d2-7ae9-4ea4-be06-7b940cc1b219;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>бояться неизвестности</p>;<p>obawiać się nieznanego</p>
+6f47a977-4288-4529-ad6d-5dc66f594d17;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>У меня были причины</p>;<p>miałem powody</p>
+a65ced1d-fee8-4434-9969-9dfc28a6c5f0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>на своих условиях</p>;<p>na własnych zasadach</p>
+2adf414a-9dfe-4611-9157-1672ef815950;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>сделать такое предположение</p>;<p>przyjąć takie założenie</p>
+b5607777-003f-4a26-9839-807069875453;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>правильное предположение</p>;<p>słuszne założenie</p>
+82cd6250-df8f-4c7c-92f7-e6cee00cd6f2;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>выражать содержание слов</p>;<p>wyrazić treść słów</p>
+f1772eb2-9c50-4e55-92da-2f7f41fe147b;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>узнаещь подробности</p>;<p>poznasz szczegóły</p>
+b4d76f31-3752-4503-9ba4-ab103a15a2a7;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>содержательные истории</p>;<p>bogate w treść opowiadania</p>
+5b513f81-c5fd-4d96-b6d1-5a1a39dffc9c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>краткое напоминание</p>;<p>treściwe przypomnienie</p>
+f75f6e8e-577f-4bf0-bb32-0becaa214bdd;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>подумай об этом</p>;<p>przemyśl to</p>
+d6ea5bd4-5a45-45a1-9a5d-945113f5d7c2;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>подготовленные запасы</p>;<p>naszykowane zapasy</p>
+5d5029fc-502e-400d-bf39-be7fdd9e35bc;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>в похожих обстоятельствах</p>;<p>w podobnych okolicznościach</p>
+a45873e5-34c9-42e3-9b39-d187d002f59e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>имею в виду</p>;<p>mam tu na myśli</p>
+ccf87d15-5552-4f2c-986a-7909d0e0899e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>поддержание здорового вида</p>;<p>zachowanie zdrowego wyglądu</p>
+af1c7c87-b808-422f-b4ea-c958363a8be4;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>привлечь к себе внимание</p>;<p>zwrócić na siebie uwagę</p>
+ab97eb08-5b2e-448a-a401-27146e68b614;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>действие, предпринятое с определенной целью</p>;<p>działanie podjęte w określonym celu</p>
+95a3e34a-7cd8-402c-be2d-bf683996c1a0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>достичь цели</p>;<p>osiągnąć cel</p>

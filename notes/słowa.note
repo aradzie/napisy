@@ -1,9 +1,10 @@
 !type: Basic
 !deck: Polski::Słowa
 !tags: Polski Słowo
+!template: Basic
 
 !id: 9feac8f3-7e73-481c-bab5-c6ca7686e5b3
-!front: только/only
+!front: толькі/only
 !back:
 dopiero
 
@@ -13,7 +14,7 @@ dopiero
 ~~~
 
 !id: 5deb1367-8455-4f8c-84cc-aba755d0a39d
-!front: рано,раньше
+!front: перад/раней
 !back:
 wcześniej
 
@@ -23,7 +24,7 @@ wcześniej
 ~~~
 
 !id: 5a39e858-ec2a-439f-9919-4dbb45b52b62
-!front: все еще
+!front: усё яшчэ
 !back:
 nadal
 
@@ -33,7 +34,7 @@ nadal
 ~~~
 
 !id: d1840815-26f1-46fc-8f34-8848aad79e1b
-!front: до сих пор
+!front: да гэтага часу
 !back:
 wciąż
 
@@ -43,7 +44,7 @@ wciąż
 ~~~
 
 !id: 962b6024-25a9-4bfb-9317-77056f846c2f
-!front: потому что/because
+!front: таму што/because
 !back:
 poniewaz
 
@@ -53,7 +54,7 @@ poniewaz
 ~~~
 
 !id: 1a387483-e3b7-4af2-9b99-914b2c79f7fc
-!front: почти/almost
+!front: амаль/almost
 !back:
 prawie
 
@@ -63,7 +64,7 @@ prawie
 ~~~
 
 !id: 88455214-4670-4bb6-a708-7dffb281d263
-!front: скорее/rather
+!front: хутчэй/rather
 !back:
 raczej
 
@@ -73,7 +74,7 @@ raczej
 ~~~
 
 !id: db475f92-6c36-4855-b5aa-4e3977542c4e
-!front: против/against
+!front: супраць/against
 !back:
 wbrew
 
@@ -83,7 +84,7 @@ wbrew
 ~~~
 
 !id: 627805c3-daf7-49e1-bca6-42797b868021
-!front: тратить/to spend
+!front: траціць/to spend
 !back:
 spędzać
 
@@ -93,7 +94,7 @@ spędzać
 ~~~
 
 !id: 298f81bc-20f6-455a-b934-910b4327969e
-!front: вести/to lead
+!front: весці/to lead
 !back:
 prowadzić
 
@@ -103,7 +104,7 @@ prowadzić
 ~~~
 
 !id: f364064d-3e7f-44e5-a6c5-9fd843fd2ab4
-!front: не очень/not very
+!front: не вельмі/not very
 !back:
 niezbyt
 
@@ -113,7 +114,7 @@ niezbyt
 ~~~
 
 !id: dc776eff-9452-4bf3-8ad1-a58b3ca1541e
-!front: но/but
+!front: але/but
 !back:
 lecz
 
@@ -123,7 +124,7 @@ lecz
 ~~~
 
 !id: 92f1aa95-4638-4255-b92f-03575d9e417f
-!front: эффект/effect
+!front: эфект/effect
 !back:
 skutek
 
@@ -133,7 +134,7 @@ skutek
 ~~~
 
 !id: 6a73487d-5a0f-4b50-b52f-82b1614fdcba
-!front: эффективный/effective
+!front: эфектыўны/effective
 !back:
 skuteczny
 
@@ -143,7 +144,7 @@ skuteczny
 ~~~
 
 !id: 640ea622-d097-4717-a2e9-6eda22e9a6e2
-!front: image/образ
+!front: выява/image
 !back:
 wizerunek
 
@@ -163,7 +164,7 @@ spojrzeć
 ~~~
 
 !id: e5fe3f05-e06d-4225-9abc-3c66b61cb610
-!front: в соответствии с/according to
+!front: згодна з/according to
 !back:
 według
 
@@ -173,7 +174,7 @@ według
 ~~~
 
 !id: d727dcfb-478a-45ff-82aa-6adeb6b1d4c2
-!front: много/a lot
+!front: шмат/a lot
 !back:
 sporo
 
@@ -183,7 +184,7 @@ sporo
 ~~~
 
 !id: 8da55886-c79d-4a20-8a2d-20155178a12b
-!front: тип/type
+!front: тып/type
 !back:
 rodzaj
 
@@ -213,7 +214,7 @@ kojarzyć
 ~~~
 
 !id: 0d037696-f4fe-433c-bbaa-412ff3db45f4
-!front: особенно/especially
+!front: асабліва/especially
 !back:
 zwłaszcza
 
@@ -223,7 +224,7 @@ zwłaszcza
 ~~~
 
 !id: 3fbdddb8-d00e-41a9-a495-31b3be71a588
-!front: ужасный/terrible
+!front: жудасны/terrible
 !back:
 okropny
 
@@ -233,7 +234,7 @@ okropny
 ~~~
 
 !id: 19631d52-3652-4f77-8515-c2b19eecdee7
-!front: обвинения/allegations
+!front: абвінавачванні/allegations
 !back:
 zarzuty
 
@@ -243,7 +244,7 @@ zarzuty
 ~~~
 
 !id: 1e264f55-a4dc-4a25-bc24-e5d6925d2b67
-!front: волноваться/to worry
+!front: хвалявацца/to worry
 !back:
 martwić
 
@@ -253,7 +254,7 @@ martwić
 ~~~
 
 !id: b7729f9c-cc78-47f7-a7d0-8f1705a38ea6
-!front: иметь/to own
+!front: мець/валодаць/to own
 !back:
 posiadać
 
@@ -263,7 +264,7 @@ posiadać
 ~~~
 
 !id: 2518fa12-4aac-4547-b1db-2478191c4f81
-!front: бояться/to fear
+!front: баяцца/to fear
 !back:
 obawiać się
 
@@ -283,7 +284,7 @@ uwielbiać
 ~~~
 
 !id: 4f100fda-31f9-421d-8cd0-3c9a638852ab
-!front: ценить/to appreciate
+!front: цаніць/to appreciate
 !back:
 doceniać
 
@@ -293,7 +294,7 @@ doceniać
 ~~~
 
 !id: d7cdbfe6-0d60-4064-b8b6-cd655083c978
-!front: проверять/to check
+!front: правяраць/to check
 !back:
 sprawdzać
 
@@ -303,7 +304,7 @@ sprawdzać
 ~~~
 
 !id: d5513d4d-8b74-4654-a93a-54201c72b731
-!front: воспринимать/to perceive
+!front: успрымаць/to perceive
 !back:
 postrzegać
 
@@ -313,7 +314,7 @@ postrzegać
 ~~~
 
 !id: 8441a6d7-a39e-4c70-a4b6-a95510225049
-!front: удивляться/to wonder
+!front: здзіўляцца/to wonder
 !back:
 zastanawiać się
 
@@ -323,7 +324,7 @@ zastanawiać się
 ~~~
 
 !id: f7e173ba-b06a-4843-b838-0f2115fc763b
-!front: кричать/to scream
+!front: крычаць/to scream
 !back:
 wrzasnąć
 
@@ -333,7 +334,7 @@ wrzasnąć
 ~~~
 
 !id: f0ec656f-2563-4615-82c0-32872a5fe21f
-!front: принцип/условие/principle/term
+!front: прынцып/principle/term
 !back:
 zasada
 
@@ -343,7 +344,7 @@ zasada
 ~~~
 
 !id: 6b60b3bf-8a84-4673-9e61-4a0e0be6219e
-!front: доброта/kindness
+!front: дабрыня/kindness
 !back:
 dobroć
 
@@ -353,7 +354,7 @@ dobroć
 ~~~
 
 !id: 4c6136e5-b52f-4423-a0a3-a9b4c841b999
-!front: трусливый/cowardly
+!front: баязлівы/cowardly
 !back:
 tchórzliwy
 
@@ -363,7 +364,7 @@ tchórzliwy
 ~~~
 
 !id: f049cc5c-3889-48f9-afb4-44c7cf95c5be
-!front: выращивать/to grow
+!front: вырошчваць/to grow
 !back:
 uprawiać
 
@@ -393,7 +394,7 @@ uprawiać
 ~~~
 
 !id: 32ea314a-3604-4456-b771-78257284dbe6
-!front: полезный/helpful
+!front: паслужлівы/helpful
 !back:
 uczynny
 
@@ -409,7 +410,7 @@ Słowo „**uczynny**” oznacza osobę, która chętnie pomaga innym, jest skł
 ~~~
 
 !id: 3c33fd94-e0b5-44a0-b430-586829d27e73
-!front: остроумный/witty
+!front: дасціпны/witty
 !back:
 dowcipny
 
@@ -425,7 +426,7 @@ Słowo „**dowcipny**” oznacza osobę, która potrafi mówić rzeczy zabawne,
 ~~~
 
 !id: 2d2a3135-a321-4a2c-a88f-19163fddfd4b
-!front: намереваться/to intend
+!front: мець намер/to intend
 !back:
 zamierzać
 
@@ -439,7 +440,7 @@ Słowo „*zamierzać*” oznacza mieć zamiar coś zrobić, czyli planować jak
 ~~~
 
 !id: fba1a0b3-9476-4f37-918c-4cf39d8b1e19
-!front: тратить/to spend
+!front: траціць грошы/to spend money
 !back:
 wydawać
 
@@ -451,7 +452,7 @@ wydawać
 ~~~
 
 !id: 4ae78af1-dda7-4c22-bf77-5d8ba7e2a145
-!front: выдавать/to hand over
+!front: выдаваць/to hand over
 !back:
 wydawać
 
@@ -462,7 +463,7 @@ wydawać
 ~~~
 
 !id: 15525231-17a1-4740-be40-a21fb16b8eb0
-!front: публиковать/to publish
+!front: публікаваць/to publish
 !back:
 wydawać
 
@@ -470,11 +471,160 @@ wydawać
 ~~~
 
 !id: f6920635-ac07-4558-8ade-6af5fdfa84ec
-!front: предпочитать/to предпочитать
+!front: аддаваць перавагу/to prefer
 !back:
 woleć
 
 - *Wolę szczerość od obłudy.*
 - *Każda z nas wolała milczeć, niż działać.*
 - *Trzeba szanować jego wolę.*
+~~~
+
+!id: 8b7c3278-d0fb-4ea4-852f-d29c5792574a
+!front: пясочны гадзіннік/hourglass
+!back:
+klepsydra
+
+- *Piasek jest używany także w klepsydrach.*
+- *Ale za chwilę widzę dużą klepsydrę.*
+- *Niektóre szachy zawierają małą klepsydrę lub zegar czasu.*
+~~~
+
+!id: 39799863-2edb-4fd8-93e9-0117188b95ec
+!front: падказка/a hint
+!back:
+podpowiedź
+
+- *Niektóre tytuły podpowiedzieli sami uczniowie.*
+- *Odnajdziemy podpowiedź, jak dbać o swoje ciało i psychikę.*
+- *Odnośniki muszą dawać jasną podpowiedź dokąd prowadzą.*
+~~~
+
+!id: 8e167e58-25c4-4f52-87cf-fb2bbd2e3662
+!front: вынік/result
+!back:
+wynik
+
+- *Odpadami powstałe w wyniku prowadzenia działalności gospodarczej.*
+- *Alkohol zniekształca wyniki wszelkich badań.*
+- *Duże zainteresowanie nimi wynika głównie z przystępnej ceny.*
+~~~
+
+!id: 0b17e59d-cfc5-47d0-9909-0921f353da38
+!front: барабаны/drums
+!back:
+bębny
+
+- *Dwie gitary, bębny i elektryczne pianino.*
+- *Dziewczyny przywiozły bębny.*
+- *Inni w dalszym ciągu biją w bębny.*
+~~~
+
+!id: acec38c6-4023-4252-9fc9-db2c0f53e65c
+!front: наадварот/the other way around
+!back:
+na odwrót
+
+- *Inni, **na odwrót**, wolą bardziej neutralne meble.*
+- *O tym, żeby jadła po to, żeby żyć, a nie **na odwrót**.*
+- *Na szczęście bywa też **na odwrót**.*
+~~~
+
+!id: cb0f0588-50d5-4120-8879-142f08d89051
+!front: раздзел навукі, мастацтва/a filed of science, art
+!back:
+dziedzina
+
+- *W danej dziedzinie okażemy się prawdziwymi specjalistami.*
+- *Połączyć dziedziny tak odległe jak informatyka i psychologia.*
+- *Istnieje mało dziedzin sztuki, które są równie kreatywne co architektura.*
+~~~
+
+!id: c6f696f3-311a-436b-a6a3-b0a505ed16d4
+!front: утрымліваць/to contain ???
+!back:
+zawierać
+
+Oznacza:
+
+- Składać się z jakichś elementów.
+- Przedstawić jakieś treści w wypowiedzi, książce, filmie itp.
+- Poznać kogoś i stać się jego znajomym lub przyjacielem
+
+- *Morska woda zawiera wiele minerałów.*
+- *Istnieje mnóstwo herbat, jakie zawierają odchudzić twoje ciało.*
+- *Jeśli chcemy przyjrzeć się temu, co zawierają.*
+~~~
+
+!id: 5a3e8f70-2667-476a-8523-d0c06931be40
+!front: лютасць/rage
+!back:
+wściekłość
+
+- *Morze jest tuż, wieczne i wściekłe.*
+- *A byłam najzwyczajniej w świecie wściekła.*
+- *Największym zagrożeniem dla człowieka jest wściekły wilk.*
+~~~
+
+!id: 6506666c-fbce-496b-bfc5-e6081d95a826
+!front: абраза/an insult
+!back:
+obelga
+
+- *Największą obelgą będzie twierdzenie, że człowiek został stworzony przez cud nauki.*
+- *Nie był w stanie wymyślić gorszej obelgi.*
+- *Dzieci dzisiaj wciąż lubią obelgi, prawda?*
+~~~
+
+!id: bfc3cfc2-e9ca-41d0-ad9b-99f8efe22900
+!front: здагадка/assumption
+!back:
+założenie
+
+- *Krótko o najważniejszych założeniach projektu.*
+- *Możemy przyjąć takie założenie?*
+- *Przemyśl, czy to słuszne założenie.*
+~~~
+
+!id: 76f2c11e-b69b-4101-827c-3cb1fa6bfa75
+!front: змест/content
+!back:
+treść/treści
+
+Spis rozdziałów lub artykułów umieszczony na początku albo na końcu książki lub czasopisma.
+
+- *Dzieci mają wyrazić treść słów w odpowiednich symbolach graficznych.*
+- *Jeśli wczytasz się w przytoczoną powyżej treść, poznasz szczegóły.*
+- *Krótkie, ale dość bogate w treść opowiadania.*
+- *Krótkie, ale treściwe przypomnienie o tym, co najważniejsze.*
+~~~
+
+!id: 6c371969-a175-447b-8d30-881d831037c9
+!front: падрыхтаваць/to prepare
+!back:
+szykować
+
+- *Już czas szykować się do wyjścia.*
+- *Do czego innego jak nie do wojny ma się szykować armia?*
+- *Naszykowałam całe mnóstwo jedzenia.*
+~~~
+
+!id: 1972b494-3b9f-4050-9311-5f402d98c197
+!front: абставіны/circumstances
+!back:
+okoliczności
+
+- *Mam skłonność do przypisywania swoich sukcesów zewnętrznym okolicznościom.*
+- *Umiejętność przystosowania się do okoliczności.*
+- *Mamy do czynienia z nowymi okolicznościami, które wymagają innych technik i zachowań.*
+~~~
+
+!id: d628e05a-6651-4b46-97d1-f54294facff8
+!front: паводзіны/behavior
+!back:
+zachowanie
+
+- *Ciało wpływa na nasze zachowanie.*
+- *Być może swoim zachowaniem próbują nam coś powiedzieć.*
+- *Czy jest takie zachowanie godne pogardy czy pochwały?*
 ~~~
