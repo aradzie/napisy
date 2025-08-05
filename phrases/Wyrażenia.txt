@@ -218,7 +218,7 @@ estimated reading|odczyt szacowany
 прошлый год был вторым подряд, когда|miniony rok był już drugim z rzędu, gdy
 на улицы выйдут как противники, так и сторонники|na ulice wyjadą przeciwnicy oraz zwolennicy
 из-за страха конфронтации|w obawie przed konfrontacją
-wyraź sprzeciw wobec nieudolności władzy|выразь несогласие с некомпетентностью властей
+выразь несогласие с некомпетентностью властей|wyraź sprzeciw wobec nieudolności władzy
 услышали обвинения|usłyszeli zarzuty
 пусть скажет то же самое|niech powie to samo
 скоро|wkrótce
@@ -266,7 +266,7 @@ wyraź sprzeciw wobec nieudolności władzy|выразь несогласие с
 нам не повезло|mamy pecha
 гонка со временем|wyścig z czasem
 преступление против собственности|przestępstwo przeciwko mieniu
-zastępować|заменить
+заменить|zastępować
 вы бы приняли участие в таком конкурсе?|bralibyście udział w takim konkursie?
 мы были там уже два раза и хотели бы поехать в третий раз|byliśmy tam już dwa razy i z chęcią wybralibyśmy się trzeci
 один говорит другому|jeden mówi do drugiego
