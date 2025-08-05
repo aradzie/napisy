@@ -45,6 +45,7 @@ zachowanie
 достигать/osiągnąć
 zabiegami
 słuszności
+cecha
 
 ciągle
 coraz

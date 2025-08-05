@@ -7785,3 +7785,8 @@ ccf87d15-5552-4f2c-986a-7909d0e0899e;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 af1c7c87-b808-422f-b4ea-c958363a8be4;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>привлечь к себе внимание</p>;<p>zwrócić na siebie uwagę</p>
 ab97eb08-5b2e-448a-a401-27146e68b614;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>действие, предпринятое с определенной целью</p>;<p>działanie podjęte w określonym celu</p>
 95a3e34a-7cd8-402c-be2d-bf683996c1a0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>достичь цели</p>;<p>osiągnąć cel</p>
+8d49bbc3-5516-4037-8ee3-afce29c125e9;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>очень важная особенность</p>;<p>bardzo ważna cecha</p>
+3c1661da-bb55-4079-a5f0-2996ffc1a63b;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>учитывать личные качества</p>;<p>wziąć pod uwagę cechy osobiste</p>
+b87b63a3-3950-407a-b9d4-4e0c9123b219;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>характерные черты</p>;<p>charakterystyczne cechy</p>
+d84d8f16-b4d5-40be-b911-09dd3d8fb663;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>характеризуется высокой сезонностью</p>;<p>cechuje duża sezonowość</p>
+1f55b5c0-e973-416b-9f0b-fe562377d453;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>имеет много особенностей</p>;<p>posiada wiele cech</p>

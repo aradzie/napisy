@@ -1,7 +1,6 @@
 !type: Basic
 !deck: Polski::Wyrażenia
 !tags: Polski Wyrażenie
-!template: Basic
 
 !id: 46b4b86d-d803-4b70-9478-75fdccffb21e
 !front: я не сидел без дела
@@ -1556,4 +1555,29 @@
 !id: 95a3e34a-7cd8-402c-be2d-bf683996c1a0
 !front: достичь цели
 !back: osiągnąć cel
+~~~
+
+!id: 8d49bbc3-5516-4037-8ee3-afce29c125e9
+!front: очень важная особенность
+!back: bardzo ważna cecha
+~~~
+
+!id: 3c1661da-bb55-4079-a5f0-2996ffc1a63b
+!front: учитывать личные качества
+!back: wziąć pod uwagę cechy osobiste
+~~~
+
+!id: b87b63a3-3950-407a-b9d4-4e0c9123b219
+!front: характерные черты
+!back: charakterystyczne cechy
+~~~
+
+!id: d84d8f16-b4d5-40be-b911-09dd3d8fb663
+!front: характеризуется высокой сезонностью
+!back: cechuje duża sezonowość
+~~~
+
+!id: 1f55b5c0-e973-416b-9f0b-fe562377d453
+!front: имеет много особенностей
+!back: posiada wiele cech
 ~~~
