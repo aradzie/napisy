@@ -1,0 +1,43 @@
+!type: Basic
+!deck: Polski::Meta::Częśći Mowy
+!tags: Polski Meta
+
+!id: fb00c32e-dc57-4237-a678-361c3c43ff6f
+!front: Noun/A word that names a person, place, thing, or idea
+!back: Rzeczownik
+~~~
+
+!id: a090e2dd-cde8-4d22-84ba-1061a019ab4c
+!front: Pronoun/A word that replaces a noun
+!back: Zaimek
+~~~
+
+!id: 2ed0d6b2-9192-46de-b77e-c6449134538f
+!front: Verb/A word that expresses action or a state of being
+!back: Czasownik
+~~~
+
+!id: 6aac3081-92a0-4c01-af98-0c2a70d2a363
+!front: Adjective/A word that describes or modifies a noun or pronoun
+!back: Przymiotnik
+~~~
+
+!id: 856fb869-d4ff-4a56-ab32-18156f8b4ec0
+!front: Adverb/A word that modifies a verb, adjective, or another adverb
+!back: Przysłówek
+~~~
+
+!id: dc1e04a3-5ab4-43da-abd3-ddb5f3468c40
+!front: Preposition/A word that shows the relationship between a noun or pronoun and other words in the sentence
+!back: Przyimek
+~~~
+
+!id: 54659b3e-20a0-4d9a-99bb-5c8a8a712446
+!front: Conjunction/A word that connects words, phrases, or clauses
+!back: Spójnik
+~~~
+
+!id: 905424a0-bcdf-4fb4-b580-b5130c54f987
+!front: Interjection/A word that expresses strong emotion.
+!back: Wykrzyknik
+~~~

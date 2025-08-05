@@ -1,0 +1,317 @@
+!type: Basic
+!deck: Polski::Odmiany::Czasowniki
+!tags: Polski Odmiana
+
+!id: ed677aa3-512d-4ecb-aae8-4d3ad8488af3
+!front: Ja [dać] (czas teraźniejszy)
+!back:
+Ja dam
+
+*Porównaj z "Ja daję"*
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
+
+# dawać
+
+|    |lp    |lm     |
+|:---|:-----|:------|
+|1 os|daję  |dajemy |
+|2 os|dajesz|dajecie|
+|3 os|daje  |dają   |
+
+- *Przyjdź jutro do mnie, to dam ci listę moich dłużników.*
+- *Dam ci znać, jak tylko będę wiedział.*
+- *Dam ci dobrą radę.*
+~~~
+
+!id: 2cd4dd0e-dd7e-4bf5-a070-2ac97918b6fa
+!front: My [dać] (czas teraźniejszy)
+!back:
+My damy
+
+*Porównaj z "My dajemy"*
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
+
+# dawać
+
+|    |lp    |lm     |
+|:---|:-----|:------|
+|1 os|daję  |dajemy |
+|2 os|dajesz|dajecie|
+|3 os|daje  |dają   |
+
+- *Nie damy się przyprzeć do muru.*
+- *Nie, jutro na pewno damy sobie radę.*
+- *I to im damy.*
+~~~
+
+!id: de45161c-9d34-44ec-aa9f-05dd8edb69fd
+!front: Ty [dać] (czas teraźniejszy)
+!back:
+Ty dasz
+
+*Porównaj z "Ty dajesz"*
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
+
+# dawać
+
+|    |lp    |lm     |
+|:---|:-----|:------|
+|1 os|daję  |dajemy |
+|2 os|dajesz|dajecie|
+|3 os|daje  |dają   |
+
+- *Jeśli nie dasz mi spokoju, to cię stąd przegonię.*
+- *Dasz im znać o mnie?*
+- *Czemu nie dasz mi drugiego konia?*
+~~~
+
+!id: 95d85ef9-b1e5-4af3-bfe6-f168531ebcd8
+!front: Wy [dać] (czas teraźniejszy)
+!back:
+Wy dacie
+
+*Porównaj z "Wy dajecie"*
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
+
+# dawać
+
+|    |lp    |lm     |
+|:---|:-----|:------|
+|1 os|daję  |dajemy |
+|2 os|dajesz|dajecie|
+|3 os|daje  |dają   |
+
+- *Dacie mi go?*
+- *W przeciwnym razie nie dacie mi przepustki?*
+- *Nie dacie rady.*
+~~~
+
+!id: c10dccf5-c767-49c0-8c2f-f6379e5cccaa
+!front: On/Ona/Ono [dać] (czas teraźniejszy)
+!back:
+On/Ona/Ono da
+
+*Porównaj z "On/Ona/Ono daje"*
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
+
+# dawać
+
+|    |lp    |lm     |
+|:---|:-----|:------|
+|1 os|daję  |dajemy |
+|2 os|dajesz|dajecie|
+|3 os|daje  |dają   |
+
+- *Nie da rady!*
+- *Niech bóg da, że będzie znać twoją wartość.*
+- *Z całym szacunkiem, panie kapitanie, co nam to da?*
+~~~
+
+!id: 6f46be37-633a-4a21-be2e-93c19c827125
+!front: Oni/One [dać] (czas teraźniejszy)
+!back:
+Oni/One dadzą
+
+*Porównaj z "Oni/One dają"*
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
+
+# dawać
+
+|    |lp    |lm     |
+|:---|:-----|:------|
+|1 os|daję  |dajemy |
+|2 os|dajesz|dajecie|
+|3 os|daje  |dają   |
+
+- *A co jeśli żadnego nie dadzą?*
+- *Może dadzą panu szansę.*
+- *Pieniądze nie dadzą wam szczęścia.*
+~~~
+
+!id: c7646e2d-6ecc-4b0e-ab1e-91f558a048ed
+!front: Ja [dać] (m, czas przeszły)
+!back:
+Ja dałem
+
+- *Dałem ci słowo, a ja nigdy nie łamię słowa.*
+- *Dałem im jasno do zrozumienia...*
+- *Dałem pani słowo i go dotrzymam.*
+~~~
+
+!id: 036a36b9-62e8-46f8-ac2e-7ed8ec5dcc50
+!front: Ja [dać] (ż, czas przeszły)
+!back:
+Ja dałam
+
+- *Dałam ci go potrzymać.*
+- *Nic mu nie dałam.*
+- *Dałam ci wszystko.*
+~~~
+
+!id: 4a2bd90f-c5f2-42f2-8c2f-4b6e26d2f1f7
+!front: Ja [dać] (n, czas przeszły)
+!back: Ja dałom
+~~~
+
+!id: 535f0993-5ed5-4660-b844-b64d623212fe
+!front: My [dać] (czas przeszły)
+!back:
+My daliśmy
+
+- *Daliśmy im absolutną władzę.*
+- *Daliśmy im wszystko, co mieliśmy.*
+- *Daliśmy ci żywność i wodę.*
+~~~
+
+!id: 069ca71a-5589-4cda-a438-6a5ea08ee07f
+!front: Ty [dać] (m, czas przeszły)
+!back:
+Ty dałeś
+
+- *Dałeś z siebie wszystko.*
+- *Dałeś temu psu dom.*
+- *Zdał sobie sprawę, że to ty dałeś mu broń.*
+~~~
+
+!id: a97a87d4-bd06-459f-98e8-6422392edccc
+!front: Ty [dać] (ż, czas przeszły)
+!back:
+Ty dałaś
+
+- *Czemu nie dałaś znać?*
+- *Dałaś mi całą potrzebną broń.*
+- *Więc dlaczego dałaś mi nadzieję?*
+~~~
+
+!id: 7dc8ef6c-36c1-4b70-95d9-903d247cffb6
+!front: Ty [dać] (n, czas przeszły)
+!back: Ty dałoś
+~~~
+
+!id: 2ba66860-1790-4d1c-aad5-ebbce89b24a2
+!front: Wy [dać] (czas przeszły)
+!back:
+Wy daliście
+
+- *Wszyscy bez wyjątku daliście się pokonać amatorowi.*
+- *Daliście się nabrać, oboje.*
+- *Daliście mi wskazówkę na moje błędy.*
+~~~
+
+!id: e9a93e5f-71d9-4e92-93fb-b4796783ae5f
+!front: On [dać] (czas przeszły)
+!back:
+On dał
+
+- *Proszę pana, dał pan nam złe pieniądze!*
+- *Twój kolega dał ci alibi na tamtą noc.*
+- *Co jej dał za wyjątkiem róż?*
+~~~
+
+!id: 254ee07f-9241-490b-abb4-9890d49e0b3e
+!front: Ona [dać] (czas przeszły)
+!back:
+Ona dała
+
+- *Chcę, abyś dała mi wolność.*
+- *Dała ci swój numer?*
+- *Dała mi czas do piątku na załatwienie pozwolenia na pracę.*
+~~~
+
+!id: 7ac5e43b-8153-4dd8-a120-3c77e129e2d6
+!front: Ono [dać] (czas przeszły)
+!back:
+Ono dało
+
+- *A ponieważ nie było ich widać nie dało się udowodnić, że nie istnieją.*
+- *Dało jej to wystarczająco czasu.*
+- *Tej nocy nie dało się spać.*
+~~~
+
+!id: 7796b1bf-328e-476c-a23d-84250b137337
+!front: Oni [dać] (czas przeszły)
+!back:
+Oni dali
+
+- *Oni nie dali rady nawałowi spraw.*
+- *Dali mi nowe życie.*
+- *Chciałem tylko, żeby mi dali szansę.*
+~~~
+
+!id: a97b25c2-b001-4e3c-85f9-52dbe39b989a
+!front: Ty [dać] (tryb rozkazujący)
+!back:
+Ty daj
+
+*Porównaj z "Ty dawaj"*
+
+- *Daj sobie trochę więcej czasu.*
+- *Daj mi spokój.*
+- *A gdy upadnę, daj mi siłę, by się podnieść.*
+~~~
+
+!id: efe9069a-ee2f-4f5c-b2d4-651ea843a220
+!front: My [dać] (tryb rozkazujący)
+!back:
+My dajmy
+
+*Porównaj z "My dawajmy"*
+
+- *Ale nie dajmy się zwariować.*
+- *Kiedy powróci, nie dajmy się mu zaskoczyć.*
+- *Czyli dajmy się nadal robić w konia.*
+~~~
+
+!id: dc58e766-b1a6-4494-b55b-4884f56a72de
+!front: Wy [dać] (tryb rozkazujący)
+!back:
+Wy dajcie
+
+*Porównaj z "Wy dawajcie"*
+
+- *Więc dajcie znać, co myślicie.*
+- *A dajcie już spokój!*
+- *Do picia dajcie zwykłą wodę.*
+~~~

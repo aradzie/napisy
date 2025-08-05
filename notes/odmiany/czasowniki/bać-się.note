@@ -1,0 +1,135 @@
+!type: Basic
+!deck: Polski::Odmiany::Czasowniki
+!tags: Polski Odmiana
+
+!id: 3a03aac6-2f88-4aee-b3e3-044abc5f4a30
+!front: Ja [bać się] (czas teraźniejszy)
+!back:
+Ja boję się
+
+- *Nie boję się przegrywać.*
+~~~
+
+!id: 5f75596c-78a0-4d85-a3f5-9c8ba30b189e
+!front: My [bać się] (czas teraźniejszy)
+!back:
+My boimy się
+
+- *Dzisiaj nie boimy się żadnego wyzwania.*
+~~~
+
+!id: 0b813eaa-2673-478e-bbc2-d69eddda27c5
+!front: Ty [bać się] (czas teraźniejszy)
+!back:
+Ty boisz się
+
+- *Fajnie, że nie boisz się zmian.*
+~~~
+
+!id: d2cc0a49-7dce-41c2-b7ce-1faa74329077
+!front: Wy [bać się] (czas teraźniejszy)
+!back:
+Wy boicie się
+
+- *I boicie się że ponownie się rozczarujecie.*
+~~~
+
+!id: a2cc179c-1400-4045-9b4a-a5c19f52660c
+!front: On/Ona/Ono [bać się] (czas teraźniejszy)
+!back:
+On/Ona/Ono boi się
+
+- *Cały czas boi się o swoje życie.*
+~~~
+
+!id: ffa33884-4058-4892-be8c-6c3214f687ed
+!front: Oni/One [bać się] (czas teraźniejszy)
+!back:
+Oni/One boją się
+
+- *Chyba tego scenariusza boją się inwestorzy.*
+~~~
+
+!id: f24fbd91-86f0-4154-974e-66b2c11fee6e
+!front: Ja [bać się] (m, czas przeszły)
+!back: Ja bałem się
+~~~
+
+!id: f3c2f07e-095c-41e7-ac44-eeb429679854
+!front: Ja [bać się] (ż, czas przeszły)
+!back: Ja bałam się
+~~~
+
+!id: 6229eebe-8cd1-4c9e-b96f-fdaf308bab55
+!front: Ja [bać się] (n, czas przeszły)
+!back: Ja bałom się
+~~~
+
+!id: da16eba2-d42e-40fd-af54-20a93935fa50
+!front: My [bać się] (czas przeszły)
+!back: My baliśmy się
+~~~
+
+!id: b5e368b0-5e5e-48da-8ef7-cc1d2b8ca54b
+!front: Ty [bać się] (m, czas przeszły)
+!back: Ty bałeś się
+~~~
+
+!id: c6f4b7b0-fb2b-43a2-b0d6-029ad979c8f2
+!front: Ty [bać się] (ż, czas przeszły)
+!back: Ty bałaś się
+~~~
+
+!id: a2729ea0-19cb-405c-869a-d2d300317c00
+!front: Ty [bać się] (n, czas przeszły)
+!back: Ty bałoś się
+~~~
+
+!id: e889e697-cd29-486b-886d-13c0e407dd45
+!front: Wy [bać się] (czas przeszły)
+!back: Wy baliście się
+~~~
+
+!id: e6b853da-b65f-4d18-ade8-9014bc5b6574
+!front: On [bać się] (czas przeszły)
+!back: On bał się
+~~~
+
+!id: 6feef2c3-1ee2-4180-b243-d23be782d03c
+!front: Ona [bać się] (czas przeszły)
+!back: Ona bała się
+~~~
+
+!id: 03c2ecf3-d250-4040-b0d5-80b610df8dbe
+!front: Ono [bać się] (czas przeszły)
+!back: Ono bało się
+~~~
+
+!id: ee244ce9-4426-4ee2-bda3-f1c2af818bea
+!front: Oni [bać się] (czas przeszły)
+!back: Oni bali się
+~~~
+
+!id: 6dce4a20-d6be-40ff-9fd6-df25b1b9866d
+!front: Ty [bać się] (tryb rozkazujący)
+!back:
+Ty bój się
+
+- *A co najważniejsze, nie bój się bólu.*
+~~~
+
+!id: 5be66ee3-347e-4898-b7a9-590733c057f8
+!front: My [bać się] (tryb rozkazujący)
+!back:
+My bójmy się
+
+- *My nie bójmy się krytykować opozycji.*
+~~~
+
+!id: 1f080939-c112-41ae-8e0c-ec25c1b188be
+!front: Wy [bać się] (tryb rozkazujący)
+!back:
+Wy bójcie się
+
+- *A więc nie bójcie się mydła i myjcie się często!*
+~~~

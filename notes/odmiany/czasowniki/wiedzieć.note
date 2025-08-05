@@ -1,0 +1,123 @@
+!type: Basic
+!deck: Polski::Odmiany::Czasowniki
+!tags: Polski Odmiana
+
+!id: 31b94411-7510-4c18-9abb-e0d40cff203f
+!front: Ja [wiedzieć] (czas teraźniejszy)
+!back: Ja wiem
+~~~
+
+!id: 8d3f1d9b-8de9-4f58-a607-9f3b2207a59e
+!front: My [wiedzieć] (czas teraźniejszy)
+!back: My wiemy
+~~~
+
+!id: c0811b85-7dc4-49d9-a317-807408d9d8ce
+!front: Ty [wiedzieć] (czas teraźniejszy)
+!back: Ty wiesz
+~~~
+
+!id: 8cc9a036-d5f2-4b28-a9c4-6601a44f3dd0
+!front: Wy [wiedzieć] (czas teraźniejszy)
+!back: Wy wiecie
+~~~
+
+!id: caaa8986-7085-46f4-b0c4-12e8bf823026
+!front: On/Ona/Ono [wiedzieć] (czas teraźniejszy)
+!back: On/Ona/Ono wie
+~~~
+
+!id: 7ced0c45-8553-4a81-9419-a05b121fb34c
+!front: Oni/One [wiedzieć] (czas teraźniejszy)
+!back: Oni/One wiedzą
+~~~
+
+!id: f9119737-cde3-4ce5-bb0b-fc823f67ee1a
+!front: Ja [wiedzieć] (m, czas przeszły)
+!back: Ja wiedziałem
+~~~
+
+!id: ffd1f97b-2a40-4754-be28-765e0d427fe8
+!front: Ja [wiedzieć] (ż, czas przeszły)
+!back: Ja wiedziałam
+~~~
+
+!id: 43b8f8c2-9789-47f8-a3e2-10b6cced903a
+!front: Ja [wiedzieć] (n, czas przeszły)
+!back: Ja wiedziałom
+~~~
+
+!id: 9ca1c04d-f386-4d3e-80c2-32dafec95a55
+!front: My [wiedzieć] (czas przeszły)
+!back: My wiedzieliśmy
+~~~
+
+!id: 1eedde9e-e040-4e23-8dee-db90b3b5b4d6
+!front: Ty [wiedzieć] (m, czas przeszły)
+!back: Ty wiedziałeś
+~~~
+
+!id: c275f405-243c-4d69-98c0-a328c29c5b2a
+!front: Ty [wiedzieć] (ż, czas przeszły)
+!back: Ty wiedziałaś
+~~~
+
+!id: bcf80aae-7c13-4f45-b355-43673be96ef5
+!front: Ty [wiedzieć] (n, czas przeszły)
+!back: Ty wiedziałoś
+~~~
+
+!id: 0ee14b46-83f0-4ad0-864b-cfc4e0eaa461
+!front: Wy [wiedzieć] (czas przeszły)
+!back: Wy wiedzieliście
+~~~
+
+!id: 7efc574e-556d-4163-9d77-7dde5e98654e
+!front: On [wiedzieć] (czas przeszły)
+!back: On wiedział
+~~~
+
+!id: e6c1ee84-cdaf-4a2c-ae5e-56b619e7bb9b
+!front: Ona [wiedzieć] (czas przeszły)
+!back: Ona wiedziała
+~~~
+
+!id: 71b5fc15-918d-4825-b3f8-f25ba1655588
+!front: Ono [wiedzieć] (czas przeszły)
+!back: Ono wiedziało
+~~~
+
+!id: c6c50ca4-359c-4234-b41d-bc70de2c9b3a
+!front: Oni [wiedzieć] (czas przeszły)
+!back: Oni wiedzieli
+~~~
+
+!id: 1cb41119-fd6b-402b-a004-2072816d304f
+!front: Ty [wiedzieć] (tryb rozkazujący)
+!back:
+Ty wiedz
+
+- *W duszy wiedz swoje i trzymaj się tego.*
+- *Czytaj i wiedz więcej.*
+- *I wiedz, kiedy milczeć.*
+~~~
+
+!id: fe682aa2-cffd-46f6-af59-e3e2a5ecf4da
+!front: My [wiedzieć] (tryb rozkazujący)
+!back:
+My wiedzmy
+
+- *Wiedzmy, jakie mamy możliwości.*
+- *Jednak wiedzmy, że nie tylko to się liczy.*
+- *Zatem wiedzmy, o co idzie walka.*
+~~~
+
+!id: 1c6b3e32-04fb-4c51-9161-01e273242034
+!front: Wy [wiedzieć] (tryb rozkazujący)
+!back:
+Wy wiedzcie
+
+- *Ale przede wszystkim wiedzcie, że macie w sobie te moce.*
+- *Ta książka jest bardzo dobra, wiedzcie o tym.*
+- *Bracia, wiedzcie jednak, że to nieprawda.*
+~~~
