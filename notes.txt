@@ -4,14 +4,74 @@
 #notetype column:2
 #deck column:3
 #tags column:4
-fb00c32e-dc57-4237-a678-361c3c43ff6f;Basic;Polski::Meta::Częśći Mowy;Polski Meta;<p>Noun/A word that names a person, place, thing, or idea</p>;<p>Rzeczownik</p>
-a090e2dd-cde8-4d22-84ba-1061a019ab4c;Basic;Polski::Meta::Częśći Mowy;Polski Meta;<p>Pronoun/A word that replaces a noun</p>;<p>Zaimek</p>
-2ed0d6b2-9192-46de-b77e-c6449134538f;Basic;Polski::Meta::Częśći Mowy;Polski Meta;<p>Verb/A word that expresses action or a state of being</p>;<p>Czasownik</p>
-6aac3081-92a0-4c01-af98-0c2a70d2a363;Basic;Polski::Meta::Częśći Mowy;Polski Meta;<p>Adjective/A word that describes or modifies a noun or pronoun</p>;<p>Przymiotnik</p>
-856fb869-d4ff-4a56-ab32-18156f8b4ec0;Basic;Polski::Meta::Częśći Mowy;Polski Meta;<p>Adverb/A word that modifies a verb, adjective, or another adverb</p>;<p>Przysłówek</p>
-dc1e04a3-5ab4-43da-abd3-ddb5f3468c40;Basic;Polski::Meta::Częśći Mowy;Polski Meta;<p>Preposition/A word that shows the relationship between a noun or pronoun and other words in the sentence</p>;<p>Przyimek</p>
-54659b3e-20a0-4d9a-99bb-5c8a8a712446;Basic;Polski::Meta::Częśći Mowy;Polski Meta;<p>Conjunction/A word that connects words, phrases, or clauses</p>;<p>Spójnik</p>
-905424a0-bcdf-4fb4-b580-b5130c54f987;Basic;Polski::Meta::Częśći Mowy;Polski Meta;<p>Interjection/A word that expresses strong emotion.</p>;<p>Wykrzyknik</p>
+2ed0d6b2-9192-46de-b77e-c6449134538f;Basic (and reversed card);Polski::Meta::Częśći Mowy;Polski Meta;<p>Czasownik/Verb</p>;"<p>Określa czynności lub stany, odpowiada na pytania: co robi? co się z nim dzieje?</p>
+<ul>
+<li><strong>lubić</strong></li>
+<li><strong>potrzebować</strong></li>
+<li><strong>nteresować się</strong></li>
+</ul>"
+fb00c32e-dc57-4237-a678-361c3c43ff6f;Basic (and reversed card);Polski::Meta::Częśći Mowy;Polski Meta;<p>Rzeczownik/Noun</p>;"<p>Określa nazwy osób, rzeczy, zwierząt, miejsc, pojęć.</p>
+<ul>
+<li><strong>chłopiec</strong></li>
+<li><strong>komputer</strong></li>
+<li><strong>muzyka</strong></li>
+</ul>"
+a090e2dd-cde8-4d22-84ba-1061a019ab4c;Basic (and reversed card);Polski::Meta::Częśći Mowy;Polski Meta;<p>Zaimek/Pronoun</p>;"<p>Zastępuje inne części mowy, np. rzeczownik, przymiotnik.</p>
+<ul>
+<li><strong>ja</strong>, <strong>ty</strong>, <strong>on</strong>, <strong>ona</strong>, <strong>ono</strong>, <strong>my</strong>, <strong>wy</strong></li>
+<li><strong>mnie</strong>, <strong>ciebie</strong>, <strong>jego</strong>, <strong>jej</strong>, <strong>go</strong>, <strong>nas</strong>, <strong>was</strong></li>
+<li><strong>mój</strong>, <strong>twój</strong>, <strong>jego</strong>, <strong>jej</strong>, <strong>nasz</strong>, <strong>wasz</strong></li>
+</ul>"
+6aac3081-92a0-4c01-af98-0c2a70d2a363;Basic (and reversed card);Polski::Meta::Częśći Mowy;Polski Meta;<p>Przymiotnik/Adjective</p>;"<p>Określa cechy rzeczowników, odpowiada na pytania: jaki? jaka? jakie?</p>
+<ul>
+<li><strong>najszybszy</strong></li>
+<li><strong>wszędzie</strong></li>
+<li><strong>często</strong></li>
+</ul>"
+856fb869-d4ff-4a56-ab32-18156f8b4ec0;Basic (and reversed card);Polski::Meta::Częśći Mowy;Polski Meta;<p>Przysłówek/Adverb</p>;"<p>Określa cechy czasowników, przymiotników lub innych przysłówków, odpowiada na pytania: jak? gdzie? kiedy?</p>
+<ul>
+<li><strong>szybko</strong></li>
+<li><strong>źle</strong></li>
+<li><strong>starannie</strong></li>
+</ul>"
+dc1e04a3-5ab4-43da-abd3-ddb5f3468c40;Basic (and reversed card);Polski::Meta::Częśći Mowy;Polski Meta;<p>Przyimek/Preposition</p>;<p>Służy do łączenia wyrazów w zdaniu, np. <strong>w</strong>, <strong>na</strong>, <strong>do</strong>, <strong>z</strong>.</p>
+54659b3e-20a0-4d9a-99bb-5c8a8a712446;Basic (and reversed card);Polski::Meta::Częśći Mowy;Polski Meta;<p>Spójnik/Conjunction</p>;<p>Służy do łączenia zdań lub ich części, np. <strong>i</strong>, <strong>oraz</strong>, <strong>ale</strong>, <strong>lub</strong>.</p>
+b1e9bdc6-ef7b-4c1c-b957-da92dc4f3141;Basic (and reversed card);Polski::Meta::Przypadki;Polski Meta;<p>Mianownik</p>;"<p>Kto? Co?</p>
+<ul>
+<li><strong>Dobry człowiek.</strong></li>
+<li><strong>Dobra kobieta.</strong></li>
+<li><strong>Dobre dziecko.</strong></li>
+</ul>"
+0fbab6c5-194b-4933-8253-92ca5fdddcab;Basic (and reversed card);Polski::Meta::Przypadki;Polski Meta;<p>Dopełniacz</p>;"<p>Kogo? Czego?</p>
+<ul>
+<li><strong>Dobrego człowieka.</strong></li>
+<li><strong>Dobrej kobiety.</strong></li>
+<li><strong>Dobrego dziecka.</strong></li>
+</ul>"
+36ba4cac-68f2-4258-ac9b-5f130c059a42;Basic (and reversed card);Polski::Meta::Przypadki;Polski Meta;<p>Celownik</p>;"<p>Komu? Czemu?</p>
+<ul>
+<li><strong>Dobremu człowiekowi.</strong></li>
+<li><strong>Dobrej kobiecie.</strong></li>
+<li><strong>Dobremu dziecku.</strong></li>
+</ul>"
+ad28af98-d7b7-457d-9e88-7ea42d8e8699;Basic (and reversed card);Polski::Meta::Przypadki;Polski Meta;<p>Biernik</p>;"<p>Kogo? Co?</p>
+<ul>
+<li><strong>Dobrego człowieka.</strong></li>
+<li><strong>Dobrą kobietę.</strong></li>
+<li><strong>Dobre dziecko.</strong></li>
+</ul>"
+c73b2c7e-c8c3-48f3-bb3d-f737e2dea08e;Basic (and reversed card);Polski::Meta::Przypadki;Polski Meta;<p>Narzędnik</p>;"<p>Z kim? Z czym?</p>
+<ul>
+<li><strong>Z dobrym człowiekiem.</strong></li>
+<li><strong>Z dobrą kobietą.</strong></li>
+<li><strong>Z dobrym dzieckiem.</strong></li>
+</ul>"
+69430b13-7c03-48e2-b5ae-5750bb0d3b8c;Basic (and reversed card);Polski::Meta::Przypadki;Polski Meta;<p>Miejscownik</p>;"<p>O kim? O czym?</p>
+<ul>
+<li><strong>O dobrym człowieku.</strong></li>
+<li><strong>O dobrej kobiecie.</strong></li>
+<li><strong>O dobrym dziecku.</strong></li>
+</ul>"
 3a03aac6-2f88-4aee-b3e3-044abc5f4a30;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [bać się] (czas teraźniejszy)</p>;"<p>Ja boję się</p>
 <ul>
 <li><em>Nie boję się przegrywać.</em></li>

@@ -1,43 +1,124 @@
-!type: Basic
+!type: Basic (and reversed card)
 !deck: Polski::Meta::Częśći Mowy
 !tags: Polski Meta
 
+!id: 2ed0d6b2-9192-46de-b77e-c6449134538f
+!front: Czasownik/Verb
+!back:
+Określa czynności lub stany, odpowiada na pytania: co robi? co się z nim dzieje?
+
+- **lubić**
+- **potrzebować**
+- **nteresować się**
+~~~
+
 !id: fb00c32e-dc57-4237-a678-361c3c43ff6f
-!front: Noun/A word that names a person, place, thing, or idea
-!back: Rzeczownik
+!front: Rzeczownik/Noun
+!back:
+Określa nazwy osób, rzeczy, zwierząt, miejsc, pojęć.
+
+- **chłopiec**
+- **komputer**
+- **muzyka**
 ~~~
 
 !id: a090e2dd-cde8-4d22-84ba-1061a019ab4c
-!front: Pronoun/A word that replaces a noun
-!back: Zaimek
-~~~
+!front: Zaimek/Pronoun
+!back:
+Zastępuje inne części mowy, np. rzeczownik, przymiotnik.
 
-!id: 2ed0d6b2-9192-46de-b77e-c6449134538f
-!front: Verb/A word that expresses action or a state of being
-!back: Czasownik
+- **ja**, **ty**, **on**, **ona**, **ono**, **my**, **wy**
+- **mnie**, **ciebie**, **jego**, **jej**, **go**, **nas**, **was**
+- **mój**, **twój**, **jego**, **jej**, **nasz**, **wasz**
 ~~~
 
 !id: 6aac3081-92a0-4c01-af98-0c2a70d2a363
-!front: Adjective/A word that describes or modifies a noun or pronoun
-!back: Przymiotnik
+!front: Przymiotnik/Adjective
+!back:
+Określa cechy rzeczowników, odpowiada na pytania: jaki? jaka? jakie?
+
+- **najszybszy**
+- **wszędzie**
+- **często**
 ~~~
 
 !id: 856fb869-d4ff-4a56-ab32-18156f8b4ec0
-!front: Adverb/A word that modifies a verb, adjective, or another adverb
-!back: Przysłówek
+!front: Przysłówek/Adverb
+!back:
+Określa cechy czasowników, przymiotników lub innych przysłówków, odpowiada na pytania: jak? gdzie? kiedy?
+
+- **szybko**
+- **źle**
+- **starannie**
 ~~~
 
 !id: dc1e04a3-5ab4-43da-abd3-ddb5f3468c40
-!front: Preposition/A word that shows the relationship between a noun or pronoun and other words in the sentence
-!back: Przyimek
+!front: Przyimek/Preposition
+!back: Służy do łączenia wyrazów w zdaniu, np. **w**, **na**, **do**, **z**.
 ~~~
 
 !id: 54659b3e-20a0-4d9a-99bb-5c8a8a712446
-!front: Conjunction/A word that connects words, phrases, or clauses
-!back: Spójnik
+!front: Spójnik/Conjunction
+!back: Służy do łączenia zdań lub ich części, np. **i**, **oraz**, **ale**, **lub**.
+~~~
+!deck: Polski::Meta::Przypadki
+
+!id: b1e9bdc6-ef7b-4c1c-b957-da92dc4f3141
+!front: Mianownik
+!back:
+Kto? Co?
+
+- **Dobry człowiek.**
+- **Dobra kobieta.**
+- **Dobre dziecko.**
 ~~~
 
-!id: 905424a0-bcdf-4fb4-b580-b5130c54f987
-!front: Interjection/A word that expresses strong emotion.
-!back: Wykrzyknik
+!id: 0fbab6c5-194b-4933-8253-92ca5fdddcab
+!front: Dopełniacz
+!back:
+Kogo? Czego?
+
+- **Dobrego człowieka.**
+- **Dobrej kobiety.**
+- **Dobrego dziecka.**
+~~~
+
+!id: 36ba4cac-68f2-4258-ac9b-5f130c059a42
+!front: Celownik
+!back:
+Komu? Czemu?
+
+- **Dobremu człowiekowi.**
+- **Dobrej kobiecie.**
+- **Dobremu dziecku.**
+~~~
+
+!id: ad28af98-d7b7-457d-9e88-7ea42d8e8699
+!front: Biernik
+!back:
+Kogo? Co?
+
+- **Dobrego człowieka.**
+- **Dobrą kobietę.**
+- **Dobre dziecko.**
+~~~
+
+!id: c73b2c7e-c8c3-48f3-bb3d-f737e2dea08e
+!front: Narzędnik
+!back:
+Z kim? Z czym?
+
+- **Z dobrym człowiekiem.**
+- **Z dobrą kobietą.**
+- **Z dobrym dzieckiem.**
+~~~
+
+!id: 69430b13-7c03-48e2-b5ae-5750bb0d3b8c
+!front: Miejscownik
+!back:
+O kim? O czym?
+
+- **O dobrym człowieku.**
+- **O dobrej kobiecie.**
+- **O dobrym dziecku.**
 ~~~
