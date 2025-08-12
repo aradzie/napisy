@@ -33,17 +33,17 @@
 ~~~
 
 !id: 87bc56d4-ef91-4a00-bb06-d8221f3488d0
-!front: Ja [wejść] (m, czas przeszły)
+!front: Ja [wejść] (męski, czas przeszły)
 !back: Ja wszedłem
 ~~~
 
 !id: 52838d4e-955d-4923-9f00-856d6a793e57
-!front: Ja [wejść] (ż, czas przeszły)
+!front: Ja [wejść] (żeński, czas przeszły)
 !back: Ja weszłam
 ~~~
 
 !id: 64fcca4f-2980-4912-8dd6-6bc76ebc5b18
-!front: Ja [wejść] (n, czas przeszły)
+!front: Ja [wejść] (nijaki, czas przeszły)
 !back: Ja weszłom
 ~~~
 
@@ -53,17 +53,17 @@
 ~~~
 
 !id: edd5e3e0-89db-44fc-a544-ca09ce1eaa5c
-!front: Ty [wejść] (m, czas przeszły)
+!front: Ty [wejść] (męski, czas przeszły)
 !back: Ty wszedłeś
 ~~~
 
 !id: d36b2b16-7af6-49d7-b843-ef92b80a9ee0
-!front: Ty [wejść] (ż, czas przeszły)
+!front: Ty [wejść] (żeński, czas przeszły)
 !back: Ty weszłaś
 ~~~
 
 !id: eb991846-fa27-4e59-b81d-5642baabc1e7
-!front: Ty [wejść] (n, czas przeszły)
+!front: Ty [wejść] (nijaki, czas przeszły)
 !back: Ty weszłoś
 ~~~
 

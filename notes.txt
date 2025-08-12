@@ -96,13 +96,13 @@ ffa33884-4058-4892-be8c-6c3214f687ed;Basic;Polski::Odmiany::Czasowniki;Polski Od
 <ul>
 <li><em>Chyba tego scenariusza boją się inwestorzy.</em></li>
 </ul>"
-f24fbd91-86f0-4154-974e-66b2c11fee6e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [bać się] (m, czas przeszły)</p>;<p>Ja bałem się</p>
-f3c2f07e-095c-41e7-ac44-eeb429679854;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [bać się] (ż, czas przeszły)</p>;<p>Ja bałam się</p>
-6229eebe-8cd1-4c9e-b96f-fdaf308bab55;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [bać się] (n, czas przeszły)</p>;<p>Ja bałom się</p>
+f24fbd91-86f0-4154-974e-66b2c11fee6e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [bać się] (męski, czas przeszły)</p>;<p>Ja bałem się</p>
+f3c2f07e-095c-41e7-ac44-eeb429679854;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [bać się] (żeński, czas przeszły)</p>;<p>Ja bałam się</p>
+6229eebe-8cd1-4c9e-b96f-fdaf308bab55;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [bać się] (nijaki, czas przeszły)</p>;<p>Ja bałom się</p>
 da16eba2-d42e-40fd-af54-20a93935fa50;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [bać się] (czas przeszły)</p>;<p>My baliśmy się</p>
-b5e368b0-5e5e-48da-8ef7-cc1d2b8ca54b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [bać się] (m, czas przeszły)</p>;<p>Ty bałeś się</p>
-c6f4b7b0-fb2b-43a2-b0d6-029ad979c8f2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [bać się] (ż, czas przeszły)</p>;<p>Ty bałaś się</p>
-a2729ea0-19cb-405c-869a-d2d300317c00;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [bać się] (n, czas przeszły)</p>;<p>Ty bałoś się</p>
+b5e368b0-5e5e-48da-8ef7-cc1d2b8ca54b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [bać się] (męski, czas przeszły)</p>;<p>Ty bałeś się</p>
+c6f4b7b0-fb2b-43a2-b0d6-029ad979c8f2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [bać się] (żeński, czas przeszły)</p>;<p>Ty bałaś się</p>
+a2729ea0-19cb-405c-869a-d2d300317c00;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [bać się] (nijaki, czas przeszły)</p>;<p>Ty bałoś się</p>
 e889e697-cd29-486b-886d-13c0e407dd45;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [bać się] (czas przeszły)</p>;<p>Wy baliście się</p>
 e6b853da-b65f-4d18-ade8-9014bc5b6574;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [bać się] (czas przeszły)</p>;<p>On bał się</p>
 6feef2c3-1ee2-4180-b243-d23be782d03c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [bać się] (czas przeszły)</p>;<p>Ona bała się</p>
@@ -961,38 +961,38 @@ c10dccf5-c767-49c0-8c2f-f6379e5cccaa;Basic;Polski::Odmiany::Czasowniki;Polski Od
 <li><em>Może dadzą panu szansę.</em></li>
 <li><em>Pieniądze nie dadzą wam szczęścia.</em></li>
 </ul>"
-c7646e2d-6ecc-4b0e-ab1e-91f558a048ed;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dać] (m, czas przeszły)</p>;"<p>Ja dałem</p>
+c7646e2d-6ecc-4b0e-ab1e-91f558a048ed;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dać] (męski, czas przeszły)</p>;"<p>Ja dałem</p>
 <ul>
 <li><em>Dałem ci słowo, a ja nigdy nie łamię słowa.</em></li>
 <li><em>Dałem im jasno do zrozumienia...</em></li>
 <li><em>Dałem pani słowo i go dotrzymam.</em></li>
 </ul>"
-036a36b9-62e8-46f8-ac2e-7ed8ec5dcc50;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dać] (ż, czas przeszły)</p>;"<p>Ja dałam</p>
+036a36b9-62e8-46f8-ac2e-7ed8ec5dcc50;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dać] (żeński, czas przeszły)</p>;"<p>Ja dałam</p>
 <ul>
 <li><em>Dałam ci go potrzymać.</em></li>
 <li><em>Nic mu nie dałam.</em></li>
 <li><em>Dałam ci wszystko.</em></li>
 </ul>"
-4a2bd90f-c5f2-42f2-8c2f-4b6e26d2f1f7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dać] (n, czas przeszły)</p>;<p>Ja dałom</p>
+4a2bd90f-c5f2-42f2-8c2f-4b6e26d2f1f7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dać] (nijaki, czas przeszły)</p>;<p>Ja dałom</p>
 535f0993-5ed5-4660-b844-b64d623212fe;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [dać] (czas przeszły)</p>;"<p>My daliśmy</p>
 <ul>
 <li><em>Daliśmy im absolutną władzę.</em></li>
 <li><em>Daliśmy im wszystko, co mieliśmy.</em></li>
 <li><em>Daliśmy ci żywność i wodę.</em></li>
 </ul>"
-069ca71a-5589-4cda-a438-6a5ea08ee07f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dać] (m, czas przeszły)</p>;"<p>Ty dałeś</p>
+069ca71a-5589-4cda-a438-6a5ea08ee07f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dać] (męski, czas przeszły)</p>;"<p>Ty dałeś</p>
 <ul>
 <li><em>Dałeś z siebie wszystko.</em></li>
 <li><em>Dałeś temu psu dom.</em></li>
 <li><em>Zdał sobie sprawę, że to ty dałeś mu broń.</em></li>
 </ul>"
-a97a87d4-bd06-459f-98e8-6422392edccc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dać] (ż, czas przeszły)</p>;"<p>Ty dałaś</p>
+a97a87d4-bd06-459f-98e8-6422392edccc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dać] (żeński, czas przeszły)</p>;"<p>Ty dałaś</p>
 <ul>
 <li><em>Czemu nie dałaś znać?</em></li>
 <li><em>Dałaś mi całą potrzebną broń.</em></li>
 <li><em>Więc dlaczego dałaś mi nadzieję?</em></li>
 </ul>"
-7dc8ef6c-36c1-4b70-95d9-903d247cffb6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dać] (n, czas przeszły)</p>;<p>Ty dałoś</p>
+7dc8ef6c-36c1-4b70-95d9-903d247cffb6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dać] (nijaki, czas przeszły)</p>;<p>Ty dałoś</p>
 2ba66860-1790-4d1c-aad5-ebbce89b24a2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [dać] (czas przeszły)</p>;"<p>Wy daliście</p>
 <ul>
 <li><em>Wszyscy bez wyjątku daliście się pokonać amatorowi.</em></li>
@@ -1050,13 +1050,13 @@ f78f2a44-eb01-4adf-9ee7-33e65f4689e7;Basic;Polski::Odmiany::Czasowniki;Polski Od
 79e9e5b2-670c-4aa8-a070-895beba9f570;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [dojść] (czas teraźniejszy)</p>;<p>Wy dojdziecie</p>
 e2c013a1-6f9e-4b65-9d25-c0d5d6b283ba;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [dojść] (czas teraźniejszy)</p>;<p>On/Ona/Ono dojdzie</p>
 016da422-4423-4fbb-ad55-b177f4a01dfb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [dojść] (czas teraźniejszy)</p>;<p>Oni/One dojdą</p>
-67f66925-004f-406e-8004-71a3791ec85c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dojść] (m, czas przeszły)</p>;<p>Ja doszedłem</p>
-e25fe523-46c4-48a4-992b-9c47c0d6ad50;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dojść] (ż, czas przeszły)</p>;<p>Ja doszłam</p>
-6ad76131-e0eb-446c-ba4e-1766b507493e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dojść] (n, czas przeszły)</p>;<p>Ja doszłom</p>
+67f66925-004f-406e-8004-71a3791ec85c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dojść] (męski, czas przeszły)</p>;<p>Ja doszedłem</p>
+e25fe523-46c4-48a4-992b-9c47c0d6ad50;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dojść] (żeński, czas przeszły)</p>;<p>Ja doszłam</p>
+6ad76131-e0eb-446c-ba4e-1766b507493e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dojść] (nijaki, czas przeszły)</p>;<p>Ja doszłom</p>
 13a0d325-4021-4fd2-8fc7-311fa088a094;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [dojść] (czas przeszły)</p>;<p>My doszliśmy</p>
-37f93bfe-21ac-47fb-ac86-c8dff707b8b9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (m, czas przeszły)</p>;<p>Ty doszedłeś</p>
-5734f8cc-d906-4522-86af-3a8911dd0399;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (ż, czas przeszły)</p>;<p>Ty doszłaś</p>
-599ecf3b-26e6-4347-a714-fd0645044df4;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (n, czas przeszły)</p>;<p>Ty doszłoś</p>
+37f93bfe-21ac-47fb-ac86-c8dff707b8b9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (męski, czas przeszły)</p>;<p>Ty doszedłeś</p>
+5734f8cc-d906-4522-86af-3a8911dd0399;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (żeński, czas przeszły)</p>;<p>Ty doszłaś</p>
+599ecf3b-26e6-4347-a714-fd0645044df4;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (nijaki, czas przeszły)</p>;<p>Ty doszłoś</p>
 87bfa995-d46f-4a9b-a960-d9e560a2c04d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [dojść] (czas przeszły)</p>;<p>Wy doszliście</p>
 13908c1c-92a1-4003-a6d2-fef60972f60a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [dojść] (czas przeszły)</p>;<p>On doszedł</p>
 241e314c-7ff5-4b23-b9f0-e4027ab1e424;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [dojść] (czas przeszły)</p>;<p>Ona doszła</p>
@@ -1071,13 +1071,13 @@ a00c9071-f61e-4621-a952-80592172b21f;Basic;Polski::Odmiany::Czasowniki;Polski Od
 d20ec01e-9a8e-4045-8ef3-3e3b657f8c63;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [istnieć] (czas teraźniejszy)</p>;<p>Wy istniejecie</p>
 90c7211a-0270-4c63-bdd2-869147b90b60;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [istnieć] (czas teraźniejszy)</p>;<p>On/Ona/Ono istnieje</p>
 5ec4c486-52a9-47c3-9599-f6d177394c2b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [istnieć] (czas teraźniejszy)</p>;<p>Oni istnieją</p>
-f7f17edb-7073-4544-906f-3909b95663ca;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [istnieć] (m, czas przeszły)</p>;<p>Ja istniałem</p>
-6e27fc5c-3f23-409e-8ca3-91707715c9c9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [istnieć] (ż, czas przeszły)</p>;<p>Ja istniałam</p>
-c6d2affe-5c2c-434f-a88c-7ea9f16d9fe1;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [istnieć] (n, czas przeszły)</p>;<p>Ja istniałom</p>
+f7f17edb-7073-4544-906f-3909b95663ca;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [istnieć] (męski, czas przeszły)</p>;<p>Ja istniałem</p>
+6e27fc5c-3f23-409e-8ca3-91707715c9c9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [istnieć] (żeński, czas przeszły)</p>;<p>Ja istniałam</p>
+c6d2affe-5c2c-434f-a88c-7ea9f16d9fe1;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [istnieć] (nijaki, czas przeszły)</p>;<p>Ja istniałom</p>
 77c6aa4b-f5ca-4342-b935-0c6647937526;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [istnieć] (czas przeszły)</p>;<p>My istnieliśmy</p>
-ca7cbe0b-430f-4795-8fa3-3b7b5c01a3b6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [istnieć] (m, czas przeszły)</p>;<p>Ty istniałeś</p>
-9cac3404-f04e-4a39-8c99-04c2de7c8638;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [istnieć] (ż, czas przeszły)</p>;<p>Ty istniałaś</p>
-8b524e85-db73-4c77-9c4d-f58205cedba6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [istnieć] (n, czas przeszły)</p>;<p>Ty istniałoś</p>
+ca7cbe0b-430f-4795-8fa3-3b7b5c01a3b6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [istnieć] (męski, czas przeszły)</p>;<p>Ty istniałeś</p>
+9cac3404-f04e-4a39-8c99-04c2de7c8638;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [istnieć] (żeński, czas przeszły)</p>;<p>Ty istniałaś</p>
+8b524e85-db73-4c77-9c4d-f58205cedba6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [istnieć] (nijaki, czas przeszły)</p>;<p>Ty istniałoś</p>
 7d82a997-bf69-4b6c-96c8-a2c411469f75;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [istnieć] (czas przeszły)</p>;<p>Wy istnieliście</p>
 19b426e8-827a-4a34-b82f-790ab5d3bea5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [istnieć] (czas przeszły)</p>;<p>On istniał</p>
 41b98829-2e9e-4dd0-9f8f-a76c9d1df780;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [istnieć] (czas przeszły)</p>;<p>Ona istniała</p>
@@ -1089,13 +1089,13 @@ fcd4dad6-5e75-4bd3-9de9-5e9b1964a600;Basic;Polski::Odmiany::Czasowniki;Polski Od
 899febc6-9495-4e6a-9ea3-572eab2a0b71;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [iść] (czas teraźniejszy)</p>;<p>Wy idziecie</p>
 dbf03d3c-65e9-4009-884d-024d12207b5d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [iść] (czas teraźniejszy)</p>;<p>On/Ona/Ono idzie</p>
 4c0180f7-9ae6-4270-b7eb-1100a68e1d99;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [iść] (czas teraźniejszy)</p>;<p>Oni/One idą</p>
-0aa0d0d9-cfdf-4714-9cdb-dbbf47c04c7f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [iść] (m, czas przeszły)</p>;<p>Ja szedłem</p>
-7e2619f0-a37d-460c-a058-4f7b2b66f85f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [iść] (ż, czas przeszły)</p>;<p>Ja szłam</p>
-aa66e163-e602-4dd5-952c-d282fab62b79;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [iść] (n, czas przeszły)</p>;<p>Ja szłom</p>
+0aa0d0d9-cfdf-4714-9cdb-dbbf47c04c7f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [iść] (męski, czas przeszły)</p>;<p>Ja szedłem</p>
+7e2619f0-a37d-460c-a058-4f7b2b66f85f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [iść] (żeński, czas przeszły)</p>;<p>Ja szłam</p>
+aa66e163-e602-4dd5-952c-d282fab62b79;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [iść] (nijaki, czas przeszły)</p>;<p>Ja szłom</p>
 f15633d6-e5e7-4a6f-964b-eba2a04f943a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [iść] (czas przeszły)</p>;<p>My szliśmy</p>
-c3966fbd-43da-47b1-b035-d4e47084e509;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [iść] (m, czas przeszły)</p>;<p>Ty szedłeś</p>
-727a1417-11fc-43be-92de-31be07625e9e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [iść] (ż, czas przeszły)</p>;<p>Ty szłaś</p>
-c7b49b27-e7d5-4fa6-bdaf-ee9a99aa3a16;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [iść] (n, czas przeszły)</p>;<p>Ty szłoś</p>
+c3966fbd-43da-47b1-b035-d4e47084e509;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [iść] (męski, czas przeszły)</p>;<p>Ty szedłeś</p>
+727a1417-11fc-43be-92de-31be07625e9e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [iść] (żeński, czas przeszły)</p>;<p>Ty szłaś</p>
+c7b49b27-e7d5-4fa6-bdaf-ee9a99aa3a16;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [iść] (nijaki, czas przeszły)</p>;<p>Ty szłoś</p>
 53a7e408-f9c6-4481-9123-5b89fa441cbe;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [iść] (czas przeszły)</p>;<p>Wy szliście</p>
 21449fc4-c784-4d2a-8ae9-5549584e0bca;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [iść] (czas przeszły)</p>;<p>On szedł</p>
 d7fb149f-84dd-4551-8a1c-ad0e580fe2a3;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [iść] (czas przeszły)</p>;<p>Ona szła</p>
@@ -1110,13 +1110,13 @@ aa69245e-b362-4e16-acbf-923659954ee0;Basic;Polski::Odmiany::Czasowniki;Polski Od
 9e6f2daa-007e-4f93-9911-2adf1a30089e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jechać] (czas teraźniejszy)</p>;<p>Wy jedziecie</p>
 6c44ef9f-6d8a-4353-b927-e8e2d462e532;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [jechać] (czas teraźniejszy)</p>;<p>On/Ona/Ono jedzie</p>
 83733cbd-5966-4074-a933-e061dcbc4c4c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [jechać] (czas teraźniejszy)</p>;<p>Oni/One jadą</p>
-4bfcc4ee-dcf1-4723-930d-619775a3c161;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (m, czas przeszły)</p>;<p>Ja jechałem</p>
-d0d6632f-5504-4c3f-af57-65bd4ca49551;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (ż, czas przeszły)</p>;<p>Ja jechałam</p>
-2dc29593-d930-4d67-85dc-5ff73136418d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (n, czas przeszły)</p>;<p>Ja jechałom</p>
+4bfcc4ee-dcf1-4723-930d-619775a3c161;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (męski, czas przeszły)</p>;<p>Ja jechałem</p>
+d0d6632f-5504-4c3f-af57-65bd4ca49551;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (żeński, czas przeszły)</p>;<p>Ja jechałam</p>
+2dc29593-d930-4d67-85dc-5ff73136418d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (nijaki, czas przeszły)</p>;<p>Ja jechałom</p>
 d25983ed-d185-4865-997d-4a82a9354b4a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jechać] (czas przeszły)</p>;<p>My jechaliśmy</p>
-9be86f9b-81f2-465f-aaa1-2fe5784736ef;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jechać] (m, czas przeszły)</p>;<p>Ty jechałeś</p>
-354862f8-2bee-471a-9281-790a595f56f8;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jechać] (ż, czas przeszły)</p>;<p>Ty jechałaś</p>
-23b21511-e724-4438-9f6c-c18b52fffa58;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jechać] (n, czas przeszły)</p>;<p>Ty jechałoś</p>
+9be86f9b-81f2-465f-aaa1-2fe5784736ef;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jechać] (męski, czas przeszły)</p>;<p>Ty jechałeś</p>
+354862f8-2bee-471a-9281-790a595f56f8;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jechać] (żeński, czas przeszły)</p>;<p>Ty jechałaś</p>
+23b21511-e724-4438-9f6c-c18b52fffa58;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jechać] (nijaki, czas przeszły)</p>;<p>Ty jechałoś</p>
 3283c64a-57b9-4960-af4d-82ce54de575a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jechać] (czas przeszły)</p>;<p>Wy jechaliście</p>
 d5bbbdcf-7e84-43a4-b692-4809a2532c7d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [jechać] (czas przeszły)</p>;<p>On jechał</p>
 325c4d2c-ac20-42e5-a388-182b445f35d2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [jechać] (czas przeszły)</p>;<p>Ona jechała</p>
@@ -1131,13 +1131,13 @@ a0d655cf-1e06-49a3-8ea2-8f9c931a846d;Basic;Polski::Odmiany::Czasowniki;Polski Od
 f88462cd-49d7-4f22-9072-8c848f73708d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeść] (czas teraźniejszy)</p>;<p>Wy jecie</p>
 04bf56dd-e628-43aa-9c39-949d7ddfb3da;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [jeść] (czas teraźniejszy)</p>;<p>On/Ona/Ono je</p>
 3b9a5c98-a52d-4420-a21c-b4ea02faf248;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [jeść] (czas teraźniejszy)</p>;<p>Oni/One jedzą</p>
-37579502-8637-4e4f-8935-ab9a443726eb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (m, czas przeszły)</p>;<p>Ja jadłem</p>
-538abb10-047c-479c-a46c-6e2498c12c27;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (ż, czas przeszły)</p>;<p>Ja jadłam</p>
-29f11c02-827f-48ca-869e-0b1b6deec495;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (n, czas przeszły)</p>;<p>Ja jadłom</p>
+37579502-8637-4e4f-8935-ab9a443726eb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (męski, czas przeszły)</p>;<p>Ja jadłem</p>
+538abb10-047c-479c-a46c-6e2498c12c27;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (żeński, czas przeszły)</p>;<p>Ja jadłam</p>
+29f11c02-827f-48ca-869e-0b1b6deec495;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (nijaki, czas przeszły)</p>;<p>Ja jadłom</p>
 20d37bff-f4b3-482c-8b3e-119d6ac3e5f7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jeść] (czas przeszły)</p>;<p>My jedliśmy</p>
-0ccba863-7f29-45cc-8392-8a95b939644b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeść] (m, czas przeszły)</p>;<p>Ty jadłeś</p>
-bb9bd0d4-61d2-424a-a463-6e3fef24fec0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeść] (ż, czas przeszły)</p>;<p>Ty jadłaś</p>
-75dd18d1-009e-41e6-813b-882ee09fec4d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeść] (n, czas przeszły)</p>;<p>Ty jadłoś</p>
+0ccba863-7f29-45cc-8392-8a95b939644b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeść] (męski, czas przeszły)</p>;<p>Ty jadłeś</p>
+bb9bd0d4-61d2-424a-a463-6e3fef24fec0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeść] (żeński, czas przeszły)</p>;<p>Ty jadłaś</p>
+75dd18d1-009e-41e6-813b-882ee09fec4d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeść] (nijaki, czas przeszły)</p>;<p>Ty jadłoś</p>
 9b8629ff-3967-4430-b107-6bf727a808c1;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeść] (czas przeszły)</p>;<p>Wy jedliście</p>
 1968116d-82cf-4abf-ba94-211c73b81366;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [jeść] (czas przeszły)</p>;<p>On jadł</p>
 038bae4f-c8b8-4ca2-86c2-00c98d4c74c9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [jeść] (czas przeszły)</p>;<p>Ona jadła</p>
@@ -1152,13 +1152,13 @@ bb9bd0d4-61d2-424a-a463-6e3fef24fec0;Basic;Polski::Odmiany::Czasowniki;Polski Od
 2bb4568d-5aee-4d92-bec6-cdea4f8632e2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeździć] (czas teraźniejszy)</p>;<p>Wy jeździcie</p>
 e8e10878-bb57-4d4b-9a38-a08c95012119;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [jeździć] (czas teraźniejszy)</p>;<p>On/Ona/Ono jeździ</p>
 e34b4764-82bf-4e1c-93c7-dd522965391a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [jeździć] (czas teraźniejszy)</p>;<p>Oni/One jeżdżą</p>
-f8ddc0c5-4c9c-4c22-9306-d00076af1872;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (m, czas przeszły)</p>;<p>Ja jeździłem</p>
-a3432a5c-cbca-4a8a-a508-ee3633d4e0c4;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (ż, czas przeszły)</p>;<p>Ja jeździłam</p>
-ad831c82-aeed-4c41-a256-87fadb9b52ee;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (n, czas przeszły)</p>;<p>Ja jeździłom</p>
+f8ddc0c5-4c9c-4c22-9306-d00076af1872;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (męski, czas przeszły)</p>;<p>Ja jeździłem</p>
+a3432a5c-cbca-4a8a-a508-ee3633d4e0c4;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (żeński, czas przeszły)</p>;<p>Ja jeździłam</p>
+ad831c82-aeed-4c41-a256-87fadb9b52ee;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (nijaki, czas przeszły)</p>;<p>Ja jeździłom</p>
 5fcaf71f-5cec-41d7-a0da-287babc6f6a0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jeździć] (czas przeszły)</p>;<p>My jeździliśmy</p>
-4a0602ed-fd6b-4c63-ae57-5b9029193b5d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeździć] (m, czas przeszły)</p>;<p>Ty jeździłeś</p>
-f79fbd33-136a-41bc-adf7-e55e8388f481;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeździć] (ż, czas przeszły)</p>;<p>Ty jeździłaś</p>
-ac43f410-87f8-4607-9158-1435cafa7853;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeździć] (n, czas przeszły)</p>;<p>Ty jeździłoś</p>
+4a0602ed-fd6b-4c63-ae57-5b9029193b5d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeździć] (męski, czas przeszły)</p>;<p>Ty jeździłeś</p>
+f79fbd33-136a-41bc-adf7-e55e8388f481;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeździć] (żeński, czas przeszły)</p>;<p>Ty jeździłaś</p>
+ac43f410-87f8-4607-9158-1435cafa7853;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeździć] (nijaki, czas przeszły)</p>;<p>Ty jeździłoś</p>
 a0d9bdfd-d934-45b0-a479-ec9ea9871168;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeździć] (czas przeszły)</p>;<p>Wy jeździliście</p>
 0ac88b6a-cd54-4cf0-ab31-c5cb9a5b1c35;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [jeździć] (czas przeszły)</p>;<p>On jeździł</p>
 92962d75-7840-44e1-a1e1-6bf6f86a9eae;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [jeździć] (czas przeszły)</p>;<p>Ona jeździła</p>
@@ -1173,13 +1173,13 @@ da82a89c-46c6-4563-b813-8ebe8a65dda4;Basic;Polski::Odmiany::Czasowniki;Polski Od
 a1870dca-0aed-4ef2-a78c-a4d447c2c0fb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [mieć] (czas teraźniejszy)</p>;<p>Wy macie</p>
 d8b4b0e9-3d2d-46ab-a9b9-cd24806a68bc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [mieć] (czas teraźniejszy)</p>;<p>On/Ona/Ono ma</p>
 4e2d6039-e005-4eed-b74c-11afa4a72f48;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [mieć] (czas teraźniejszy)</p>;<p>Oni/One mają</p>
-e0ed8978-ce05-4010-aa8b-cb663f48f1c8;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [mieć] (m, czas przeszły)</p>;<p>Ja miałem</p>
-e9892065-1fb0-40e4-b28f-4db782c27277;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [mieć] (ż, czas przeszły)</p>;<p>Ja miałam</p>
-adeb82d9-0917-41db-b608-a2c154c985a2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [mieć] (n, czas przeszły)</p>;<p>Ja miałom</p>
+e0ed8978-ce05-4010-aa8b-cb663f48f1c8;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [mieć] (męski, czas przeszły)</p>;<p>Ja miałem</p>
+e9892065-1fb0-40e4-b28f-4db782c27277;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [mieć] (żeński, czas przeszły)</p>;<p>Ja miałam</p>
+adeb82d9-0917-41db-b608-a2c154c985a2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [mieć] (nijaki, czas przeszły)</p>;<p>Ja miałom</p>
 9b76c687-f706-4f0b-9c75-ca2c96846e15;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [mieć] (czas przeszły)</p>;<p>My mieliśmy</p>
-92ff8df3-b87e-4c24-909e-7bf0f3c4388a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [mieć] (m, czas przeszły)</p>;<p>Ty miałeś</p>
-ca2706a9-1231-47bd-b33a-af9621876fa7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [mieć] (ż, czas przeszły)</p>;<p>Ty miałaś</p>
-91622b20-29df-471b-8c1b-0a5198e232da;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [mieć] (n, czas przeszły)</p>;<p>Ty miałoś</p>
+92ff8df3-b87e-4c24-909e-7bf0f3c4388a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [mieć] (męski, czas przeszły)</p>;<p>Ty miałeś</p>
+ca2706a9-1231-47bd-b33a-af9621876fa7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [mieć] (żeński, czas przeszły)</p>;<p>Ty miałaś</p>
+91622b20-29df-471b-8c1b-0a5198e232da;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [mieć] (nijaki, czas przeszły)</p>;<p>Ty miałoś</p>
 2d6171a9-5f84-4484-9ad7-4d9276e00437;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [mieć] (czas przeszły)</p>;<p>Wy mieliście</p>
 125e83dc-0934-4f82-94e0-8c79db7993d7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [mieć] (czas przeszły)</p>;<p>On miał</p>
 594767dd-f7c7-49c7-9d2d-fe255bd1f7bb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [mieć] (czas przeszły)</p>;<p>Ona miała</p>
@@ -1194,13 +1194,13 @@ ca2706a9-1231-47bd-b33a-af9621876fa7;Basic;Polski::Odmiany::Czasowniki;Polski Od
 56e98459-8c45-487d-ba4a-aa52ff19657d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [musieć] (czas teraźniejszy)</p>;<p>Wy musicie</p>
 11804dda-3bfe-46a6-b34a-09f57926bbe3;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [musieć] (czas teraźniejszy)</p>;<p>On/Ona/Ono musi</p>
 463ca764-8af5-48a3-a276-0c36bffb03b9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [musieć] (czas teraźniejszy)</p>;<p>Oni/One muszą</p>
-cdb96b76-05ff-42b2-9338-35a51e94e776;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [musieć] (m, czas przeszły)</p>;<p>Ja musiałem</p>
-c646b985-6b40-4c64-a49f-c613b344e2e7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [musieć] (ż, czas przeszły)</p>;<p>Ja musiałam</p>
-7082cadc-66c3-4850-9ad5-71421e4925a7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [musieć] (n, czas przeszły)</p>;<p>Ja musiałom</p>
+cdb96b76-05ff-42b2-9338-35a51e94e776;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [musieć] (męski, czas przeszły)</p>;<p>Ja musiałem</p>
+c646b985-6b40-4c64-a49f-c613b344e2e7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [musieć] (żeński, czas przeszły)</p>;<p>Ja musiałam</p>
+7082cadc-66c3-4850-9ad5-71421e4925a7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [musieć] (nijaki, czas przeszły)</p>;<p>Ja musiałom</p>
 d2d263cb-786f-4f2f-9d57-d9ac288a928f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [musieć] (czas przeszły)</p>;<p>My musieliśmy</p>
-95e473ab-bcc9-403b-afda-0105e4ec4015;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [musieć] (m, czas przeszły)</p>;<p>Ty musiałeś</p>
-63d95a6d-fc06-4fda-aca1-a54e01b68b8d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [musieć] (ż, czas przeszły)</p>;<p>Ty musiałaś</p>
-f6f15d49-31c5-4bc1-8a33-e4aad32802ac;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [musieć] (n, czas przeszły)</p>;<p>Ty musiałoś</p>
+95e473ab-bcc9-403b-afda-0105e4ec4015;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [musieć] (męski, czas przeszły)</p>;<p>Ty musiałeś</p>
+63d95a6d-fc06-4fda-aca1-a54e01b68b8d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [musieć] (żeński, czas przeszły)</p>;<p>Ty musiałaś</p>
+f6f15d49-31c5-4bc1-8a33-e4aad32802ac;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [musieć] (nijaki, czas przeszły)</p>;<p>Ty musiałoś</p>
 8f163ff2-e844-43c5-9b32-6014f901da6c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [musieć] (czas przeszły)</p>;<p>Wy musieliście</p>
 342cba24-c838-43b7-8b27-408b12185408;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [musieć] (czas przeszły)</p>;<p>On musiał</p>
 7c15e179-c3d8-4e8a-a855-ac67e5aec467;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [musieć] (czas przeszły)</p>;<p>Ona musiała</p>
@@ -1212,13 +1212,13 @@ c5391a8b-55b9-4217-862d-67391342b866;Basic;Polski::Odmiany::Czasowniki;Polski Od
 98ba9fbb-404a-4266-9184-a91a6c1a8d28;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [móc] (czas teraźniejszy)</p>;<p>Wy możecie</p>
 d7b6eacf-922e-4ba1-913a-cdf58628af57;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [móc] (czas teraźniejszy)</p>;<p>On/Ona/Ono może</p>
 905c1bcc-a163-475a-b4ae-90a8fcd11305;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [móc] (czas teraźniejszy)</p>;<p>Oni/One mogą</p>
-aeb5b5e4-f781-4956-9ef2-cad42a6c2554;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [móc] (m, czas przeszły)</p>;<p>Ja mogłem</p>
-a0247efc-6610-4fa9-a51b-a294f1d868b8;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [móc] (ż, czas przeszły)</p>;<p>Ja mogłam</p>
-f56d576e-7e7f-44a1-9db6-016fbe1e3b38;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [móc] (n, czas przeszły)</p>;<p>Ja mogłom</p>
+aeb5b5e4-f781-4956-9ef2-cad42a6c2554;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [móc] (męski, czas przeszły)</p>;<p>Ja mogłem</p>
+a0247efc-6610-4fa9-a51b-a294f1d868b8;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [móc] (żeński, czas przeszły)</p>;<p>Ja mogłam</p>
+f56d576e-7e7f-44a1-9db6-016fbe1e3b38;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [móc] (nijaki, czas przeszły)</p>;<p>Ja mogłom</p>
 1e6a1030-5527-44ec-b875-01f36715473c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [móc] (czas przeszły)</p>;<p>My mogliśmy</p>
-d6aad1f9-221d-4bd7-a579-cbb069df9425;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [móc] (m, czas przeszły)</p>;<p>Ty mogłeś</p>
-c9e77806-87fb-4df8-ba34-7d7dd279bb82;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [móc] (ż, czas przeszły)</p>;<p>Ty mogłaś</p>
-98133d6b-8e56-4421-a77e-8cb3ee01363a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [móc] (n, czas przeszły)</p>;<p>Ty mogłoś</p>
+d6aad1f9-221d-4bd7-a579-cbb069df9425;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [móc] (męski, czas przeszły)</p>;<p>Ty mogłeś</p>
+c9e77806-87fb-4df8-ba34-7d7dd279bb82;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [móc] (żeński, czas przeszły)</p>;<p>Ty mogłaś</p>
+98133d6b-8e56-4421-a77e-8cb3ee01363a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [móc] (nijaki, czas przeszły)</p>;<p>Ty mogłoś</p>
 4f637418-87cb-46c4-8b98-6752af598928;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [móc] (czas przeszły)</p>;<p>Wy mogliście</p>
 a6f1d9dc-c13e-49a7-aa78-2b2b51f56215;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [móc] (czas przeszły)</p>;<p>On mógł</p>
 354afb0b-8284-4b32-8f4f-0e5813acfdaf;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [móc] (czas przeszły)</p>;<p>Ona mogła</p>
@@ -1230,13 +1230,13 @@ d8f0ea15-8eae-4663-907c-d54852f35733;Basic;Polski::Odmiany::Czasowniki;Polski Od
 02de81e2-46cb-4617-8ef3-332b6d41c90c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [nieść] (czas teraźniejszy)</p>;<p>Wy niesiecie</p>
 075ca7df-94fd-4cce-8e47-8139337b5aca;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [nieść] (czas teraźniejszy)</p>;<p>On/Ona/Ono niesie</p>
 6294bdf7-887b-4d00-b64a-004fe8482973;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [nieść] (czas teraźniejszy)</p>;<p>Oni/One niosą</p>
-f1e1fd72-4481-4159-9a91-b574a84be148;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [nieść] (m, czas przeszły)</p>;<p>Ja niosłem</p>
-d055a2b5-bb26-4428-b8e1-678e738418df;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [nieść] (ż, czas przeszły)</p>;<p>Ja niosłam</p>
-12c5b80a-4c5d-42d2-8999-52c32c791c2a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [nieść] (n, czas przeszły)</p>;<p>Ja niosłom</p>
+f1e1fd72-4481-4159-9a91-b574a84be148;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [nieść] (męski, czas przeszły)</p>;<p>Ja niosłem</p>
+d055a2b5-bb26-4428-b8e1-678e738418df;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [nieść] (żeński, czas przeszły)</p>;<p>Ja niosłam</p>
+12c5b80a-4c5d-42d2-8999-52c32c791c2a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [nieść] (nijaki, czas przeszły)</p>;<p>Ja niosłom</p>
 c45d2a4c-e523-4099-a217-5beabebabee2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [nieść] (czas przeszły)</p>;<p>My nieśliśmy</p>
-474eb11f-dc51-4c4a-81e9-df65b19d85f2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [nieść] (m, czas przeszły)</p>;<p>Ty niosłeś</p>
-5eba74c1-0644-48ad-bf1a-d66067fdb8dc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [nieść] (ż, czas przeszły)</p>;<p>Ty niosłaś</p>
-b7e70632-432d-4732-a705-a01051d793b5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [nieść] (n, czas przeszły)</p>;<p>Ty niosłoś</p>
+474eb11f-dc51-4c4a-81e9-df65b19d85f2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [nieść] (męski, czas przeszły)</p>;<p>Ty niosłeś</p>
+5eba74c1-0644-48ad-bf1a-d66067fdb8dc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [nieść] (żeński, czas przeszły)</p>;<p>Ty niosłaś</p>
+b7e70632-432d-4732-a705-a01051d793b5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [nieść] (nijaki, czas przeszły)</p>;<p>Ty niosłoś</p>
 57e396d0-a082-49ca-8b5c-6f2eebef32c6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [nieść] (czas przeszły)</p>;<p>Wy nieśliście</p>
 b36c4bd0-4873-4b62-aa61-2a9d9c2f0232;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [nieść] (czas przeszły)</p>;<p>On niósł</p>
 34f34bfc-8008-40ab-af44-b026f00f8305;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [nieść] (czas przeszły)</p>;<p>Ona niosła</p>
@@ -1251,13 +1251,13 @@ ec16e5aa-52be-4a5a-9be6-a4f6cb29e26c;Basic;Polski::Odmiany::Czasowniki;Polski Od
 6cd9e84f-1131-4595-9f12-0d86134e16d4;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [pisać] (czas teraźniejszy)</p>;<p>Wy piszecie</p>
 08a366f9-bba9-4176-98b4-929a8028c82e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [pisać] (czas teraźniejszy)</p>;<p>On/Ona/Ono pisze</p>
 472fab9b-1f87-4237-b5c1-8dff7d7b76ff;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [pisać] (czas teraźniejszy)</p>;<p>Oni/One piszą</p>
-6438b21c-ac3a-4f7c-a0c6-a76282496cfc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [pisać] (m, czas przeszły)</p>;<p>Ja pisałem</p>
-dff5346a-0a8c-4550-bc9c-53eb0c106f3f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [pisać] (ż, czas przeszły)</p>;<p>Ja pisałam</p>
-d6108f7f-74a9-4acd-a960-0c3f8270c8cd;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [pisać] (n, czas przeszły)</p>;<p>Ja pisałom</p>
+6438b21c-ac3a-4f7c-a0c6-a76282496cfc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [pisać] (męski, czas przeszły)</p>;<p>Ja pisałem</p>
+dff5346a-0a8c-4550-bc9c-53eb0c106f3f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [pisać] (żeński, czas przeszły)</p>;<p>Ja pisałam</p>
+d6108f7f-74a9-4acd-a960-0c3f8270c8cd;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [pisać] (nijaki, czas przeszły)</p>;<p>Ja pisałom</p>
 d94d330d-2211-4e64-8618-670ece97e27c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [pisać] (czas przeszły)</p>;<p>My pisaliśmy</p>
-2d508253-e9b1-431a-b2a8-fa5ca3928a21;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [pisać] (m, czas przeszły)</p>;<p>Ty pisałeś</p>
-e179db3b-8ad1-4a6a-85ee-8937750776dd;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [pisać] (ż, czas przeszły)</p>;<p>Ty pisałaś</p>
-c65130ae-4f28-46f0-b7b9-11fc0c4415e6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [pisać] (n, czas przeszły)</p>;<p>Ty pisałoś</p>
+2d508253-e9b1-431a-b2a8-fa5ca3928a21;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [pisać] (męski, czas przeszły)</p>;<p>Ty pisałeś</p>
+e179db3b-8ad1-4a6a-85ee-8937750776dd;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [pisać] (żeński, czas przeszły)</p>;<p>Ty pisałaś</p>
+c65130ae-4f28-46f0-b7b9-11fc0c4415e6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [pisać] (nijaki, czas przeszły)</p>;<p>Ty pisałoś</p>
 af956613-5466-467a-877a-7be5865ffc98;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [pisać] (czas przeszły)</p>;<p>Wy pisaliście</p>
 3b501ff2-c127-4d6b-b86c-8c15d01f8a93;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [pisać] (czas przeszły)</p>;<p>On pisał</p>
 c3b35a69-f406-4706-9174-5a567776c476;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [pisać] (czas przeszły)</p>;<p>Ona pisała</p>
@@ -1314,13 +1314,13 @@ a1fe4079-ee57-431a-9c7a-bbe9f30c066e;Basic;Polski::Odmiany::Czasowniki;Polski Od
 0932e9cf-6430-4cc5-bc1f-8e66fdc63e0d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [robić] (czas teraźniejszy)</p>;<p>Wy robicie</p>
 09774b82-7201-4bb8-b483-57d5560846ce;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [robić] (czas teraźniejszy)</p>;<p>On/Ona/Ono robi</p>
 9bcb1c8e-967b-47bc-93c7-2bc8ee1bc65e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [robić] (czas teraźniejszy)</p>;<p>Oni/One robią</p>
-1111e086-6a64-42c5-8664-d5755ab602bd;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [robić] (m, czas przeszły)</p>;<p>Ja robiłem</p>
-d5bd459f-8c59-4015-91b3-3d498be68f70;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [robić] (ż, czas przeszły)</p>;<p>Ja robiłam</p>
-8ecd1560-df2a-468e-991c-e11a1c6517d9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [robić] (n, czas przeszły)</p>;<p>Ja robiłom</p>
+1111e086-6a64-42c5-8664-d5755ab602bd;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [robić] (męski, czas przeszły)</p>;<p>Ja robiłem</p>
+d5bd459f-8c59-4015-91b3-3d498be68f70;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [robić] (żeński, czas przeszły)</p>;<p>Ja robiłam</p>
+8ecd1560-df2a-468e-991c-e11a1c6517d9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [robić] (nijaki, czas przeszły)</p>;<p>Ja robiłom</p>
 e9ccf66d-e7d5-43f7-b2b8-45b9017c8e9b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [robić] (czas przeszły)</p>;<p>My robiliśmy</p>
-1da30969-50ed-4b4b-8dbe-a09a93a0463a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [robić] (m, czas przeszły)</p>;<p>Ty robiłeś</p>
-9375593d-d86d-4e26-bc8e-423fd742e97f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [robić] (ż, czas przeszły)</p>;<p>Ty robiłaś</p>
-ddb9b2ef-aa4a-47d8-bcac-15cb1f52c769;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [robić] (n, czas przeszły)</p>;<p>Ty robiłoś</p>
+1da30969-50ed-4b4b-8dbe-a09a93a0463a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [robić] (męski, czas przeszły)</p>;<p>Ty robiłeś</p>
+9375593d-d86d-4e26-bc8e-423fd742e97f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [robić] (żeński, czas przeszły)</p>;<p>Ty robiłaś</p>
+ddb9b2ef-aa4a-47d8-bcac-15cb1f52c769;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [robić] (nijaki, czas przeszły)</p>;<p>Ty robiłoś</p>
 9334fabd-5dc9-43cc-a64b-6c4234d87d77;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [robić] (czas przeszły)</p>;<p>Wy robiliście</p>
 e7409101-ad4e-43e4-982e-ec083cda48a5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [robić] (czas przeszły)</p>;<p>On robił</p>
 fb438a3c-833b-410e-bda9-cfca664b0627;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [robić] (czas przeszły)</p>;<p>Ona robiła</p>
@@ -1344,13 +1344,13 @@ d504ee59-b746-478b-ae71-45c88df04f3d;Basic;Polski::Odmiany::Czasowniki;Polski Od
 ddcd4917-d378-4b25-a2d7-93712b52b86a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [spojrzeć] (czas teraźniejszy)</p>;<p>Wy spojrzycie</p>
 ba793c47-4b6e-4737-9665-a08d350a2842;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [spojrzeć] (czas teraźniejszy)</p>;<p>On/Ona/Ono spojrzy</p>
 1f82aa2f-9898-49ea-808c-b5ab68687d9e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [spojrzeć] (czas teraźniejszy)</p>;<p>Oni/One spojrzą</p>
-3f93b3d9-e36c-4413-872a-954c0682f1fd;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [spojrzeć] (m, czas przeszły)</p>;<p>Ja spojrzałem</p>
-6c79e3ef-30d1-47cf-b439-4d8c0fec1548;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [spojrzeć] (ż, czas przeszły)</p>;<p>Ja spojrzałam</p>
-0ec52b3d-32e4-4c73-81bd-dfb29d71878e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [spojrzeć] (n, czas przeszły)</p>;<p>Ja spojrzałom</p>
+3f93b3d9-e36c-4413-872a-954c0682f1fd;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [spojrzeć] (męski, czas przeszły)</p>;<p>Ja spojrzałem</p>
+6c79e3ef-30d1-47cf-b439-4d8c0fec1548;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [spojrzeć] (żeński, czas przeszły)</p>;<p>Ja spojrzałam</p>
+0ec52b3d-32e4-4c73-81bd-dfb29d71878e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [spojrzeć] (nijaki, czas przeszły)</p>;<p>Ja spojrzałom</p>
 dc3aa610-160c-4e20-a263-86634067077a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [spojrzeć] (czas przeszły)</p>;<p>My spojrzeliśmy</p>
-a417bef2-35dd-4c50-8713-fc59f39a7e8a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [spojrzeć] (m, czas przeszły)</p>;<p>Ty spojrzałeś</p>
-c8155e95-047f-4fd5-9d4c-f910dee36dca;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [spojrzeć] (ż, czas przeszły)</p>;<p>Ty spojrzałaś</p>
-a6025e0a-ea6d-480b-b9d7-996fd04c7084;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [spojrzeć] (n, czas przeszły)</p>;<p>Ty spojrzałoś</p>
+a417bef2-35dd-4c50-8713-fc59f39a7e8a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [spojrzeć] (męski, czas przeszły)</p>;<p>Ty spojrzałeś</p>
+c8155e95-047f-4fd5-9d4c-f910dee36dca;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [spojrzeć] (żeński, czas przeszły)</p>;<p>Ty spojrzałaś</p>
+a6025e0a-ea6d-480b-b9d7-996fd04c7084;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [spojrzeć] (nijaki, czas przeszły)</p>;<p>Ty spojrzałoś</p>
 6bccd0f2-b681-4ea7-b65c-c0b46380ad73;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [spojrzeć] (czas przeszły)</p>;<p>Wy spojrzeliście</p>
 a5ce3842-035d-4122-be5e-5db8fe7b643b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [spojrzeć] (czas przeszły)</p>;<p>On spojrzał</p>
 9de8c770-b393-4b22-b02c-1f1c2cf388e9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [spojrzeć] (czas przeszły)</p>;<p>Ona spojrzała</p>
@@ -1368,13 +1368,13 @@ eaa3a102-6ac1-46c5-a5ed-518e1e3872d5;Basic;Polski::Odmiany::Czasowniki;Polski Od
 d2d3e066-020b-4027-8054-a4b47a6c1058;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [wejść] (czas teraźniejszy)</p>;<p>Wy wejdziecie</p>
 34c4226f-9df5-4c64-ae7f-274266683dc4;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [wejść] (czas teraźniejszy)</p>;<p>On/Ona/Ono wejdzie</p>
 c46d2588-af7b-4dec-80c5-7a842fb3e065;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [wejść] (czas teraźniejszy)</p>;<p>Oni/One wejdą</p>
-87bc56d4-ef91-4a00-bb06-d8221f3488d0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wejść] (m, czas przeszły)</p>;<p>Ja wszedłem</p>
-52838d4e-955d-4923-9f00-856d6a793e57;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wejść] (ż, czas przeszły)</p>;<p>Ja weszłam</p>
-64fcca4f-2980-4912-8dd6-6bc76ebc5b18;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wejść] (n, czas przeszły)</p>;<p>Ja weszłom</p>
+87bc56d4-ef91-4a00-bb06-d8221f3488d0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wejść] (męski, czas przeszły)</p>;<p>Ja wszedłem</p>
+52838d4e-955d-4923-9f00-856d6a793e57;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wejść] (żeński, czas przeszły)</p>;<p>Ja weszłam</p>
+64fcca4f-2980-4912-8dd6-6bc76ebc5b18;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wejść] (nijaki, czas przeszły)</p>;<p>Ja weszłom</p>
 ddfb43bc-a0c3-4357-92d4-677a5826a5ef;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [wejść] (czas przeszły)</p>;<p>My weszliśmy</p>
-edd5e3e0-89db-44fc-a544-ca09ce1eaa5c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (m, czas przeszły)</p>;<p>Ty wszedłeś</p>
-d36b2b16-7af6-49d7-b843-ef92b80a9ee0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (ż, czas przeszły)</p>;<p>Ty weszłaś</p>
-eb991846-fa27-4e59-b81d-5642baabc1e7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (n, czas przeszły)</p>;<p>Ty weszłoś</p>
+edd5e3e0-89db-44fc-a544-ca09ce1eaa5c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (męski, czas przeszły)</p>;<p>Ty wszedłeś</p>
+d36b2b16-7af6-49d7-b843-ef92b80a9ee0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (żeński, czas przeszły)</p>;<p>Ty weszłaś</p>
+eb991846-fa27-4e59-b81d-5642baabc1e7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (nijaki, czas przeszły)</p>;<p>Ty weszłoś</p>
 627395fe-13dd-4112-a3ea-2fb211106677;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [wejść] (czas przeszły)</p>;<p>Wy weszliście</p>
 a57ce6d9-d98f-444e-9e59-29ee9ae95585;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [wejść] (czas przeszły)</p>;<p>On wszedł</p>
 3f69e343-90fc-4e07-b7c5-37a2bde9c4b3;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [wejść] (czas przeszły)</p>;<p>Ona weszła</p>
@@ -1389,13 +1389,13 @@ c0811b85-7dc4-49d9-a317-807408d9d8ce;Basic;Polski::Odmiany::Czasowniki;Polski Od
 8cc9a036-d5f2-4b28-a9c4-6601a44f3dd0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [wiedzieć] (czas teraźniejszy)</p>;<p>Wy wiecie</p>
 caaa8986-7085-46f4-b0c4-12e8bf823026;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [wiedzieć] (czas teraźniejszy)</p>;<p>On/Ona/Ono wie</p>
 7ced0c45-8553-4a81-9419-a05b121fb34c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [wiedzieć] (czas teraźniejszy)</p>;<p>Oni/One wiedzą</p>
-f9119737-cde3-4ce5-bb0b-fc823f67ee1a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wiedzieć] (m, czas przeszły)</p>;<p>Ja wiedziałem</p>
-ffd1f97b-2a40-4754-be28-765e0d427fe8;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wiedzieć] (ż, czas przeszły)</p>;<p>Ja wiedziałam</p>
-43b8f8c2-9789-47f8-a3e2-10b6cced903a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wiedzieć] (n, czas przeszły)</p>;<p>Ja wiedziałom</p>
+f9119737-cde3-4ce5-bb0b-fc823f67ee1a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wiedzieć] (męski, czas przeszły)</p>;<p>Ja wiedziałem</p>
+ffd1f97b-2a40-4754-be28-765e0d427fe8;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wiedzieć] (żeński, czas przeszły)</p>;<p>Ja wiedziałam</p>
+43b8f8c2-9789-47f8-a3e2-10b6cced903a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wiedzieć] (nijaki, czas przeszły)</p>;<p>Ja wiedziałom</p>
 9ca1c04d-f386-4d3e-80c2-32dafec95a55;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [wiedzieć] (czas przeszły)</p>;<p>My wiedzieliśmy</p>
-1eedde9e-e040-4e23-8dee-db90b3b5b4d6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wiedzieć] (m, czas przeszły)</p>;<p>Ty wiedziałeś</p>
-c275f405-243c-4d69-98c0-a328c29c5b2a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wiedzieć] (ż, czas przeszły)</p>;<p>Ty wiedziałaś</p>
-bcf80aae-7c13-4f45-b355-43673be96ef5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wiedzieć] (n, czas przeszły)</p>;<p>Ty wiedziałoś</p>
+1eedde9e-e040-4e23-8dee-db90b3b5b4d6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wiedzieć] (męski, czas przeszły)</p>;<p>Ty wiedziałeś</p>
+c275f405-243c-4d69-98c0-a328c29c5b2a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wiedzieć] (żeński, czas przeszły)</p>;<p>Ty wiedziałaś</p>
+bcf80aae-7c13-4f45-b355-43673be96ef5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wiedzieć] (nijaki, czas przeszły)</p>;<p>Ty wiedziałoś</p>
 0ee14b46-83f0-4ad0-864b-cfc4e0eaa461;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [wiedzieć] (czas przeszły)</p>;<p>Wy wiedzieliście</p>
 7efc574e-556d-4163-9d77-7dde5e98654e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [wiedzieć] (czas przeszły)</p>;<p>On wiedział</p>
 e6c1ee84-cdaf-4a2c-ae5e-56b619e7bb9b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [wiedzieć] (czas przeszły)</p>;<p>Ona wiedziała</p>
@@ -1473,13 +1473,13 @@ aebd5ddb-0204-4e10-b2b0-d5aacdc5768c;Basic;Polski::Odmiany::Czasowniki;Polski Od
 7e9ff6a5-6a6e-44f2-973b-caaed8909170;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [zebrać] (czas teraźniejszy)</p>;<p>Wy zbierzecie</p>
 63a92520-fca6-409d-9286-24e8a06b2d83;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [zebrać] (czas teraźniejszy)</p>;<p>On/Ona/Ono zbierze</p>
 80ae7933-7cdd-48e4-9132-537ec8e5f236;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [zebrać] (czas teraźniejszy)</p>;<p>Oni/One zbiorą</p>
-48c0fa09-49c1-4fe8-aba2-f45dd1fbaa1f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [zebrać] (m, czas przeszły)</p>;<p>Ja zebrałem</p>
-fbf0940f-e1d3-4c98-aed5-c32c51a870de;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [zebrać] (ż, czas przeszły)</p>;<p>Ja zebrałam</p>
-587f43de-a67f-4ca2-87a3-992084f4315d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [zebrać] (n, czas przeszły)</p>;<p>Ja zebrałom</p>
+48c0fa09-49c1-4fe8-aba2-f45dd1fbaa1f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [zebrać] (męski, czas przeszły)</p>;<p>Ja zebrałem</p>
+fbf0940f-e1d3-4c98-aed5-c32c51a870de;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [zebrać] (żeński, czas przeszły)</p>;<p>Ja zebrałam</p>
+587f43de-a67f-4ca2-87a3-992084f4315d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [zebrać] (nijaki, czas przeszły)</p>;<p>Ja zebrałom</p>
 05b42ce7-1bc7-4820-94e9-a1e31bc9684e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [zebrać] (czas przeszły)</p>;<p>My zebraliśmy</p>
-c4e2c83c-9d03-4398-b989-e04324b5d37d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [zebrać] (m, czas przeszły)</p>;<p>Ty zebrałeś</p>
-0aff9d8d-ec65-4c6c-a377-31ae66fb8de5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [zebrać] (ż, czas przeszły)</p>;<p>Ty zebrałaś</p>
-666bec11-b74a-4731-bdb8-e39ed72baa69;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [zebrać] (n, czas przeszły)</p>;<p>Ty zebrałoś</p>
+c4e2c83c-9d03-4398-b989-e04324b5d37d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [zebrać] (męski, czas przeszły)</p>;<p>Ty zebrałeś</p>
+0aff9d8d-ec65-4c6c-a377-31ae66fb8de5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [zebrać] (żeński, czas przeszły)</p>;<p>Ty zebrałaś</p>
+666bec11-b74a-4731-bdb8-e39ed72baa69;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [zebrać] (nijaki, czas przeszły)</p>;<p>Ty zebrałoś</p>
 3e36c4bc-e640-46f9-9783-3c95bebc4709;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [zebrać] (czas przeszły)</p>;<p>Wy zebraliście</p>
 3441670e-fbdd-46f9-9c07-949b622b9f22;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [zebrać] (czas przeszły)</p>;<p>On zebrał</p>
 885d1466-f350-4893-ad8f-f29e03d523aa;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [zebrać] (czas przeszły)</p>;<p>Ona zebrała</p>
@@ -1518,13 +1518,13 @@ d2e48dcc-bbaa-4192-b3b0-d7a01d8de4ea;Basic;Polski::Odmiany::Czasowniki;Polski Od
 3c468b96-a859-4b93-82af-b794df70c12a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znajdować] (czas teraźniejszy)</p>;<p>Wy znajdujecie</p>
 b0268b26-c707-4775-b2a6-860e4c994c2a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [znajdować] (czas teraźniejszy)</p>;<p>On/Ona/Ono znajduje</p>
 b8d38f96-887c-4156-8e85-df72550908f9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [znajdować] (czas teraźniejszy)</p>;<p>Oni znajdują</p>
-3e5bae11-b33f-45cb-ab06-be33472a529d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (m, czas przeszły)</p>;<p>Ja znajdowałem</p>
-a177cc2f-80eb-4fe4-ad38-3191592dfa40;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (ż, czas przeszły)</p>;<p>Ja znajdowałam</p>
-c8bf8464-0d55-4621-b9e1-b6624e789b02;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (n, czas przeszły)</p>;<p>Ja znajdowałom</p>
+3e5bae11-b33f-45cb-ab06-be33472a529d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (męski, czas przeszły)</p>;<p>Ja znajdowałem</p>
+a177cc2f-80eb-4fe4-ad38-3191592dfa40;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (żeński, czas przeszły)</p>;<p>Ja znajdowałam</p>
+c8bf8464-0d55-4621-b9e1-b6624e789b02;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (nijaki, czas przeszły)</p>;<p>Ja znajdowałom</p>
 781d0c1a-7946-41a7-aded-7174f4d51107;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znajdować] (czas przeszły)</p>;<p>My znajdowaliśmy</p>
-2fa47a80-f3ba-4688-9bc2-64ce4cc99f37;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (m, czas przeszły)</p>;<p>Ty znajdowałeś</p>
-9d291bd1-6cbf-4dbb-8a51-8cf56e7d36dc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (ż, czas przeszły)</p>;<p>Ty znajdowałaś</p>
-3bb1459d-69ed-4249-8086-f8495f6edd78;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (n, czas przeszły)</p>;<p>Ty znajdowałoś</p>
+2fa47a80-f3ba-4688-9bc2-64ce4cc99f37;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (męski, czas przeszły)</p>;<p>Ty znajdowałeś</p>
+9d291bd1-6cbf-4dbb-8a51-8cf56e7d36dc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (żeński, czas przeszły)</p>;<p>Ty znajdowałaś</p>
+3bb1459d-69ed-4249-8086-f8495f6edd78;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (nijaki, czas przeszły)</p>;<p>Ty znajdowałoś</p>
 57e06cb4-eac5-447c-b3dd-f6fa7570c9f0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znajdować] (czas przeszły)</p>;<p>Wy znajdowaliście</p>
 473f0293-9711-4b09-897b-5099a0ce0275;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [znajdować] (czas przeszły)</p>;<p>On znajdował</p>
 cdb27bc0-e9fc-4cf5-ac0f-5ca2fd90af44;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [znajdować] (czas przeszły)</p>;<p>Ona znajdowała</p>
@@ -1554,13 +1554,13 @@ ad18e992-0412-477c-8703-91afcc1c2267;Basic;Polski::Odmiany::Czasowniki;Polski Od
 d68daadb-99aa-4b34-a455-07bde6761c9a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znaleźć] (czas teraźniejszy)</p>;<p>Wy znajdziecie</p>
 3949d352-a2e5-45d6-973c-55ee6ce726bb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [znaleźć] (czas teraźniejszy)</p>;<p>On/Ona/Ono znajdzie</p>
 2bcac1ed-c974-4d7e-8929-9fd019455899;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [znaleźć] (czas teraźniejszy)</p>;<p>Oni/One znajdą</p>
-920bcc9f-1388-4dd8-922c-22a71199df3d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (m, czas przeszły)</p>;<p>Ja znalazłem</p>
-91fae198-65ce-4099-93d9-6daba6f44e05;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (ż, czas przeszły)</p>;<p>Ja znalazłam</p>
-53ff9492-3877-4652-84a2-df5d727d929d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (n, czas przeszły)</p>;<p>Ja znalazłom</p>
+920bcc9f-1388-4dd8-922c-22a71199df3d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (męski, czas przeszły)</p>;<p>Ja znalazłem</p>
+91fae198-65ce-4099-93d9-6daba6f44e05;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (żeński, czas przeszły)</p>;<p>Ja znalazłam</p>
+53ff9492-3877-4652-84a2-df5d727d929d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (nijaki, czas przeszły)</p>;<p>Ja znalazłom</p>
 124248be-70dc-409d-8eb0-fd2d6547df4e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znaleźć] (czas przeszły)</p>;<p>My znaleźliśmy</p>
-1763eb44-4a56-46ef-9eaa-d0aa74f5b795;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (m, czas przeszły)</p>;<p>Ty znalazłeś</p>
-07293b73-cb2f-4d8b-b52e-2cde5b1ea478;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (ż, czas przeszły)</p>;<p>Ty znalazłaś</p>
-d7754205-f56e-433d-83a4-0d24a6c863c6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (n, czas przeszły)</p>;<p>Ty znalazłoś</p>
+1763eb44-4a56-46ef-9eaa-d0aa74f5b795;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (męski, czas przeszły)</p>;<p>Ty znalazłeś</p>
+07293b73-cb2f-4d8b-b52e-2cde5b1ea478;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (żeński, czas przeszły)</p>;<p>Ty znalazłaś</p>
+d7754205-f56e-433d-83a4-0d24a6c863c6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (nijaki, czas przeszły)</p>;<p>Ty znalazłoś</p>
 824bc4d1-6739-4b85-9324-df51c659d510;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znaleźć] (czas przeszły)</p>;<p>Wy znaleźliście</p>
 b3124215-9c29-458e-bf28-ab5efc612939;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [znaleźć] (czas przeszły)</p>;<p>On znalazł</p>
 cfc4b417-e26b-41d2-934c-90ed6c578f82;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [znaleźć] (czas przeszły)</p>;<p>Ona znalazła</p>
@@ -1575,13 +1575,13 @@ e8afd92e-e06a-423e-b11e-066d420a6011;Basic;Polski::Odmiany::Czasowniki;Polski Od
 c43365f7-8482-4eb1-9807-593646dabec7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znać] (czas teraźniejszy)</p>;<p>Wy znacie</p>
 bb67eaac-51c2-4654-913a-45febf7eec57;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [znać] (czas teraźniejszy)</p>;<p>On/Ona/Ono zna</p>
 ec69c7ca-602d-4edd-b5b2-9d541d3c3bf8;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [znać] (czas teraźniejszy)</p>;<p>Oni/One znają</p>
-93badc55-01a4-453b-aeda-a887ccc7e88c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znać] (m, czas przeszły)</p>;<p>Ja znałem</p>
-3eefd93c-4634-4316-b7b6-9e6a594c2382;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znać] (ż, czas przeszły)</p>;<p>Ja znałam</p>
-49c429bd-dc66-4348-8cb7-dd4eead74cd2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znać] (n, czas przeszły)</p>;<p>Ja znałom</p>
+93badc55-01a4-453b-aeda-a887ccc7e88c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znać] (męski, czas przeszły)</p>;<p>Ja znałem</p>
+3eefd93c-4634-4316-b7b6-9e6a594c2382;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znać] (żeński, czas przeszły)</p>;<p>Ja znałam</p>
+49c429bd-dc66-4348-8cb7-dd4eead74cd2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znać] (nijaki, czas przeszły)</p>;<p>Ja znałom</p>
 f2f7d7fe-a9d6-4acd-b4ae-64f89697ba3f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znać] (czas przeszły)</p>;<p>My znaliśmy</p>
-f2e58bf0-9b65-452e-a496-d28f9670421b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znać] (m, czas przeszły)</p>;<p>Ty znałeś</p>
-4fad8325-9886-45c9-a1bb-036918b99187;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znać] (ż, czas przeszły)</p>;<p>Ty znałaś</p>
-dfb74448-1079-4804-af24-952f4e2a3ba3;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znać] (n, czas przeszły)</p>;<p>Ty znałoś</p>
+f2e58bf0-9b65-452e-a496-d28f9670421b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znać] (męski, czas przeszły)</p>;<p>Ty znałeś</p>
+4fad8325-9886-45c9-a1bb-036918b99187;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znać] (żeński, czas przeszły)</p>;<p>Ty znałaś</p>
+dfb74448-1079-4804-af24-952f4e2a3ba3;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znać] (nijaki, czas przeszły)</p>;<p>Ty znałoś</p>
 2bd7ef72-0814-4ab0-9a71-2142ef66f768;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znać] (czas przeszły)</p>;<p>Wy znaliście</p>
 6c10930b-8f66-4edb-8002-df491d9c2d2c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [znać] (czas przeszły)</p>;<p>On znał</p>
 98b67fea-2c6c-47eb-96cb-8ee0a1a1fe5e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [znać] (czas przeszły)</p>;<p>Ona znała</p>
