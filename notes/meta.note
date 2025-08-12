@@ -61,6 +61,7 @@ Określa cechy czasowników, przymiotników lub innych przysłówków, odpowiada
 !front: Spójnik/Conjunction
 !back: Służy do łączenia zdań lub ich części, np. **i**, **oraz**, **ale**, **lub**.
 ~~~
+
 !deck: Polski::Meta::Przypadki
 
 !id: b1e9bdc6-ef7b-4c1c-b957-da92dc4f3141
@@ -121,4 +122,71 @@ O kim? O czym?
 - **O dobrym człowieku.**
 - **O dobrej kobiecie.**
 - **O dobrym dziecku.**
+~~~
+
+!id: 302c7302-6ba9-496a-8e30-91783fc94523
+!front: Czasownik Dokonany
+!back:
+# Czasownik, który wskazuje na zakończoną czynność.
+
+Forma dokonana czasownika odnosi się do czynności, która została zakończona lub zostanie zakończona. Czasowniki dokonane informują o rezultacie, a nie o przebiegu czynności. W przeciwieństwie do czasowników niedokonanych, czasowniki dokonane nie posiadają formy czasu teraźniejszego.
+
+## Cechy czasowników dokonanych:
+
+### Zakończenie czynności:
+
+Oznaczają, że czynność została wykonana i jest już zakończona, niezależnie od tego, czy mówimy o przeszłości czy przyszłości.
+
+### Brak czasu teraźniejszego:
+
+Czasowniki dokonane nie opisują czynności, która trwa w danym momencie, dlatego nie mają formy czasu teraźniejszego.
+
+### Aspekt dokonany:
+
+Forma dokonana jest jednym z aspektów czasownika, obok aspektu niedokonanego.
+
+## Tworzenie:
+
+Czasowniki dokonane często tworzy się od czasowników niedokonanych przez dodanie przedrostków, takich jak **"wy-"**, **"z-"**, **"po-"**, **"u-"**.
+
+## Przykłady:
+
+- **przeszłość**: *"Wczoraj napisałem list"* (zakończona czynność w przeszłości).
+- **przyszłość**: *"Jutro skończę pracę"* (czynność, która zostanie zakończona w przyszłości).
+- **jednorazowość**: *"Krzyknął"* (szybka, jednorazowa czynność).
+
+## Przykłady czasowników dokonanych:
+
+- **wy-**: *wyczyścić, wypić, wyjechać*
+- **z-**: *zjeść, zobaczyć, zamknąć*
+- **po-**: *pojechać, pocałować, pomóc*
+- **u-**: *ułożyć, ustalić, umyć*
+~~~
+
+!id: 8db21331-0db6-4a08-8b29-9a35cb97f04e
+!front: Czasownik Niedokonany
+!back:
+# Czasownik, który wskazuje na czynność trwającą lub powtarzającą się.
+
+Forma niedokonana czasownika (aspekt niedokonany) odnosi się do czynności, która nie jest postrzegana jako zakończona, trwająca lub powtarzająca się. Określa stan lub czynność, która nie ma wyraźnych granic czasowych. W przeciwieństwie do formy dokonanej, która wskazuje na zakończoną czynność.
+
+## Kluczowe cechy formy niedokonanej:
+
+- **Trwanie**: Czasownik w formie niedokonanej opisuje czynność, która trwa w czasie, np. *"czytać", "pisać", "uczyć się"*.
+- **Brak zakończenia**: Nie wskazuje na to, czy czynność została zakończona, czy też nie.
+- **Powtarzalność**: Może również odnosić się do czynności powtarzających się w przeszłości, np. *"chodził codziennie"*.
+- **Odpowiedź na pytanie**: Często odpowiada na pytanie "co robić?".
+
+## Przykłady:
+
+- **Czas teraźniejszy**: *"Ja czytam książkę"* (czynność trwa w momencie mówienia).
+- **Czas przeszły**: *"On grał w piłkę"* (czynność trwała w przeszłości, ale nie jest powiedziane, czy się zakończyła).
+- **Czas przyszły**: *"Będę pisać list"* (czynność ma nastąpić w przyszłości, ale nie jest powiedziane, czy zostanie ukończona).
+
+## Formy czasowników niedokonanych:
+
+- Imiesłów przysłówkowy współczesny: np. *"pisząc"*.
+- Imiesłów czynny: np. *"piszący"*.
+- Czas teraźniejszy: np. *"pisze"*.
+- Czas przyszły złożony: np. *"będę pisał"*.
 ~~~

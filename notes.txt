@@ -4,6 +4,47 @@
 #notetype column:2
 #deck column:3
 #tags column:4
+ba7fe66c-0af3-4c29-9c40-c7494eec7609;Cloze;Polski::Aspekt;Polski Aspekt;<p>{{c1::Dokonane}} czasowniki odpowiadają na pytanie {{c2::co zrobić?}}.</p>;
+895e420d-7e37-4cd3-9927-08ad018b31cc;Cloze;Polski::Aspekt;Polski Aspekt;<p>{{c1::Noedokonane}} czasowniki odpowiadają na pytanie {{c2::co robić?}}.</p>;
+30ac794e-4486-4f9b-bb6c-ce6707378b20;Cloze;Polski::Aspekt;Polski Aspekt;<p>Dokonaną formą czasownika <strong>pisać</strong> jest {{c1::napisać}}.</p>;"<p><strong>Przykład:</strong></p>
+<ul>
+<li><em>Będę pisać list</em> – proces pisania, nie wiadomo, czy skończę.</li>
+<li><em>Napisałem list</em> – czynność zakończona, list jest gotowy.</li>
+</ul>"
+da293bd9-92fc-43e1-b9ff-761177b8fc4f;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonaną formą czasownika <strong>napisać</strong> jest {{c1::pisać}}.</p>;"<p><strong>Przykład:</strong></p>
+<ul>
+<li><em>Będę pisać list</em> – proces pisania, nie wiadomo, czy skończę.</li>
+<li><em>Napisałem list</em> – czynność zakończona, list jest gotowy.</li>
+</ul>"
+08944030-f905-4a20-80c8-7f90fa4176f2;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::pisać}} → Dokonany: {{c2::napisać}}</p>;
+7ac4a9dc-9afe-4c64-ab2a-8005a1c1f73a;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::czytać}} → Dokonany: {{c2::przeczytać}}</p>;
+47e4d9ea-19bb-4093-a665-699cfb551f28;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::jeść}} → Dokonany: {{c2::zjeść}}</p>;
+da3fe909-8689-4d85-b3c3-201f66a71b8c;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::robić}} → Dokonany: {{c2::zrobić}}</p>;
+a96bec43-7fcc-418a-b5a6-782637626c47;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::kupować}} → Dokonany: {{c2::kupić}}</p>;
+5aee73e0-48f8-410a-97dd-1ffd6d13682e;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::uczyć się}} → Dokonany: {{c2::nauczyć się}}</p>;
+fc2f1bf5-7558-40a0-8284-a2545ea44218;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::myć}} → Dokonany: {{c2::umyć}}</p>;
+a8069d57-1f35-4a02-bedd-dfd1f5a0f498;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::oglądać}} → Dokonany: {{c2::obejrzeć}}</p>;
+af4d64d7-06de-4d86-a392-4c7fa37ee13b;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::brać}} → Dokonany: {{c2::wziąć}}</p>;
+712f8754-f443-4ad9-894d-eb2982a8c8cf;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::gotować}} → Dokonany: {{c2::ugotować}}</p>;
+270f4785-6a22-4e24-a07d-0372e432c154;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::malować}} → Dokonany: {{c2::pomalować}}</p>;
+f65418ac-5ca7-43d3-8ede-0eaaebdc2a06;Cloze;Polski::Aspekt;Polski Aspekt;<p>Dokonaną formą czasownika <strong>brać</strong> jest {{c1::wziąć}}.</p>;
+bfbc8310-840f-4862-854b-258cee06455d;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonaną formą czasownika <strong>wziąć</strong> jest {{c1::brać}}.</p>;
+a381c316-4292-4bca-bfc0-280df151e228;Cloze;Polski::Aspekt;Polski Aspekt;<p>Dokonaną formą czasownika <strong>oglądać</strong> jest {{c1::obejrzeć}}.</p>;
+96af85f1-2218-445e-8f84-d8d977cabc4d;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonaną formą czasownika <strong>obejrzeć</strong> jest {{c1::oglądać}}.</p>;
+bb11d1bb-d227-4b9e-9662-933a48022fe8;Cloze;Polski::Aspekt;Polski Aspekt;<p>Dokonaną formą czasownika <strong>kłaść</strong> jest {{c1::polożyć}}.</p>;
+2d138659-3839-400e-84be-84ac87f688d9;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonaną formą czasownika <strong>polożyć</strong> jest {{c1::kłaść}}.</p>;
+2dfba276-eecc-49dd-a82c-2cab70c9828c;Cloze;Polski::Aspekt;Polski Aspekt;<p>Dokonaną formą czasownika <strong>wsiadać</strong> jest {{c1::wsiąść}}.</p>;
+38064401-d7f5-49f3-97e0-eb49b9833870;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonaną formą czasownika <strong>wsiąść</strong> jest {{c1::wsiadać}}.</p>;
+aac186a6-2c24-4cd5-9340-21e5cf470307;Cloze;Polski::Aspekt;Polski Aspekt;<p>Dokonaną formą czasownika <strong>gotować</strong> jest {{c1::ugotować}}.</p>;"<p><strong>Przykład:</strong></p>
+<ul>
+<li><em>Tata gotował obiad</em> – proces trwał, nie wiemy, czy został zakończony.</li>
+<li><em>Tata ugotował obiad</em> – obiad jest gotowy, czynność zakończona.</li>
+</ul>"
+7eae49bb-4caf-4587-9600-dc2c0d0f05dc;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonaną formą czasownika <strong>ugotować</strong> jest {{c1::gotować}}.</p>;"<p><strong>Przykład:</strong></p>
+<ul>
+<li><em>Tata gotował obiad</em> – proces trwał, nie wiemy, czy został zakończony.</li>
+<li><em>Tata ugotował obiad</em> – obiad jest gotowy, czynność zakończona.</li>
+</ul>"
 2ed0d6b2-9192-46de-b77e-c6449134538f;Basic (and reversed card);Polski::Meta::Częśći Mowy;Polski Meta;<p>Czasownik/Verb</p>;"<p>Określa czynności lub stany, odpowiada na pytania: co robi? co się z nim dzieje?</p>
 <ul>
 <li><strong>lubić</strong></li>
@@ -71,6 +112,52 @@ c73b2c7e-c8c3-48f3-bb3d-f737e2dea08e;Basic (and reversed card);Polski::Meta::Prz
 <li><strong>O dobrym człowieku.</strong></li>
 <li><strong>O dobrej kobiecie.</strong></li>
 <li><strong>O dobrym dziecku.</strong></li>
+</ul>"
+302c7302-6ba9-496a-8e30-91783fc94523;Basic (and reversed card);Polski::Meta::Przypadki;Polski Meta;<p>Czasownik Dokonany</p>;"<h1>Czasownik, który wskazuje na zakończoną czynność.</h1>
+<p>Forma dokonana czasownika odnosi się do czynności, która została zakończona lub zostanie zakończona. Czasowniki dokonane informują o rezultacie, a nie o przebiegu czynności. W przeciwieństwie do czasowników niedokonanych, czasowniki dokonane nie posiadają formy czasu teraźniejszego.</p>
+<h2>Cechy czasowników dokonanych:</h2>
+<h3>Zakończenie czynności:</h3>
+<p>Oznaczają, że czynność została wykonana i jest już zakończona, niezależnie od tego, czy mówimy o przeszłości czy przyszłości.</p>
+<h3>Brak czasu teraźniejszego:</h3>
+<p>Czasowniki dokonane nie opisują czynności, która trwa w danym momencie, dlatego nie mają formy czasu teraźniejszego.</p>
+<h3>Aspekt dokonany:</h3>
+<p>Forma dokonana jest jednym z aspektów czasownika, obok aspektu niedokonanego.</p>
+<h2>Tworzenie:</h2>
+<p>Czasowniki dokonane często tworzy się od czasowników niedokonanych przez dodanie przedrostków, takich jak <strong>&quot;wy-&quot;</strong>, <strong>&quot;z-&quot;</strong>, <strong>&quot;po-&quot;</strong>, <strong>&quot;u-&quot;</strong>.</p>
+<h2>Przykłady:</h2>
+<ul>
+<li><strong>przeszłość</strong>: <em>&quot;Wczoraj napisałem list&quot;</em> (zakończona czynność w przeszłości).</li>
+<li><strong>przyszłość</strong>: <em>&quot;Jutro skończę pracę&quot;</em> (czynność, która zostanie zakończona w przyszłości).</li>
+<li><strong>jednorazowość</strong>: <em>&quot;Krzyknął&quot;</em> (szybka, jednorazowa czynność).</li>
+</ul>
+<h2>Przykłady czasowników dokonanych:</h2>
+<ul>
+<li><strong>wy-</strong>: <em>wyczyścić, wypić, wyjechać</em></li>
+<li><strong>z-</strong>: <em>zjeść, zobaczyć, zamknąć</em></li>
+<li><strong>po-</strong>: <em>pojechać, pocałować, pomóc</em></li>
+<li><strong>u-</strong>: <em>ułożyć, ustalić, umyć</em></li>
+</ul>"
+8db21331-0db6-4a08-8b29-9a35cb97f04e;Basic (and reversed card);Polski::Meta::Przypadki;Polski Meta;<p>Czasownik Niedokonany</p>;"<h1>Czasownik, który wskazuje na czynność trwającą lub powtarzającą się.</h1>
+<p>Forma niedokonana czasownika (aspekt niedokonany) odnosi się do czynności, która nie jest postrzegana jako zakończona, trwająca lub powtarzająca się. Określa stan lub czynność, która nie ma wyraźnych granic czasowych. W przeciwieństwie do formy dokonanej, która wskazuje na zakończoną czynność.</p>
+<h2>Kluczowe cechy formy niedokonanej:</h2>
+<ul>
+<li><strong>Trwanie</strong>: Czasownik w formie niedokonanej opisuje czynność, która trwa w czasie, np. <em>&quot;czytać&quot;, &quot;pisać&quot;, &quot;uczyć się&quot;</em>.</li>
+<li><strong>Brak zakończenia</strong>: Nie wskazuje na to, czy czynność została zakończona, czy też nie.</li>
+<li><strong>Powtarzalność</strong>: Może również odnosić się do czynności powtarzających się w przeszłości, np. <em>&quot;chodził codziennie&quot;</em>.</li>
+<li><strong>Odpowiedź na pytanie</strong>: Często odpowiada na pytanie &quot;co robić?&quot;.</li>
+</ul>
+<h2>Przykłady:</h2>
+<ul>
+<li><strong>Czas teraźniejszy</strong>: <em>&quot;Ja czytam książkę&quot;</em> (czynność trwa w momencie mówienia).</li>
+<li><strong>Czas przeszły</strong>: <em>&quot;On grał w piłkę&quot;</em> (czynność trwała w przeszłości, ale nie jest powiedziane, czy się zakończyła).</li>
+<li><strong>Czas przyszły</strong>: <em>&quot;Będę pisać list&quot;</em> (czynność ma nastąpić w przyszłości, ale nie jest powiedziane, czy zostanie ukończona).</li>
+</ul>
+<h2>Formy czasowników niedokonanych:</h2>
+<ul>
+<li>Imiesłów przysłówkowy współczesny: np. <em>&quot;pisząc&quot;</em>.</li>
+<li>Imiesłów czynny: np. <em>&quot;piszący&quot;</em>.</li>
+<li>Czas teraźniejszy: np. <em>&quot;pisze&quot;</em>.</li>
+<li>Czas przyszły złożony: np. <em>&quot;będę pisał&quot;</em>.</li>
 </ul>"
 3a03aac6-2f88-4aee-b3e3-044abc5f4a30;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [bać się] (czas teraźniejszy)</p>;"<p>Ja boję się</p>
 <ul>
@@ -9047,3 +9134,4 @@ a5315a2b-c4ec-420d-a986-a129051d77b3;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 79a9908e-85f3-4225-9c6a-11fc625432ad;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>так что не волнуйся, если сначала будешь делать ошибки</p>;<p>dlatego nie przejmuj się, jeśli na początku będziesz popełniać błędy</p>
 6b99748a-0b93-4921-abae-b23c4e584103;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>звучный и запоминающийся текст</p>;<p>dźwięczny i chwytliwy tekst</p>
 01ef7c1e-4b19-497f-b280-d227eb0c7de3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>покажи мне примеры</p>;<p>pokaż mi przykłady</p>
+47dcf5db-dc9d-4139-b579-3ab5d5743bce;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>разговорные выражения</p>;<p>potoczne wyrażenia</p>
