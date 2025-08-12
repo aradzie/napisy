@@ -1,7 +1,6 @@
 !type: Basic
 !deck: Polski::Odmiany::Rzeczowniki
 !tags: Polski Odmiana
-!template: Basic
 
 !id: genitive_szukam_dobry_człowiek
 !front: Szukam (*kogo? czego?*) [**dobry** **człowiek**].
@@ -1093,6 +1092,7 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1108,6 +1108,39 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_lubimy_dobrzy_bracia
+!front: Lubimy (*kogo? co?*) [**dobrzy** **bracia**].
+!back:
+Lubimy **dobrych** **braci**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_lubię_dobry_brat
+!front: Lubię (*kogo? co?*) [**dobry** **brat**].
+!back:
+Lubię **dobrego** **brata**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1123,6 +1156,7 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1138,6 +1172,39 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_lubimy_dobre_siostry
+!front: Lubimy (*kogo? co?*) [**dobre** **siostry**].
+!back:
+Lubimy **dobre** **siostry**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_lubię_dobra_siostra
+!front: Lubię (*kogo? co?*) [**dobra** **siostra**].
+!back:
+Lubię **dobrą** **siostrę**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1153,6 +1220,7 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1168,6 +1236,7 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1183,6 +1252,7 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1198,6 +1268,39 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_lubimy_źli_bracia
+!front: Lubimy (*kogo? co?*) [**źli** **bracia**].
+!back:
+Lubimy **złych** **braci**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_lubię_zły_brat
+!front: Lubię (*kogo? co?*) [**zły** **brat**].
+!back:
+Lubię **złego** **brata**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1213,6 +1316,7 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1228,6 +1332,39 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_lubimy_złe_siostry
+!front: Lubimy (*kogo? co?*) [**złe** **siostry**].
+!back:
+Lubimy **złe** **siostry**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_lubię_zła_siostra
+!front: Lubię (*kogo? co?*) [**zła** **siostra**].
+!back:
+Lubię **złą** **siostrę**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1243,6 +1380,7 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1258,6 +1396,7 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1273,6 +1412,7 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1288,6 +1428,39 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_lubimy_tacy_bracia
+!front: Lubimy (*kogo? co?*) [**tacy** **bracia**].
+!back:
+Lubimy **takich** **braci**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_lubię_taki_brat
+!front: Lubię (*kogo? co?*) [**taki** **brat**].
+!back:
+Lubię **takiego** **brata**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1303,6 +1476,7 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1318,6 +1492,39 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_lubimy_takie_siostry
+!front: Lubimy (*kogo? co?*) [**takie** **siostry**].
+!back:
+Lubimy **takie** **siostry**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_lubię_taka_siostra
+!front: Lubię (*kogo? co?*) [**taka** **siostra**].
+!back:
+Lubię **taką** **siostrę**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1333,6 +1540,7 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
@@ -1348,276 +1556,583 @@ Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mam_ważny_nauczyciel
-!front: Mam (*kogo? co?*) [**ważny** **nauczyciel**].
+!id: accusative_mam_dobry_dom
+!front: Mam (*kogo? co?*) [**dobry** **dom**].
 !back:
-Mam **ważnego** **nauczyciela**.
+Mam **dobry** **dom**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mamy_ważni_nauczyciele
-!front: Mamy (*kogo? co?*) [**ważni** **nauczyciele**].
+!id: accusative_mamy_dobre_domy
+!front: Mamy (*kogo? co?*) [**dobre** **domy**].
 !back:
-Mamy **ważnych** **nauczycieli**.
+Mamy **dobre** **domy**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mam_ważna_nauczycielka
-!front: Mam (*kogo? co?*) [**ważna** **nauczycielka**].
+!id: accusative_mam_dobra_torba
+!front: Mam (*kogo? co?*) [**dobra** **torba**].
 !back:
-Mam **ważną** **nauczycielkę**.
+Mam **dobrą** **torbę**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mamy_ważne_nauczycielki
-!front: Mamy (*kogo? co?*) [**ważne** **nauczycielki**].
+!id: accusative_mamy_dobre_torby
+!front: Mamy (*kogo? co?*) [**dobre** **torby**].
 !back:
-Mamy **ważne** **nauczycielki**.
+Mamy **dobre** **torby**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mam_ważne_dziecko
-!front: Mam (*kogo? co?*) [**ważne** **dziecko**].
+!id: accusative_mam_dobre_krzesło
+!front: Mam (*kogo? co?*) [**dobre** **krzesło**].
 !back:
-Mam **ważne** **dziecko**.
+Mam **dobre** **krzesło**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mamy_ważne_dzieci
-!front: Mamy (*kogo? co?*) [**ważne** **dzieci**].
+!id: accusative_mamy_dobre_krzesła
+!front: Mamy (*kogo? co?*) [**dobre** **krzesła**].
 !back:
-Mamy **ważne** **dzieci**.
+Mamy **dobre** **krzesła**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mam_miły_nauczyciel
-!front: Mam (*kogo? co?*) [**miły** **nauczyciel**].
+!id: accusative_mam_zły_dom
+!front: Mam (*kogo? co?*) [**zły** **dom**].
 !back:
-Mam **miłego** **nauczyciela**.
+Mam **zły** **dom**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mamy_mili_nauczyciele
-!front: Mamy (*kogo? co?*) [**mili** **nauczyciele**].
+!id: accusative_mamy_złe_domy
+!front: Mamy (*kogo? co?*) [**złe** **domy**].
 !back:
-Mamy **miłych** **nauczycieli**.
+Mamy **złe** **domy**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mam_miła_nauczycielka
-!front: Mam (*kogo? co?*) [**miła** **nauczycielka**].
+!id: accusative_mam_zła_torba
+!front: Mam (*kogo? co?*) [**zła** **torba**].
 !back:
-Mam **miłą** **nauczycielkę**.
+Mam **złą** **torbę**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mamy_miłe_nauczycielki
-!front: Mamy (*kogo? co?*) [**miłe** **nauczycielki**].
+!id: accusative_mamy_złe_torby
+!front: Mamy (*kogo? co?*) [**złe** **torby**].
 !back:
-Mamy **miłe** **nauczycielki**.
+Mamy **złe** **torby**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mam_miłe_dziecko
-!front: Mam (*kogo? co?*) [**miłe** **dziecko**].
+!id: accusative_mam_złe_krzesło
+!front: Mam (*kogo? co?*) [**złe** **krzesło**].
 !back:
-Mam **miłe** **dziecko**.
+Mam **złe** **krzesło**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mamy_miłe_dzieci
-!front: Mamy (*kogo? co?*) [**miłe** **dzieci**].
+!id: accusative_mamy_złe_krzesła
+!front: Mamy (*kogo? co?*) [**złe** **krzesła**].
 !back:
-Mamy **miłe** **dzieci**.
+Mamy **złe** **krzesła**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mam_taki_nauczyciel
-!front: Mam (*kogo? co?*) [**taki** **nauczyciel**].
+!id: accusative_mam_taki_dom
+!front: Mam (*kogo? co?*) [**taki** **dom**].
 !back:
-Mam **takiego** **nauczyciela**.
+Mam **taki** **dom**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mamy_tacy_nauczyciele
-!front: Mamy (*kogo? co?*) [**tacy** **nauczyciele**].
+!id: accusative_mamy_takie_domy
+!front: Mamy (*kogo? co?*) [**takie** **domy**].
 !back:
-Mamy **takich** **nauczycieli**.
+Mamy **takie** **domy**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mam_taka_nauczycielka
-!front: Mam (*kogo? co?*) [**taka** **nauczycielka**].
+!id: accusative_mam_taka_torba
+!front: Mam (*kogo? co?*) [**taka** **torba**].
 !back:
-Mam **taką** **nauczycielkę**.
+Mam **taką** **torbę**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mamy_takie_nauczycielki
-!front: Mamy (*kogo? co?*) [**takie** **nauczycielki**].
+!id: accusative_mamy_takie_torby
+!front: Mamy (*kogo? co?*) [**takie** **torby**].
 !back:
-Mamy **takie** **nauczycielki**.
+Mamy **takie** **torby**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mam_takie_dziecko
-!front: Mam (*kogo? co?*) [**takie** **dziecko**].
+!id: accusative_mam_takie_krzesło
+!front: Mam (*kogo? co?*) [**takie** **krzesło**].
 !back:
-Mam **takie** **dziecko**.
+Mam **takie** **krzesło**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
 
-!id: accusative_mamy_takie_dzieci
-!front: Mamy (*kogo? co?*) [**takie** **dzieci**].
+!id: accusative_mamy_takie_krzesła
+!front: Mamy (*kogo? co?*) [**takie** **krzesła**].
 !back:
-Mamy **takie** **dzieci**.
+Mamy **takie** **krzesła**.
 
 
 Biernik (*kogo? co?*)
 
 |lp               |lm           |
 |:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszemy_dobre_teksty
+!front: Piszemy (*kogo? co?*) [**dobre** **teksty**].
+!back:
+Piszemy **dobre** **teksty**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszę_dobry_tekst
+!front: Piszę (*kogo? co?*) [**dobry** **tekst**].
+!back:
+Piszę **dobry** **tekst**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszemy_dobre_muzyki
+!front: Piszemy (*kogo? co?*) [**dobre** **muzyki**].
+!back:
+Piszemy **dobre** **muzyki**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszę_dobra_muzyka
+!front: Piszę (*kogo? co?*) [**dobra** **muzyka**].
+!back:
+Piszę **dobrą** **muzykę**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszemy_dobre_pytania
+!front: Piszemy (*kogo? co?*) [**dobre** **pytania**].
+!back:
+Piszemy **dobre** **pytania**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszę_dobre_pytanie
+!front: Piszę (*kogo? co?*) [**dobre** **pytanie**].
+!back:
+Piszę **dobre** **pytanie**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszemy_złe_teksty
+!front: Piszemy (*kogo? co?*) [**złe** **teksty**].
+!back:
+Piszemy **złe** **teksty**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszę_zły_tekst
+!front: Piszę (*kogo? co?*) [**zły** **tekst**].
+!back:
+Piszę **zły** **tekst**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszemy_złe_muzyki
+!front: Piszemy (*kogo? co?*) [**złe** **muzyki**].
+!back:
+Piszemy **złe** **muzyki**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszę_zła_muzyka
+!front: Piszę (*kogo? co?*) [**zła** **muzyka**].
+!back:
+Piszę **złą** **muzykę**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszemy_złe_pytania
+!front: Piszemy (*kogo? co?*) [**złe** **pytania**].
+!back:
+Piszemy **złe** **pytania**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszę_złe_pytanie
+!front: Piszę (*kogo? co?*) [**złe** **pytanie**].
+!back:
+Piszę **złe** **pytanie**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszemy_takie_teksty
+!front: Piszemy (*kogo? co?*) [**takie** **teksty**].
+!back:
+Piszemy **takie** **teksty**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszę_taki_tekst
+!front: Piszę (*kogo? co?*) [**taki** **tekst**].
+!back:
+Piszę **taki** **tekst**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszemy_takie_muzyki
+!front: Piszemy (*kogo? co?*) [**takie** **muzyki**].
+!back:
+Piszemy **takie** **muzyki**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszę_taka_muzyka
+!front: Piszę (*kogo? co?*) [**taka** **muzyka**].
+!back:
+Piszę **taką** **muzykę**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszemy_takie_pytania
+!front: Piszemy (*kogo? co?*) [**takie** **pytania**].
+!back:
+Piszemy **takie** **pytania**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
+|dobrego człowieka|dobrych ludzi|
+|dobrą kobietę    |dobre kobiety|
+|dobre dziecko    |dobre dzieci |
+~~~
+
+!id: accusative_piszę_takie_pytanie
+!front: Piszę (*kogo? co?*) [**takie** **pytanie**].
+!back:
+Piszę **takie** **pytanie**.
+
+
+Biernik (*kogo? co?*)
+
+|lp               |lm           |
+|:----------------|:------------|
+|dobry film       |dobre filmy  |
 |dobrego człowieka|dobrych ludzi|
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
