@@ -1,0 +1,108 @@
+!type: Basic
+!deck: Polski::Odmiany::Czasowniki
+!tags: Polski Odmiana
+
+!id: a0d655cf-1e06-49a3-8ea2-8f9c931a846d
+!front: Ja [jeść] (czas teraźniejszy)
+!back: Ja jem
+~~~
+
+!id: 015d4a5e-df12-4593-86f4-af6b67c7dbc7
+!front: My [jeść] (czas teraźniejszy)
+!back: My jemy
+~~~
+
+!id: 5ac08022-fb7c-4349-ac0b-75a87bd9f2d0
+!front: Ty [jeść] (czas teraźniejszy)
+!back: Ty jesz
+~~~
+
+!id: f88462cd-49d7-4f22-9072-8c848f73708d
+!front: Wy [jeść] (czas teraźniejszy)
+!back: Wy jecie
+~~~
+
+!id: 04bf56dd-e628-43aa-9c39-949d7ddfb3da
+!front: On/Ona/Ono [jeść] (czas teraźniejszy)
+!back: On/Ona/Ono je
+~~~
+
+!id: 3b9a5c98-a52d-4420-a21c-b4ea02faf248
+!front: Oni/One [jeść] (czas teraźniejszy)
+!back: Oni/One jedzą
+~~~
+
+!id: 37579502-8637-4e4f-8935-ab9a443726eb
+!front: Ja [jeść] (m, czas przeszły)
+!back: Ja jadłem
+~~~
+
+!id: 538abb10-047c-479c-a46c-6e2498c12c27
+!front: Ja [jeść] (ż, czas przeszły)
+!back: Ja jadłam
+~~~
+
+!id: 29f11c02-827f-48ca-869e-0b1b6deec495
+!front: Ja [jeść] (n, czas przeszły)
+!back: Ja jadłom
+~~~
+
+!id: 20d37bff-f4b3-482c-8b3e-119d6ac3e5f7
+!front: My [jeść] (czas przeszły)
+!back: My jedliśmy
+~~~
+
+!id: 0ccba863-7f29-45cc-8392-8a95b939644b
+!front: Ty [jeść] (m, czas przeszły)
+!back: Ty jadłeś
+~~~
+
+!id: bb9bd0d4-61d2-424a-a463-6e3fef24fec0
+!front: Ty [jeść] (ż, czas przeszły)
+!back: Ty jadłaś
+~~~
+
+!id: 75dd18d1-009e-41e6-813b-882ee09fec4d
+!front: Ty [jeść] (n, czas przeszły)
+!back: Ty jadłoś
+~~~
+
+!id: 9b8629ff-3967-4430-b107-6bf727a808c1
+!front: Wy [jeść] (czas przeszły)
+!back: Wy jedliście
+~~~
+
+!id: 1968116d-82cf-4abf-ba94-211c73b81366
+!front: On [jeść] (czas przeszły)
+!back: On jadł
+~~~
+
+!id: 038bae4f-c8b8-4ca2-86c2-00c98d4c74c9
+!front: Ona [jeść] (czas przeszły)
+!back: Ona jadła
+~~~
+
+!id: 2d19233c-88d5-49e4-affa-fddc2ff33930
+!front: Ono [jeść] (czas przeszły)
+!back: Ono jadło
+~~~
+
+!id: 8abb67c4-bf59-43be-aa2e-240fb79b61df
+!front: Oni [jeść] (czas przeszły)
+!back: Oni jedli
+~~~
+
+!id: 55cca480-dcf7-4f4a-a597-8f76d736905a
+!front: Ty [jeść] (tryb rozkazujący)
+!back: Ty jedz
+~~~
+
+!id: 21ad7ba9-4f80-4dab-9096-479ce0953007
+!front: My [jeść] (tryb rozkazujący)
+!back: My jedzmy
+~~~
+
+!id: 835de0de-2d62-43c9-84f6-88bbaf33516c
+!front: Wy [jeść] (tryb rozkazujący)
+!back: Wy jedzcie
+~~~
