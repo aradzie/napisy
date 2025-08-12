@@ -8122,3 +8122,4 @@ d82f4990-29ab-42bf-afe9-ff34b6a80d27;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 a5315a2b-c4ec-420d-a986-a129051d77b3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>вас беспокоят такие вопросы, как</p>;<p>nurtują cię kwestie takie jak</p>
 79a9908e-85f3-4225-9c6a-11fc625432ad;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>так что не волнуйся, если сначала будешь делать ошибки</p>;<p>dlatego nie przejmuj się, jeśli na początku będziesz popełniać błędy</p>
 6b99748a-0b93-4921-abae-b23c4e584103;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>звучный и запоминающийся текст</p>;<p>dźwięczny i chwytliwy tekst</p>
+01ef7c1e-4b19-497f-b280-d227eb0c7de3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>покажи мне примеры</p>;<p>pokaż mi przykłady</p>
