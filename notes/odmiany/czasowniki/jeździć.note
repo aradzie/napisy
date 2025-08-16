@@ -4,32 +4,50 @@
 
 !id: 87cbd0dc-23e5-496f-b4a0-5ead500e90fe
 !front: Ja [jeździć] (czas teraźniejszy)
-!back: Ja jeżdżę
+!back:
+Ja jeżdżę
+
+*Porównaj z: "jadę"*
 ~~~
 
 !id: 03ca450d-41eb-4165-a573-fc64f690837d
 !front: My [jeździć] (czas teraźniejszy)
-!back: My jeździmy
+!back:
+My jeździmy
+
+*Porównaj z: "jedziemy"*
 ~~~
 
 !id: 5133ec3b-9ae0-4b2a-83dd-642db626d4e0
 !front: Ty [jeździć] (czas teraźniejszy)
-!back: Ty jeździsz
+!back:
+Ty jeździsz
+
+*Porównaj z: "jedziesz"*
 ~~~
 
 !id: 2bb4568d-5aee-4d92-bec6-cdea4f8632e2
 !front: Wy [jeździć] (czas teraźniejszy)
-!back: Wy jeździcie
+!back:
+Wy jeździcie
+
+*Porównaj z: "jedziecie"*
 ~~~
 
 !id: e8e10878-bb57-4d4b-9a38-a08c95012119
 !front: On/Ona/Ono [jeździć] (czas teraźniejszy)
-!back: On/Ona/Ono jeździ
+!back:
+On/Ona/Ono jeździ
+
+*Porównaj z: "jedzie"*
 ~~~
 
 !id: e34b4764-82bf-4e1c-93c7-dd522965391a
 !front: Oni/One [jeździć] (czas teraźniejszy)
-!back: Oni/One jeżdżą
+!back:
+Oni/One jeżdżą
+
+*Porównaj z: "Oni/One jadą"*
 ~~~
 
 !id: f8ddc0c5-4c9c-4c22-9306-d00076af1872

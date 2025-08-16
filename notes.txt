@@ -1174,12 +1174,18 @@ b93b826f-aba0-459b-8bdc-5cf80f8afba2;Basic;Polski::Odmiany::Czasowniki;Polski Od
 e68eecda-2da9-4fee-9d72-133c4ff1292e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [iść] (tryb rozkazujący)</p>;<p>Ty idź</p>
 4898d149-fed1-4d07-aa6c-6c28b6c46aeb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [iść] (tryb rozkazujący)</p>;<p>My idźmy</p>
 1e98cf63-0297-47bc-81b4-dd98275ee6ae;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [iść] (tryb rozkazujący)</p>;<p>Wy idźcie</p>
-aa69245e-b362-4e16-acbf-923659954ee0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (czas teraźniejszy)</p>;<p>Ja jadę</p>
-863be6cf-1ce8-459f-960e-f34e56d70c63;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jechać] (czas teraźniejszy)</p>;<p>My jedziemy</p>
-10231d0c-c74e-4553-b144-314eff2b5f6c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jechać] (czas teraźniejszy)</p>;<p>Ty jedziesz</p>
-9e6f2daa-007e-4f93-9911-2adf1a30089e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jechać] (czas teraźniejszy)</p>;<p>Wy jedziecie</p>
-6c44ef9f-6d8a-4353-b927-e8e2d462e532;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [jechać] (czas teraźniejszy)</p>;<p>On/Ona/Ono jedzie</p>
-83733cbd-5966-4074-a933-e061dcbc4c4c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [jechać] (czas teraźniejszy)</p>;<p>Oni/One jadą</p>
+aa69245e-b362-4e16-acbf-923659954ee0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (czas teraźniejszy)</p>;"<p>Ja jadę</p>
+<p><em>Porównaj z: &quot;jeżdżę&quot;</em></p>"
+863be6cf-1ce8-459f-960e-f34e56d70c63;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jechać] (czas teraźniejszy)</p>;"<p>My jedziemy</p>
+<p><em>Porównaj z: &quot;jeździmy&quot;</em></p>"
+10231d0c-c74e-4553-b144-314eff2b5f6c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jechać] (czas teraźniejszy)</p>;"<p>Ty jedziesz</p>
+<p><em>Porównaj z: &quot;jeździsz&quot;</em></p>"
+9e6f2daa-007e-4f93-9911-2adf1a30089e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jechać] (czas teraźniejszy)</p>;"<p>Wy jedziecie</p>
+<p><em>Porównaj z: &quot;jeździcie&quot;</em></p>"
+6c44ef9f-6d8a-4353-b927-e8e2d462e532;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [jechać] (czas teraźniejszy)</p>;"<p>On/Ona/Ono jedzie</p>
+<p><em>Porównaj z: &quot;jeździ&quot;</em></p>"
+83733cbd-5966-4074-a933-e061dcbc4c4c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [jechać] (czas teraźniejszy)</p>;"<p>Oni/One jadą</p>
+<p><em>Porównaj z &quot;Oni/One jeżdżą&quot;</em></p>"
 4bfcc4ee-dcf1-4723-930d-619775a3c161;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (męski, czas przeszły)</p>;<p>Ja jechałem</p>
 d0d6632f-5504-4c3f-af57-65bd4ca49551;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (żeński, czas przeszły)</p>;<p>Ja jechałam</p>
 2dc29593-d930-4d67-85dc-5ff73136418d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (nijaki, czas przeszły)</p>;<p>Ja jechałom</p>
@@ -1200,7 +1206,9 @@ a0d655cf-1e06-49a3-8ea2-8f9c931a846d;Basic;Polski::Odmiany::Czasowniki;Polski Od
 5ac08022-fb7c-4349-ac0b-75a87bd9f2d0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeść] (czas teraźniejszy)</p>;<p>Ty jesz</p>
 f88462cd-49d7-4f22-9072-8c848f73708d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeść] (czas teraźniejszy)</p>;<p>Wy jecie</p>
 04bf56dd-e628-43aa-9c39-949d7ddfb3da;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [jeść] (czas teraźniejszy)</p>;<p>On/Ona/Ono je</p>
-3b9a5c98-a52d-4420-a21c-b4ea02faf248;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [jeść] (czas teraźniejszy)</p>;<p>Oni/One jedzą</p>
+3b9a5c98-a52d-4420-a21c-b4ea02faf248;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [jeść] (czas teraźniejszy)</p>;"<p>Oni/One jedzą</p>
+<p><em>Porównaj z: &quot;Oni/One jeździć/jadą&quot;</em></p>
+<p><em>Porównaj z &quot;Oni/One jechać/jeżdżą&quot;</em></p>"
 37579502-8637-4e4f-8935-ab9a443726eb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (męski, czas przeszły)</p>;<p>Ja jadłem</p>
 538abb10-047c-479c-a46c-6e2498c12c27;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (żeński, czas przeszły)</p>;<p>Ja jadłam</p>
 29f11c02-827f-48ca-869e-0b1b6deec495;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (nijaki, czas przeszły)</p>;<p>Ja jadłom</p>
@@ -1216,12 +1224,18 @@ bb9bd0d4-61d2-424a-a463-6e3fef24fec0;Basic;Polski::Odmiany::Czasowniki;Polski Od
 55cca480-dcf7-4f4a-a597-8f76d736905a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeść] (tryb rozkazujący)</p>;<p>Ty jedz</p>
 21ad7ba9-4f80-4dab-9096-479ce0953007;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jeść] (tryb rozkazujący)</p>;<p>My jedzmy</p>
 835de0de-2d62-43c9-84f6-88bbaf33516c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeść] (tryb rozkazujący)</p>;<p>Wy jedzcie</p>
-87cbd0dc-23e5-496f-b4a0-5ead500e90fe;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (czas teraźniejszy)</p>;<p>Ja jeżdżę</p>
-03ca450d-41eb-4165-a573-fc64f690837d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jeździć] (czas teraźniejszy)</p>;<p>My jeździmy</p>
-5133ec3b-9ae0-4b2a-83dd-642db626d4e0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeździć] (czas teraźniejszy)</p>;<p>Ty jeździsz</p>
-2bb4568d-5aee-4d92-bec6-cdea4f8632e2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeździć] (czas teraźniejszy)</p>;<p>Wy jeździcie</p>
-e8e10878-bb57-4d4b-9a38-a08c95012119;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [jeździć] (czas teraźniejszy)</p>;<p>On/Ona/Ono jeździ</p>
-e34b4764-82bf-4e1c-93c7-dd522965391a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [jeździć] (czas teraźniejszy)</p>;<p>Oni/One jeżdżą</p>
+87cbd0dc-23e5-496f-b4a0-5ead500e90fe;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (czas teraźniejszy)</p>;"<p>Ja jeżdżę</p>
+<p><em>Porównaj z: &quot;jadę&quot;</em></p>"
+03ca450d-41eb-4165-a573-fc64f690837d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jeździć] (czas teraźniejszy)</p>;"<p>My jeździmy</p>
+<p><em>Porównaj z: &quot;jedziemy&quot;</em></p>"
+5133ec3b-9ae0-4b2a-83dd-642db626d4e0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeździć] (czas teraźniejszy)</p>;"<p>Ty jeździsz</p>
+<p><em>Porównaj z: &quot;jedziesz&quot;</em></p>"
+2bb4568d-5aee-4d92-bec6-cdea4f8632e2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeździć] (czas teraźniejszy)</p>;"<p>Wy jeździcie</p>
+<p><em>Porównaj z: &quot;jedziecie&quot;</em></p>"
+e8e10878-bb57-4d4b-9a38-a08c95012119;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [jeździć] (czas teraźniejszy)</p>;"<p>On/Ona/Ono jeździ</p>
+<p><em>Porównaj z: &quot;jedzie&quot;</em></p>"
+e34b4764-82bf-4e1c-93c7-dd522965391a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [jeździć] (czas teraźniejszy)</p>;"<p>Oni/One jeżdżą</p>
+<p><em>Porównaj z: &quot;Oni/One jadą&quot;</em></p>"
 f8ddc0c5-4c9c-4c22-9306-d00076af1872;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (męski, czas przeszły)</p>;<p>Ja jeździłem</p>
 a3432a5c-cbca-4a8a-a508-ee3633d4e0c4;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (żeński, czas przeszły)</p>;<p>Ja jeździłam</p>
 ad831c82-aeed-4c41-a256-87fadb9b52ee;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (nijaki, czas przeszły)</p>;<p>Ja jeździłom</p>
