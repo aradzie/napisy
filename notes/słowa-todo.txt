@@ -46,6 +46,7 @@ zachowanie
 zabiegami
 słuszności
 cecha
+główny nurt
 
 ciągle
 coraz

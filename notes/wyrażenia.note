@@ -1488,7 +1488,7 @@
 ~~~
 
 !id: 2adf414a-9dfe-4611-9157-1672ef815950
-!front: сделать такое предположение
+!front: принять такое предположение
 !back: przyjąć takie założenie
 ~~~
 
@@ -1968,7 +1968,7 @@
 ~~~
 
 !id: 3edf34f8-082f-4f17-bb70-ed4cd2b087d1
-!front: возьму вас с собой
+!front: заберу вас с собой
 !back: zabiorę was ze sobą
 ~~~
 
@@ -2055,4 +2055,199 @@
 !id: e45750b3-1a63-4f82-9bf7-dd67c7d65bba
 !front: чувствовали себя совершенно беспомощными
 !back: czuli się zupełnie bezradni
+~~~
+
+!id: 9ad1fb34-3de3-43d4-9cf7-fc1e1ae37087
+!front: поэтому берем только самые необходимые вещи
+!back: więc bierzmy tylko najpotrzebniejsze rzeczy
+~~~
+
+!id: 274c5d55-e75f-483e-9ce3-f02d504aadf9
+!front: без лишних слов
+!back: bez zbędnego gadania
+~~~
+
+!id: 14e7450c-e5da-441b-b920-131b7926d4f9
+!front: на ненужные расходы
+!back: na zbędne wydatki
+~~~
+
+!id: 77fb65d5-654c-4fbe-8fc9-01c21f78b789
+!front: военные столкновения станут ненужными
+!back: starcia wojenne staną się zbędne
+~~~
+
+!id: aed030cf-51bc-4f99-9743-7dab257e8775
+!front: поднимать
+!back: podnosić/wznosić
+~~~
+
+!id: 0a17ce53-670f-42f3-b305-c2fcbb3c4d0e
+!front: опускать
+!back: opuszczać
+~~~
+
+!id: 1fe0b9da-82d1-4f10-bcdb-c40c09da2adc
+!front: буквально
+!back: dosłownie
+~~~
+
+!id: 303b1c92-dbfb-4d89-b5ff-2c9c466da725
+!front: понимает буквально всё
+!back: rozumie dosłownie wszystko
+~~~
+
+!id: e48547ea-b26d-4e0d-8798-b5e082dc4b62
+!front: поезд был заполнен
+!back: pociąg był zapełniony
+~~~
+
+!id: 197984fc-8318-4cb0-b91d-09d196a67ea1
+!front: несмотря на большой объем книги
+!back: mimo sporej objętości książki
+~~~
+
+!id: 41a87ae4-1049-4218-bb55-49f4560856d9
+!front: я спросил не очень вежливо
+!back: niezbyt uprzejmie zapytałem
+~~~
+
+!id: 3de8a622-833c-4957-955b-a06fb7758b9c
+!front: рано или поздно это всегда приведет к преступлению
+!back: prędzej/wcześniej czy później zawsze doprowadzi do zbrodni/przestępstwa
+~~~
+
+!id: bda1fd24-7bc6-4957-b4c5-c2b857589d2c
+!front: заменять старые правила новыми
+!back: zastępować stare zasady nowymi
+~~~
+
+!id: bdffbb68-8788-4742-88e0-ca117d0ec8aa
+!front: эквивалент/аналог
+!back: odpowiednik
+~~~
+
+!id: 7f70867b-0cfa-47b2-9ffa-c80eb101d6c3
+!front: не найдет польского эквивалента/аналога
+!back: nie znajdzie polskiego odpowiednika
+~~~
+
+!id: ea59031c-aa16-4f75-b564-a11a51f8663f
+!front: родные эквиваленты/аналоги
+!back: rodzime odpowiedniki
+~~~
+
+!id: a0595800-c1c0-455f-bc66-2b50990b4eb3
+!front: преданная любовь
+!back: zdradzona miłość
+~~~
+
+!id: 76a2635f-62a8-4858-8e62-3d70934d33a0
+!front: я попрощался с ними грубо
+!back: pożegnałem ich nieładnie
+~~~
+
+!id: ad86587f-ddd5-4b36-aa33-a03e24d94989
+!front: разговаривать не было смысла
+!back: nie było sensu gadać
+~~~
+
+!id: 582ff473-1e50-4213-a076-189bdf3d03dc
+!front: чем они отличаются
+!back: czym się różnią
+~~~
+
+!id: f742e623-1a5a-434b-9f3b-4f88821c3948
+!front: принимая во внимание
+!back: biorąc pod uwagę
+~~~
+
+!id: 48e08743-9c10-4414-9de8-505c52f56edb
+!front: нет ничего, к чему бы они не придрались
+!back: nie ma rzeczy do ktorej nie przyczepiliby sie
+~~~
+
+!id: 8bfd744b-be25-423c-a948-8d59528dd77a
+!front: их преследование оправдано
+!back: ich nagonka jest uzasadniona
+~~~
+
+!id: c43f4c17-86c6-4a4c-9c20-cf21ff91e024
+!front: не вижу другого оправдания
+!back: nie widzę innego uzasadnienia
+~~~
+
+!id: 100bd5ea-d88c-4584-8614-ad444fcadd7c
+!front: бесконечный
+!back: nieskończony
+~~~
+
+!id: 41c38da5-e416-4aef-9087-e8f07748e2dc
+!front: возмущение со всех сторон
+!back: zewsząd oburzanie
+~~~
+
+!id: 1be2b501-c58f-43af-8b95-4f973b32707c
+!front: под угрозой со всех сторон
+!back: zewsząd zagrożone
+~~~
+
+!id: 06dd7cf3-db55-4f3b-8177-12c836013b33
+!front: никто в здравом уме не ожидал ничего другого
+!back: nikt ogarnięty się nie spodziewał czegoś innego
+~~~
+
+!id: 35b3c210-6f77-4588-b2e1-9d6a48895ee3
+!front: это не может продолжаться???????
+!back: tego się nie da tolerować
+~~~
+
+!id: 46d4a6a7-1cda-4650-8ea6-9e5967b310df
+!front: испытываю презрение
+!back: odczuwam pogardę
+~~~
+
+!id: 0e29efe4-41fe-460e-8e09-5c9d852e0ba6
+!front: как кто-то смеет меня осуждать
+!back: jak ktoś w ogóle śmie mnie ganić
+~~~
+
+!id: b18d2093-56fb-4d1f-a7e0-147a3b090f62
+!front: это кажется преувеличением
+!back: to wydaje się przesadzone
+~~~
+
+!id: 1c7c8b2f-c437-4a4c-b01f-c35335a058bd
+!front: и вернуться к основам чтобы лучше понять
+!back: i wróć do podstaw, aby lepiej zrozumieć
+~~~
+
+!id: 1ea09f83-6353-40a7-b40b-47923b40f7fb
+!front: постоянные жалобы
+!back: wieczne narzekanie
+~~~
+
+!id: fc71202b-6d3d-460b-a732-9dc872cb1122
+!front: это действительно неприлично
+!back: to jest naprawdę nieprzyzwoite
+~~~
+
+!id: 15d2afc4-7899-4821-b23a-8409bde363a3
+!front: лучшие продукты дают преимущество
+!back: lepsze produkty dają przewagę
+~~~
+
+!id: 0814de54-ca11-448f-a8f2-dc89725540f0
+!front: поправки/исправления
+!back: poprawki
+~~~
+
+!id: 353e2780-ecab-4647-9876-97151691b207
+!front: может быть запутанным
+!back: może być skomplikowanym
+~~~
+
+!id: 4f34947d-bfc4-4a11-9cf8-a19ac911122e
+!front: внешность может быть обманчива
+!back: wygląd może być mylący
 ~~~

@@ -9067,7 +9067,7 @@ f6c260f2-b8f9-4358-b33b-25f121e78a36;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 3254b2d2-7ae9-4ea4-be06-7b940cc1b219;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>бояться неизвестности</p>;<p>obawiać się nieznanego</p>
 6f47a977-4288-4529-ad6d-5dc66f594d17;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>У меня были причины</p>;<p>miałem powody</p>
 a65ced1d-fee8-4434-9969-9dfc28a6c5f0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>на своих условиях</p>;<p>na własnych zasadach</p>
-2adf414a-9dfe-4611-9157-1672ef815950;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>сделать такое предположение</p>;<p>przyjąć takie założenie</p>
+2adf414a-9dfe-4611-9157-1672ef815950;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>принять такое предположение</p>;<p>przyjąć takie założenie</p>
 b5607777-003f-4a26-9839-807069875453;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>правильное предположение</p>;<p>słuszne założenie</p>
 82cd6250-df8f-4c7c-92f7-e6cee00cd6f2;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>выражать содержание слов</p>;<p>wyrazić treść słów</p>
 f1772eb2-9c50-4e55-92da-2f7f41fe147b;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>узнаещь подробности</p>;<p>poznasz szczegóły</p>
@@ -9163,7 +9163,7 @@ be00d249-0f81-4dd4-bdc8-38b6ecc6a2f0;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 fc2feb1a-3eba-4dd5-821e-b04f8b8c56a8;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>исполняем желания</p>;<p>spełniamy życzenia</p>
 44123c38-0504-4c3c-8d7b-fed3e4bc5570;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>не нервничая</p>;<p>bez zdenerwowania</p>
 c161d00a-dbb8-438d-8321-576b21b8b348;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>могу потратить целый день</p>;<p>mogę spędzić cały dzień</p>
-3edf34f8-082f-4f17-bb70-ed4cd2b087d1;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>возьму вас с собой</p>;<p>zabiorę was ze sobą</p>
+3edf34f8-082f-4f17-bb70-ed4cd2b087d1;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>заберу вас с собой</p>;<p>zabiorę was ze sobą</p>
 5270309b-f4a4-4cd8-b524-c672abaecc70;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>исполняем мечты</p>;<p>spełniamy marzenia</p>
 9cbb9c4e-5e51-49ac-a76c-248b4a1b228b;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>выучим язык</p>;<p>nauczmy się języka</p>
 75f41ef6-3ad1-4484-b619-4ed7b43a352d;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>полностью субъективно</p>;<p>całkowicie subiektywnie</p>
@@ -9181,3 +9181,42 @@ b0da2c37-40c4-4944-8931-1f40b99d094d;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 cac9c914-a4b6-457e-bf91-f0fb5f93854f;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>постоянно нахожу себя в совершенно новых местах</p>;<p>ciągle znajduję się w zupełnie nowych miejscach</p>
 bec463a9-b939-4995-880c-a43d8ea9d259;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>совершенно другим языком</p>;<p>zupełnie innym językiem</p>
 e45750b3-1a63-4f82-9bf7-dd67c7d65bba;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>чувствовали себя совершенно беспомощными</p>;<p>czuli się zupełnie bezradni</p>
+9ad1fb34-3de3-43d4-9cf7-fc1e1ae37087;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>поэтому берем только самые необходимые вещи</p>;<p>więc bierzmy tylko najpotrzebniejsze rzeczy</p>
+274c5d55-e75f-483e-9ce3-f02d504aadf9;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>без лишних слов</p>;<p>bez zbędnego gadania</p>
+14e7450c-e5da-441b-b920-131b7926d4f9;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>на ненужные расходы</p>;<p>na zbędne wydatki</p>
+77fb65d5-654c-4fbe-8fc9-01c21f78b789;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>военные столкновения станут ненужными</p>;<p>starcia wojenne staną się zbędne</p>
+aed030cf-51bc-4f99-9743-7dab257e8775;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>поднимать</p>;<p>podnosić/wznosić</p>
+0a17ce53-670f-42f3-b305-c2fcbb3c4d0e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>опускать</p>;<p>opuszczać</p>
+1fe0b9da-82d1-4f10-bcdb-c40c09da2adc;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>буквально</p>;<p>dosłownie</p>
+303b1c92-dbfb-4d89-b5ff-2c9c466da725;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>понимает буквально всё</p>;<p>rozumie dosłownie wszystko</p>
+e48547ea-b26d-4e0d-8798-b5e082dc4b62;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>поезд был заполнен</p>;<p>pociąg był zapełniony</p>
+197984fc-8318-4cb0-b91d-09d196a67ea1;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>несмотря на большой объем книги</p>;<p>mimo sporej objętości książki</p>
+41a87ae4-1049-4218-bb55-49f4560856d9;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я спросил не очень вежливо</p>;<p>niezbyt uprzejmie zapytałem</p>
+3de8a622-833c-4957-955b-a06fb7758b9c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>рано или поздно это всегда приведет к преступлению</p>;<p>prędzej/wcześniej czy później zawsze doprowadzi do zbrodni/przestępstwa</p>
+bda1fd24-7bc6-4957-b4c5-c2b857589d2c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>заменять старые правила новыми</p>;<p>zastępować stare zasady nowymi</p>
+bdffbb68-8788-4742-88e0-ca117d0ec8aa;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>эквивалент/аналог</p>;<p>odpowiednik</p>
+7f70867b-0cfa-47b2-9ffa-c80eb101d6c3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>не найдет польского эквивалента/аналога</p>;<p>nie znajdzie polskiego odpowiednika</p>
+ea59031c-aa16-4f75-b564-a11a51f8663f;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>родные эквиваленты/аналоги</p>;<p>rodzime odpowiedniki</p>
+a0595800-c1c0-455f-bc66-2b50990b4eb3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>преданная любовь</p>;<p>zdradzona miłość</p>
+76a2635f-62a8-4858-8e62-3d70934d33a0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я попрощался с ними грубо</p>;<p>pożegnałem ich nieładnie</p>
+ad86587f-ddd5-4b36-aa33-a03e24d94989;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>разговаривать не было смысла</p>;<p>nie było sensu gadać</p>
+582ff473-1e50-4213-a076-189bdf3d03dc;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>чем они отличаются</p>;<p>czym się różnią</p>
+f742e623-1a5a-434b-9f3b-4f88821c3948;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>принимая во внимание</p>;<p>biorąc pod uwagę</p>
+48e08743-9c10-4414-9de8-505c52f56edb;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>нет ничего, к чему бы они не придрались</p>;<p>nie ma rzeczy do ktorej nie przyczepiliby sie</p>
+8bfd744b-be25-423c-a948-8d59528dd77a;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>их преследование оправдано</p>;<p>ich nagonka jest uzasadniona</p>
+c43f4c17-86c6-4a4c-9c20-cf21ff91e024;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>не вижу другого оправдания</p>;<p>nie widzę innego uzasadnienia</p>
+100bd5ea-d88c-4584-8614-ad444fcadd7c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>бесконечный</p>;<p>nieskończony</p>
+41c38da5-e416-4aef-9087-e8f07748e2dc;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>возмущение со всех сторон</p>;<p>zewsząd oburzanie</p>
+1be2b501-c58f-43af-8b95-4f973b32707c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>под угрозой со всех сторон</p>;<p>zewsząd zagrożone</p>
+06dd7cf3-db55-4f3b-8177-12c836013b33;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>никто в здравом уме не ожидал ничего другого</p>;<p>nikt ogarnięty się nie spodziewał czegoś innego</p>
+35b3c210-6f77-4588-b2e1-9d6a48895ee3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это не может продолжаться???????</p>;<p>tego się nie da tolerować</p>
+46d4a6a7-1cda-4650-8ea6-9e5967b310df;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>испытываю презрение</p>;<p>odczuwam pogardę</p>
+0e29efe4-41fe-460e-8e09-5c9d852e0ba6;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>как кто-то смеет меня осуждать</p>;<p>jak ktoś w ogóle śmie mnie ganić</p>
+b18d2093-56fb-4d1f-a7e0-147a3b090f62;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это кажется преувеличением</p>;<p>to wydaje się przesadzone</p>
+1c7c8b2f-c437-4a4c-b01f-c35335a058bd;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>и вернуться к основам чтобы лучше понять</p>;<p>i wróć do podstaw, aby lepiej zrozumieć</p>
+1ea09f83-6353-40a7-b40b-47923b40f7fb;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>постоянные жалобы</p>;<p>wieczne narzekanie</p>
+fc71202b-6d3d-460b-a732-9dc872cb1122;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это действительно неприлично</p>;<p>to jest naprawdę nieprzyzwoite</p>
+15d2afc4-7899-4821-b23a-8409bde363a3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>лучшие продукты дают преимущество</p>;<p>lepsze produkty dają przewagę</p>
+0814de54-ca11-448f-a8f2-dc89725540f0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>поправки/исправления</p>;<p>poprawki</p>
+353e2780-ecab-4647-9876-97151691b207;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>может быть запутанным</p>;<p>może być skomplikowanym</p>
+4f34947d-bfc4-4a11-9cf8-a19ac911122e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>внешность может быть обманчива</p>;<p>wygląd może być mylący</p>
