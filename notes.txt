@@ -9092,10 +9092,10 @@ e6099ebf-897d-4a16-88eb-9842bf081120;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 b08aaf18-0d56-4bfc-a739-417c75b99c29;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>привлечение рабочих из-за рубежа</p>;<p>ściąganie pracowników z zagranicy</p>
 476ed628-cc33-4503-b1fd-7c1c739ce647;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>сообщение</p>;<p>przekaz</p>
 07e83bd8-62ce-4dd5-a6c6-e297b92c8091;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>беспорядки болельщиков</p>;<p>zamieszki kibiców</p>
-440066ba-4518-480a-869c-33656946c3c0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>следуя примеру печально известной кампании</p>;<p>na wzór niesławnej kampanii</p>
+440066ba-4518-480a-869c-33656946c3c0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>по образу печально известной кампании</p>;<p>na wzór niesławnej kampanii</p>
 d374e4fd-32fe-4800-b7cc-c18bf1e5a352;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>мы не можем согласиться на насилие</p>;<p>na przemoc nie możemy się zgodzić</p>
 d2bdb9fc-b713-4b71-8308-5eaaff99619e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>они никого не беспокоили</p>;<p>nikomu nie wadzili</p>
-90168d10-c68b-408d-9fa4-1cf5d590ad43;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я пытался создать замену дому</p>;<p>próbowałem stworzyć namiastkę domu</p>
+90168d10-c68b-408d-9fa4-1cf5d590ad43;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я пытался создать замену/подобие дома</p>;<p>próbowałem stworzyć namiastkę domu</p>
 cc1bbb5a-2aa0-41e2-a0d6-8683151ffcfc;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>клевета на миллионы людей, когда виновный неизвестен</p>;<p>pomówienie milionów ludzi gdy sprawca jest nieznany</p>
 c6adefba-cbe6-4127-b7e7-c9b5acf24245;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>каким-то образом, по какому-то подозрительному совпадению</p>;<p>jakoś podejrzanym trafem</p>
 1ecfaf87-ef4e-4025-8fb3-859e6ae30ced;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>он не оправдывает</p>;<p>on nie usprawiedliwia</p>
@@ -9220,3 +9220,6 @@ fc71202b-6d3d-460b-a732-9dc872cb1122;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 0814de54-ca11-448f-a8f2-dc89725540f0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>поправки/исправления</p>;<p>poprawki</p>
 353e2780-ecab-4647-9876-97151691b207;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>может быть запутанным</p>;<p>może być skomplikowanym</p>
 4f34947d-bfc4-4a11-9cf8-a19ac911122e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>внешность может быть обманчива</p>;<p>wygląd może być mylący</p>
+309b80f5-50c9-433b-b316-13928dfbfe14;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я не чувствую даже подобие сожаления</p>;<p>nie czuje nawet namiastki żalu</p>
+ad348d9f-8175-4ae6-a2fe-d0840c8cd11c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>создаем замену/подобие раю на земле</p>;<p>tworzymy namiastkę raju na ziemi</p>
+28a9f02b-cb6d-4b2e-9320-1dde9bf97e22;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>куда исчезло хоть какое-то подобие ответственности?</p>;<p>gdzie się podziała jakakolwiek namiastka odpowiedzialności?</p>
