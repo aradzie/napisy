@@ -4,98 +4,154 @@
 
 !id: bbaa1351-5e7a-41bd-8337-8d79c4b17e45
 !front: Ja [znajdować] (czas teraźniejszy)
-!back: Ja znajduję
+!back:
+Ja znajduję
+
+*Porównaj z "Ja znajdę"*
 ~~~
 
 !id: 8eb1a280-3625-480f-9b95-e3f0542182f5
 !front: My [znajdować] (czas teraźniejszy)
-!back: My znajdujemy
+!back:
+My znajdujemy
+
+*Porównaj z "znajdziemy"*
 ~~~
 
 !id: d2e48dcc-bbaa-4192-b3b0-d7a01d8de4ea
 !front: Ty [znajdować] (czas teraźniejszy)
-!back: Ty znajdujesz
+!back:
+Ty znajdujesz
+
+*Porównaj z "znajdziesz"*
 ~~~
 
 !id: 3c468b96-a859-4b93-82af-b794df70c12a
 !front: Wy [znajdować] (czas teraźniejszy)
-!back: Wy znajdujecie
+!back:
+Wy znajdujecie
+
+*Porównaj z "znajdziecie"*
 ~~~
 
 !id: b0268b26-c707-4775-b2a6-860e4c994c2a
 !front: On/Ona/Ono [znajdować] (czas teraźniejszy)
-!back: On/Ona/Ono znajduje
+!back:
+On/Ona/Ono znajduje
+
+*Porównaj z "znajdzie"*
 ~~~
 
 !id: b8d38f96-887c-4156-8e85-df72550908f9
-!front: Oni [znajdować] (czas teraźniejszy)
-!back: Oni znajdują
+!front: Oni/One [znajdować] (czas teraźniejszy)
+!back:
+Oni/One znajdują
+
+*Porównaj z "znajdą"*
 ~~~
 
 !id: 3e5bae11-b33f-45cb-ab06-be33472a529d
 !front: Ja [znajdować] (męski, czas przeszły)
-!back: Ja znajdowałem
+!back:
+Ja znajdowałem
+
+*Porównaj z "znalazłem"*
 ~~~
 
 !id: a177cc2f-80eb-4fe4-ad38-3191592dfa40
 !front: Ja [znajdować] (żeński, czas przeszły)
-!back: Ja znajdowałam
+!back:
+Ja znajdowałam
+
+*Porównaj z "znalazłam"*
 ~~~
 
 !id: c8bf8464-0d55-4621-b9e1-b6624e789b02
 !front: Ja [znajdować] (nijaki, czas przeszły)
-!back: Ja znajdowałom
+!back:
+Ja znajdowałom
+
+*Porównaj z "znalazłom"*
 ~~~
 
 !id: 781d0c1a-7946-41a7-aded-7174f4d51107
 !front: My [znajdować] (czas przeszły)
-!back: My znajdowaliśmy
+!back:
+My znajdowaliśmy
+
+*Porównaj z "znaleźliśmy"*
 ~~~
 
 !id: 2fa47a80-f3ba-4688-9bc2-64ce4cc99f37
 !front: Ty [znajdować] (męski, czas przeszły)
-!back: Ty znajdowałeś
+!back:
+Ty znajdowałeś
+
+*Porównaj z "znalazłeś"*
 ~~~
 
 !id: 9d291bd1-6cbf-4dbb-8a51-8cf56e7d36dc
 !front: Ty [znajdować] (żeński, czas przeszły)
-!back: Ty znajdowałaś
+!back:
+Ty znajdowałaś
+
+*Porównaj z "znalazłaś"*
 ~~~
 
 !id: 3bb1459d-69ed-4249-8086-f8495f6edd78
 !front: Ty [znajdować] (nijaki, czas przeszły)
-!back: Ty znajdowałoś
+!back:
+Ty znajdowałoś
+
+*Porównaj z "znalazłoś"*
 ~~~
 
 !id: 57e06cb4-eac5-447c-b3dd-f6fa7570c9f0
 !front: Wy [znajdować] (czas przeszły)
-!back: Wy znajdowaliście
+!back:
+Wy znajdowaliście
+
+*Porównaj z "znaleźliście"*
 ~~~
 
 !id: 473f0293-9711-4b09-897b-5099a0ce0275
 !front: On [znajdować] (czas przeszły)
-!back: On znajdował
+!back:
+On znajdował
+
+*Porównaj z "znalazł"*
 ~~~
 
 !id: cdb27bc0-e9fc-4cf5-ac0f-5ca2fd90af44
 !front: Ona [znajdować] (czas przeszły)
-!back: Ona znajdowała
+!back:
+Ona znajdowała
+
+*Porównaj z "znalazła"*
 ~~~
 
 !id: 53658266-1646-4f48-a4ef-f0067622586c
 !front: Ono [znajdować] (czas przeszły)
-!back: Ono znajdowało
+!back:
+Ono znajdowało
+
+*Porównaj z "znalazło"*
 ~~~
 
 !id: 758a15ed-b2b1-43f8-846b-e5688c15a989
 !front: Oni [znajdować] (czas przeszły)
-!back: Oni znajdowali
+!back:
+Oni znajdowali
+
+*Porównaj z "znaleźli"*
 ~~~
 
 !id: 717784d0-706b-4a52-91da-a95d0fe6c7cc
 !front: Ty [znajdować] (tryb rozkazujący)
 !back:
 Ty znajduj
+
+*Porównaj z "znajdź"*
 
 - *Analizuj odchylenia i znajduj przyczyny.*
 - *Szybko znajduj potrzebne dokumenty.*
@@ -107,6 +163,8 @@ Ty znajduj
 !back:
 My znajdujmy
 
+*Porównaj z "znajdźmy"*
+
 - *Co w tych filozofiach znajdujmy?*
 - *Znajdujmy czas dla naszych najbliższych.*
 - *Tylko sami znajdujmy naszych klientów.*
@@ -116,6 +174,8 @@ My znajdujmy
 !front: Wy [znajdować] (tryb rozkazujący)
 !back:
 Wy znajdujcie
+
+*Porównaj z "znajdźcie"*
 
 - *Codziennie znajdujcie powody, by radować się.*
 - *Filtrujcie informacje i znajdujcie ich źródła.*

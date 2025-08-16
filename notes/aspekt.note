@@ -10,114 +10,107 @@
 !text: {{c1::Noedokonane}} czasowniki odpowiadają na pytanie {{c2::co robić?}}.
 ~~~
 
-!id: 30ac794e-4486-4f9b-bb6c-ce6707378b20
-!text: Dokonaną formą czasownika **pisać** jest {{c1::napisać}}.
-!back extra:
-**Przykład:**
-
-- *Będę pisać list* – proces pisania, nie wiadomo, czy skończę.
-- *Napisałem list* – czynność zakończona, list jest gotowy.
+!id: c7bb4e18-be52-4032-87b3-5c00e221727e
+!text: Niedokonany: {{c1::dawać}} → Dokonany: {{c2::dać}}
+!back extra: Daję prezent. / Dałem prezent.
 ~~~
 
-!id: da293bd9-92fc-43e1-b9ff-761177b8fc4f
-!text: Niedokonaną formą czasownika **napisać** jest {{c1::pisać}}.
-!back extra:
-**Przykład:**
-
-- *Będę pisać list* – proces pisania, nie wiadomo, czy skończę.
-- *Napisałem list* – czynność zakończona, list jest gotowy.
-~~~
-
-!id: 08944030-f905-4a20-80c8-7f90fa4176f2
-!text: Niedokonany: {{c1::pisać}} → Dokonany: {{c2::napisać}}
-~~~
-
-!id: 7ac4a9dc-9afe-4c64-ab2a-8005a1c1f73a
-!text: Niedokonany: {{c1::czytać}} → Dokonany: {{c2::przeczytać}}
-~~~
-
-!id: 47e4d9ea-19bb-4093-a665-699cfb551f28
-!text: Niedokonany: {{c1::jeść}} → Dokonany: {{c2::zjeść}}
-~~~
-
-!id: da3fe909-8689-4d85-b3c3-201f66a71b8c
-!text: Niedokonany: {{c1::robić}} → Dokonany: {{c2::zrobić}}
-~~~
-
-!id: a96bec43-7fcc-418a-b5a6-782637626c47
-!text: Niedokonany: {{c1::kupować}} → Dokonany: {{c2::kupić}}
-~~~
-
-!id: 5aee73e0-48f8-410a-97dd-1ffd6d13682e
-!text: Niedokonany: {{c1::uczyć się}} → Dokonany: {{c2::nauczyć się}}
-~~~
-
-!id: fc2f1bf5-7558-40a0-8284-a2545ea44218
-!text: Niedokonany: {{c1::myć}} → Dokonany: {{c2::umyć}}
-~~~
-
-!id: a8069d57-1f35-4a02-bedd-dfd1f5a0f498
-!text: Niedokonany: {{c1::oglądać}} → Dokonany: {{c2::obejrzeć}}
+!id: 22db7452-1091-4f62-b173-e15f6070c215
+!text: Niedokonany: {{c1::widzieć}} → Dokonany: {{c2::zobaczyć}}
+!back extra: Widzę film. / Zobaczyłem film.
 ~~~
 
 !id: af4d64d7-06de-4d86-a392-4c7fa37ee13b
 !text: Niedokonany: {{c1::brać}} → Dokonany: {{c2::wziąć}}
+!back extra: Biorę książkę. / Wziąłem książkę.
+~~~
+
+!id: a8069d57-1f35-4a02-bedd-dfd1f5a0f498
+!text: Niedokonany: {{c1::oglądać}} → Dokonany: {{c2::obejrzeć}}
+!back extra: Ogląda film. / Obejrzał film.
+~~~
+
+!id: ab8d382c-e721-4e27-9614-adc4b449b629
+!text: Niedokonany: {{c1::znajdować}} → Dokonany: {{c2::znaleźć}}
+!back extra: Znajduję książkę. / Znalazłem książkę.
+~~~
+
+!id: c4315b3e-4706-4196-83b8-6ca3162a273b
+!text: Niedokonany: {{c1::mówić}} → Dokonany: {{c2::powiedzieć}}
+!back extra: Mówi prawdę. / Powiedział prawdę.
+~~~
+
+!id: 71dcaaea-53ab-4115-a71d-d78be205e613
+!text: Niedokonany: {{c1::chodzić/iść}} → Dokonany: {{c2::pójść}}
+!back extra: Idzie do szkoły. / Poszedł do szkoły.
+~~~
+
+!id: bb11d1bb-d227-4b9e-9662-933a48022fe8
+!text: Niedokonany: {{c1::kłaść}} → Dokonany: {{c1::polożyć}}.
+!back extra: Kładzie książkę na stole. / Położył książkę na stole.
+~~~
+
+!id: 2dfba276-eecc-49dd-a82c-2cab70c9828c
+!text: Niedokonany: {{c1::wsiadać}} → Dokonany: {{c1::wsiąść}}.
+!back extra: Wsiada do autobusu. / Wsiadł do autobusu.
+~~~
+
+!id: afc1694b-ee6a-4103-ac3f-a54872cab762
+!text: Niedokonany: {{c1::umierać}} → Dokonany: {{c2::umrzeć}}
+!back extra: Umiera z głodu. / Umarł z głodu.
+~~~
+
+!id: 08944030-f905-4a20-80c8-7f90fa4176f2
+!text: Niedokonany: {{c1::pisać}} → Dokonany: {{c2::napisać}}
+!back extra: Piszę list. / Napisałem list.
+~~~
+
+!id: 7ac4a9dc-9afe-4c64-ab2a-8005a1c1f73a
+!text: Niedokonany: {{c1::czytać}} → Dokonany: {{c2::przeczytać}}
+!back extra: Czytam książkę. / Przeczytałem książkę.
+~~~
+
+!id: 47e4d9ea-19bb-4093-a665-699cfb551f28
+!text: Niedokonany: {{c1::jeść}} → Dokonany: {{c2::zjeść}}
+!back extra: Jem obiad. / Zjadłem obiad.
+~~~
+
+!id: da3fe909-8689-4d85-b3c3-201f66a71b8c
+!text: Niedokonany: {{c1::robić}} → Dokonany: {{c2::zrobić}}
+!back extra: Robię zadanie. / Zrobiłem zadanie.
+~~~
+
+!id: a96bec43-7fcc-418a-b5a6-782637626c47
+!text: Niedokonany: {{c1::kupować}} → Dokonany: {{c2::kupić}}
+!back extra: Kupuję chleb. / Kupiłem chleb.
+~~~
+
+!id: 5aee73e0-48f8-410a-97dd-1ffd6d13682e
+!text: Niedokonany: {{c1::uczyć się}} → Dokonany: {{c2::nauczyć się}}
+!back extra: Uczę się języka. / Nauczyłem się języka.
+~~~
+
+!id: fc2f1bf5-7558-40a0-8284-a2545ea44218
+!text: Niedokonany: {{c1::myć}} → Dokonany: {{c2::umyć}}
+!back extra: Myję naczynia. / Umyłem naczynia.
 ~~~
 
 !id: 712f8754-f443-4ad9-894d-eb2982a8c8cf
 !text: Niedokonany: {{c1::gotować}} → Dokonany: {{c2::ugotować}}
+!back extra: Gotuję zupę. / Ugotowałem zupę.
 ~~~
 
 !id: 270f4785-6a22-4e24-a07d-0372e432c154
 !text: Niedokonany: {{c1::malować}} → Dokonany: {{c2::pomalować}}
+!back extra: Maluję obraz. / Pomalowałem obraz.
 ~~~
 
-!id: f65418ac-5ca7-43d3-8ede-0eaaebdc2a06
-!text: Dokonaną formą czasownika **brać** jest {{c1::wziąć}}.
+!id: 758dbe0c-ae4b-4e75-9600-8f13a0ad376a
+!text: Niedokonany: {{c1::otwierać}} → Dokonany: {{c2::otworzyć}}
+!back extra: Otwiera drzwi. / Otworzył drzwi.
 ~~~
 
-!id: bfbc8310-840f-4862-854b-258cee06455d
-!text: Niedokonaną formą czasownika **wziąć** jest {{c1::brać}}.
-~~~
-
-!id: a381c316-4292-4bca-bfc0-280df151e228
-!text: Dokonaną formą czasownika **oglądać** jest {{c1::obejrzeć}}.
-~~~
-
-!id: 96af85f1-2218-445e-8f84-d8d977cabc4d
-!text: Niedokonaną formą czasownika **obejrzeć** jest {{c1::oglądać}}.
-~~~
-
-!id: bb11d1bb-d227-4b9e-9662-933a48022fe8
-!text: Dokonaną formą czasownika **kłaść** jest {{c1::polożyć}}.
-~~~
-
-!id: 2d138659-3839-400e-84be-84ac87f688d9
-!text: Niedokonaną formą czasownika **polożyć** jest {{c1::kłaść}}.
-~~~
-
-!id: 2dfba276-eecc-49dd-a82c-2cab70c9828c
-!text: Dokonaną formą czasownika **wsiadać** jest {{c1::wsiąść}}.
-~~~
-
-!id: 38064401-d7f5-49f3-97e0-eb49b9833870
-!text: Niedokonaną formą czasownika **wsiąść** jest {{c1::wsiadać}}.
-~~~
-
-!id: aac186a6-2c24-4cd5-9340-21e5cf470307
-!text: Dokonaną formą czasownika **gotować** jest {{c1::ugotować}}.
-!back extra:
-**Przykład:**
-
-- *Tata gotował obiad* – proces trwał, nie wiemy, czy został zakończony.
-- *Tata ugotował obiad* – obiad jest gotowy, czynność zakończona.
-~~~
-
-!id: 7eae49bb-4caf-4587-9600-dc2c0d0f05dc
-!text: Niedokonaną formą czasownika **ugotować** jest {{c1::gotować}}.
-!back extra:
-**Przykład:**
-
-- *Tata gotował obiad* – proces trwał, nie wiemy, czy został zakończony.
-- *Tata ugotował obiad* – obiad jest gotowy, czynność zakończona.
+!id: d1d33b8c-41e4-4318-8f3c-c68b927ba041
+!text: Niedokonany: {{c1::odpowiadać}} → Dokonany: {{c2::odpowiedzieć}}
+!back extra: Odpowiada na pytanie. / Odpowiedział na pytanie.
 ~~~

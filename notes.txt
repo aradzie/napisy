@@ -6,45 +6,27 @@
 #tags column:4
 ba7fe66c-0af3-4c29-9c40-c7494eec7609;Cloze;Polski::Aspekt;Polski Aspekt;<p>{{c1::Dokonane}} czasowniki odpowiadają na pytanie {{c2::co zrobić?}}.</p>;
 895e420d-7e37-4cd3-9927-08ad018b31cc;Cloze;Polski::Aspekt;Polski Aspekt;<p>{{c1::Noedokonane}} czasowniki odpowiadają na pytanie {{c2::co robić?}}.</p>;
-30ac794e-4486-4f9b-bb6c-ce6707378b20;Cloze;Polski::Aspekt;Polski Aspekt;<p>Dokonaną formą czasownika <strong>pisać</strong> jest {{c1::napisać}}.</p>;"<p><strong>Przykład:</strong></p>
-<ul>
-<li><em>Będę pisać list</em> – proces pisania, nie wiadomo, czy skończę.</li>
-<li><em>Napisałem list</em> – czynność zakończona, list jest gotowy.</li>
-</ul>"
-da293bd9-92fc-43e1-b9ff-761177b8fc4f;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonaną formą czasownika <strong>napisać</strong> jest {{c1::pisać}}.</p>;"<p><strong>Przykład:</strong></p>
-<ul>
-<li><em>Będę pisać list</em> – proces pisania, nie wiadomo, czy skończę.</li>
-<li><em>Napisałem list</em> – czynność zakończona, list jest gotowy.</li>
-</ul>"
-08944030-f905-4a20-80c8-7f90fa4176f2;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::pisać}} → Dokonany: {{c2::napisać}}</p>;
-7ac4a9dc-9afe-4c64-ab2a-8005a1c1f73a;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::czytać}} → Dokonany: {{c2::przeczytać}}</p>;
-47e4d9ea-19bb-4093-a665-699cfb551f28;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::jeść}} → Dokonany: {{c2::zjeść}}</p>;
-da3fe909-8689-4d85-b3c3-201f66a71b8c;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::robić}} → Dokonany: {{c2::zrobić}}</p>;
-a96bec43-7fcc-418a-b5a6-782637626c47;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::kupować}} → Dokonany: {{c2::kupić}}</p>;
-5aee73e0-48f8-410a-97dd-1ffd6d13682e;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::uczyć się}} → Dokonany: {{c2::nauczyć się}}</p>;
-fc2f1bf5-7558-40a0-8284-a2545ea44218;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::myć}} → Dokonany: {{c2::umyć}}</p>;
-a8069d57-1f35-4a02-bedd-dfd1f5a0f498;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::oglądać}} → Dokonany: {{c2::obejrzeć}}</p>;
-af4d64d7-06de-4d86-a392-4c7fa37ee13b;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::brać}} → Dokonany: {{c2::wziąć}}</p>;
-712f8754-f443-4ad9-894d-eb2982a8c8cf;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::gotować}} → Dokonany: {{c2::ugotować}}</p>;
-270f4785-6a22-4e24-a07d-0372e432c154;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::malować}} → Dokonany: {{c2::pomalować}}</p>;
-f65418ac-5ca7-43d3-8ede-0eaaebdc2a06;Cloze;Polski::Aspekt;Polski Aspekt;<p>Dokonaną formą czasownika <strong>brać</strong> jest {{c1::wziąć}}.</p>;
-bfbc8310-840f-4862-854b-258cee06455d;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonaną formą czasownika <strong>wziąć</strong> jest {{c1::brać}}.</p>;
-a381c316-4292-4bca-bfc0-280df151e228;Cloze;Polski::Aspekt;Polski Aspekt;<p>Dokonaną formą czasownika <strong>oglądać</strong> jest {{c1::obejrzeć}}.</p>;
-96af85f1-2218-445e-8f84-d8d977cabc4d;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonaną formą czasownika <strong>obejrzeć</strong> jest {{c1::oglądać}}.</p>;
-bb11d1bb-d227-4b9e-9662-933a48022fe8;Cloze;Polski::Aspekt;Polski Aspekt;<p>Dokonaną formą czasownika <strong>kłaść</strong> jest {{c1::polożyć}}.</p>;
-2d138659-3839-400e-84be-84ac87f688d9;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonaną formą czasownika <strong>polożyć</strong> jest {{c1::kłaść}}.</p>;
-2dfba276-eecc-49dd-a82c-2cab70c9828c;Cloze;Polski::Aspekt;Polski Aspekt;<p>Dokonaną formą czasownika <strong>wsiadać</strong> jest {{c1::wsiąść}}.</p>;
-38064401-d7f5-49f3-97e0-eb49b9833870;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonaną formą czasownika <strong>wsiąść</strong> jest {{c1::wsiadać}}.</p>;
-aac186a6-2c24-4cd5-9340-21e5cf470307;Cloze;Polski::Aspekt;Polski Aspekt;<p>Dokonaną formą czasownika <strong>gotować</strong> jest {{c1::ugotować}}.</p>;"<p><strong>Przykład:</strong></p>
-<ul>
-<li><em>Tata gotował obiad</em> – proces trwał, nie wiemy, czy został zakończony.</li>
-<li><em>Tata ugotował obiad</em> – obiad jest gotowy, czynność zakończona.</li>
-</ul>"
-7eae49bb-4caf-4587-9600-dc2c0d0f05dc;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonaną formą czasownika <strong>ugotować</strong> jest {{c1::gotować}}.</p>;"<p><strong>Przykład:</strong></p>
-<ul>
-<li><em>Tata gotował obiad</em> – proces trwał, nie wiemy, czy został zakończony.</li>
-<li><em>Tata ugotował obiad</em> – obiad jest gotowy, czynność zakończona.</li>
-</ul>"
+c7bb4e18-be52-4032-87b3-5c00e221727e;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::dawać}} → Dokonany: {{c2::dać}}</p>;<p>Daję prezent. / Dałem prezent.</p>
+22db7452-1091-4f62-b173-e15f6070c215;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::widzieć}} → Dokonany: {{c2::zobaczyć}}</p>;<p>Widzę film. / Zobaczyłem film.</p>
+af4d64d7-06de-4d86-a392-4c7fa37ee13b;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::brać}} → Dokonany: {{c2::wziąć}}</p>;<p>Biorę książkę. / Wziąłem książkę.</p>
+a8069d57-1f35-4a02-bedd-dfd1f5a0f498;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::oglądać}} → Dokonany: {{c2::obejrzeć}}</p>;<p>Ogląda film. / Obejrzał film.</p>
+ab8d382c-e721-4e27-9614-adc4b449b629;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::znajdować}} → Dokonany: {{c2::znaleźć}}</p>;<p>Znajduję książkę. / Znalazłem książkę.</p>
+c4315b3e-4706-4196-83b8-6ca3162a273b;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::mówić}} → Dokonany: {{c2::powiedzieć}}</p>;<p>Mówi prawdę. / Powiedział prawdę.</p>
+71dcaaea-53ab-4115-a71d-d78be205e613;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::chodzić/iść}} → Dokonany: {{c2::pójść}}</p>;<p>Idzie do szkoły. / Poszedł do szkoły.</p>
+bb11d1bb-d227-4b9e-9662-933a48022fe8;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::kłaść}} → Dokonany: {{c1::polożyć}}.</p>;<p>Kładzie książkę na stole. / Położył książkę na stole.</p>
+2dfba276-eecc-49dd-a82c-2cab70c9828c;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::wsiadać}} → Dokonany: {{c1::wsiąść}}.</p>;<p>Wsiada do autobusu. / Wsiadł do autobusu.</p>
+afc1694b-ee6a-4103-ac3f-a54872cab762;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::umierać}} → Dokonany: {{c2::umrzeć}}</p>;<p>Umiera z głodu. / Umarł z głodu.</p>
+08944030-f905-4a20-80c8-7f90fa4176f2;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::pisać}} → Dokonany: {{c2::napisać}}</p>;<p>Piszę list. / Napisałem list.</p>
+7ac4a9dc-9afe-4c64-ab2a-8005a1c1f73a;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::czytać}} → Dokonany: {{c2::przeczytać}}</p>;<p>Czytam książkę. / Przeczytałem książkę.</p>
+47e4d9ea-19bb-4093-a665-699cfb551f28;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::jeść}} → Dokonany: {{c2::zjeść}}</p>;<p>Jem obiad. / Zjadłem obiad.</p>
+da3fe909-8689-4d85-b3c3-201f66a71b8c;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::robić}} → Dokonany: {{c2::zrobić}}</p>;<p>Robię zadanie. / Zrobiłem zadanie.</p>
+a96bec43-7fcc-418a-b5a6-782637626c47;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::kupować}} → Dokonany: {{c2::kupić}}</p>;<p>Kupuję chleb. / Kupiłem chleb.</p>
+5aee73e0-48f8-410a-97dd-1ffd6d13682e;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::uczyć się}} → Dokonany: {{c2::nauczyć się}}</p>;<p>Uczę się języka. / Nauczyłem się języka.</p>
+fc2f1bf5-7558-40a0-8284-a2545ea44218;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::myć}} → Dokonany: {{c2::umyć}}</p>;<p>Myję naczynia. / Umyłem naczynia.</p>
+712f8754-f443-4ad9-894d-eb2982a8c8cf;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::gotować}} → Dokonany: {{c2::ugotować}}</p>;<p>Gotuję zupę. / Ugotowałem zupę.</p>
+270f4785-6a22-4e24-a07d-0372e432c154;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::malować}} → Dokonany: {{c2::pomalować}}</p>;<p>Maluję obraz. / Pomalowałem obraz.</p>
+758dbe0c-ae4b-4e75-9600-8f13a0ad376a;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::otwierać}} → Dokonany: {{c2::otworzyć}}</p>;<p>Otwiera drzwi. / Otworzył drzwi.</p>
+d1d33b8c-41e4-4318-8f3c-c68b927ba041;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::odpowiadać}} → Dokonany: {{c2::odpowiedzieć}}</p>;<p>Odpowiada na pytanie. / Odpowiedział na pytanie.</p>
 2ed0d6b2-9192-46de-b77e-c6449134538f;Basic (and reversed card);Polski::Meta::Częśći Mowy;Polski Meta;<p>Czasownik/Verb</p>;"<p>Określa czynności lub stany, odpowiada na pytania: co robi? co się z nim dzieje?</p>
 <ul>
 <li><strong>lubić</strong></li>
@@ -113,7 +95,7 @@ c73b2c7e-c8c3-48f3-bb3d-f737e2dea08e;Basic (and reversed card);Polski::Meta::Prz
 <li><strong>O dobrej kobiecie.</strong></li>
 <li><strong>O dobrym dziecku.</strong></li>
 </ul>"
-302c7302-6ba9-496a-8e30-91783fc94523;Basic (and reversed card);Polski::Meta::Przypadki;Polski Meta;<p>Czasownik Dokonany</p>;"<h1>Czasownik, który wskazuje na zakończoną czynność.</h1>
+302c7302-6ba9-496a-8e30-91783fc94523;Basic (and reversed card);Polski::Meta::Przypadki;Polski Meta;<p>Czasownik Dokonany</p>;"<p>Czasownik, który wskazuje na zakończoną czynność.</p>
 <p>Forma dokonana czasownika odnosi się do czynności, która została zakończona lub zostanie zakończona. Czasowniki dokonane informują o rezultacie, a nie o przebiegu czynności. W przeciwieństwie do czasowników niedokonanych, czasowniki dokonane nie posiadają formy czasu teraźniejszego.</p>
 <h2>Cechy czasowników dokonanych:</h2>
 <h3>Zakończenie czynności:</h3>
@@ -137,7 +119,7 @@ c73b2c7e-c8c3-48f3-bb3d-f737e2dea08e;Basic (and reversed card);Polski::Meta::Prz
 <li><strong>po-</strong>: <em>pojechać, pocałować, pomóc</em></li>
 <li><strong>u-</strong>: <em>ułożyć, ustalić, umyć</em></li>
 </ul>"
-8db21331-0db6-4a08-8b29-9a35cb97f04e;Basic (and reversed card);Polski::Meta::Przypadki;Polski Meta;<p>Czasownik Niedokonany</p>;"<h1>Czasownik, który wskazuje na czynność trwającą lub powtarzającą się.</h1>
+8db21331-0db6-4a08-8b29-9a35cb97f04e;Basic (and reversed card);Polski::Meta::Przypadki;Polski Meta;<p>Czasownik Niedokonany</p>;"<p>Czasownik, który wskazuje na czynność trwającą lub powtarzającą się.</p>
 <p>Forma niedokonana czasownika (aspekt niedokonany) odnosi się do czynności, która nie jest postrzegana jako zakończona, trwająca lub powtarzająca się. Określa stan lub czynność, która nie ma wyraźnych granic czasowych. W przeciwieństwie do formy dokonanej, która wskazuje na zakończoną czynność.</p>
 <h2>Kluczowe cechy formy niedokonanej:</h2>
 <ul>
@@ -1170,7 +1152,8 @@ ca7cbe0b-430f-4795-8fa3-3b7b5c01a3b6;Basic;Polski::Odmiany::Czasowniki;Polski Od
 41b98829-2e9e-4dd0-9f8f-a76c9d1df780;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [istnieć] (czas przeszły)</p>;<p>Ona istniała</p>
 98670c4e-0980-4111-b33a-c6f0f9a0322d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [istnieć] (czas przeszły)</p>;<p>Ono istniało</p>
 c5f0de06-8ecd-4202-9716-18a73fced1e8;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [istnieć] (czas przeszły)</p>;<p>Oni istnieli</p>
-fcd4dad6-5e75-4bd3-9de9-5e9b1964a600;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [iść] (czas teraźniejszy)</p>;<p>Ja idę</p>
+fcd4dad6-5e75-4bd3-9de9-5e9b1964a600;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [iść] (czas teraźniejszy)</p>;"<p>Ja idę</p>
+<p><em>Porównaj z &quot;Ja jeżdżę&quot;</em></p>"
 0cb87688-a2e6-4401-b271-33beadd4f1d3;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [iść] (czas teraźniejszy)</p>;<p>My idziemy</p>
 8d881961-fb92-4012-be21-44ec00b71d36;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [iść] (czas teraźniejszy)</p>;<p>Ty idziesz</p>
 899febc6-9495-4e6a-9ea3-572eab2a0b71;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [iść] (czas teraźniejszy)</p>;<p>Wy idziecie</p>
@@ -1599,63 +1582,105 @@ c6509538-6d88-44e8-be1d-91dadf3a7f5d;Basic;Polski::Odmiany::Czasowniki;Polski Od
 <li><em>A później zmuście ich do powrotu.</em></li>
 <li><em>Sami się zmuście do uczciwości i dobroci.</em></li>
 </ul>"
-bbaa1351-5e7a-41bd-8337-8d79c4b17e45;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (czas teraźniejszy)</p>;<p>Ja znajduję</p>
-8eb1a280-3625-480f-9b95-e3f0542182f5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znajdować] (czas teraźniejszy)</p>;<p>My znajdujemy</p>
-d2e48dcc-bbaa-4192-b3b0-d7a01d8de4ea;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (czas teraźniejszy)</p>;<p>Ty znajdujesz</p>
-3c468b96-a859-4b93-82af-b794df70c12a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znajdować] (czas teraźniejszy)</p>;<p>Wy znajdujecie</p>
-b0268b26-c707-4775-b2a6-860e4c994c2a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [znajdować] (czas teraźniejszy)</p>;<p>On/Ona/Ono znajduje</p>
-b8d38f96-887c-4156-8e85-df72550908f9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [znajdować] (czas teraźniejszy)</p>;<p>Oni znajdują</p>
-3e5bae11-b33f-45cb-ab06-be33472a529d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (męski, czas przeszły)</p>;<p>Ja znajdowałem</p>
-a177cc2f-80eb-4fe4-ad38-3191592dfa40;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (żeński, czas przeszły)</p>;<p>Ja znajdowałam</p>
-c8bf8464-0d55-4621-b9e1-b6624e789b02;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (nijaki, czas przeszły)</p>;<p>Ja znajdowałom</p>
-781d0c1a-7946-41a7-aded-7174f4d51107;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znajdować] (czas przeszły)</p>;<p>My znajdowaliśmy</p>
-2fa47a80-f3ba-4688-9bc2-64ce4cc99f37;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (męski, czas przeszły)</p>;<p>Ty znajdowałeś</p>
-9d291bd1-6cbf-4dbb-8a51-8cf56e7d36dc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (żeński, czas przeszły)</p>;<p>Ty znajdowałaś</p>
-3bb1459d-69ed-4249-8086-f8495f6edd78;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (nijaki, czas przeszły)</p>;<p>Ty znajdowałoś</p>
-57e06cb4-eac5-447c-b3dd-f6fa7570c9f0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znajdować] (czas przeszły)</p>;<p>Wy znajdowaliście</p>
-473f0293-9711-4b09-897b-5099a0ce0275;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [znajdować] (czas przeszły)</p>;<p>On znajdował</p>
-cdb27bc0-e9fc-4cf5-ac0f-5ca2fd90af44;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [znajdować] (czas przeszły)</p>;<p>Ona znajdowała</p>
-53658266-1646-4f48-a4ef-f0067622586c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [znajdować] (czas przeszły)</p>;<p>Ono znajdowało</p>
-758a15ed-b2b1-43f8-846b-e5688c15a989;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [znajdować] (czas przeszły)</p>;<p>Oni znajdowali</p>
+bbaa1351-5e7a-41bd-8337-8d79c4b17e45;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (czas teraźniejszy)</p>;"<p>Ja znajduję</p>
+<p><em>Porównaj z &quot;Ja znajdę&quot;</em></p>"
+8eb1a280-3625-480f-9b95-e3f0542182f5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znajdować] (czas teraźniejszy)</p>;"<p>My znajdujemy</p>
+<p><em>Porównaj z &quot;znajdziemy&quot;</em></p>"
+d2e48dcc-bbaa-4192-b3b0-d7a01d8de4ea;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (czas teraźniejszy)</p>;"<p>Ty znajdujesz</p>
+<p><em>Porównaj z &quot;znajdziesz&quot;</em></p>"
+3c468b96-a859-4b93-82af-b794df70c12a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znajdować] (czas teraźniejszy)</p>;"<p>Wy znajdujecie</p>
+<p><em>Porównaj z &quot;znajdziecie&quot;</em></p>"
+b0268b26-c707-4775-b2a6-860e4c994c2a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [znajdować] (czas teraźniejszy)</p>;"<p>On/Ona/Ono znajduje</p>
+<p><em>Porównaj z &quot;znajdzie&quot;</em></p>"
+b8d38f96-887c-4156-8e85-df72550908f9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [znajdować] (czas teraźniejszy)</p>;"<p>Oni/One znajdują</p>
+<p><em>Porównaj z &quot;znajdą&quot;</em></p>"
+3e5bae11-b33f-45cb-ab06-be33472a529d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (męski, czas przeszły)</p>;"<p>Ja znajdowałem</p>
+<p><em>Porównaj z &quot;znalazłem&quot;</em></p>"
+a177cc2f-80eb-4fe4-ad38-3191592dfa40;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (żeński, czas przeszły)</p>;"<p>Ja znajdowałam</p>
+<p><em>Porównaj z &quot;znalazłam&quot;</em></p>"
+c8bf8464-0d55-4621-b9e1-b6624e789b02;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (nijaki, czas przeszły)</p>;"<p>Ja znajdowałom</p>
+<p><em>Porównaj z &quot;znalazłom&quot;</em></p>"
+781d0c1a-7946-41a7-aded-7174f4d51107;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znajdować] (czas przeszły)</p>;"<p>My znajdowaliśmy</p>
+<p><em>Porównaj z &quot;znaleźliśmy&quot;</em></p>"
+2fa47a80-f3ba-4688-9bc2-64ce4cc99f37;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (męski, czas przeszły)</p>;"<p>Ty znajdowałeś</p>
+<p><em>Porównaj z &quot;znalazłeś&quot;</em></p>"
+9d291bd1-6cbf-4dbb-8a51-8cf56e7d36dc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (żeński, czas przeszły)</p>;"<p>Ty znajdowałaś</p>
+<p><em>Porównaj z &quot;znalazłaś&quot;</em></p>"
+3bb1459d-69ed-4249-8086-f8495f6edd78;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (nijaki, czas przeszły)</p>;"<p>Ty znajdowałoś</p>
+<p><em>Porównaj z &quot;znalazłoś&quot;</em></p>"
+57e06cb4-eac5-447c-b3dd-f6fa7570c9f0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znajdować] (czas przeszły)</p>;"<p>Wy znajdowaliście</p>
+<p><em>Porównaj z &quot;znaleźliście&quot;</em></p>"
+473f0293-9711-4b09-897b-5099a0ce0275;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [znajdować] (czas przeszły)</p>;"<p>On znajdował</p>
+<p><em>Porównaj z &quot;znalazł&quot;</em></p>"
+cdb27bc0-e9fc-4cf5-ac0f-5ca2fd90af44;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [znajdować] (czas przeszły)</p>;"<p>Ona znajdowała</p>
+<p><em>Porównaj z &quot;znalazła&quot;</em></p>"
+53658266-1646-4f48-a4ef-f0067622586c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [znajdować] (czas przeszły)</p>;"<p>Ono znajdowało</p>
+<p><em>Porównaj z &quot;znalazło&quot;</em></p>"
+758a15ed-b2b1-43f8-846b-e5688c15a989;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [znajdować] (czas przeszły)</p>;"<p>Oni znajdowali</p>
+<p><em>Porównaj z &quot;znaleźli&quot;</em></p>"
 717784d0-706b-4a52-91da-a95d0fe6c7cc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (tryb rozkazujący)</p>;"<p>Ty znajduj</p>
+<p><em>Porównaj z &quot;znajdź&quot;</em></p>
 <ul>
 <li><em>Analizuj odchylenia i znajduj przyczyny.</em></li>
 <li><em>Szybko znajduj potrzebne dokumenty.</em></li>
 <li><em>Baw się oraz znajduj przyjemności.</em></li>
 </ul>"
 ad18e992-0412-477c-8703-91afcc1c2267;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znajdować] (tryb rozkazujący)</p>;"<p>My znajdujmy</p>
+<p><em>Porównaj z &quot;znajdźmy&quot;</em></p>
 <ul>
 <li><em>Co w tych filozofiach znajdujmy?</em></li>
 <li><em>Znajdujmy czas dla naszych najbliższych.</em></li>
 <li><em>Tylko sami znajdujmy naszych klientów.</em></li>
 </ul>"
 9f76e6cf-6a5c-4bfa-a891-d1b08fd7af96;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znajdować] (tryb rozkazujący)</p>;"<p>Wy znajdujcie</p>
+<p><em>Porównaj z &quot;znajdźcie&quot;</em></p>
 <ul>
 <li><em>Codziennie znajdujcie powody, by radować się.</em></li>
 <li><em>Filtrujcie informacje i znajdujcie ich źródła.</em></li>
 <li><em>Znajdujcie miłość i pasję we wszystkim, co robicie.</em></li>
 </ul>"
-46cb26b2-d136-4e8a-9782-cafbbddf04fb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (czas teraźniejszy)</p>;<p>Ja znajdę</p>
-3e43e79d-b675-481f-bc40-542756bc4b6b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znaleźć] (czas teraźniejszy)</p>;<p>My znajdziemy</p>
-22d2109d-59da-4a2c-97b8-98b813dd025b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (czas teraźniejszy)</p>;<p>Ty znajdziesz</p>
-d68daadb-99aa-4b34-a455-07bde6761c9a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znaleźć] (czas teraźniejszy)</p>;<p>Wy znajdziecie</p>
-3949d352-a2e5-45d6-973c-55ee6ce726bb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [znaleźć] (czas teraźniejszy)</p>;<p>On/Ona/Ono znajdzie</p>
-2bcac1ed-c974-4d7e-8929-9fd019455899;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [znaleźć] (czas teraźniejszy)</p>;<p>Oni/One znajdą</p>
-920bcc9f-1388-4dd8-922c-22a71199df3d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (męski, czas przeszły)</p>;<p>Ja znalazłem</p>
-91fae198-65ce-4099-93d9-6daba6f44e05;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (żeński, czas przeszły)</p>;<p>Ja znalazłam</p>
-53ff9492-3877-4652-84a2-df5d727d929d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (nijaki, czas przeszły)</p>;<p>Ja znalazłom</p>
-124248be-70dc-409d-8eb0-fd2d6547df4e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znaleźć] (czas przeszły)</p>;<p>My znaleźliśmy</p>
-1763eb44-4a56-46ef-9eaa-d0aa74f5b795;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (męski, czas przeszły)</p>;<p>Ty znalazłeś</p>
-07293b73-cb2f-4d8b-b52e-2cde5b1ea478;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (żeński, czas przeszły)</p>;<p>Ty znalazłaś</p>
-d7754205-f56e-433d-83a4-0d24a6c863c6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (nijaki, czas przeszły)</p>;<p>Ty znalazłoś</p>
-824bc4d1-6739-4b85-9324-df51c659d510;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znaleźć] (czas przeszły)</p>;<p>Wy znaleźliście</p>
-b3124215-9c29-458e-bf28-ab5efc612939;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [znaleźć] (czas przeszły)</p>;<p>On znalazł</p>
-cfc4b417-e26b-41d2-934c-90ed6c578f82;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [znaleźć] (czas przeszły)</p>;<p>Ona znalazła</p>
-b608aae5-6ea5-40ee-a7fd-b453d147ffe3;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [znaleźć] (czas przeszły)</p>;<p>Ono znalazło</p>
-df520eb8-b4d7-4a3a-a979-b4fc463e708f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [znaleźć] (czas przeszły)</p>;<p>Oni znaleźli</p>
-0e269e15-ed73-4728-8bc9-49bc625028e2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (tryb rozkazujący)</p>;<p>Ty znajdź</p>
-b8ad997b-7445-402e-bae9-2a08cb114e27;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znaleźć] (tryb rozkazujący)</p>;<p>My znajdźmy</p>
-694c2f4d-93b6-4171-86e0-bc0fb3e6a3de;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znaleźć] (tryb rozkazujący)</p>;<p>Wy znajdźcie</p>
+46cb26b2-d136-4e8a-9782-cafbbddf04fb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (czas teraźniejszy)</p>;"<p>Ja znajdę</p>
+<p><em>Porównaj z &quot;Ja znajduję&quot;</em></p>"
+3e43e79d-b675-481f-bc40-542756bc4b6b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znaleźć] (czas teraźniejszy)</p>;"<p>My znajdziemy</p>
+<p><em>Porównaj z &quot;znajdujemy&quot;</em></p>"
+22d2109d-59da-4a2c-97b8-98b813dd025b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (czas teraźniejszy)</p>;"<p>Ty znajdziesz</p>
+<p><em>Porównaj z &quot;znajdujesz&quot;</em></p>"
+d68daadb-99aa-4b34-a455-07bde6761c9a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znaleźć] (czas teraźniejszy)</p>;"<p>Wy znajdziecie</p>
+<p><em>Porównaj z &quot;znajdujecie&quot;</em></p>"
+3949d352-a2e5-45d6-973c-55ee6ce726bb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [znaleźć] (czas teraźniejszy)</p>;"<p>On/Ona/Ono znajdzie</p>
+<p><em>Porównaj z &quot;znajduje&quot;</em></p>"
+2bcac1ed-c974-4d7e-8929-9fd019455899;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [znaleźć] (czas teraźniejszy)</p>;"<p>Oni/One znajdą</p>
+<p><em>Porównaj z &quot;znajdują&quot;</em></p>"
+920bcc9f-1388-4dd8-922c-22a71199df3d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (męski, czas przeszły)</p>;"<p>Ja znalazłem</p>
+<p><em>Porównaj z &quot;znajdowałem&quot;</em></p>"
+91fae198-65ce-4099-93d9-6daba6f44e05;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (żeński, czas przeszły)</p>;"<p>Ja znalazłam</p>
+<p><em>Porównaj z &quot;znajdowałam&quot;</em></p>"
+53ff9492-3877-4652-84a2-df5d727d929d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (nijaki, czas przeszły)</p>;"<p>Ja znalazłom</p>
+<p><em>Porównaj z &quot;znajdowałom&quot;</em></p>"
+124248be-70dc-409d-8eb0-fd2d6547df4e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znaleźć] (czas przeszły)</p>;"<p>My znaleźliśmy</p>
+<p><em>Porównaj z &quot;znajdowaliśmy&quot;</em></p>"
+1763eb44-4a56-46ef-9eaa-d0aa74f5b795;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (męski, czas przeszły)</p>;"<p>Ty znalazłeś</p>
+<p><em>Porównaj z &quot;znajdowałeś&quot;</em></p>"
+07293b73-cb2f-4d8b-b52e-2cde5b1ea478;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (żeński, czas przeszły)</p>;"<p>Ty znalazłaś</p>
+<p><em>Porównaj z &quot;znajdowałaś&quot;</em></p>"
+d7754205-f56e-433d-83a4-0d24a6c863c6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (nijaki, czas przeszły)</p>;"<p>Ty znalazłoś</p>
+<p><em>Porównaj z &quot;znajdowałoś&quot;</em></p>"
+824bc4d1-6739-4b85-9324-df51c659d510;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znaleźć] (czas przeszły)</p>;"<p>Wy znaleźliście</p>
+<p><em>Porównaj z &quot;znajdowaliście&quot;</em></p>"
+b3124215-9c29-458e-bf28-ab5efc612939;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [znaleźć] (czas przeszły)</p>;"<p>On znalazł</p>
+<p><em>Porównaj z &quot;znajdował&quot;</em></p>"
+cfc4b417-e26b-41d2-934c-90ed6c578f82;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [znaleźć] (czas przeszły)</p>;"<p>Ona znalazła</p>
+<p><em>Porównaj z &quot;znajdowała&quot;</em></p>"
+b608aae5-6ea5-40ee-a7fd-b453d147ffe3;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [znaleźć] (czas przeszły)</p>;"<p>Ono znalazło</p>
+<p><em>Porównaj z &quot;znajdowało&quot;</em></p>"
+df520eb8-b4d7-4a3a-a979-b4fc463e708f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [znaleźć] (czas przeszły)</p>;"<p>Oni znaleźli</p>
+<p><em>Porównaj z &quot;znajdowali&quot;</em></p>"
+0e269e15-ed73-4728-8bc9-49bc625028e2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (tryb rozkazujący)</p>;"<p>Ty znajdź</p>
+<p><em>Porównaj z &quot;znajduj&quot;</em></p>"
+b8ad997b-7445-402e-bae9-2a08cb114e27;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znaleźć] (tryb rozkazujący)</p>;"<p>My znajdźmy</p>
+<p><em>Porównaj z &quot;znajdujmy&quot;</em></p>"
+694c2f4d-93b6-4171-86e0-bc0fb3e6a3de;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znaleźć] (tryb rozkazujący)</p>;"<p>Wy znajdźcie</p>
+<p><em>Porównaj z &quot;znajdujcie&quot;</em></p>"
 a0197134-bee9-42dd-bd3d-3b44a85bbcaa;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znać] (czas teraźniejszy)</p>;<p>Ja znam</p>
 e8afd92e-e06a-423e-b11e-066d420a6011;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znać] (czas teraźniejszy)</p>;<p>My znamy</p>
 6a62ac4a-973e-4d7d-906b-4f5ae278c112;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znać] (czas teraźniejszy)</p>;<p>Ty znasz</p>
@@ -9135,3 +9160,10 @@ a5315a2b-c4ec-420d-a986-a129051d77b3;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 6b99748a-0b93-4921-abae-b23c4e584103;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>звучный и запоминающийся текст</p>;<p>dźwięczny i chwytliwy tekst</p>
 01ef7c1e-4b19-497f-b280-d227eb0c7de3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>покажи мне примеры</p>;<p>pokaż mi przykłady</p>
 47dcf5db-dc9d-4139-b579-3ab5d5743bce;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>разговорные выражения</p>;<p>potoczne wyrażenia</p>
+cdc25351-8ee2-4890-a9f8-0981d27adce7;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>находи причины</p>;<p>znajduj przyczyny</p>
+b0da2c37-40c4-4944-8931-1f40b99d094d;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>находи нужные документы</p>;<p>znajduj potrzebne dokumenty</p>
+817bd8df-fa7a-40b1-9ed9-6471aa220399;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>только сами находим наших клиентов</p>;<p>tylko sami znajdujmy naszych klientów</p>
+2479b389-004f-4f3e-a56d-0ed3e98d97c9;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>находите причины, чтобы радоваться</p>;<p>znajdujcie powody, by radować się</p>
+cac9c914-a4b6-457e-bf91-f0fb5f93854f;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>постоянно нахожу себя в совершенно новых местах</p>;<p>ciągle znajduję się w zupełnie nowych miejscach</p>
+bec463a9-b939-4995-880c-a43d8ea9d259;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>совершенно другим языком</p>;<p>zupełnie innym językiem</p>
+e45750b3-1a63-4f82-9bf7-dd67c7d65bba;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>чувствовали себя совершенно беспомощными</p>;<p>czuli się zupełnie bezradni</p>
