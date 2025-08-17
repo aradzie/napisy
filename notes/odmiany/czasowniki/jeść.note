@@ -32,9 +32,9 @@
 !back:
 Oni/One jedzą
 
-*Porównaj z: "Oni/One jeździć/jadą"*
+*Porównaj z "Oni/One (jeździć) jeżdżą"*
 
-*Porównaj z "Oni/One jechać/jeżdżą"*
+*Porównaj z "Oni/One (jechać) jadą"*
 ~~~
 
 !id: 37579502-8637-4e4f-8935-ab9a443726eb
@@ -99,15 +99,30 @@ Oni/One jedzą
 
 !id: 55cca480-dcf7-4f4a-a597-8f76d736905a
 !front: Ty [jeść] (tryb rozkazujący)
-!back: Ty jedz
+!back:
+Ty jedz
+
+*Porównaj z "Ty (jeździć) jeździj,jeźdź"*
+
+*Porównaj z "Ty (jechać) jedź"*
 ~~~
 
 !id: 21ad7ba9-4f80-4dab-9096-479ce0953007
 !front: My [jeść] (tryb rozkazujący)
-!back: My jedzmy
+!back:
+My jedzmy
+
+*Porównaj z "My (jeździć) jeździjmy,jeźdźmy"*
+
+*Porównaj z "My (jechać) jedźmy"*
 ~~~
 
 !id: 835de0de-2d62-43c9-84f6-88bbaf33516c
 !front: Wy [jeść] (tryb rozkazujący)
-!back: Wy jedzcie
+!back:
+Wy jedzcie
+
+*Porównaj z "Wy (jeździć) jeździjcie,jeźdźcie"*
+
+*Porównaj z "Wy (jechać) jedźcie"*
 ~~~

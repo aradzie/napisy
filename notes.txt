@@ -1175,17 +1175,17 @@ e68eecda-2da9-4fee-9d72-133c4ff1292e;Basic;Polski::Odmiany::Czasowniki;Polski Od
 4898d149-fed1-4d07-aa6c-6c28b6c46aeb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [iść] (tryb rozkazujący)</p>;<p>My idźmy</p>
 1e98cf63-0297-47bc-81b4-dd98275ee6ae;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [iść] (tryb rozkazujący)</p>;<p>Wy idźcie</p>
 aa69245e-b362-4e16-acbf-923659954ee0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (czas teraźniejszy)</p>;"<p>Ja jadę</p>
-<p><em>Porównaj z: &quot;jeżdżę&quot;</em></p>"
+<p><em>Porównaj z &quot;Ja (jeździć) jeżdżę&quot;</em></p>"
 863be6cf-1ce8-459f-960e-f34e56d70c63;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jechać] (czas teraźniejszy)</p>;"<p>My jedziemy</p>
-<p><em>Porównaj z: &quot;jeździmy&quot;</em></p>"
+<p><em>Porównaj z &quot;My (jeździć) jeździmy&quot;</em></p>"
 10231d0c-c74e-4553-b144-314eff2b5f6c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jechać] (czas teraźniejszy)</p>;"<p>Ty jedziesz</p>
-<p><em>Porównaj z: &quot;jeździsz&quot;</em></p>"
+<p><em>Porównaj z &quot;Ty (jeździć) jeździsz&quot;</em></p>"
 9e6f2daa-007e-4f93-9911-2adf1a30089e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jechać] (czas teraźniejszy)</p>;"<p>Wy jedziecie</p>
-<p><em>Porównaj z: &quot;jeździcie&quot;</em></p>"
+<p><em>Porównaj z &quot;Wy (jeździć) jeździcie&quot;</em></p>"
 6c44ef9f-6d8a-4353-b927-e8e2d462e532;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [jechać] (czas teraźniejszy)</p>;"<p>On/Ona/Ono jedzie</p>
-<p><em>Porównaj z: &quot;jeździ&quot;</em></p>"
+<p><em>Porównaj z &quot;On/Ona/Ono (jeździć) jeździ&quot;</em></p>"
 83733cbd-5966-4074-a933-e061dcbc4c4c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [jechać] (czas teraźniejszy)</p>;"<p>Oni/One jadą</p>
-<p><em>Porównaj z &quot;Oni/One jeżdżą&quot;</em></p>"
+<p><em>Porównaj z &quot;Oni/One (jeździć) jeżdżą&quot;</em></p>"
 4bfcc4ee-dcf1-4723-930d-619775a3c161;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (męski, czas przeszły)</p>;<p>Ja jechałem</p>
 d0d6632f-5504-4c3f-af57-65bd4ca49551;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (żeński, czas przeszły)</p>;<p>Ja jechałam</p>
 2dc29593-d930-4d67-85dc-5ff73136418d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (nijaki, czas przeszły)</p>;<p>Ja jechałom</p>
@@ -1207,8 +1207,8 @@ a0d655cf-1e06-49a3-8ea2-8f9c931a846d;Basic;Polski::Odmiany::Czasowniki;Polski Od
 f88462cd-49d7-4f22-9072-8c848f73708d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeść] (czas teraźniejszy)</p>;<p>Wy jecie</p>
 04bf56dd-e628-43aa-9c39-949d7ddfb3da;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [jeść] (czas teraźniejszy)</p>;<p>On/Ona/Ono je</p>
 3b9a5c98-a52d-4420-a21c-b4ea02faf248;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [jeść] (czas teraźniejszy)</p>;"<p>Oni/One jedzą</p>
-<p><em>Porównaj z: &quot;Oni/One jeździć/jadą&quot;</em></p>
-<p><em>Porównaj z &quot;Oni/One jechać/jeżdżą&quot;</em></p>"
+<p><em>Porównaj z &quot;Oni/One (jeździć) jeżdżą&quot;</em></p>
+<p><em>Porównaj z &quot;Oni/One (jechać) jadą&quot;</em></p>"
 37579502-8637-4e4f-8935-ab9a443726eb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (męski, czas przeszły)</p>;<p>Ja jadłem</p>
 538abb10-047c-479c-a46c-6e2498c12c27;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (żeński, czas przeszły)</p>;<p>Ja jadłam</p>
 29f11c02-827f-48ca-869e-0b1b6deec495;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (nijaki, czas przeszły)</p>;<p>Ja jadłom</p>
@@ -1221,21 +1221,27 @@ bb9bd0d4-61d2-424a-a463-6e3fef24fec0;Basic;Polski::Odmiany::Czasowniki;Polski Od
 038bae4f-c8b8-4ca2-86c2-00c98d4c74c9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [jeść] (czas przeszły)</p>;<p>Ona jadła</p>
 2d19233c-88d5-49e4-affa-fddc2ff33930;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [jeść] (czas przeszły)</p>;<p>Ono jadło</p>
 8abb67c4-bf59-43be-aa2e-240fb79b61df;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [jeść] (czas przeszły)</p>;<p>Oni jedli</p>
-55cca480-dcf7-4f4a-a597-8f76d736905a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeść] (tryb rozkazujący)</p>;<p>Ty jedz</p>
-21ad7ba9-4f80-4dab-9096-479ce0953007;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jeść] (tryb rozkazujący)</p>;<p>My jedzmy</p>
-835de0de-2d62-43c9-84f6-88bbaf33516c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeść] (tryb rozkazujący)</p>;<p>Wy jedzcie</p>
+55cca480-dcf7-4f4a-a597-8f76d736905a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeść] (tryb rozkazujący)</p>;"<p>Ty jedz</p>
+<p><em>Porównaj z &quot;Ty (jeździć) jeździj,jeźdź&quot;</em></p>
+<p><em>Porównaj z &quot;Ty (jechać) jedź&quot;</em></p>"
+21ad7ba9-4f80-4dab-9096-479ce0953007;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jeść] (tryb rozkazujący)</p>;"<p>My jedzmy</p>
+<p><em>Porównaj z &quot;My (jeździć) jeździjmy,jeźdźmy&quot;</em></p>
+<p><em>Porównaj z &quot;My (jechać) jedźmy&quot;</em></p>"
+835de0de-2d62-43c9-84f6-88bbaf33516c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeść] (tryb rozkazujący)</p>;"<p>Wy jedzcie</p>
+<p><em>Porównaj z &quot;Wy (jeździć) jeździjcie,jeźdźcie&quot;</em></p>
+<p><em>Porównaj z &quot;Wy (jechać) jedźcie&quot;</em></p>"
 87cbd0dc-23e5-496f-b4a0-5ead500e90fe;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (czas teraźniejszy)</p>;"<p>Ja jeżdżę</p>
-<p><em>Porównaj z: &quot;jadę&quot;</em></p>"
+<p><em>Porównaj z &quot;Ja (jechać) jadę&quot;</em></p>"
 03ca450d-41eb-4165-a573-fc64f690837d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jeździć] (czas teraźniejszy)</p>;"<p>My jeździmy</p>
-<p><em>Porównaj z: &quot;jedziemy&quot;</em></p>"
+<p><em>Porównaj z &quot;My (jechać) jedziemy&quot;</em></p>"
 5133ec3b-9ae0-4b2a-83dd-642db626d4e0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeździć] (czas teraźniejszy)</p>;"<p>Ty jeździsz</p>
-<p><em>Porównaj z: &quot;jedziesz&quot;</em></p>"
+<p><em>Porównaj z &quot;Ty (jechać) jedziesz&quot;</em></p>"
 2bb4568d-5aee-4d92-bec6-cdea4f8632e2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeździć] (czas teraźniejszy)</p>;"<p>Wy jeździcie</p>
-<p><em>Porównaj z: &quot;jedziecie&quot;</em></p>"
+<p><em>Porównaj z &quot;Wy (jechać) jedziecie&quot;</em></p>"
 e8e10878-bb57-4d4b-9a38-a08c95012119;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [jeździć] (czas teraźniejszy)</p>;"<p>On/Ona/Ono jeździ</p>
-<p><em>Porównaj z: &quot;jedzie&quot;</em></p>"
+<p><em>Porównaj z &quot;On/Ona/Ono (jechać) jedzie&quot;</em></p>"
 e34b4764-82bf-4e1c-93c7-dd522965391a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [jeździć] (czas teraźniejszy)</p>;"<p>Oni/One jeżdżą</p>
-<p><em>Porównaj z: &quot;Oni/One jadą&quot;</em></p>"
+<p><em>Porównaj z &quot;Oni/One (jechać) jadą&quot;</em></p>"
 f8ddc0c5-4c9c-4c22-9306-d00076af1872;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (męski, czas przeszły)</p>;<p>Ja jeździłem</p>
 a3432a5c-cbca-4a8a-a508-ee3633d4e0c4;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (żeński, czas przeszły)</p>;<p>Ja jeździłam</p>
 ad831c82-aeed-4c41-a256-87fadb9b52ee;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (nijaki, czas przeszły)</p>;<p>Ja jeździłom</p>
@@ -1446,27 +1452,48 @@ c4f262d0-97f8-483b-8248-1a87c745e623;Basic;Polski::Odmiany::Czasowniki;Polski Od
 dd87f3a7-ca70-45f9-aab8-555de5bf92d4;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [umieć] (czas teraźniejszy)</p>;<p>Wy umiecie</p>
 034341f6-e890-48c1-9ee9-2a294d8f2769;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [umieć] (czas teraźniejszy)</p>;<p>On/Ona/Ono umie</p>
 7062a7f3-dd34-4fc1-a870-2ef730f01a93;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [umieć] (czas teraźniejszy)</p>;<p>Oni/One umieją</p>
-c21fa009-6041-4648-87d8-406322ab2605;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wejść] (czas teraźniejszy)</p>;<p>Ja wejdę</p>
-eaa3a102-6ac1-46c5-a5ed-518e1e3872d5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [wejść] (czas teraźniejszy)</p>;<p>My wejdziemy</p>
-943b358a-5b9c-4f5c-b99d-aca5302ef273;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (czas teraźniejszy)</p>;<p>Ty wejdziesz</p>
-d2d3e066-020b-4027-8054-a4b47a6c1058;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [wejść] (czas teraźniejszy)</p>;<p>Wy wejdziecie</p>
-34c4226f-9df5-4c64-ae7f-274266683dc4;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [wejść] (czas teraźniejszy)</p>;<p>On/Ona/Ono wejdzie</p>
-c46d2588-af7b-4dec-80c5-7a842fb3e065;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [wejść] (czas teraźniejszy)</p>;<p>Oni/One wejdą</p>
-87bc56d4-ef91-4a00-bb06-d8221f3488d0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wejść] (męski, czas przeszły)</p>;<p>Ja wszedłem</p>
-52838d4e-955d-4923-9f00-856d6a793e57;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wejść] (żeński, czas przeszły)</p>;<p>Ja weszłam</p>
-64fcca4f-2980-4912-8dd6-6bc76ebc5b18;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wejść] (nijaki, czas przeszły)</p>;<p>Ja weszłom</p>
-ddfb43bc-a0c3-4357-92d4-677a5826a5ef;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [wejść] (czas przeszły)</p>;<p>My weszliśmy</p>
-edd5e3e0-89db-44fc-a544-ca09ce1eaa5c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (męski, czas przeszły)</p>;<p>Ty wszedłeś</p>
-d36b2b16-7af6-49d7-b843-ef92b80a9ee0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (żeński, czas przeszły)</p>;<p>Ty weszłaś</p>
-eb991846-fa27-4e59-b81d-5642baabc1e7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (nijaki, czas przeszły)</p>;<p>Ty weszłoś</p>
-627395fe-13dd-4112-a3ea-2fb211106677;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [wejść] (czas przeszły)</p>;<p>Wy weszliście</p>
-a57ce6d9-d98f-444e-9e59-29ee9ae95585;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [wejść] (czas przeszły)</p>;<p>On wszedł</p>
-3f69e343-90fc-4e07-b7c5-37a2bde9c4b3;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [wejść] (czas przeszły)</p>;<p>Ona weszła</p>
-31db1a87-5f4a-4439-bbbb-00dc7393df0a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [wejść] (czas przeszły)</p>;<p>Ono weszło</p>
-4dd22af1-a643-4678-a78f-dfd08a1cd1b1;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [wejść] (czas przeszły)</p>;<p>Oni weszli</p>
-811e1264-21d2-4024-9b6e-e187c1cc5afd;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (tryb rozkazujący)</p>;<p>Ty wejdź</p>
-68dbef82-8f4d-42a2-a5ca-38e5411f8417;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [wejść] (tryb rozkazujący)</p>;<p>My wejdźmy</p>
-3b40170c-b3e8-406e-bf71-8b4a6d9c1c02;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [wejść] (tryb rozkazujący)</p>;<p>Wy wejdźcie</p>
+c21fa009-6041-4648-87d8-406322ab2605;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wejść] (czas teraźniejszy)</p>;"<p>Ja wejdę</p>
+<p><em>Porównaj z &quot;Ja idę&quot;</em></p>"
+eaa3a102-6ac1-46c5-a5ed-518e1e3872d5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [wejść] (czas teraźniejszy)</p>;"<p>My wejdziemy</p>
+<p><em>Porównaj z &quot;My idziemy&quot;</em></p>"
+943b358a-5b9c-4f5c-b99d-aca5302ef273;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (czas teraźniejszy)</p>;"<p>Ty wejdziesz</p>
+<p><em>Porównaj z &quot;Ty idziesz&quot;</em></p>"
+d2d3e066-020b-4027-8054-a4b47a6c1058;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [wejść] (czas teraźniejszy)</p>;"<p>Wy wejdziecie</p>
+<p><em>Porównaj z &quot;Wy idziecie&quot;</em></p>"
+34c4226f-9df5-4c64-ae7f-274266683dc4;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [wejść] (czas teraźniejszy)</p>;"<p>On/Ona/Ono wejdzie</p>
+<p><em>Porównaj z &quot;On/Ona/Ono idzie&quot;</em></p>"
+c46d2588-af7b-4dec-80c5-7a842fb3e065;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [wejść] (czas teraźniejszy)</p>;"<p>Oni/One wejdą</p>
+<p><em>Porównaj z &quot;Oni/One idą&quot;</em></p>"
+87bc56d4-ef91-4a00-bb06-d8221f3488d0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wejść] (męski, czas przeszły)</p>;"<p>Ja wszedłem</p>
+<p><em>Porównaj z &quot;Ja szedłem&quot;</em></p>"
+52838d4e-955d-4923-9f00-856d6a793e57;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wejść] (żeński, czas przeszły)</p>;"<p>Ja weszłam</p>
+<p><em>Porównaj z &quot;Ja szłam&quot;</em></p>"
+64fcca4f-2980-4912-8dd6-6bc76ebc5b18;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wejść] (nijaki, czas przeszły)</p>;"<p>Ja weszłom</p>
+<p><em>Porównaj z &quot;Ja szłom&quot;</em></p>"
+ddfb43bc-a0c3-4357-92d4-677a5826a5ef;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [wejść] (czas przeszły)</p>;"<p>My weszliśmy</p>
+<p><em>Porównaj z &quot;My szliśmy&quot;</em></p>"
+edd5e3e0-89db-44fc-a544-ca09ce1eaa5c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (męski, czas przeszły)</p>;"<p>Ty wszedłeś</p>
+<p><em>Porównaj z &quot;Ty szedłeś&quot;</em></p>"
+d36b2b16-7af6-49d7-b843-ef92b80a9ee0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (żeński, czas przeszły)</p>;"<p>Ty weszłaś</p>
+<p><em>Porównaj z &quot;Ty szłaś&quot;</em></p>"
+eb991846-fa27-4e59-b81d-5642baabc1e7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (nijaki, czas przeszły)</p>;"<p>Ty weszłoś</p>
+<p><em>Porównaj z &quot;Ty szłoś&quot;</em></p>"
+627395fe-13dd-4112-a3ea-2fb211106677;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [wejść] (czas przeszły)</p>;"<p>Wy weszliście</p>
+<p><em>Porównaj z &quot;Wy szliście&quot;</em></p>"
+a57ce6d9-d98f-444e-9e59-29ee9ae95585;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [wejść] (czas przeszły)</p>;"<p>On wszedł</p>
+<p><em>Porównaj z &quot;On szedł&quot;</em></p>"
+3f69e343-90fc-4e07-b7c5-37a2bde9c4b3;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [wejść] (czas przeszły)</p>;"<p>Ona weszła</p>
+<p><em>Porównaj z &quot;Ona szła&quot;</em></p>"
+31db1a87-5f4a-4439-bbbb-00dc7393df0a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [wejść] (czas przeszły)</p>;"<p>Ono weszło</p>
+<p><em>Porównaj z &quot;Ono szło&quot;</em></p>"
+4dd22af1-a643-4678-a78f-dfd08a1cd1b1;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [wejść] (czas przeszły)</p>;"<p>Oni weszli</p>
+<p><em>Porównaj z &quot;Oni szli&quot;</em></p>"
+811e1264-21d2-4024-9b6e-e187c1cc5afd;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wejść] (tryb rozkazujący)</p>;"<p>Ty wejdź</p>
+<p><em>Porównaj z &quot;Ty idź&quot;</em></p>"
+68dbef82-8f4d-42a2-a5ca-38e5411f8417;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [wejść] (tryb rozkazujący)</p>;"<p>My wejdźmy</p>
+<p><em>Porównaj z &quot;My idźmy&quot;</em></p>"
+3b40170c-b3e8-406e-bf71-8b4a6d9c1c02;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [wejść] (tryb rozkazujący)</p>;"<p>Wy wejdźcie</p>
+<p><em>Porównaj z &quot;Wy idźcie&quot;</em></p>"
 31b94411-7510-4c18-9abb-e0d40cff203f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wiedzieć] (czas teraźniejszy)</p>;<p>Ja wiem</p>
 8d3f1d9b-8de9-4f58-a607-9f3b2207a59e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [wiedzieć] (czas teraźniejszy)</p>;<p>My wiemy</p>
 c0811b85-7dc4-49d9-a317-807408d9d8ce;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wiedzieć] (czas teraźniejszy)</p>;<p>Ty wiesz</p>
@@ -1599,55 +1626,55 @@ c6509538-6d88-44e8-be1d-91dadf3a7f5d;Basic;Polski::Odmiany::Czasowniki;Polski Od
 bbaa1351-5e7a-41bd-8337-8d79c4b17e45;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (czas teraźniejszy)</p>;"<p>Ja znajduję</p>
 <p><em>Porównaj z &quot;Ja znajdę&quot;</em></p>"
 8eb1a280-3625-480f-9b95-e3f0542182f5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znajdować] (czas teraźniejszy)</p>;"<p>My znajdujemy</p>
-<p><em>Porównaj z &quot;znajdziemy&quot;</em></p>"
+<p><em>Porównaj z &quot;My znajdziemy&quot;</em></p>"
 d2e48dcc-bbaa-4192-b3b0-d7a01d8de4ea;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (czas teraźniejszy)</p>;"<p>Ty znajdujesz</p>
-<p><em>Porównaj z &quot;znajdziesz&quot;</em></p>"
+<p><em>Porównaj z &quot;Ty znajdziesz&quot;</em></p>"
 3c468b96-a859-4b93-82af-b794df70c12a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znajdować] (czas teraźniejszy)</p>;"<p>Wy znajdujecie</p>
-<p><em>Porównaj z &quot;znajdziecie&quot;</em></p>"
+<p><em>Porównaj z &quot;Wy znajdziecie&quot;</em></p>"
 b0268b26-c707-4775-b2a6-860e4c994c2a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [znajdować] (czas teraźniejszy)</p>;"<p>On/Ona/Ono znajduje</p>
-<p><em>Porównaj z &quot;znajdzie&quot;</em></p>"
+<p><em>Porównaj z &quot;On/Ona/Ono znajdzie&quot;</em></p>"
 b8d38f96-887c-4156-8e85-df72550908f9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [znajdować] (czas teraźniejszy)</p>;"<p>Oni/One znajdują</p>
-<p><em>Porównaj z &quot;znajdą&quot;</em></p>"
+<p><em>Porównaj z &quot;Oni/One znajdą&quot;</em></p>"
 3e5bae11-b33f-45cb-ab06-be33472a529d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (męski, czas przeszły)</p>;"<p>Ja znajdowałem</p>
-<p><em>Porównaj z &quot;znalazłem&quot;</em></p>"
+<p><em>Porównaj z &quot;Ja znalazłem&quot;</em></p>"
 a177cc2f-80eb-4fe4-ad38-3191592dfa40;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (żeński, czas przeszły)</p>;"<p>Ja znajdowałam</p>
-<p><em>Porównaj z &quot;znalazłam&quot;</em></p>"
+<p><em>Porównaj z &quot;Ja znalazłam&quot;</em></p>"
 c8bf8464-0d55-4621-b9e1-b6624e789b02;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znajdować] (nijaki, czas przeszły)</p>;"<p>Ja znajdowałom</p>
-<p><em>Porównaj z &quot;znalazłom&quot;</em></p>"
+<p><em>Porównaj z &quot;Ja znalazłom&quot;</em></p>"
 781d0c1a-7946-41a7-aded-7174f4d51107;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znajdować] (czas przeszły)</p>;"<p>My znajdowaliśmy</p>
-<p><em>Porównaj z &quot;znaleźliśmy&quot;</em></p>"
+<p><em>Porównaj z &quot;My znaleźliśmy&quot;</em></p>"
 2fa47a80-f3ba-4688-9bc2-64ce4cc99f37;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (męski, czas przeszły)</p>;"<p>Ty znajdowałeś</p>
-<p><em>Porównaj z &quot;znalazłeś&quot;</em></p>"
+<p><em>Porównaj z &quot;Ty znalazłeś&quot;</em></p>"
 9d291bd1-6cbf-4dbb-8a51-8cf56e7d36dc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (żeński, czas przeszły)</p>;"<p>Ty znajdowałaś</p>
-<p><em>Porównaj z &quot;znalazłaś&quot;</em></p>"
+<p><em>Porównaj z &quot;Ty znalazłaś&quot;</em></p>"
 3bb1459d-69ed-4249-8086-f8495f6edd78;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (nijaki, czas przeszły)</p>;"<p>Ty znajdowałoś</p>
-<p><em>Porównaj z &quot;znalazłoś&quot;</em></p>"
+<p><em>Porównaj z &quot;Ty znalazłoś&quot;</em></p>"
 57e06cb4-eac5-447c-b3dd-f6fa7570c9f0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znajdować] (czas przeszły)</p>;"<p>Wy znajdowaliście</p>
-<p><em>Porównaj z &quot;znaleźliście&quot;</em></p>"
+<p><em>Porównaj z &quot;Wy znaleźliście&quot;</em></p>"
 473f0293-9711-4b09-897b-5099a0ce0275;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [znajdować] (czas przeszły)</p>;"<p>On znajdował</p>
-<p><em>Porównaj z &quot;znalazł&quot;</em></p>"
+<p><em>Porównaj z &quot;On znalazł&quot;</em></p>"
 cdb27bc0-e9fc-4cf5-ac0f-5ca2fd90af44;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [znajdować] (czas przeszły)</p>;"<p>Ona znajdowała</p>
-<p><em>Porównaj z &quot;znalazła&quot;</em></p>"
+<p><em>Porównaj z &quot;Ona znalazła&quot;</em></p>"
 53658266-1646-4f48-a4ef-f0067622586c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [znajdować] (czas przeszły)</p>;"<p>Ono znajdowało</p>
-<p><em>Porównaj z &quot;znalazło&quot;</em></p>"
+<p><em>Porównaj z &quot;Ono znalazło&quot;</em></p>"
 758a15ed-b2b1-43f8-846b-e5688c15a989;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [znajdować] (czas przeszły)</p>;"<p>Oni znajdowali</p>
-<p><em>Porównaj z &quot;znaleźli&quot;</em></p>"
+<p><em>Porównaj z &quot;Oni znaleźli&quot;</em></p>"
 717784d0-706b-4a52-91da-a95d0fe6c7cc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znajdować] (tryb rozkazujący)</p>;"<p>Ty znajduj</p>
-<p><em>Porównaj z &quot;znajdź&quot;</em></p>
+<p><em>Porównaj z &quot;Ty znajdź&quot;</em></p>
 <ul>
 <li><em>Analizuj odchylenia i znajduj przyczyny.</em></li>
 <li><em>Szybko znajduj potrzebne dokumenty.</em></li>
 <li><em>Baw się oraz znajduj przyjemności.</em></li>
 </ul>"
 ad18e992-0412-477c-8703-91afcc1c2267;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znajdować] (tryb rozkazujący)</p>;"<p>My znajdujmy</p>
-<p><em>Porównaj z &quot;znajdźmy&quot;</em></p>
+<p><em>Porównaj z &quot;My znajdźmy&quot;</em></p>
 <ul>
 <li><em>Co w tych filozofiach znajdujmy?</em></li>
 <li><em>Znajdujmy czas dla naszych najbliższych.</em></li>
 <li><em>Tylko sami znajdujmy naszych klientów.</em></li>
 </ul>"
 9f76e6cf-6a5c-4bfa-a891-d1b08fd7af96;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znajdować] (tryb rozkazujący)</p>;"<p>Wy znajdujcie</p>
-<p><em>Porównaj z &quot;znajdźcie&quot;</em></p>
+<p><em>Porównaj z &quot;Wy znajdźcie&quot;</em></p>
 <ul>
 <li><em>Codziennie znajdujcie powody, by radować się.</em></li>
 <li><em>Filtrujcie informacje i znajdujcie ich źródła.</em></li>
@@ -1656,45 +1683,45 @@ ad18e992-0412-477c-8703-91afcc1c2267;Basic;Polski::Odmiany::Czasowniki;Polski Od
 46cb26b2-d136-4e8a-9782-cafbbddf04fb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (czas teraźniejszy)</p>;"<p>Ja znajdę</p>
 <p><em>Porównaj z &quot;Ja znajduję&quot;</em></p>"
 3e43e79d-b675-481f-bc40-542756bc4b6b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znaleźć] (czas teraźniejszy)</p>;"<p>My znajdziemy</p>
-<p><em>Porównaj z &quot;znajdujemy&quot;</em></p>"
+<p><em>Porównaj z &quot;My znajdujemy&quot;</em></p>"
 22d2109d-59da-4a2c-97b8-98b813dd025b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (czas teraźniejszy)</p>;"<p>Ty znajdziesz</p>
-<p><em>Porównaj z &quot;znajdujesz&quot;</em></p>"
+<p><em>Porównaj z &quot;Ty znajdujesz&quot;</em></p>"
 d68daadb-99aa-4b34-a455-07bde6761c9a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znaleźć] (czas teraźniejszy)</p>;"<p>Wy znajdziecie</p>
-<p><em>Porównaj z &quot;znajdujecie&quot;</em></p>"
+<p><em>Porównaj z &quot;Wy znajdujecie&quot;</em></p>"
 3949d352-a2e5-45d6-973c-55ee6ce726bb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [znaleźć] (czas teraźniejszy)</p>;"<p>On/Ona/Ono znajdzie</p>
-<p><em>Porównaj z &quot;znajduje&quot;</em></p>"
+<p><em>Porównaj z &quot;On/Ona/Ono znajduje&quot;</em></p>"
 2bcac1ed-c974-4d7e-8929-9fd019455899;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [znaleźć] (czas teraźniejszy)</p>;"<p>Oni/One znajdą</p>
-<p><em>Porównaj z &quot;znajdują&quot;</em></p>"
+<p><em>Porównaj z &quot;Oni/One znajdują&quot;</em></p>"
 920bcc9f-1388-4dd8-922c-22a71199df3d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (męski, czas przeszły)</p>;"<p>Ja znalazłem</p>
-<p><em>Porównaj z &quot;znajdowałem&quot;</em></p>"
+<p><em>Porównaj z &quot;Ja znajdowałem&quot;</em></p>"
 91fae198-65ce-4099-93d9-6daba6f44e05;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (żeński, czas przeszły)</p>;"<p>Ja znalazłam</p>
-<p><em>Porównaj z &quot;znajdowałam&quot;</em></p>"
+<p><em>Porównaj z &quot;Ja znajdowałam&quot;</em></p>"
 53ff9492-3877-4652-84a2-df5d727d929d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znaleźć] (nijaki, czas przeszły)</p>;"<p>Ja znalazłom</p>
-<p><em>Porównaj z &quot;znajdowałom&quot;</em></p>"
+<p><em>Porównaj z &quot;Ja znajdowałom&quot;</em></p>"
 124248be-70dc-409d-8eb0-fd2d6547df4e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znaleźć] (czas przeszły)</p>;"<p>My znaleźliśmy</p>
-<p><em>Porównaj z &quot;znajdowaliśmy&quot;</em></p>"
+<p><em>Porównaj z &quot;My znajdowaliśmy&quot;</em></p>"
 1763eb44-4a56-46ef-9eaa-d0aa74f5b795;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (męski, czas przeszły)</p>;"<p>Ty znalazłeś</p>
-<p><em>Porównaj z &quot;znajdowałeś&quot;</em></p>"
+<p><em>Porównaj z &quot;Ty znajdowałeś&quot;</em></p>"
 07293b73-cb2f-4d8b-b52e-2cde5b1ea478;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (żeński, czas przeszły)</p>;"<p>Ty znalazłaś</p>
-<p><em>Porównaj z &quot;znajdowałaś&quot;</em></p>"
+<p><em>Porównaj z &quot;Ty znajdowałaś&quot;</em></p>"
 d7754205-f56e-433d-83a4-0d24a6c863c6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (nijaki, czas przeszły)</p>;"<p>Ty znalazłoś</p>
-<p><em>Porównaj z &quot;znajdowałoś&quot;</em></p>"
+<p><em>Porównaj z &quot;Ty znajdowałoś&quot;</em></p>"
 824bc4d1-6739-4b85-9324-df51c659d510;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znaleźć] (czas przeszły)</p>;"<p>Wy znaleźliście</p>
-<p><em>Porównaj z &quot;znajdowaliście&quot;</em></p>"
+<p><em>Porównaj z &quot;Wy znajdowaliście&quot;</em></p>"
 b3124215-9c29-458e-bf28-ab5efc612939;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [znaleźć] (czas przeszły)</p>;"<p>On znalazł</p>
-<p><em>Porównaj z &quot;znajdował&quot;</em></p>"
+<p><em>Porównaj z &quot;On znajdował&quot;</em></p>"
 cfc4b417-e26b-41d2-934c-90ed6c578f82;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [znaleźć] (czas przeszły)</p>;"<p>Ona znalazła</p>
-<p><em>Porównaj z &quot;znajdowała&quot;</em></p>"
+<p><em>Porównaj z &quot;Ona znajdowała&quot;</em></p>"
 b608aae5-6ea5-40ee-a7fd-b453d147ffe3;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [znaleźć] (czas przeszły)</p>;"<p>Ono znalazło</p>
-<p><em>Porównaj z &quot;znajdowało&quot;</em></p>"
+<p><em>Porównaj z &quot;Ono znajdowało&quot;</em></p>"
 df520eb8-b4d7-4a3a-a979-b4fc463e708f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [znaleźć] (czas przeszły)</p>;"<p>Oni znaleźli</p>
-<p><em>Porównaj z &quot;znajdowali&quot;</em></p>"
+<p><em>Porównaj z &quot;Oni znajdowali&quot;</em></p>"
 0e269e15-ed73-4728-8bc9-49bc625028e2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znaleźć] (tryb rozkazujący)</p>;"<p>Ty znajdź</p>
-<p><em>Porównaj z &quot;znajduj&quot;</em></p>"
+<p><em>Porównaj z &quot;Ty znajduj&quot;</em></p>"
 b8ad997b-7445-402e-bae9-2a08cb114e27;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znaleźć] (tryb rozkazujący)</p>;"<p>My znajdźmy</p>
-<p><em>Porównaj z &quot;znajdujmy&quot;</em></p>"
+<p><em>Porównaj z &quot;My znajdujmy&quot;</em></p>"
 694c2f4d-93b6-4171-86e0-bc0fb3e6a3de;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [znaleźć] (tryb rozkazujący)</p>;"<p>Wy znajdźcie</p>
-<p><em>Porównaj z &quot;znajdujcie&quot;</em></p>"
+<p><em>Porównaj z &quot;Wy znajdujcie&quot;</em></p>"
 a0197134-bee9-42dd-bd3d-3b44a85bbcaa;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [znać] (czas teraźniejszy)</p>;<p>Ja znam</p>
 e8afd92e-e06a-423e-b11e-066d420a6011;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [znać] (czas teraźniejszy)</p>;<p>My znamy</p>
 6a62ac4a-973e-4d7d-906b-4f5ae278c112;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [znać] (czas teraźniejszy)</p>;<p>Ty znasz</p>
@@ -9223,3 +9250,8 @@ fc71202b-6d3d-460b-a732-9dc872cb1122;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 309b80f5-50c9-433b-b316-13928dfbfe14;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я не чувствую даже подобие сожаления</p>;<p>nie czuje nawet namiastki żalu</p>
 ad348d9f-8175-4ae6-a2fe-d0840c8cd11c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>создаем замену/подобие раю на земле</p>;<p>tworzymy namiastkę raju na ziemi</p>
 28a9f02b-cb6d-4b2e-9320-1dde9bf97e22;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>куда исчезло хоть какое-то подобие ответственности?</p>;<p>gdzie się podziała jakakolwiek namiastka odpowiedzialności?</p>
+3f85342d-96f8-41ea-b1dc-19a349ca0fff;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>выбросил лишнии вещи</p>;<p>wyrzuciłem zbędne/niepotrzebne rzeczy</p>
+8db00527-37af-4fe1-bc06-8759355ea111;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>по той причине, что</p>;<p>z tego powodu, że</p>
+d28d681a-1118-443a-8f65-51d17efff0f9;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>у меня только одно чувство</p>;<p>mam tylko jedno uczucie</p>
+61ca104a-ff5c-4e4a-a897-3904f9eaa36d;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>вне всякого сомнения</p>;<p>ponad wszelką wątpliwość/bez cienia wątpliwości</p>
+a640abd1-ddb7-4d52-bc1c-ad391f38d59c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>почти что каждый день</p>;<p>niemal codziennie/prawie każdego dnia</p>
