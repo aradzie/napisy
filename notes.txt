@@ -1155,6 +1155,27 @@ d7aa5289-1f86-43b7-aab0-08b98fc453e8;Basic;Polski::Odmiany::Czasowniki;Polski Od
 <p><em>Porównaj z &quot;My idźmy&quot;</em></p>"
 bb78c4ab-1a10-4a7e-975c-f2a29f484849;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [dojść] (tryb rozkazujący)</p>;"<p>Wy dojdźcie</p>
 <p><em>Porównaj z &quot;Wy idźcie&quot;</em></p>"
+f04cebc7-950f-40a1-a4af-67c5c3efa038;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dowiedzieć się] (czas teraźniejszy)</p>;<p>Ja dowiem się</p>
+5c75a635-7bdd-4aab-b0e4-e1bca14a27ff;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [dowiedzieć się] (czas teraźniejszy)</p>;<p>My dowiemy się</p>
+c64a5af0-0c52-4284-898e-5bcd8a46ac79;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dowiedzieć się] (czas teraźniejszy)</p>;<p>Ty dowiesz się</p>
+31ef47f1-79aa-474d-bd2f-c72810df9417;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [dowiedzieć się] (czas teraźniejszy)</p>;<p>Wy dowiecie się</p>
+1f4ef547-3d65-42db-985b-bd1c72b91ecf;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [dowiedzieć się] (czas teraźniejszy)</p>;<p>On/Ona/Ono dowie się</p>
+914da35e-452d-4b16-ba3f-263551a8cfc8;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [dowiedzieć się] (czas teraźniejszy)</p>;<p>Oni/One dowiedzą się</p>
+e8048256-3c9c-4dae-98ce-82890bd220b1;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dowiedzieć się] (męski, czas przeszły)</p>;<p>Ja dowiedziałem się</p>
+4869597d-a081-45fc-9c47-9c2113f47d7b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dowiedzieć się] (żeński, czas przeszły)</p>;<p>Ja dowiedziałam się</p>
+bc21ce68-07e8-4a60-a88f-83c27038133b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dowiedzieć się] (nijaki, czas przeszły)</p>;<p>Ja dowiedziałom się</p>
+414f9908-44c2-45d8-b2ad-570a909b8950;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [dowiedzieć się] (czas przeszły)</p>;<p>My dowiedzieliśmy się</p>
+274bc866-1d31-4d73-9be5-cac69e264570;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dowiedzieć się] (męski, czas przeszły)</p>;<p>Ty dowiedziałeś się</p>
+2eab5863-d397-4f94-81c0-4a4528fb8dfa;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dowiedzieć się] (żeński, czas przeszły)</p>;<p>Ty dowiedziałaś się</p>
+19e13dc3-3bff-4417-86db-68e182cf3d7e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dowiedzieć się] (nijaki, czas przeszły)</p>;<p>Ty dowiedziałoś się</p>
+01ac8e58-685e-4518-a4ce-4cca3e784aa2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [dowiedzieć się] (czas przeszły)</p>;<p>Wy dowiedzieliście się</p>
+02804c1a-618e-4b59-994a-7ccb8b5b06cd;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [dowiedzieć się] (czas przeszły)</p>;<p>On dowiedział się</p>
+7f441a86-a572-432c-8947-8f64bfade525;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [dowiedzieć się] (czas przeszły)</p>;<p>Ona dowiedziała się</p>
+06f6f089-904c-461c-bfc1-5729e8a06175;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [dowiedzieć się] (czas przeszły)</p>;<p>Ono dowiedziało się</p>
+114deece-c1d0-4e8f-993d-e433a3b436de;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [dowiedzieć się] (czas przeszły)</p>;<p>Oni dowiedzieli się</p>
+20babbf5-91db-4dcb-b17f-7c0f29046b8f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wiedzieć] (tryb rozkazujący)</p>;<p>Ty dowiedz się</p>
+009a0dde-c9c8-43a5-83b8-3182831558c0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [wiedzieć] (tryb rozkazujący)</p>;<p>My dowiedzmy się</p>
+73ef05a4-dc4c-4839-a350-93e6782ad16b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [wiedzieć] (tryb rozkazujący)</p>;<p>Wy dowiedzcie się</p>
 a00c9071-f61e-4621-a952-80592172b21f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [istnieć] (czas teraźniejszy)</p>;<p>Ja istnieję</p>
 7d3509e6-bc41-45a8-98d5-de01248bebca;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [istnieć] (czas teraźniejszy)</p>;<p>My istniejemy</p>
 31315c8c-914b-454c-9734-686ed44d7c6c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [istnieć] (czas teraźniejszy)</p>;<p>Ty istniejesz</p>
@@ -1196,17 +1217,317 @@ e68eecda-2da9-4fee-9d72-133c4ff1292e;Basic;Polski::Odmiany::Czasowniki;Polski Od
 4898d149-fed1-4d07-aa6c-6c28b6c46aeb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [iść] (tryb rozkazujący)</p>;<p>My idźmy</p>
 1e98cf63-0297-47bc-81b4-dd98275ee6ae;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [iść] (tryb rozkazujący)</p>;<p>Wy idźcie</p>
 aa69245e-b362-4e16-acbf-923659954ee0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (czas teraźniejszy)</p>;"<p>Ja jadę</p>
-<p><em>Porównaj z &quot;Ja (jeździć) jeżdżę&quot;</em></p>"
+<p><em>Porównaj z &quot;Ja (jeździć) jeżdżę&quot;</em></p>
+<h1>jechać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jadę</td>
+<td align=""left"">jedziemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jedziesz</td>
+<td align=""left"">jedziecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jedzie</td>
+<td align=""left"">jadą</td>
+</tr>
+</tbody></table>
+<h1>jeździć</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jeżdżę</td>
+<td align=""left"">jeździmy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jeździsz</td>
+<td align=""left"">jeździcie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jeździ</td>
+<td align=""left"">jeżdżą</td>
+</tr>
+</tbody></table>"
 863be6cf-1ce8-459f-960e-f34e56d70c63;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jechać] (czas teraźniejszy)</p>;"<p>My jedziemy</p>
-<p><em>Porównaj z &quot;My (jeździć) jeździmy&quot;</em></p>"
+<p><em>Porównaj z &quot;My (jeździć) jeździmy&quot;</em></p>
+<h1>jechać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jadę</td>
+<td align=""left"">jedziemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jedziesz</td>
+<td align=""left"">jedziecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jedzie</td>
+<td align=""left"">jadą</td>
+</tr>
+</tbody></table>
+<h1>jeździć</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jeżdżę</td>
+<td align=""left"">jeździmy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jeździsz</td>
+<td align=""left"">jeździcie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jeździ</td>
+<td align=""left"">jeżdżą</td>
+</tr>
+</tbody></table>"
 10231d0c-c74e-4553-b144-314eff2b5f6c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jechać] (czas teraźniejszy)</p>;"<p>Ty jedziesz</p>
-<p><em>Porównaj z &quot;Ty (jeździć) jeździsz&quot;</em></p>"
+<p><em>Porównaj z &quot;Ty (jeździć) jeździsz&quot;</em></p>
+<h1>jechać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jadę</td>
+<td align=""left"">jedziemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jedziesz</td>
+<td align=""left"">jedziecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jedzie</td>
+<td align=""left"">jadą</td>
+</tr>
+</tbody></table>
+<h1>jeździć</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jeżdżę</td>
+<td align=""left"">jeździmy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jeździsz</td>
+<td align=""left"">jeździcie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jeździ</td>
+<td align=""left"">jeżdżą</td>
+</tr>
+</tbody></table>"
 9e6f2daa-007e-4f93-9911-2adf1a30089e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jechać] (czas teraźniejszy)</p>;"<p>Wy jedziecie</p>
-<p><em>Porównaj z &quot;Wy (jeździć) jeździcie&quot;</em></p>"
+<p><em>Porównaj z &quot;Wy (jeździć) jeździcie&quot;</em></p>
+<h1>jechać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jadę</td>
+<td align=""left"">jedziemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jedziesz</td>
+<td align=""left"">jedziecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jedzie</td>
+<td align=""left"">jadą</td>
+</tr>
+</tbody></table>
+<h1>jeździć</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jeżdżę</td>
+<td align=""left"">jeździmy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jeździsz</td>
+<td align=""left"">jeździcie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jeździ</td>
+<td align=""left"">jeżdżą</td>
+</tr>
+</tbody></table>"
 6c44ef9f-6d8a-4353-b927-e8e2d462e532;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [jechać] (czas teraźniejszy)</p>;"<p>On/Ona/Ono jedzie</p>
-<p><em>Porównaj z &quot;On/Ona/Ono (jeździć) jeździ&quot;</em></p>"
+<p><em>Porównaj z &quot;On/Ona/Ono (jeździć) jeździ&quot;</em></p>
+<h1>jechać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jadę</td>
+<td align=""left"">jedziemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jedziesz</td>
+<td align=""left"">jedziecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jedzie</td>
+<td align=""left"">jadą</td>
+</tr>
+</tbody></table>
+<h1>jeździć</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jeżdżę</td>
+<td align=""left"">jeździmy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jeździsz</td>
+<td align=""left"">jeździcie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jeździ</td>
+<td align=""left"">jeżdżą</td>
+</tr>
+</tbody></table>"
 83733cbd-5966-4074-a933-e061dcbc4c4c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [jechać] (czas teraźniejszy)</p>;"<p>Oni/One jadą</p>
-<p><em>Porównaj z &quot;Oni/One (jeździć) jeżdżą&quot;</em></p>"
+<p><em>Porównaj z &quot;Oni/One (jeździć) jeżdżą&quot;</em></p>
+<h1>jechać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jadę</td>
+<td align=""left"">jedziemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jedziesz</td>
+<td align=""left"">jedziecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jedzie</td>
+<td align=""left"">jadą</td>
+</tr>
+</tbody></table>
+<h1>jeździć</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jeżdżę</td>
+<td align=""left"">jeździmy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jeździsz</td>
+<td align=""left"">jeździcie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jeździ</td>
+<td align=""left"">jeżdżą</td>
+</tr>
+</tbody></table>"
 4bfcc4ee-dcf1-4723-930d-619775a3c161;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (męski, czas przeszły)</p>;<p>Ja jechałem</p>
 d0d6632f-5504-4c3f-af57-65bd4ca49551;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (żeński, czas przeszły)</p>;<p>Ja jechałam</p>
 2dc29593-d930-4d67-85dc-5ff73136418d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jechać] (nijaki, czas przeszły)</p>;<p>Ja jechałom</p>
@@ -1222,14 +1543,314 @@ d07ee54a-5ea0-43f5-8c48-07e0214344eb;Basic;Polski::Odmiany::Czasowniki;Polski Od
 15e4881b-5ea2-4b6f-b040-eb6e02b3a9c5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jechać] (tryb rozkazujący)</p>;<p>Ty jedź</p>
 6079a048-8b57-4a78-b463-fcdef6c62904;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jechać] (tryb rozkazujący)</p>;<p>My jedźmy</p>
 4e394e64-3e42-4052-b19b-72749ebccbf3;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jechać] (tryb rozkazujący)</p>;<p>Wy jedźcie</p>
-a0d655cf-1e06-49a3-8ea2-8f9c931a846d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (czas teraźniejszy)</p>;<p>Ja jem</p>
-015d4a5e-df12-4593-86f4-af6b67c7dbc7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jeść] (czas teraźniejszy)</p>;<p>My jemy</p>
-5ac08022-fb7c-4349-ac0b-75a87bd9f2d0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeść] (czas teraźniejszy)</p>;<p>Ty jesz</p>
-f88462cd-49d7-4f22-9072-8c848f73708d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeść] (czas teraźniejszy)</p>;<p>Wy jecie</p>
-04bf56dd-e628-43aa-9c39-949d7ddfb3da;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [jeść] (czas teraźniejszy)</p>;<p>On/Ona/Ono je</p>
+a0d655cf-1e06-49a3-8ea2-8f9c931a846d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (czas teraźniejszy)</p>;"<p>Ja jem</p>
+<h1>jeść</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jem</td>
+<td align=""left"">jemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jesz</td>
+<td align=""left"">jecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">je</td>
+<td align=""left"">jedzą</td>
+</tr>
+</tbody></table>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>"
+015d4a5e-df12-4593-86f4-af6b67c7dbc7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jeść] (czas teraźniejszy)</p>;"<p>My jemy</p>
+<h1>jeść</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jem</td>
+<td align=""left"">jemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jesz</td>
+<td align=""left"">jecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">je</td>
+<td align=""left"">jedzą</td>
+</tr>
+</tbody></table>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>"
+5ac08022-fb7c-4349-ac0b-75a87bd9f2d0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeść] (czas teraźniejszy)</p>;"<p>Ty jesz</p>
+<h1>jeść</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jem</td>
+<td align=""left"">jemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jesz</td>
+<td align=""left"">jecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">je</td>
+<td align=""left"">jedzą</td>
+</tr>
+</tbody></table>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>"
+f88462cd-49d7-4f22-9072-8c848f73708d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeść] (czas teraźniejszy)</p>;"<p>Wy jecie</p>
+<h1>jeść</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jem</td>
+<td align=""left"">jemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jesz</td>
+<td align=""left"">jecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">je</td>
+<td align=""left"">jedzą</td>
+</tr>
+</tbody></table>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>"
+04bf56dd-e628-43aa-9c39-949d7ddfb3da;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [jeść] (czas teraźniejszy)</p>;"<p>On/Ona/Ono je</p>
+<h1>jeść</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jem</td>
+<td align=""left"">jemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jesz</td>
+<td align=""left"">jecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">je</td>
+<td align=""left"">jedzą</td>
+</tr>
+</tbody></table>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>"
 3b9a5c98-a52d-4420-a21c-b4ea02faf248;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [jeść] (czas teraźniejszy)</p>;"<p>Oni/One jedzą</p>
 <p><em>Porównaj z &quot;Oni/One (jeździć) jeżdżą&quot;</em></p>
-<p><em>Porównaj z &quot;Oni/One (jechać) jadą&quot;</em></p>"
+<p><em>Porównaj z &quot;Oni/One (jechać) jadą&quot;</em></p>
+<h1>jeść</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jem</td>
+<td align=""left"">jemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jesz</td>
+<td align=""left"">jecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">je</td>
+<td align=""left"">jedzą</td>
+</tr>
+</tbody></table>
+<h1>dać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">dam</td>
+<td align=""left"">damy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">dasz</td>
+<td align=""left"">dacie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">da</td>
+<td align=""left"">dadzą</td>
+</tr>
+</tbody></table>"
 37579502-8637-4e4f-8935-ab9a443726eb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (męski, czas przeszły)</p>;<p>Ja jadłem</p>
 538abb10-047c-479c-a46c-6e2498c12c27;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (żeński, czas przeszły)</p>;<p>Ja jadłam</p>
 29f11c02-827f-48ca-869e-0b1b6deec495;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeść] (nijaki, czas przeszły)</p>;<p>Ja jadłom</p>
@@ -1252,17 +1873,267 @@ bb9bd0d4-61d2-424a-a463-6e3fef24fec0;Basic;Polski::Odmiany::Czasowniki;Polski Od
 <p><em>Porównaj z &quot;Wy (jeździć) jeździjcie,jeźdźcie&quot;</em></p>
 <p><em>Porównaj z &quot;Wy (jechać) jedźcie&quot;</em></p>"
 87cbd0dc-23e5-496f-b4a0-5ead500e90fe;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (czas teraźniejszy)</p>;"<p>Ja jeżdżę</p>
-<p><em>Porównaj z &quot;Ja (jechać) jadę&quot;</em></p>"
+<p><em>Porównaj z &quot;Ja (jechać) jadę&quot;</em></p>
+<h1>jeździć</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jeżdżę</td>
+<td align=""left"">jeździmy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jeździsz</td>
+<td align=""left"">jeździcie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jeździ</td>
+<td align=""left"">jeżdżą</td>
+</tr>
+</tbody></table>
+<h1>jechać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jadę</td>
+<td align=""left"">jedziemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jedziesz</td>
+<td align=""left"">jedziecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jedzie</td>
+<td align=""left"">jadą</td>
+</tr>
+</tbody></table>"
 03ca450d-41eb-4165-a573-fc64f690837d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jeździć] (czas teraźniejszy)</p>;"<p>My jeździmy</p>
-<p><em>Porównaj z &quot;My (jechać) jedziemy&quot;</em></p>"
+<p><em>Porównaj z &quot;My (jechać) jedziemy&quot;</em></p>
+<h1>jeździć</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jeżdżę</td>
+<td align=""left"">jeździmy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jeździsz</td>
+<td align=""left"">jeździcie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jeździ</td>
+<td align=""left"">jeżdżą</td>
+</tr>
+</tbody></table>
+<h1>jechać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jadę</td>
+<td align=""left"">jedziemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jedziesz</td>
+<td align=""left"">jedziecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jedzie</td>
+<td align=""left"">jadą</td>
+</tr>
+</tbody></table>"
 5133ec3b-9ae0-4b2a-83dd-642db626d4e0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeździć] (czas teraźniejszy)</p>;"<p>Ty jeździsz</p>
-<p><em>Porównaj z &quot;Ty (jechać) jedziesz&quot;</em></p>"
+<p><em>Porównaj z &quot;Ty (jechać) jedziesz&quot;</em></p>
+<h1>jeździć</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jeżdżę</td>
+<td align=""left"">jeździmy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jeździsz</td>
+<td align=""left"">jeździcie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jeździ</td>
+<td align=""left"">jeżdżą</td>
+</tr>
+</tbody></table>
+<h1>jechać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jadę</td>
+<td align=""left"">jedziemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jedziesz</td>
+<td align=""left"">jedziecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jedzie</td>
+<td align=""left"">jadą</td>
+</tr>
+</tbody></table>"
 2bb4568d-5aee-4d92-bec6-cdea4f8632e2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeździć] (czas teraźniejszy)</p>;"<p>Wy jeździcie</p>
 <p><em>Porównaj z &quot;Wy (jechać) jedziecie&quot;</em></p>"
 e8e10878-bb57-4d4b-9a38-a08c95012119;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [jeździć] (czas teraźniejszy)</p>;"<p>On/Ona/Ono jeździ</p>
-<p><em>Porównaj z &quot;On/Ona/Ono (jechać) jedzie&quot;</em></p>"
+<p><em>Porównaj z &quot;On/Ona/Ono (jechać) jedzie&quot;</em></p>
+<h1>jeździć</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jeżdżę</td>
+<td align=""left"">jeździmy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jeździsz</td>
+<td align=""left"">jeździcie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jeździ</td>
+<td align=""left"">jeżdżą</td>
+</tr>
+</tbody></table>
+<h1>jechać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jadę</td>
+<td align=""left"">jedziemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jedziesz</td>
+<td align=""left"">jedziecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jedzie</td>
+<td align=""left"">jadą</td>
+</tr>
+</tbody></table>"
 e34b4764-82bf-4e1c-93c7-dd522965391a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [jeździć] (czas teraźniejszy)</p>;"<p>Oni/One jeżdżą</p>
-<p><em>Porównaj z &quot;Oni/One (jechać) jadą&quot;</em></p>"
+<p><em>Porównaj z &quot;Oni/One (jechać) jadą&quot;</em></p>
+<h1>jeździć</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jeżdżę</td>
+<td align=""left"">jeździmy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jeździsz</td>
+<td align=""left"">jeździcie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jeździ</td>
+<td align=""left"">jeżdżą</td>
+</tr>
+</tbody></table>
+<h1>jechać</h1>
+<table>
+<thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">lp</th>
+<th align=""left"">lm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align=""left"">1 os</td>
+<td align=""left"">jadę</td>
+<td align=""left"">jedziemy</td>
+</tr>
+<tr>
+<td align=""left"">2 os</td>
+<td align=""left"">jedziesz</td>
+<td align=""left"">jedziecie</td>
+</tr>
+<tr>
+<td align=""left"">3 os</td>
+<td align=""left"">jedzie</td>
+<td align=""left"">jadą</td>
+</tr>
+</tbody></table>"
 f8ddc0c5-4c9c-4c22-9306-d00076af1872;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (męski, czas przeszły)</p>;<p>Ja jeździłem</p>
 a3432a5c-cbca-4a8a-a508-ee3633d4e0c4;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (żeński, czas przeszły)</p>;<p>Ja jeździłam</p>
 ad831c82-aeed-4c41-a256-87fadb9b52ee;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [jeździć] (nijaki, czas przeszły)</p>;<p>Ja jeździłom</p>
@@ -1590,6 +2461,48 @@ b992a3b8-4af9-4d9f-9849-e5638e16822f;Basic;Polski::Odmiany::Czasowniki;Polski Od
 437bbf8c-8583-48e2-bae2-f5f8a4ca0400;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [woleć] (tryb rozkazujący)</p>;<p>Ty wól</p>
 52682eee-9491-4ebd-bc44-17ccc775601e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [woleć] (tryb rozkazujący)</p>;<p>My wólmy</p>
 e30d203f-80bc-441c-97c5-f0c0100ec365;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [woleć] (tryb rozkazujący)</p>;<p>Wy wólcie</p>
+49e471ba-65dc-4db6-8a24-d647827dfadc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wyjść] (czas teraźniejszy)</p>;"<p>Ja wyjdę</p>
+<p><em>Porównaj z &quot;Ja idę&quot;</em></p>"
+7baea7ea-8242-4059-a049-35202c149f74;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [wyjść] (czas teraźniejszy)</p>;"<p>My wyjdziemy</p>
+<p><em>Porównaj z &quot;My idziemy&quot;</em></p>"
+f0243f13-75b5-4703-a4de-26b15234cd20;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wyjść] (czas teraźniejszy)</p>;"<p>Ty wyjdziesz</p>
+<p><em>Porównaj z &quot;Ty idziesz&quot;</em></p>"
+c944d9f7-388c-48e3-bb86-1cce7db74e5a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [wyjść] (czas teraźniejszy)</p>;"<p>Wy wyjdziecie</p>
+<p><em>Porównaj z &quot;Wy idziecie&quot;</em></p>"
+ba2c8406-8d15-48a2-ae25-a658c77a0745;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [wyjść] (czas teraźniejszy)</p>;"<p>On/Ona/Ono wyjdzie</p>
+<p><em>Porównaj z &quot;On/Ona/Ono idzie&quot;</em></p>"
+50d64ee6-e849-4760-a55a-f6bc35479f45;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [wyjść] (czas teraźniejszy)</p>;"<p>Oni/One wyjdą</p>
+<p><em>Porównaj z &quot;Oni/One idą&quot;</em></p>"
+1870cf0e-4bdb-48bd-ac92-bc062ec1b243;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wyjść] (męski, czas przeszły)</p>;"<p>Ja wyszedłem</p>
+<p><em>Porównaj z &quot;Ja szedłem&quot;</em></p>"
+daf4eaa5-8d80-495e-a9f5-795dc311a2aa;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wyjść] (żeński, czas przeszły)</p>;"<p>Ja wyszłam</p>
+<p><em>Porównaj z &quot;Ja szłam&quot;</em></p>"
+5c113bc3-b8e5-4e3d-98e3-8230a3667ccf;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wyjść] (nijaki, czas przeszły)</p>;"<p>Ja wyszłom</p>
+<p><em>Porównaj z &quot;Ja szłom&quot;</em></p>"
+57940f16-d9bd-45d9-9eab-456dc83d0f23;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [wyjść] (czas przeszły)</p>;"<p>My wyszliśmy</p>
+<p><em>Porównaj z &quot;My szliśmy&quot;</em></p>"
+6524c50a-ec1f-4ccd-bb08-77ff66d32bd9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wyjść] (męski, czas przeszły)</p>;"<p>Ty wyszedłeś</p>
+<p><em>Porównaj z &quot;Ty szedłeś&quot;</em></p>"
+e87ec177-d069-41e8-b2b6-e4cfc42efac5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wyjść] (żeński, czas przeszły)</p>;"<p>Ty wyszłaś</p>
+<p><em>Porównaj z &quot;Ty szłaś&quot;</em></p>"
+7a506f08-ed32-4ab8-a6f3-d5be1543a0bc;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wyjść] (nijaki, czas przeszły)</p>;"<p>Ty wyszłoś</p>
+<p><em>Porównaj z &quot;Ty szłoś&quot;</em></p>"
+78588ace-17cb-4a2c-b588-379ed6418a9f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [wyjść] (czas przeszły)</p>;"<p>Wy wyszliście</p>
+<p><em>Porównaj z &quot;Wy szliście&quot;</em></p>"
+34776b52-d223-494e-ab8d-28afca9133c1;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [wyjść] (czas przeszły)</p>;"<p>On wyszedł</p>
+<p><em>Porównaj z &quot;On szedł&quot;</em></p>"
+a3173862-d07f-4c6e-9be1-e7bd9911b0b6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [wyjść] (czas przeszły)</p>;"<p>Ona wyszła</p>
+<p><em>Porównaj z &quot;Ona szła&quot;</em></p>"
+2fd8c244-661c-46cb-9855-e4bf6b2773ef;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [wyjść] (czas przeszły)</p>;"<p>Ono wyszło</p>
+<p><em>Porównaj z &quot;Ono szło&quot;</em></p>"
+76d6b4cc-1c3d-46ba-993f-27bf1936c851;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [wyjść] (czas przeszły)</p>;"<p>Oni wyszli</p>
+<p><em>Porównaj z &quot;Oni szli&quot;</em></p>"
+ba8f6153-b3ee-4849-bc02-3d8fa8016138;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wyjść] (tryb rozkazujący)</p>;"<p>Ty wyjdź</p>
+<p><em>Porównaj z &quot;Ty idź&quot;</em></p>"
+f8f1e715-7139-42f0-ba60-49171e7ba72a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [wyjść] (tryb rozkazujący)</p>;"<p>My wyjdźmy</p>
+<p><em>Porównaj z &quot;My idźmy&quot;</em></p>"
+cc356eca-7f36-4087-b580-3ee0ee8b1e25;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [wyjść] (tryb rozkazujący)</p>;"<p>Wy wyjdźcie</p>
+<p><em>Porównaj z &quot;Wy idźcie&quot;</em></p>"
 7dfff87e-3d98-4e60-8b39-081e6c1ce702;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [wziąć] (czas teraźniejszy)</p>;<p>Ja wezmę</p>
 961f82f2-9e88-4a90-8078-644dad40324d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [wziąć] (czas teraźniejszy)</p>;<p>My weźmiemy</p>
 05077b18-0eaf-4f10-b14a-aa566f0c1c08;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wziąć] (czas teraźniejszy)</p>;<p>Ty weźmiesz</p>
@@ -9113,7 +10026,7 @@ e2538bc5-e63a-45d9-8dbe-e9a8d7c0ae5f;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 b818b50b-8b04-4977-98ad-f41c7df5a326;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>подкрепи обвинения доказательствами</p>;<p>poprzyj zarzuty dowodami</p>
 f6c260f2-b8f9-4358-b33b-25f121e78a36;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>никто не должен беспокоиться</p>;<p>nikt nie musi się martwić</p>
 3254b2d2-7ae9-4ea4-be06-7b940cc1b219;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>бояться неизвестности</p>;<p>obawiać się nieznanego</p>
-6f47a977-4288-4529-ad6d-5dc66f594d17;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>У меня были причины</p>;<p>miałem powody</p>
+6f47a977-4288-4529-ad6d-5dc66f594d17;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>у меня были причины</p>;<p>miałem powody</p>
 a65ced1d-fee8-4434-9969-9dfc28a6c5f0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>на своих условиях</p>;<p>na własnych zasadach</p>
 2adf414a-9dfe-4611-9157-1672ef815950;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>принять такое предположение</p>;<p>przyjąć takie założenie</p>
 b5607777-003f-4a26-9839-807069875453;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>правильное предположение</p>;<p>słuszne założenie</p>
@@ -9154,7 +10067,7 @@ e623d61b-3df0-4cf7-a561-274e3dc8722b;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 775140dc-5480-4bb6-a839-9d4a9ef0ea37;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>последствия были трагическими</p>;<p>skutki były tragiczne</p>
 2668d1fa-f30d-4893-b31f-cca97201e964;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>они также живут на пособия</p>;<p>żyją też z zasiłków</p>
 ccd47715-26d0-43e0-af4d-66ace09ec877;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>почти все знают друг друга</p>;<p>niemal wszyscy się znają</p>
-0e31ae15-d44e-48a9-b6fb-9ecfdcfabdd0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>Объявление войны</p>;<p>Wypowiedzenie wojny</p>
+0e31ae15-d44e-48a9-b6fb-9ecfdcfabdd0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>объявление войны</p>;<p>wypowiedzenie wojny</p>
 5442257c-d8fc-4f30-bcc5-6bd1b44e8585;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>базовая форма</p>;<p>podstawowa forma</p>
 b5bb0644-02c9-4904-8e8e-aaeb98220642;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>искать рифмы</p>;<p>szukać rymów</p>
 ac5937a1-e6ca-4e4b-9305-2dbe7f037ad8;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>может вводить в заблуждение</p>;<p>może być myląca</p>
@@ -9221,7 +10134,11 @@ a5315a2b-c4ec-420d-a986-a129051d77b3;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 79a9908e-85f3-4225-9c6a-11fc625432ad;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>так что не волнуйся, если сначала будешь делать ошибки</p>;<p>dlatego nie przejmuj się, jeśli na początku będziesz popełniać błędy</p>
 6b99748a-0b93-4921-abae-b23c4e584103;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>звучный и запоминающийся текст</p>;<p>dźwięczny i chwytliwy tekst</p>
 01ef7c1e-4b19-497f-b280-d227eb0c7de3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>покажи мне примеры</p>;<p>pokaż mi przykłady</p>
-47dcf5db-dc9d-4139-b579-3ab5d5743bce;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>разговорные выражения</p>;<p>potoczne wyrażenia</p>
+47dcf5db-dc9d-4139-b579-3ab5d5743bce;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>общепринятые/разговорные выражения</p>;<p>potoczne wyrażenia</p>
+fff1ddee-ad14-43e3-952f-ad60c1aeef84;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>общепринятый термин</p>;<p>termin potoczny</p>
+f704ff1a-4052-4cec-b490-e5b94b995150;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>иногда лучше, а иногда хуже общепринятых идей</p>;<p>bywa ona raz lepsza a raz gorsza od potocznych wyobrażeń</p>
+3efec3f6-fc9a-47a7-805d-cba70610071a;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>не использовать разговорную лексику</p>;<p>nie używać słownictwa potocznego</p>
+e07977b3-fdc8-49e4-8404-30a695d9b712;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>общее или научное знание</p>;<p>potoczna czy naukowa wiedza</p>
 cdc25351-8ee2-4890-a9f8-0981d27adce7;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>находи причины</p>;<p>znajduj przyczyny</p>
 b0da2c37-40c4-4944-8931-1f40b99d094d;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>находи нужные документы</p>;<p>znajduj potrzebne dokumenty</p>
 817bd8df-fa7a-40b1-9ed9-6471aa220399;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>только сами находим наших клиентов</p>;<p>tylko sami znajdujmy naszych klientów</p>
@@ -9270,9 +10187,15 @@ fc71202b-6d3d-460b-a732-9dc872cb1122;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 4f34947d-bfc4-4a11-9cf8-a19ac911122e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>внешность может быть обманчива</p>;<p>wygląd może być mylący</p>
 309b80f5-50c9-433b-b316-13928dfbfe14;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я не чувствую даже подобие сожаления</p>;<p>nie czuje nawet namiastki żalu</p>
 ad348d9f-8175-4ae6-a2fe-d0840c8cd11c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>создаем замену/подобие раю на земле</p>;<p>tworzymy namiastkę raju na ziemi</p>
-28a9f02b-cb6d-4b2e-9320-1dde9bf97e22;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>куда исчезло хоть какое-то подобие ответственности?</p>;<p>gdzie się podziała jakakolwiek namiastka odpowiedzialności?</p>
+28a9f02b-cb6d-4b2e-9320-1dde9bf97e22;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>куда поделось хоть какое-то подобие ответственности?</p>;<p>gdzie się podziała jakakolwiek namiastka odpowiedzialności?</p>
 3f85342d-96f8-41ea-b1dc-19a349ca0fff;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>выбросил лишнии вещи</p>;<p>wyrzuciłem zbędne/niepotrzebne rzeczy</p>
 8db00527-37af-4fe1-bc06-8759355ea111;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>по той причине, что</p>;<p>z tego powodu, że</p>
 d28d681a-1118-443a-8f65-51d17efff0f9;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>у меня только одно чувство</p>;<p>mam tylko jedno uczucie</p>
 61ca104a-ff5c-4e4a-a897-3904f9eaa36d;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>вне всякого сомнения</p>;<p>ponad wszelką wątpliwość/bez cienia wątpliwości</p>
 a640abd1-ddb7-4d52-bc1c-ad391f38d59c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>почти что каждый день</p>;<p>niemal codziennie/prawie każdego dnia</p>
+7f36dfb1-f607-4df7-b16d-d82c101f4428;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>моя голова заполнена идеями</p>;<p>moja głowa jest pełna pomysłów</p>
+0ad90747-e978-45d1-a203-f2e55613bb1e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я везу с собой кота</p>;<p>zabieram ze sobą kota</p>
+2fcd6451-4c7f-4aa5-af30-b29a688beeb0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>никто не попрощался с ним</p>;<p>nikt go nie żegnał</p>
+e368db14-1a31-47c2-9843-c4c1815fd10a;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>в спешке уходил</p>;<p>w pospiechu się wynosił</p>
+de2c01cd-e698-4f1a-9c72-cead27de4789;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>очень возвышенные идеи</p>;<p>bardzo wyniosłe wyobrażenia</p>
+531776d3-8d54-4c23-a73a-8ac08d22fa04;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>они существуют только в нашем воображении</p>;<p>oni istnieją tylko w naszych wyobrażeniach</p>

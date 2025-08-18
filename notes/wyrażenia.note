@@ -2018,8 +2018,28 @@
 ~~~
 
 !id: 47dcf5db-dc9d-4139-b579-3ab5d5743bce
-!front: разговорные выражения
+!front: общепринятые/разговорные выражения
 !back: potoczne wyrażenia
+~~~
+
+!id: fff1ddee-ad14-43e3-952f-ad60c1aeef84
+!front: общепринятый термин
+!back: termin potoczny
+~~~
+
+!id: f704ff1a-4052-4cec-b490-e5b94b995150
+!front: иногда лучше, а иногда хуже общепринятых идей
+!back: bywa ona raz lepsza a raz gorsza od potocznych wyobrażeń
+~~~
+
+!id: 3efec3f6-fc9a-47a7-805d-cba70610071a
+!front: не использовать разговорную лексику
+!back: nie używać słownictwa potocznego
+~~~
+
+!id: e07977b3-fdc8-49e4-8404-30a695d9b712
+!front: общее или научное знание
+!back: potoczna czy naukowa wiedza
 ~~~
 
 !id: cdc25351-8ee2-4890-a9f8-0981d27adce7
@@ -2263,7 +2283,7 @@
 ~~~
 
 !id: 28a9f02b-cb6d-4b2e-9320-1dde9bf97e22
-!front: куда исчезло хоть какое-то подобие ответственности?
+!front: куда поделось хоть какое-то подобие ответственности?
 !back: gdzie się podziała jakakolwiek namiastka odpowiedzialności?
 ~~~
 
@@ -2290,4 +2310,34 @@
 !id: a640abd1-ddb7-4d52-bc1c-ad391f38d59c
 !front: почти что каждый день
 !back: niemal codziennie/prawie każdego dnia
+~~~
+
+!id: 7f36dfb1-f607-4df7-b16d-d82c101f4428
+!front: моя голова заполнена идеями
+!back: moja głowa jest pełna pomysłów
+~~~
+
+!id: 0ad90747-e978-45d1-a203-f2e55613bb1e
+!front: я везу с собой кота
+!back: zabieram ze sobą kota
+~~~
+
+!id: 2fcd6451-4c7f-4aa5-af30-b29a688beeb0
+!front: никто не попрощался с ним
+!back: nikt go nie żegnał
+~~~
+
+!id: e368db14-1a31-47c2-9843-c4c1815fd10a
+!front: в спешке уходил
+!back: w pospiechu się wynosił
+~~~
+
+!id: de2c01cd-e698-4f1a-9c72-cead27de4789
+!front: очень возвышенные идеи
+!back: bardzo wyniosłe wyobrażenia
+~~~
+
+!id: 531776d3-8d54-4c23-a73a-8ac08d22fa04
+!front: они существуют только в нашем воображении
+!back: oni istnieją tylko w naszych wyobrażeniach
 ~~~

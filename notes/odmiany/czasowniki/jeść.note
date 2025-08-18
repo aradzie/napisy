@@ -4,27 +4,112 @@
 
 !id: a0d655cf-1e06-49a3-8ea2-8f9c931a846d
 !front: Ja [jeść] (czas teraźniejszy)
-!back: Ja jem
+!back:
+Ja jem
+
+# jeść
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|jem |jemy |
+|2 os|jesz|jecie|
+|3 os|je  |jedzą|
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
 ~~~
 
 !id: 015d4a5e-df12-4593-86f4-af6b67c7dbc7
 !front: My [jeść] (czas teraźniejszy)
-!back: My jemy
+!back:
+My jemy
+
+# jeść
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|jem |jemy |
+|2 os|jesz|jecie|
+|3 os|je  |jedzą|
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
 ~~~
 
 !id: 5ac08022-fb7c-4349-ac0b-75a87bd9f2d0
 !front: Ty [jeść] (czas teraźniejszy)
-!back: Ty jesz
+!back:
+Ty jesz
+
+# jeść
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|jem |jemy |
+|2 os|jesz|jecie|
+|3 os|je  |jedzą|
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
 ~~~
 
 !id: f88462cd-49d7-4f22-9072-8c848f73708d
 !front: Wy [jeść] (czas teraźniejszy)
-!back: Wy jecie
+!back:
+Wy jecie
+
+# jeść
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|jem |jemy |
+|2 os|jesz|jecie|
+|3 os|je  |jedzą|
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
 ~~~
 
 !id: 04bf56dd-e628-43aa-9c39-949d7ddfb3da
 !front: On/Ona/Ono [jeść] (czas teraźniejszy)
-!back: On/Ona/Ono je
+!back:
+On/Ona/Ono je
+
+# jeść
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|jem |jemy |
+|2 os|jesz|jecie|
+|3 os|je  |jedzą|
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
 ~~~
 
 !id: 3b9a5c98-a52d-4420-a21c-b4ea02faf248
@@ -35,6 +120,22 @@ Oni/One jedzą
 *Porównaj z "Oni/One (jeździć) jeżdżą"*
 
 *Porównaj z "Oni/One (jechać) jadą"*
+
+# jeść
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|jem |jemy |
+|2 os|jesz|jecie|
+|3 os|je  |jedzą|
+
+# dać
+
+|    |lp  |lm   |
+|:---|:---|:----|
+|1 os|dam |damy |
+|2 os|dasz|dacie|
+|3 os|da  |dadzą|
 ~~~
 
 !id: 37579502-8637-4e4f-8935-ab9a443726eb

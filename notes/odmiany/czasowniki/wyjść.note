@@ -1,0 +1,171 @@
+!type: Basic
+!deck: Polski::Odmiany::Czasowniki
+!tags: Polski Odmiana
+
+!id: 49e471ba-65dc-4db6-8a24-d647827dfadc
+!front: Ja [wyjść] (czas teraźniejszy)
+!back:
+Ja wyjdę
+
+*Porównaj z "Ja idę"*
+~~~
+
+!id: 7baea7ea-8242-4059-a049-35202c149f74
+!front: My [wyjść] (czas teraźniejszy)
+!back:
+My wyjdziemy
+
+*Porównaj z "My idziemy"*
+~~~
+
+!id: f0243f13-75b5-4703-a4de-26b15234cd20
+!front: Ty [wyjść] (czas teraźniejszy)
+!back:
+Ty wyjdziesz
+
+*Porównaj z "Ty idziesz"*
+~~~
+
+!id: c944d9f7-388c-48e3-bb86-1cce7db74e5a
+!front: Wy [wyjść] (czas teraźniejszy)
+!back:
+Wy wyjdziecie
+
+*Porównaj z "Wy idziecie"*
+~~~
+
+!id: ba2c8406-8d15-48a2-ae25-a658c77a0745
+!front: On/Ona/Ono [wyjść] (czas teraźniejszy)
+!back:
+On/Ona/Ono wyjdzie
+
+*Porównaj z "On/Ona/Ono idzie"*
+~~~
+
+!id: 50d64ee6-e849-4760-a55a-f6bc35479f45
+!front: Oni/One [wyjść] (czas teraźniejszy)
+!back:
+Oni/One wyjdą
+
+*Porównaj z "Oni/One idą"*
+~~~
+
+!id: 1870cf0e-4bdb-48bd-ac92-bc062ec1b243
+!front: Ja [wyjść] (męski, czas przeszły)
+!back:
+Ja wyszedłem
+
+*Porównaj z "Ja szedłem"*
+~~~
+
+!id: daf4eaa5-8d80-495e-a9f5-795dc311a2aa
+!front: Ja [wyjść] (żeński, czas przeszły)
+!back:
+Ja wyszłam
+
+*Porównaj z "Ja szłam"*
+~~~
+
+!id: 5c113bc3-b8e5-4e3d-98e3-8230a3667ccf
+!front: Ja [wyjść] (nijaki, czas przeszły)
+!back:
+Ja wyszłom
+
+*Porównaj z "Ja szłom"*
+~~~
+
+!id: 57940f16-d9bd-45d9-9eab-456dc83d0f23
+!front: My [wyjść] (czas przeszły)
+!back:
+My wyszliśmy
+
+*Porównaj z "My szliśmy"*
+~~~
+
+!id: 6524c50a-ec1f-4ccd-bb08-77ff66d32bd9
+!front: Ty [wyjść] (męski, czas przeszły)
+!back:
+Ty wyszedłeś
+
+*Porównaj z "Ty szedłeś"*
+~~~
+
+!id: e87ec177-d069-41e8-b2b6-e4cfc42efac5
+!front: Ty [wyjść] (żeński, czas przeszły)
+!back:
+Ty wyszłaś
+
+*Porównaj z "Ty szłaś"*
+~~~
+
+!id: 7a506f08-ed32-4ab8-a6f3-d5be1543a0bc
+!front: Ty [wyjść] (nijaki, czas przeszły)
+!back:
+Ty wyszłoś
+
+*Porównaj z "Ty szłoś"*
+~~~
+
+!id: 78588ace-17cb-4a2c-b588-379ed6418a9f
+!front: Wy [wyjść] (czas przeszły)
+!back:
+Wy wyszliście
+
+*Porównaj z "Wy szliście"*
+~~~
+
+!id: 34776b52-d223-494e-ab8d-28afca9133c1
+!front: On [wyjść] (czas przeszły)
+!back:
+On wyszedł
+
+*Porównaj z "On szedł"*
+~~~
+
+!id: a3173862-d07f-4c6e-9be1-e7bd9911b0b6
+!front: Ona [wyjść] (czas przeszły)
+!back:
+Ona wyszła
+
+*Porównaj z "Ona szła"*
+~~~
+
+!id: 2fd8c244-661c-46cb-9855-e4bf6b2773ef
+!front: Ono [wyjść] (czas przeszły)
+!back:
+Ono wyszło
+
+*Porównaj z "Ono szło"*
+~~~
+
+!id: 76d6b4cc-1c3d-46ba-993f-27bf1936c851
+!front: Oni [wyjść] (czas przeszły)
+!back:
+Oni wyszli
+
+*Porównaj z "Oni szli"*
+~~~
+
+!id: ba8f6153-b3ee-4849-bc02-3d8fa8016138
+!front: Ty [wyjść] (tryb rozkazujący)
+!back:
+Ty wyjdź
+
+*Porównaj z "Ty idź"*
+~~~
+
+!id: f8f1e715-7139-42f0-ba60-49171e7ba72a
+!front: My [wyjść] (tryb rozkazujący)
+!back:
+My wyjdźmy
+
+*Porównaj z "My idźmy"*
+~~~
+
+!id: cc356eca-7f36-4087-b580-3ee0ee8b1e25
+!front: Wy [wyjść] (tryb rozkazujący)
+!back:
+Wy wyjdźcie
+
+*Porównaj z "Wy idźcie"*
+~~~
