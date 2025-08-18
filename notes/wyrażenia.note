@@ -1199,7 +1199,7 @@
 
 !id: aa62f657-3584-453c-9ab2-78c8545e81cf
 !front: не предоставляет полезной информации
-!back: nie dostarcza użytecznych informacji
+!back: nie dostarcza przydatnych/użytecznych informacji
 ~~~
 
 !id: 330aa00c-8fb9-47d7-9b39-fb5dd0be7cc9
@@ -1478,7 +1478,7 @@
 ~~~
 
 !id: 6f47a977-4288-4529-ad6d-5dc66f594d17
-!front: У меня были причины
+!front: у меня были причины
 !back: miałem powody
 ~~~
 
@@ -1683,8 +1683,8 @@
 ~~~
 
 !id: 0e31ae15-d44e-48a9-b6fb-9ecfdcfabdd0
-!front: Объявление войны
-!back: Wypowiedzenie wojny
+!front: объявление войны
+!back: wypowiedzenie wojny
 ~~~
 
 !id: 5442257c-d8fc-4f30-bcc5-6bd1b44e8585
@@ -1714,7 +1714,7 @@
 
 !id: d187e509-7949-4a2d-aebe-e48739f7732c
 !front: больше полезной информации
-!back: więcej przydatnych informacji
+!back: więcej przydatnych/użytecznych informacji
 ~~~
 
 !id: 347671fb-a089-493d-9ef2-581ed3f0cc68
@@ -1933,7 +1933,7 @@
 ~~~
 
 !id: 404939fd-70b3-444d-a193-a6cddc7ff620
-!front: не могу терпеть вас
+!front: не могу тебя терпеть
 !back: nie znoszę cię
 ~~~
 
@@ -2198,7 +2198,7 @@
 ~~~
 
 !id: 35b3c210-6f77-4588-b2e1-9d6a48895ee3
-!front: это не может продолжаться???????
+!front: это не может быть терпимо
 !back: tego się nie da tolerować
 ~~~
 

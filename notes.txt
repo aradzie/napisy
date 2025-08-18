@@ -9057,7 +9057,7 @@ fd07cbf6-6d0b-4d2a-b05d-7bc2be209783;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 187ed01a-776d-4b2d-a60b-fd51dadc41b5;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>но одинаково эффективный</p>;<p>lecz równie skuteczny</p>
 36346edd-577f-41ca-ab1a-54795471a9c4;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>презрительный термин</p>;<p>pogardliwy termin</p>
 bea03932-caad-4c01-9c43-c20a15f5f9f0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>если факты не соответствуют мнениям, тем хуже для фактов</p>;<p>jeśli fakty nie pasują do opinii, to tym gorzej dla faktów</p>
-aa62f657-3584-453c-9ab2-78c8545e81cf;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>не предоставляет полезной информации</p>;<p>nie dostarcza użytecznych informacji</p>
+aa62f657-3584-453c-9ab2-78c8545e81cf;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>не предоставляет полезной информации</p>;<p>nie dostarcza przydatnych/użytecznych informacji</p>
 330aa00c-8fb9-47d7-9b39-fb5dd0be7cc9;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>способствует глобальному потеплению</p>;<p>napędza globalne ocieplenie</p>
 207d9a41-c0c3-4d49-9323-02347b8adf80;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>происходят быстрые изменения климата</p>;<p>zachodzą gwałtowne zmiany klimatu</p>
 88e8cba8-6677-4660-88d6-286ac153b4b0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>ассоциация слов с погромами может показаться преувеличенной</p>;<p>skojarzenie słów z pogromami może wydawać się przesadzone</p>
@@ -9160,7 +9160,7 @@ b5bb0644-02c9-4904-8e8e-aaeb98220642;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 ac5937a1-e6ca-4e4b-9305-2dbe7f037ad8;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>может вводить в заблуждение</p>;<p>może być myląca</p>
 0645b80e-dd17-4cde-a467-b52d2e57b68a;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>на первый взгляд</p>;<p>na pierwszy rzut oka</p>
 19300912-2816-46a0-a604-fb962ed83d91;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>определенное исключение</p>;<p>pewny wyjątek</p>
-d187e509-7949-4a2d-aebe-e48739f7732c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>больше полезной информации</p>;<p>więcej przydatnych informacji</p>
+d187e509-7949-4a2d-aebe-e48739f7732c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>больше полезной информации</p>;<p>więcej przydatnych/użytecznych informacji</p>
 347671fb-a089-493d-9ef2-581ed3f0cc68;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это меня раздражает</p>;<p>to mnie irytuje/drażni</p>
 d7723bdd-ea5c-46a8-8dee-0cb742d34bc9;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>он передал сообщение</p>;<p>wygłosił orędzie</p>
 aad2e739-66f4-4758-962c-b255a4eb52c1;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>скоро поднимещь тему</p>;<p>wkrótce poruszysz temat</p>
@@ -9204,7 +9204,7 @@ ac024892-d285-4aa7-99de-42e9ee7020cd;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 a58477a7-6985-496b-86cf-7d109c8f78ed;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>большая часть общества не будет воспринимать себя</p>;<p>większość społeczeństwa nie będzie siebie postrzegać</p>
 bfc37c8d-7d24-4fd3-8283-61b8fc52f2be;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я что-то пропустил</p>;<p>coś mnie ominęło</p>
 6de3187c-831a-4092-a320-82120d4a88e6;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>вам не понравится то, что я собираюсь сказать</p>;<p>nie spodoba ci się to, co zamierzam powiedzieć</p>
-404939fd-70b3-444d-a193-a6cddc7ff620;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>не могу терпеть вас</p>;<p>nie znoszę cię</p>
+404939fd-70b3-444d-a193-a6cddc7ff620;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>не могу тебя терпеть</p>;<p>nie znoszę cię</p>
 be00d249-0f81-4dd4-bdc8-38b6ecc6a2f0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я внимательно слушаю и запоминаю</p>;<p>słucham uważnie i zapamiętuję</p>
 502b2d0a-fecd-49c2-886d-42c22d0c10e1;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>немедленно</p>;<p>natychmiast</p>
 09c5939c-35c2-4549-94f9-577476970cba;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>мне надоела эта книга</p>;<p>umęczyła mnie ta książka</p>
@@ -9257,7 +9257,7 @@ c43f4c17-86c6-4a4c-9c20-cf21ff91e024;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 41c38da5-e416-4aef-9087-e8f07748e2dc;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>возмущение со всех сторон</p>;<p>zewsząd oburzanie</p>
 1be2b501-c58f-43af-8b95-4f973b32707c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>под угрозой со всех сторон</p>;<p>zewsząd zagrożone</p>
 06dd7cf3-db55-4f3b-8177-12c836013b33;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>никто в здравом уме не ожидал ничего другого</p>;<p>nikt ogarnięty się nie spodziewał czegoś innego</p>
-35b3c210-6f77-4588-b2e1-9d6a48895ee3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это не может продолжаться???????</p>;<p>tego się nie da tolerować</p>
+35b3c210-6f77-4588-b2e1-9d6a48895ee3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это не может быть терпимо</p>;<p>tego się nie da tolerować</p>
 46d4a6a7-1cda-4650-8ea6-9e5967b310df;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>испытываю презрение</p>;<p>odczuwam pogardę</p>
 0e29efe4-41fe-460e-8e09-5c9d852e0ba6;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>как кто-то смеет меня осуждать</p>;<p>jak ktoś w ogóle śmie mnie ganić</p>
 b18d2093-56fb-4d1f-a7e0-147a3b090f62;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это кажется преувеличением</p>;<p>to wydaje się przesadzone</p>
