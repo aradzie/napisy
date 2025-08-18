@@ -1113,27 +1113,48 @@ dc58e766-b1a6-4494-b55b-4884f56a72de;Basic;Polski::Odmiany::Czasowniki;Polski Od
 <li><em>A dajcie już spokój!</em></li>
 <li><em>Do picia dajcie zwykłą wodę.</em></li>
 </ul>"
-212d4cf5-9824-48b1-9ca3-1ed9e1193849;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dojść] (czas teraźniejszy)</p>;<p>Ja dojdę</p>
-7182a2d7-0fc5-4dce-afe1-e83938e49c56;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [dojść] (czas teraźniejszy)</p>;<p>My dojdziemy</p>
-f78f2a44-eb01-4adf-9ee7-33e65f4689e7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (czas teraźniejszy)</p>;<p>Ty dojdziesz</p>
-79e9e5b2-670c-4aa8-a070-895beba9f570;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [dojść] (czas teraźniejszy)</p>;<p>Wy dojdziecie</p>
-e2c013a1-6f9e-4b65-9d25-c0d5d6b283ba;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [dojść] (czas teraźniejszy)</p>;<p>On/Ona/Ono dojdzie</p>
-016da422-4423-4fbb-ad55-b177f4a01dfb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [dojść] (czas teraźniejszy)</p>;<p>Oni/One dojdą</p>
-67f66925-004f-406e-8004-71a3791ec85c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dojść] (męski, czas przeszły)</p>;<p>Ja doszedłem</p>
-e25fe523-46c4-48a4-992b-9c47c0d6ad50;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dojść] (żeński, czas przeszły)</p>;<p>Ja doszłam</p>
-6ad76131-e0eb-446c-ba4e-1766b507493e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dojść] (nijaki, czas przeszły)</p>;<p>Ja doszłom</p>
-13a0d325-4021-4fd2-8fc7-311fa088a094;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [dojść] (czas przeszły)</p>;<p>My doszliśmy</p>
-37f93bfe-21ac-47fb-ac86-c8dff707b8b9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (męski, czas przeszły)</p>;<p>Ty doszedłeś</p>
-5734f8cc-d906-4522-86af-3a8911dd0399;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (żeński, czas przeszły)</p>;<p>Ty doszłaś</p>
-599ecf3b-26e6-4347-a714-fd0645044df4;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (nijaki, czas przeszły)</p>;<p>Ty doszłoś</p>
-87bfa995-d46f-4a9b-a960-d9e560a2c04d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [dojść] (czas przeszły)</p>;<p>Wy doszliście</p>
-13908c1c-92a1-4003-a6d2-fef60972f60a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [dojść] (czas przeszły)</p>;<p>On doszedł</p>
-241e314c-7ff5-4b23-b9f0-e4027ab1e424;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [dojść] (czas przeszły)</p>;<p>Ona doszła</p>
-4b2f940a-3a37-4679-9f16-56ca00cb4ea6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [dojść] (czas przeszły)</p>;<p>Ono doszło</p>
-e4f280e0-723e-4147-8b0d-9d134ce8aca2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [dojść] (czas przeszły)</p>;<p>Oni doszli</p>
-068e9fc9-6513-4b2f-8acb-a37c0d1dcb71;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (tryb rozkazujący)</p>;<p>Ty dojdź</p>
-d7aa5289-1f86-43b7-aab0-08b98fc453e8;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [dojść] (tryb rozkazujący)</p>;<p>My dojdźmy</p>
-bb78c4ab-1a10-4a7e-975c-f2a29f484849;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [dojść] (tryb rozkazujący)</p>;<p>Wy dojdźcie</p>
+212d4cf5-9824-48b1-9ca3-1ed9e1193849;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dojść] (czas teraźniejszy)</p>;"<p>Ja dojdę</p>
+<p><em>Porównaj z &quot;Ja idę&quot;</em></p>"
+7182a2d7-0fc5-4dce-afe1-e83938e49c56;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [dojść] (czas teraźniejszy)</p>;"<p>My dojdziemy</p>
+<p><em>Porównaj z &quot;My idziemy&quot;</em></p>"
+f78f2a44-eb01-4adf-9ee7-33e65f4689e7;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (czas teraźniejszy)</p>;"<p>Ty dojdziesz</p>
+<p><em>Porównaj z &quot;Ty idziesz&quot;</em></p>"
+79e9e5b2-670c-4aa8-a070-895beba9f570;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [dojść] (czas teraźniejszy)</p>;"<p>Wy dojdziecie</p>
+<p><em>Porównaj z &quot;Wy idziecie&quot;</em></p>"
+e2c013a1-6f9e-4b65-9d25-c0d5d6b283ba;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On/Ona/Ono [dojść] (czas teraźniejszy)</p>;"<p>On/Ona/Ono dojdzie</p>
+<p><em>Porównaj z &quot;On/Ona/Ono idzie&quot;</em></p>"
+016da422-4423-4fbb-ad55-b177f4a01dfb;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni/One [dojść] (czas teraźniejszy)</p>;"<p>Oni/One dojdą</p>
+<p><em>Porównaj z &quot;Oni/One idą&quot;</em></p>"
+67f66925-004f-406e-8004-71a3791ec85c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dojść] (męski, czas przeszły)</p>;"<p>Ja doszedłem</p>
+<p><em>Porównaj z &quot;Ja szedłem&quot;</em></p>"
+e25fe523-46c4-48a4-992b-9c47c0d6ad50;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dojść] (żeński, czas przeszły)</p>;"<p>Ja doszłam</p>
+<p><em>Porównaj z &quot;Ja szłam&quot;</em></p>"
+6ad76131-e0eb-446c-ba4e-1766b507493e;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [dojść] (nijaki, czas przeszły)</p>;"<p>Ja doszłom</p>
+<p><em>Porównaj z &quot;Ja szłom&quot;</em></p>"
+13a0d325-4021-4fd2-8fc7-311fa088a094;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [dojść] (czas przeszły)</p>;"<p>My doszliśmy</p>
+<p><em>Porównaj z &quot;My szliśmy&quot;</em></p>"
+37f93bfe-21ac-47fb-ac86-c8dff707b8b9;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (męski, czas przeszły)</p>;"<p>Ty doszedłeś</p>
+<p><em>Porównaj z &quot;Ty szedłeś&quot;</em></p>"
+5734f8cc-d906-4522-86af-3a8911dd0399;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (żeński, czas przeszły)</p>;"<p>Ty doszłaś</p>
+<p><em>Porównaj z &quot;Ty szłaś&quot;</em></p>"
+599ecf3b-26e6-4347-a714-fd0645044df4;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (nijaki, czas przeszły)</p>;"<p>Ty doszłoś</p>
+<p><em>Porównaj z &quot;Ty szłoś&quot;</em></p>"
+87bfa995-d46f-4a9b-a960-d9e560a2c04d;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [dojść] (czas przeszły)</p>;"<p>Wy doszliście</p>
+<p><em>Porównaj z &quot;Wy szliście&quot;</em></p>"
+13908c1c-92a1-4003-a6d2-fef60972f60a;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [dojść] (czas przeszły)</p>;"<p>On doszedł</p>
+<p><em>Porównaj z &quot;On szedł&quot;</em></p>"
+241e314c-7ff5-4b23-b9f0-e4027ab1e424;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [dojść] (czas przeszły)</p>;"<p>Ona doszła</p>
+<p><em>Porównaj z &quot;Ona szła&quot;</em></p>"
+4b2f940a-3a37-4679-9f16-56ca00cb4ea6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [dojść] (czas przeszły)</p>;"<p>Ono doszło</p>
+<p><em>Porównaj z &quot;Ono szło&quot;</em></p>"
+e4f280e0-723e-4147-8b0d-9d134ce8aca2;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [dojść] (czas przeszły)</p>;"<p>Oni doszli</p>
+<p><em>Porównaj z &quot;Oni szli&quot;</em></p>"
+068e9fc9-6513-4b2f-8acb-a37c0d1dcb71;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dojść] (tryb rozkazujący)</p>;"<p>Ty dojdź</p>
+<p><em>Porównaj z &quot;Ty idź&quot;</em></p>"
+d7aa5289-1f86-43b7-aab0-08b98fc453e8;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [dojść] (tryb rozkazujący)</p>;"<p>My dojdźmy</p>
+<p><em>Porównaj z &quot;My idźmy&quot;</em></p>"
+bb78c4ab-1a10-4a7e-975c-f2a29f484849;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [dojść] (tryb rozkazujący)</p>;"<p>Wy dojdźcie</p>
+<p><em>Porównaj z &quot;Wy idźcie&quot;</em></p>"
 a00c9071-f61e-4621-a952-80592172b21f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [istnieć] (czas teraźniejszy)</p>;<p>Ja istnieję</p>
 7d3509e6-bc41-45a8-98d5-de01248bebca;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [istnieć] (czas teraźniejszy)</p>;<p>My istniejemy</p>
 31315c8c-914b-454c-9734-686ed44d7c6c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [istnieć] (czas teraźniejszy)</p>;<p>Ty istniejesz</p>

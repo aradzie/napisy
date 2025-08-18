@@ -4,105 +4,168 @@
 
 !id: 212d4cf5-9824-48b1-9ca3-1ed9e1193849
 !front: Ja [dojść] (czas teraźniejszy)
-!back: Ja dojdę
+!back:
+Ja dojdę
+
+*Porównaj z "Ja idę"*
 ~~~
 
 !id: 7182a2d7-0fc5-4dce-afe1-e83938e49c56
 !front: My [dojść] (czas teraźniejszy)
-!back: My dojdziemy
+!back:
+My dojdziemy
+
+*Porównaj z "My idziemy"*
 ~~~
 
 !id: f78f2a44-eb01-4adf-9ee7-33e65f4689e7
 !front: Ty [dojść] (czas teraźniejszy)
-!back: Ty dojdziesz
+!back:
+Ty dojdziesz
+
+*Porównaj z "Ty idziesz"*
 ~~~
 
 !id: 79e9e5b2-670c-4aa8-a070-895beba9f570
 !front: Wy [dojść] (czas teraźniejszy)
-!back: Wy dojdziecie
+!back:
+Wy dojdziecie
+
+*Porównaj z "Wy idziecie"*
 ~~~
 
 !id: e2c013a1-6f9e-4b65-9d25-c0d5d6b283ba
 !front: On/Ona/Ono [dojść] (czas teraźniejszy)
-!back: On/Ona/Ono dojdzie
+!back:
+On/Ona/Ono dojdzie
+
+*Porównaj z "On/Ona/Ono idzie"*
 ~~~
 
 !id: 016da422-4423-4fbb-ad55-b177f4a01dfb
 !front: Oni/One [dojść] (czas teraźniejszy)
-!back: Oni/One dojdą
+!back:
+Oni/One dojdą
+
+*Porównaj z "Oni/One idą"*
 ~~~
 
 !id: 67f66925-004f-406e-8004-71a3791ec85c
 !front: Ja [dojść] (męski, czas przeszły)
-!back: Ja doszedłem
+!back:
+Ja doszedłem
+
+*Porównaj z "Ja szedłem"*
 ~~~
 
 !id: e25fe523-46c4-48a4-992b-9c47c0d6ad50
 !front: Ja [dojść] (żeński, czas przeszły)
-!back: Ja doszłam
+!back:
+Ja doszłam
+
+*Porównaj z "Ja szłam"*
 ~~~
 
 !id: 6ad76131-e0eb-446c-ba4e-1766b507493e
 !front: Ja [dojść] (nijaki, czas przeszły)
-!back: Ja doszłom
+!back:
+Ja doszłom
+
+*Porównaj z "Ja szłom"*
 ~~~
 
 !id: 13a0d325-4021-4fd2-8fc7-311fa088a094
 !front: My [dojść] (czas przeszły)
-!back: My doszliśmy
+!back:
+My doszliśmy
+
+*Porównaj z "My szliśmy"*
 ~~~
 
 !id: 37f93bfe-21ac-47fb-ac86-c8dff707b8b9
 !front: Ty [dojść] (męski, czas przeszły)
-!back: Ty doszedłeś
+!back:
+Ty doszedłeś
+
+*Porównaj z "Ty szedłeś"*
 ~~~
 
 !id: 5734f8cc-d906-4522-86af-3a8911dd0399
 !front: Ty [dojść] (żeński, czas przeszły)
-!back: Ty doszłaś
+!back:
+Ty doszłaś
+
+*Porównaj z "Ty szłaś"*
 ~~~
 
 !id: 599ecf3b-26e6-4347-a714-fd0645044df4
 !front: Ty [dojść] (nijaki, czas przeszły)
-!back: Ty doszłoś
+!back:
+Ty doszłoś
+
+*Porównaj z "Ty szłoś"*
 ~~~
 
 !id: 87bfa995-d46f-4a9b-a960-d9e560a2c04d
 !front: Wy [dojść] (czas przeszły)
-!back: Wy doszliście
+!back:
+Wy doszliście
+
+*Porównaj z "Wy szliście"*
 ~~~
 
 !id: 13908c1c-92a1-4003-a6d2-fef60972f60a
 !front: On [dojść] (czas przeszły)
-!back: On doszedł
+!back:
+On doszedł
+
+*Porównaj z "On szedł"*
 ~~~
 
 !id: 241e314c-7ff5-4b23-b9f0-e4027ab1e424
 !front: Ona [dojść] (czas przeszły)
-!back: Ona doszła
+!back:
+Ona doszła
+
+*Porównaj z "Ona szła"*
 ~~~
 
 !id: 4b2f940a-3a37-4679-9f16-56ca00cb4ea6
 !front: Ono [dojść] (czas przeszły)
-!back: Ono doszło
+!back:
+Ono doszło
+
+*Porównaj z "Ono szło"*
 ~~~
 
 !id: e4f280e0-723e-4147-8b0d-9d134ce8aca2
 !front: Oni [dojść] (czas przeszły)
-!back: Oni doszli
+!back:
+Oni doszli
+
+*Porównaj z "Oni szli"*
 ~~~
 
 !id: 068e9fc9-6513-4b2f-8acb-a37c0d1dcb71
 !front: Ty [dojść] (tryb rozkazujący)
-!back: Ty dojdź
+!back:
+Ty dojdź
+
+*Porównaj z "Ty idź"*
 ~~~
 
 !id: d7aa5289-1f86-43b7-aab0-08b98fc453e8
 !front: My [dojść] (tryb rozkazujący)
-!back: My dojdźmy
+!back:
+My dojdźmy
+
+*Porównaj z "My idźmy"*
 ~~~
 
 !id: bb78c4ab-1a10-4a7e-975c-f2a29f484849
 !front: Wy [dojść] (tryb rozkazujący)
-!back: Wy dojdźcie
+!back:
+Wy dojdźcie
+
+*Porównaj z "Wy idźcie"*
 ~~~
