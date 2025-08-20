@@ -1173,9 +1173,9 @@ bc21ce68-07e8-4a60-a88f-83c27038133b;Basic;Polski::Odmiany::Czasowniki;Polski Od
 7f441a86-a572-432c-8947-8f64bfade525;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [dowiedzieć się] (czas przeszły)</p>;<p>Ona dowiedziała się</p>
 06f6f089-904c-461c-bfc1-5729e8a06175;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [dowiedzieć się] (czas przeszły)</p>;<p>Ono dowiedziało się</p>
 114deece-c1d0-4e8f-993d-e433a3b436de;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [dowiedzieć się] (czas przeszły)</p>;<p>Oni dowiedzieli się</p>
-20babbf5-91db-4dcb-b17f-7c0f29046b8f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [wiedzieć] (tryb rozkazujący)</p>;<p>Ty dowiedz się</p>
-009a0dde-c9c8-43a5-83b8-3182831558c0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [wiedzieć] (tryb rozkazujący)</p>;<p>My dowiedzmy się</p>
-73ef05a4-dc4c-4839-a350-93e6782ad16b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [wiedzieć] (tryb rozkazujący)</p>;<p>Wy dowiedzcie się</p>
+20babbf5-91db-4dcb-b17f-7c0f29046b8f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [dowiedzieć się] (tryb rozkazujący)</p>;<p>Ty dowiedz się</p>
+009a0dde-c9c8-43a5-83b8-3182831558c0;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [dowiedzieć się] (tryb rozkazujący)</p>;<p>My dowiedzmy się</p>
+73ef05a4-dc4c-4839-a350-93e6782ad16b;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [dowiedzieć się] (tryb rozkazujący)</p>;<p>Wy dowiedzcie się</p>
 a00c9071-f61e-4621-a952-80592172b21f;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ja [istnieć] (czas teraźniejszy)</p>;<p>Ja istnieję</p>
 7d3509e6-bc41-45a8-98d5-de01248bebca;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [istnieć] (czas teraźniejszy)</p>;<p>My istniejemy</p>
 31315c8c-914b-454c-9734-686ed44d7c6c;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [istnieć] (czas teraźniejszy)</p>;<p>Ty istniejesz</p>
@@ -2144,7 +2144,7 @@ ac43f410-87f8-4607-9158-1435cafa7853;Basic;Polski::Odmiany::Czasowniki;Polski Od
 a0d9bdfd-d934-45b0-a479-ec9ea9871168;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Wy [jeździć] (czas przeszły)</p>;<p>Wy jeździliście</p>
 0ac88b6a-cd54-4cf0-ab31-c5cb9a5b1c35;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>On [jeździć] (czas przeszły)</p>;<p>On jeździł</p>
 92962d75-7840-44e1-a1e1-6bf6f86a9eae;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ona [jeździć] (czas przeszły)</p>;<p>Ona jeździła</p>
-39e6f78c-1744-4d76-8191-0c09a670b066;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [jeździć] (czas przeszły)</p>;<p>Ono jeździło?</p>
+39e6f78c-1744-4d76-8191-0c09a670b066;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ono [jeździć] (czas przeszły)</p>;<p>Ono jeździło</p>
 9f1bed4a-5dea-42ad-8362-fbe502e974b6;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Oni [jeździć] (czas przeszły)</p>;<p>Oni jeździli</p>
 f821ff06-2053-4523-9da5-e99c917e44e8;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>Ty [jeździć] (tryb rozkazujący)</p>;<p>Ty jeździj/jeźdź</p>
 4b810f1e-266f-456e-8428-1e380777d2f5;Basic;Polski::Odmiany::Czasowniki;Polski Odmiana;<p>My [jeździć] (tryb rozkazujący)</p>;<p>My jeździjmy/jeźdźmy</p>
