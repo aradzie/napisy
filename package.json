@@ -4,7 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "anotes insert-id --dir=notes && anotes export --dir=notes --out=notes.txt"
   },
   "dependencies": {
     "dictionary-pl": "^2.0.0",
