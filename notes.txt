@@ -9871,7 +9871,6 @@ e297aa22-183a-4b93-8d92-c97e8cc2d965;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 10ba5249-476b-4ab0-9555-c13aed29ac04;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>у меня есть привычка</p>;<p>mam zwyczaj</p>
 36cd80c6-5283-4316-993b-f808ee599fa6;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>рядом с кроватью сидела мама</p>;<p>koło łóżka siedziała mama</p>
 875ca571-3f08-414c-b9a8-b59dfc0270e9;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>что с ним случилось</p>;<p>co się z nim stało</p>
-35f2d64f-3a0a-4bc9-bcbf-42a3a7687c2c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>выступил намного лучше</p>;<p>wypadł znacznie lepiej</p>
 b9086318-5402-4c2e-93f5-4ef85c841068;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>он хотел, чтобы оказалось, что он врет</p>;<p>chciał żeby wyszło, że on kłamie</p>
 1d8616e0-fbfe-44f5-a51c-2adffbd95079;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>замена существующих источников света</p>;<p>wymianę istniejących źródeł światła</p>
 bf2e1f8c-0c10-49d1-a09c-1eff7526cb42;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>поэтому я скажу это за всех вас</p>;<p>więc powiem to za was wszystkich</p>
@@ -9940,7 +9939,6 @@ adc13ed5-e78e-49af-b7ad-1aafb1accb9f;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 f5b6128e-e1c6-4cf8-94ff-4b34ffefff81;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>им все равно</p>;<p>nie przejmują się</p>
 e810f988-a4ee-4aaa-ac7f-2d494c9414c1;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>стандартное оборудование</p>;<p>standardowe wyposażenie</p>
 a3bdca6f-9073-43c7-8465-80482a72c7c2;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>лицензия на вождение велосипеда</p>;<p>uprawnienia do jazdy rowerem</p>
-ba99e2db-7481-434b-bad6-7ecff3f382a0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>вопреки видимости</p>;<p>wbrew pozorom</p>
 9975138f-1509-4eff-92c2-4da949298fc5;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>не ставит перед собой целей</p>;<p>nie narzuca sobie celów</p>
 59059058-6cec-4a00-af1f-d13a28ff88cd;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>разница в том</p>;<p>różnica polega na tym</p>
 a1c40e28-b760-4e90-a209-05cee8bcc815;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>вырвано из контекста</p>;<p>wyjęte z kontekstu</p>
