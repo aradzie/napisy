@@ -1,4 +1,4 @@
-import { formatNotes, Note, NoteList, noteTypes } from "@anotes/core";
+import { Note, NoteList, NoteTypeMap, printNoteNodes } from "@anotes/core";
 import { writeFile } from "node:fs/promises";
 import { readDatabase } from "./lib/database.js";
 import { pathTo } from "./lib/io.js";
@@ -19,7 +19,7 @@ for (const [przypadek, generator] of [
 }
 const file = pathTo(`notes/odmiany/rzeczowniki.note`);
 console.log(`Generated ${notes.length} note(s) to file "${file}"`);
-await writeFile(file, formatNotes(notes));
+await writeFile(file, printNoteNodes(notes));
 
 function dopełniacz(db, notes) {
   // szukać, uczyć, słuchać, używać, życzyć, potrzebować (kogo czego)
@@ -220,13 +220,13 @@ Miejscownik (*o kim? o czym?*)
 }
 
 function addNote(notes, id, front, back) {
-  const note = new Note(noteTypes.basic);
+  const note = new Note(NoteTypeMap.basic);
   note.deck = `Polski::Odmiany::Rzeczowniki`;
   note.tags = `Polski Odmiana`;
   note.id = id;
   note.set("front", front.trim());
   note.set("back", back.trim());
-  notes.add(note);
+  notes.add(note.toNode());
 }
 
 function expand(words) {

@@ -17,6 +17,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_szukamy_dobrzy_ludzie
 !front: Szukamy (*kogo? czego?*) [**dobrzy** **ludzie**].
 !back:
@@ -31,6 +35,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_szukam_dobra_kobieta
 !front: Szukam (*kogo? czego?*) [**dobra** **kobieta**].
@@ -47,6 +55,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_szukamy_dobre_kobiety
 !front: Szukamy (*kogo? czego?*) [**dobre** **kobiety**].
 !back:
@@ -61,6 +73,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_szukam_dobre_dziecko
 !front: Szukam (*kogo? czego?*) [**dobre** **dziecko**].
@@ -77,6 +93,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_szukamy_dobre_dzieci
 !front: Szukamy (*kogo? czego?*) [**dobre** **dzieci**].
 !back:
@@ -91,6 +111,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_szukam_zły_człowiek
 !front: Szukam (*kogo? czego?*) [**zły** **człowiek**].
@@ -107,6 +131,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_szukamy_źli_ludzie
 !front: Szukamy (*kogo? czego?*) [**źli** **ludzie**].
 !back:
@@ -121,6 +149,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_szukam_zła_kobieta
 !front: Szukam (*kogo? czego?*) [**zła** **kobieta**].
@@ -137,6 +169,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_szukamy_złe_kobiety
 !front: Szukamy (*kogo? czego?*) [**złe** **kobiety**].
 !back:
@@ -151,6 +187,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_szukam_złe_dziecko
 !front: Szukam (*kogo? czego?*) [**złe** **dziecko**].
@@ -167,6 +207,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_szukamy_złe_dzieci
 !front: Szukamy (*kogo? czego?*) [**złe** **dzieci**].
 !back:
@@ -181,6 +225,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_szukam_taki_człowiek
 !front: Szukam (*kogo? czego?*) [**taki** **człowiek**].
@@ -197,6 +245,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_szukamy_tacy_ludzie
 !front: Szukamy (*kogo? czego?*) [**tacy** **ludzie**].
 !back:
@@ -211,6 +263,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_szukam_taka_kobieta
 !front: Szukam (*kogo? czego?*) [**taka** **kobieta**].
@@ -227,6 +283,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_szukamy_takie_kobiety
 !front: Szukamy (*kogo? czego?*) [**takie** **kobiety**].
 !back:
@@ -241,6 +301,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_szukam_takie_dziecko
 !front: Szukam (*kogo? czego?*) [**takie** **dziecko**].
@@ -257,6 +321,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_szukamy_takie_dzieci
 !front: Szukamy (*kogo? czego?*) [**takie** **dzieci**].
 !back:
@@ -271,6 +339,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_potrzebujemy_duże_magazyny
 !front: Potrzebujemy (*kogo? czego?*) [**duże** **magazyny**].
@@ -287,6 +359,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_potrzebuję_duży_magazyn
 !front: Potrzebuję (*kogo? czego?*) [**duży** **magazyn**].
 !back:
@@ -301,6 +377,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_potrzebujemy_małe_magazyny
 !front: Potrzebujemy (*kogo? czego?*) [**małe** **magazyny**].
@@ -317,6 +397,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_potrzebuję_mały_magazyn
 !front: Potrzebuję (*kogo? czego?*) [**mały** **magazyn**].
 !back:
@@ -331,6 +415,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_potrzebujemy_takie_magazyny
 !front: Potrzebujemy (*kogo? czego?*) [**takie** **magazyny**].
@@ -347,6 +435,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_potrzebuję_taki_magazyn
 !front: Potrzebuję (*kogo? czego?*) [**taki** **magazyn**].
 !back:
@@ -361,6 +453,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_potrzebujemy_białe_książki
 !front: Potrzebujemy (*kogo? czego?*) [**białe** **książki**].
@@ -377,6 +473,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_potrzebuję_biała_książka
 !front: Potrzebuję (*kogo? czego?*) [**biała** **książka**].
 !back:
@@ -391,6 +491,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_potrzebujemy_czarne_książki
 !front: Potrzebujemy (*kogo? czego?*) [**czarne** **książki**].
@@ -407,6 +511,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_potrzebuję_czarna_książka
 !front: Potrzebuję (*kogo? czego?*) [**czarna** **książka**].
 !back:
@@ -421,6 +529,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_potrzebujemy_takie_książki
 !front: Potrzebujemy (*kogo? czego?*) [**takie** **książki**].
@@ -437,6 +549,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_potrzebuję_taka_książka
 !front: Potrzebuję (*kogo? czego?*) [**taka** **książka**].
 !back:
@@ -451,6 +567,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_potrzebujemy_ciche_miejsca
 !front: Potrzebujemy (*kogo? czego?*) [**ciche** **miejsca**].
@@ -467,6 +587,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_potrzebuję_ciche_miejsce
 !front: Potrzebuję (*kogo? czego?*) [**ciche** **miejsce**].
 !back:
@@ -481,6 +605,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_potrzebujemy_miłe_miejsca
 !front: Potrzebujemy (*kogo? czego?*) [**miłe** **miejsca**].
@@ -497,6 +625,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_potrzebuję_miłe_miejsce
 !front: Potrzebuję (*kogo? czego?*) [**miłe** **miejsce**].
 !back:
@@ -511,6 +643,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: dopełniacz_potrzebujemy_takie_miejsca
 !front: Potrzebujemy (*kogo? czego?*) [**takie** **miejsca**].
@@ -527,6 +663,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrego dziecka  |dobrych dzieci|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: dopełniacz_potrzebuję_takie_miejsce
 !front: Potrzebuję (*kogo? czego?*) [**takie** **miejsce**].
 !back:
@@ -541,6 +681,10 @@ Dopełniacz (*kogo? czego?*)
 |dobrej kobiety   |dobrych kobiet|
 |dobrego dziecka  |dobrych dzieci|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_dajemy_dobrzy_ludzie
 !front: Dajemy (*komu? czemu?*) [**dobrzy** **ludzie**].
@@ -557,6 +701,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_daję_dobry_człowiek
 !front: Daję (*komu? czemu?*) [**dobry** **człowiek**].
 !back:
@@ -571,6 +719,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_dajemy_dobre_kobiety
 !front: Dajemy (*komu? czemu?*) [**dobre** **kobiety**].
@@ -587,6 +739,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_daję_dobra_kobieta
 !front: Daję (*komu? czemu?*) [**dobra** **kobieta**].
 !back:
@@ -601,6 +757,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_dajemy_dobre_dzieci
 !front: Dajemy (*komu? czemu?*) [**dobre** **dzieci**].
@@ -617,6 +777,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_daję_dobre_dziecko
 !front: Daję (*komu? czemu?*) [**dobre** **dziecko**].
 !back:
@@ -631,6 +795,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_dajemy_źli_ludzie
 !front: Dajemy (*komu? czemu?*) [**źli** **ludzie**].
@@ -647,6 +815,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_daję_zły_człowiek
 !front: Daję (*komu? czemu?*) [**zły** **człowiek**].
 !back:
@@ -661,6 +833,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_dajemy_złe_kobiety
 !front: Dajemy (*komu? czemu?*) [**złe** **kobiety**].
@@ -677,6 +853,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_daję_zła_kobieta
 !front: Daję (*komu? czemu?*) [**zła** **kobieta**].
 !back:
@@ -691,6 +871,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_dajemy_złe_dzieci
 !front: Dajemy (*komu? czemu?*) [**złe** **dzieci**].
@@ -707,6 +891,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_daję_złe_dziecko
 !front: Daję (*komu? czemu?*) [**złe** **dziecko**].
 !back:
@@ -721,6 +909,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_dajemy_tacy_ludzie
 !front: Dajemy (*komu? czemu?*) [**tacy** **ludzie**].
@@ -737,6 +929,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_daję_taki_człowiek
 !front: Daję (*komu? czemu?*) [**taki** **człowiek**].
 !back:
@@ -751,6 +947,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_dajemy_takie_kobiety
 !front: Dajemy (*komu? czemu?*) [**takie** **kobiety**].
@@ -767,6 +967,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_daję_taka_kobieta
 !front: Daję (*komu? czemu?*) [**taka** **kobieta**].
 !back:
@@ -781,6 +985,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_dajemy_takie_dzieci
 !front: Dajemy (*komu? czemu?*) [**takie** **dzieci**].
@@ -797,6 +1005,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_daję_takie_dziecko
 !front: Daję (*komu? czemu?*) [**takie** **dziecko**].
 !back:
@@ -811,6 +1023,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_pomagam_ważny_nauczyciel
 !front: Pomagam (*komu? czemu?*) [**ważny** **nauczyciel**].
@@ -827,6 +1043,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_pomagamy_ważni_nauczyciele
 !front: Pomagamy (*komu? czemu?*) [**ważni** **nauczyciele**].
 !back:
@@ -841,6 +1061,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_pomagam_ważna_nauczycielka
 !front: Pomagam (*komu? czemu?*) [**ważna** **nauczycielka**].
@@ -857,6 +1081,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_pomagamy_ważne_nauczycielki
 !front: Pomagamy (*komu? czemu?*) [**ważne** **nauczycielki**].
 !back:
@@ -871,6 +1099,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_pomagam_ważne_dziecko
 !front: Pomagam (*komu? czemu?*) [**ważne** **dziecko**].
@@ -887,6 +1119,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_pomagamy_ważne_dzieci
 !front: Pomagamy (*komu? czemu?*) [**ważne** **dzieci**].
 !back:
@@ -901,6 +1137,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_pomagam_miły_nauczyciel
 !front: Pomagam (*komu? czemu?*) [**miły** **nauczyciel**].
@@ -917,6 +1157,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_pomagamy_mili_nauczyciele
 !front: Pomagamy (*komu? czemu?*) [**mili** **nauczyciele**].
 !back:
@@ -931,6 +1175,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_pomagam_miła_nauczycielka
 !front: Pomagam (*komu? czemu?*) [**miła** **nauczycielka**].
@@ -947,6 +1195,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_pomagamy_miłe_nauczycielki
 !front: Pomagamy (*komu? czemu?*) [**miłe** **nauczycielki**].
 !back:
@@ -961,6 +1213,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_pomagam_miłe_dziecko
 !front: Pomagam (*komu? czemu?*) [**miłe** **dziecko**].
@@ -977,6 +1233,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_pomagamy_miłe_dzieci
 !front: Pomagamy (*komu? czemu?*) [**miłe** **dzieci**].
 !back:
@@ -991,6 +1251,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_pomagam_taki_nauczyciel
 !front: Pomagam (*komu? czemu?*) [**taki** **nauczyciel**].
@@ -1007,6 +1271,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_pomagamy_tacy_nauczyciele
 !front: Pomagamy (*komu? czemu?*) [**tacy** **nauczyciele**].
 !back:
@@ -1021,6 +1289,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_pomagam_taka_nauczycielka
 !front: Pomagam (*komu? czemu?*) [**taka** **nauczycielka**].
@@ -1037,6 +1309,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_pomagamy_takie_nauczycielki
 !front: Pomagamy (*komu? czemu?*) [**takie** **nauczycielki**].
 !back:
@@ -1051,6 +1327,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: celownik_pomagam_takie_dziecko
 !front: Pomagam (*komu? czemu?*) [**takie** **dziecko**].
@@ -1067,6 +1347,10 @@ Celownik (*komu? czemu?*)
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: celownik_pomagamy_takie_dzieci
 !front: Pomagamy (*komu? czemu?*) [**takie** **dzieci**].
 !back:
@@ -1081,6 +1365,10 @@ Celownik (*komu? czemu?*)
 |dobrej kobiecie    |dobrym kobietom|
 |dobremu dziecku    |dobrym dzieciom|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_lubimy_dobrzy_ludzie
 !front: Lubimy (*kogo? co?*) [**dobrzy** **ludzie**].
@@ -1098,6 +1386,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_lubię_dobry_człowiek
 !front: Lubię (*kogo? co?*) [**dobry** **człowiek**].
 !back:
@@ -1113,6 +1405,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_lubimy_dobrzy_bracia
 !front: Lubimy (*kogo? co?*) [**dobrzy** **bracia**].
@@ -1130,6 +1426,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_lubię_dobry_brat
 !front: Lubię (*kogo? co?*) [**dobry** **brat**].
 !back:
@@ -1145,6 +1445,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_lubimy_dobre_kobiety
 !front: Lubimy (*kogo? co?*) [**dobre** **kobiety**].
@@ -1162,6 +1466,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_lubię_dobra_kobieta
 !front: Lubię (*kogo? co?*) [**dobra** **kobieta**].
 !back:
@@ -1177,6 +1485,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_lubimy_dobre_siostry
 !front: Lubimy (*kogo? co?*) [**dobre** **siostry**].
@@ -1194,6 +1506,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_lubię_dobra_siostra
 !front: Lubię (*kogo? co?*) [**dobra** **siostra**].
 !back:
@@ -1209,6 +1525,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_lubimy_dobre_dzieci
 !front: Lubimy (*kogo? co?*) [**dobre** **dzieci**].
@@ -1226,6 +1546,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_lubię_dobre_dziecko
 !front: Lubię (*kogo? co?*) [**dobre** **dziecko**].
 !back:
@@ -1241,6 +1565,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_lubimy_źli_ludzie
 !front: Lubimy (*kogo? co?*) [**źli** **ludzie**].
@@ -1258,6 +1586,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_lubię_zły_człowiek
 !front: Lubię (*kogo? co?*) [**zły** **człowiek**].
 !back:
@@ -1273,6 +1605,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_lubimy_źli_bracia
 !front: Lubimy (*kogo? co?*) [**źli** **bracia**].
@@ -1290,6 +1626,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_lubię_zły_brat
 !front: Lubię (*kogo? co?*) [**zły** **brat**].
 !back:
@@ -1305,6 +1645,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_lubimy_złe_kobiety
 !front: Lubimy (*kogo? co?*) [**złe** **kobiety**].
@@ -1322,6 +1666,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_lubię_zła_kobieta
 !front: Lubię (*kogo? co?*) [**zła** **kobieta**].
 !back:
@@ -1337,6 +1685,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_lubimy_złe_siostry
 !front: Lubimy (*kogo? co?*) [**złe** **siostry**].
@@ -1354,6 +1706,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_lubię_zła_siostra
 !front: Lubię (*kogo? co?*) [**zła** **siostra**].
 !back:
@@ -1369,6 +1725,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_lubimy_złe_dzieci
 !front: Lubimy (*kogo? co?*) [**złe** **dzieci**].
@@ -1386,6 +1746,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_lubię_złe_dziecko
 !front: Lubię (*kogo? co?*) [**złe** **dziecko**].
 !back:
@@ -1401,6 +1765,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_lubimy_tacy_ludzie
 !front: Lubimy (*kogo? co?*) [**tacy** **ludzie**].
@@ -1418,6 +1786,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_lubię_taki_człowiek
 !front: Lubię (*kogo? co?*) [**taki** **człowiek**].
 !back:
@@ -1433,6 +1805,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_lubimy_tacy_bracia
 !front: Lubimy (*kogo? co?*) [**tacy** **bracia**].
@@ -1450,6 +1826,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_lubię_taki_brat
 !front: Lubię (*kogo? co?*) [**taki** **brat**].
 !back:
@@ -1465,6 +1845,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_lubimy_takie_kobiety
 !front: Lubimy (*kogo? co?*) [**takie** **kobiety**].
@@ -1482,6 +1866,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_lubię_taka_kobieta
 !front: Lubię (*kogo? co?*) [**taka** **kobieta**].
 !back:
@@ -1497,6 +1885,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_lubimy_takie_siostry
 !front: Lubimy (*kogo? co?*) [**takie** **siostry**].
@@ -1514,6 +1906,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_lubię_taka_siostra
 !front: Lubię (*kogo? co?*) [**taka** **siostra**].
 !back:
@@ -1529,6 +1925,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_lubimy_takie_dzieci
 !front: Lubimy (*kogo? co?*) [**takie** **dzieci**].
@@ -1546,6 +1946,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_lubię_takie_dziecko
 !front: Lubię (*kogo? co?*) [**takie** **dziecko**].
 !back:
@@ -1561,6 +1965,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_mam_dobry_dom
 !front: Mam (*kogo? co?*) [**dobry** **dom**].
@@ -1578,6 +1986,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_mamy_dobre_domy
 !front: Mamy (*kogo? co?*) [**dobre** **domy**].
 !back:
@@ -1593,6 +2005,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_mam_dobra_torba
 !front: Mam (*kogo? co?*) [**dobra** **torba**].
@@ -1610,6 +2026,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_mamy_dobre_torby
 !front: Mamy (*kogo? co?*) [**dobre** **torby**].
 !back:
@@ -1625,6 +2045,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_mam_dobre_krzesło
 !front: Mam (*kogo? co?*) [**dobre** **krzesło**].
@@ -1642,6 +2066,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_mamy_dobre_krzesła
 !front: Mamy (*kogo? co?*) [**dobre** **krzesła**].
 !back:
@@ -1657,6 +2085,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_mam_zły_dom
 !front: Mam (*kogo? co?*) [**zły** **dom**].
@@ -1674,6 +2106,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_mamy_złe_domy
 !front: Mamy (*kogo? co?*) [**złe** **domy**].
 !back:
@@ -1689,6 +2125,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_mam_zła_torba
 !front: Mam (*kogo? co?*) [**zła** **torba**].
@@ -1706,6 +2146,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_mamy_złe_torby
 !front: Mamy (*kogo? co?*) [**złe** **torby**].
 !back:
@@ -1721,6 +2165,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_mam_złe_krzesło
 !front: Mam (*kogo? co?*) [**złe** **krzesło**].
@@ -1738,6 +2186,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_mamy_złe_krzesła
 !front: Mamy (*kogo? co?*) [**złe** **krzesła**].
 !back:
@@ -1753,6 +2205,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_mam_taki_dom
 !front: Mam (*kogo? co?*) [**taki** **dom**].
@@ -1770,6 +2226,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_mamy_takie_domy
 !front: Mamy (*kogo? co?*) [**takie** **domy**].
 !back:
@@ -1785,6 +2245,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_mam_taka_torba
 !front: Mam (*kogo? co?*) [**taka** **torba**].
@@ -1802,6 +2266,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_mamy_takie_torby
 !front: Mamy (*kogo? co?*) [**takie** **torby**].
 !back:
@@ -1817,6 +2285,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_mam_takie_krzesło
 !front: Mam (*kogo? co?*) [**takie** **krzesło**].
@@ -1834,6 +2306,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_mamy_takie_krzesła
 !front: Mamy (*kogo? co?*) [**takie** **krzesła**].
 !back:
@@ -1849,6 +2325,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_piszemy_dobre_teksty
 !front: Piszemy (*kogo? co?*) [**dobre** **teksty**].
@@ -1866,6 +2346,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_piszę_dobry_tekst
 !front: Piszę (*kogo? co?*) [**dobry** **tekst**].
 !back:
@@ -1881,6 +2365,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_piszemy_dobre_muzyki
 !front: Piszemy (*kogo? co?*) [**dobre** **muzyki**].
@@ -1898,6 +2386,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_piszę_dobra_muzyka
 !front: Piszę (*kogo? co?*) [**dobra** **muzyka**].
 !back:
@@ -1913,6 +2405,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_piszemy_dobre_pytania
 !front: Piszemy (*kogo? co?*) [**dobre** **pytania**].
@@ -1930,6 +2426,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_piszę_dobre_pytanie
 !front: Piszę (*kogo? co?*) [**dobre** **pytanie**].
 !back:
@@ -1945,6 +2445,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_piszemy_złe_teksty
 !front: Piszemy (*kogo? co?*) [**złe** **teksty**].
@@ -1962,6 +2466,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_piszę_zły_tekst
 !front: Piszę (*kogo? co?*) [**zły** **tekst**].
 !back:
@@ -1977,6 +2485,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_piszemy_złe_muzyki
 !front: Piszemy (*kogo? co?*) [**złe** **muzyki**].
@@ -1994,6 +2506,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_piszę_zła_muzyka
 !front: Piszę (*kogo? co?*) [**zła** **muzyka**].
 !back:
@@ -2009,6 +2525,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_piszemy_złe_pytania
 !front: Piszemy (*kogo? co?*) [**złe** **pytania**].
@@ -2026,6 +2546,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_piszę_złe_pytanie
 !front: Piszę (*kogo? co?*) [**złe** **pytanie**].
 !back:
@@ -2041,6 +2565,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_piszemy_takie_teksty
 !front: Piszemy (*kogo? co?*) [**takie** **teksty**].
@@ -2058,6 +2586,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_piszę_taki_tekst
 !front: Piszę (*kogo? co?*) [**taki** **tekst**].
 !back:
@@ -2073,6 +2605,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_piszemy_takie_muzyki
 !front: Piszemy (*kogo? co?*) [**takie** **muzyki**].
@@ -2090,6 +2626,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_piszę_taka_muzyka
 !front: Piszę (*kogo? co?*) [**taka** **muzyka**].
 !back:
@@ -2105,6 +2645,10 @@ Biernik (*kogo? co?*)
 |dobrą kobietę    |dobre kobiety|
 |dobre dziecko    |dobre dzieci |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: biernik_piszemy_takie_pytania
 !front: Piszemy (*kogo? co?*) [**takie** **pytania**].
@@ -2122,6 +2666,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: biernik_piszę_takie_pytanie
 !front: Piszę (*kogo? co?*) [**takie** **pytanie**].
 !back:
@@ -2138,6 +2686,10 @@ Biernik (*kogo? co?*)
 |dobre dziecko    |dobre dzieci |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_rozmawiam_dobry_człowiek
 !front: Rozmawiam z (*z kim? z czym?*) [**dobry** **człowiek**].
 !back:
@@ -2152,6 +2704,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_rozmawiamy_dobrzy_ludzie
 !front: Rozmawiamy z (*z kim? z czym?*) [**dobrzy** **ludzie**].
@@ -2168,6 +2724,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_rozmawiam_dobra_kobieta
 !front: Rozmawiam z (*z kim? z czym?*) [**dobra** **kobieta**].
 !back:
@@ -2182,6 +2742,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_rozmawiamy_dobre_kobiety
 !front: Rozmawiamy z (*z kim? z czym?*) [**dobre** **kobiety**].
@@ -2198,6 +2762,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_rozmawiam_dobre_dziecko
 !front: Rozmawiam z (*z kim? z czym?*) [**dobre** **dziecko**].
 !back:
@@ -2212,6 +2780,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_rozmawiamy_dobre_dzieci
 !front: Rozmawiamy z (*z kim? z czym?*) [**dobre** **dzieci**].
@@ -2228,6 +2800,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_rozmawiam_dobry_nauczyciel
 !front: Rozmawiam z (*z kim? z czym?*) [**dobry** **nauczyciel**].
 !back:
@@ -2242,6 +2818,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_rozmawiamy_dobrzy_nauczyciele
 !front: Rozmawiamy z (*z kim? z czym?*) [**dobrzy** **nauczyciele**].
@@ -2258,6 +2838,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_rozmawiam_dobra_nauczycielka
 !front: Rozmawiam z (*z kim? z czym?*) [**dobra** **nauczycielka**].
 !back:
@@ -2272,6 +2856,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_rozmawiamy_dobre_nauczycielki
 !front: Rozmawiamy z (*z kim? z czym?*) [**dobre** **nauczycielki**].
@@ -2288,6 +2876,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_rozmawiam_zły_człowiek
 !front: Rozmawiam z (*z kim? z czym?*) [**zły** **człowiek**].
 !back:
@@ -2302,6 +2894,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_rozmawiamy_źli_ludzie
 !front: Rozmawiamy z (*z kim? z czym?*) [**źli** **ludzie**].
@@ -2318,6 +2914,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_rozmawiam_zła_kobieta
 !front: Rozmawiam z (*z kim? z czym?*) [**zła** **kobieta**].
 !back:
@@ -2332,6 +2932,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_rozmawiamy_złe_kobiety
 !front: Rozmawiamy z (*z kim? z czym?*) [**złe** **kobiety**].
@@ -2348,6 +2952,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_rozmawiam_złe_dziecko
 !front: Rozmawiam z (*z kim? z czym?*) [**złe** **dziecko**].
 !back:
@@ -2362,6 +2970,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_rozmawiamy_złe_dzieci
 !front: Rozmawiamy z (*z kim? z czym?*) [**złe** **dzieci**].
@@ -2378,6 +2990,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_rozmawiam_zły_nauczyciel
 !front: Rozmawiam z (*z kim? z czym?*) [**zły** **nauczyciel**].
 !back:
@@ -2392,6 +3008,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_rozmawiamy_źli_nauczyciele
 !front: Rozmawiamy z (*z kim? z czym?*) [**źli** **nauczyciele**].
@@ -2408,6 +3028,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_rozmawiam_zła_nauczycielka
 !front: Rozmawiam z (*z kim? z czym?*) [**zła** **nauczycielka**].
 !back:
@@ -2422,6 +3046,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_rozmawiamy_złe_nauczycielki
 !front: Rozmawiamy z (*z kim? z czym?*) [**złe** **nauczycielki**].
@@ -2438,6 +3066,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_rozmawiam_taki_człowiek
 !front: Rozmawiam z (*z kim? z czym?*) [**taki** **człowiek**].
 !back:
@@ -2452,6 +3084,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_rozmawiamy_tacy_ludzie
 !front: Rozmawiamy z (*z kim? z czym?*) [**tacy** **ludzie**].
@@ -2468,6 +3104,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_rozmawiam_taka_kobieta
 !front: Rozmawiam z (*z kim? z czym?*) [**taka** **kobieta**].
 !back:
@@ -2482,6 +3122,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_rozmawiamy_takie_kobiety
 !front: Rozmawiamy z (*z kim? z czym?*) [**takie** **kobiety**].
@@ -2498,6 +3142,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_rozmawiam_takie_dziecko
 !front: Rozmawiam z (*z kim? z czym?*) [**takie** **dziecko**].
 !back:
@@ -2512,6 +3160,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_rozmawiamy_takie_dzieci
 !front: Rozmawiamy z (*z kim? z czym?*) [**takie** **dzieci**].
@@ -2528,6 +3180,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_rozmawiam_taki_nauczyciel
 !front: Rozmawiam z (*z kim? z czym?*) [**taki** **nauczyciel**].
 !back:
@@ -2542,6 +3198,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_rozmawiamy_tacy_nauczyciele
 !front: Rozmawiamy z (*z kim? z czym?*) [**tacy** **nauczyciele**].
@@ -2558,6 +3218,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_rozmawiam_taka_nauczycielka
 !front: Rozmawiam z (*z kim? z czym?*) [**taka** **nauczycielka**].
 !back:
@@ -2572,6 +3236,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_rozmawiamy_takie_nauczycielki
 !front: Rozmawiamy z (*z kim? z czym?*) [**takie** **nauczycielki**].
@@ -2588,6 +3256,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_interesujemy_silni_ludzie
 !front: Interesujemy się (*z kim? z czym?*) [**silni** **ludzie**].
 !back:
@@ -2602,6 +3274,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_interesuję_silny_człowiek
 !front: Interesuję się (*z kim? z czym?*) [**silny** **człowiek**].
@@ -2618,6 +3294,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_interesujemy_silne_kobiety
 !front: Interesujemy się (*z kim? z czym?*) [**silne** **kobiety**].
 !back:
@@ -2632,6 +3312,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_interesuję_silna_kobieta
 !front: Interesuję się (*z kim? z czym?*) [**silna** **kobieta**].
@@ -2648,6 +3332,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_interesujemy_silne_dzieci
 !front: Interesujemy się (*z kim? z czym?*) [**silne** **dzieci**].
 !back:
@@ -2662,6 +3350,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_interesuję_silne_dziecko
 !front: Interesuję się (*z kim? z czym?*) [**silne** **dziecko**].
@@ -2678,6 +3370,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_interesujemy_silni_nauczyciele
 !front: Interesujemy się (*z kim? z czym?*) [**silni** **nauczyciele**].
 !back:
@@ -2692,6 +3388,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_interesuję_silny_nauczyciel
 !front: Interesuję się (*z kim? z czym?*) [**silny** **nauczyciel**].
@@ -2708,6 +3408,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_interesujemy_silne_nauczycielki
 !front: Interesujemy się (*z kim? z czym?*) [**silne** **nauczycielki**].
 !back:
@@ -2722,6 +3426,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_interesuję_silna_nauczycielka
 !front: Interesuję się (*z kim? z czym?*) [**silna** **nauczycielka**].
@@ -2738,6 +3446,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_interesujemy_słabi_ludzie
 !front: Interesujemy się (*z kim? z czym?*) [**słabi** **ludzie**].
 !back:
@@ -2752,6 +3464,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_interesuję_słaby_człowiek
 !front: Interesuję się (*z kim? z czym?*) [**słaby** **człowiek**].
@@ -2768,6 +3484,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_interesujemy_słabe_kobiety
 !front: Interesujemy się (*z kim? z czym?*) [**słabe** **kobiety**].
 !back:
@@ -2782,6 +3502,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_interesuję_słaba_kobieta
 !front: Interesuję się (*z kim? z czym?*) [**słaba** **kobieta**].
@@ -2798,6 +3522,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_interesujemy_słabe_dzieci
 !front: Interesujemy się (*z kim? z czym?*) [**słabe** **dzieci**].
 !back:
@@ -2812,6 +3540,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_interesuję_słabe_dziecko
 !front: Interesuję się (*z kim? z czym?*) [**słabe** **dziecko**].
@@ -2828,6 +3560,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_interesujemy_słabi_nauczyciele
 !front: Interesujemy się (*z kim? z czym?*) [**słabi** **nauczyciele**].
 !back:
@@ -2842,6 +3578,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_interesuję_słaby_nauczyciel
 !front: Interesuję się (*z kim? z czym?*) [**słaby** **nauczyciel**].
@@ -2858,6 +3598,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_interesujemy_słabe_nauczycielki
 !front: Interesujemy się (*z kim? z czym?*) [**słabe** **nauczycielki**].
 !back:
@@ -2872,6 +3616,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_interesuję_słaba_nauczycielka
 !front: Interesuję się (*z kim? z czym?*) [**słaba** **nauczycielka**].
@@ -2888,6 +3636,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_interesujemy_tacy_ludzie
 !front: Interesujemy się (*z kim? z czym?*) [**tacy** **ludzie**].
 !back:
@@ -2902,6 +3654,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_interesuję_taki_człowiek
 !front: Interesuję się (*z kim? z czym?*) [**taki** **człowiek**].
@@ -2918,6 +3674,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_interesujemy_takie_kobiety
 !front: Interesujemy się (*z kim? z czym?*) [**takie** **kobiety**].
 !back:
@@ -2932,6 +3692,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_interesuję_taka_kobieta
 !front: Interesuję się (*z kim? z czym?*) [**taka** **kobieta**].
@@ -2948,6 +3712,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_interesujemy_takie_dzieci
 !front: Interesujemy się (*z kim? z czym?*) [**takie** **dzieci**].
 !back:
@@ -2962,6 +3730,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_interesuję_takie_dziecko
 !front: Interesuję się (*z kim? z czym?*) [**takie** **dziecko**].
@@ -2978,6 +3750,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_interesujemy_tacy_nauczyciele
 !front: Interesujemy się (*z kim? z czym?*) [**tacy** **nauczyciele**].
 !back:
@@ -2992,6 +3768,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_interesuję_taki_nauczyciel
 !front: Interesuję się (*z kim? z czym?*) [**taki** **nauczyciel**].
@@ -3008,6 +3788,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: narzędnik_interesujemy_takie_nauczycielki
 !front: Interesujemy się (*z kim? z czym?*) [**takie** **nauczycielki**].
 !back:
@@ -3022,6 +3806,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrą kobietą     |z dobrymi kobietami|
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: narzędnik_interesuję_taka_nauczycielka
 !front: Interesuję się (*z kim? z czym?*) [**taka** **nauczycielka**].
@@ -3038,6 +3826,10 @@ Narzędnik (*z kim? z czym?*)
 |z dobrym dzieckiem  |z dobrymi dziećmi  |
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_mówimy_dobrzy_ludzie
 !front: Mówimy o (*o kim? o czym?*) [**dobrzy** **ludzie**].
 !back:
@@ -3052,6 +3844,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_mówię_dobry_człowiek
 !front: Mówię o (*o kim? o czym?*) [**dobry** **człowiek**].
@@ -3068,6 +3864,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_mówimy_dobre_kobiety
 !front: Mówimy o (*o kim? o czym?*) [**dobre** **kobiety**].
 !back:
@@ -3082,6 +3882,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_mówię_dobra_kobieta
 !front: Mówię o (*o kim? o czym?*) [**dobra** **kobieta**].
@@ -3098,6 +3902,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_mówimy_dobre_dzieci
 !front: Mówimy o (*o kim? o czym?*) [**dobre** **dzieci**].
 !back:
@@ -3112,6 +3920,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_mówię_dobre_dziecko
 !front: Mówię o (*o kim? o czym?*) [**dobre** **dziecko**].
@@ -3128,6 +3940,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_mówimy_dobrzy_nauczyciele
 !front: Mówimy o (*o kim? o czym?*) [**dobrzy** **nauczyciele**].
 !back:
@@ -3142,6 +3958,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_mówię_dobry_nauczyciel
 !front: Mówię o (*o kim? o czym?*) [**dobry** **nauczyciel**].
@@ -3158,6 +3978,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_mówimy_dobre_nauczycielki
 !front: Mówimy o (*o kim? o czym?*) [**dobre** **nauczycielki**].
 !back:
@@ -3172,6 +3996,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_mówię_dobra_nauczycielka
 !front: Mówię o (*o kim? o czym?*) [**dobra** **nauczycielka**].
@@ -3188,6 +4016,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_mówimy_źli_ludzie
 !front: Mówimy o (*o kim? o czym?*) [**źli** **ludzie**].
 !back:
@@ -3202,6 +4034,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_mówię_zły_człowiek
 !front: Mówię o (*o kim? o czym?*) [**zły** **człowiek**].
@@ -3218,6 +4054,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_mówimy_złe_kobiety
 !front: Mówimy o (*o kim? o czym?*) [**złe** **kobiety**].
 !back:
@@ -3232,6 +4072,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_mówię_zła_kobieta
 !front: Mówię o (*o kim? o czym?*) [**zła** **kobieta**].
@@ -3248,6 +4092,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_mówimy_złe_dzieci
 !front: Mówimy o (*o kim? o czym?*) [**złe** **dzieci**].
 !back:
@@ -3262,6 +4110,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_mówię_złe_dziecko
 !front: Mówię o (*o kim? o czym?*) [**złe** **dziecko**].
@@ -3278,6 +4130,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_mówimy_źli_nauczyciele
 !front: Mówimy o (*o kim? o czym?*) [**źli** **nauczyciele**].
 !back:
@@ -3292,6 +4148,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_mówię_zły_nauczyciel
 !front: Mówię o (*o kim? o czym?*) [**zły** **nauczyciel**].
@@ -3308,6 +4168,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_mówimy_złe_nauczycielki
 !front: Mówimy o (*o kim? o czym?*) [**złe** **nauczycielki**].
 !back:
@@ -3322,6 +4186,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_mówię_zła_nauczycielka
 !front: Mówię o (*o kim? o czym?*) [**zła** **nauczycielka**].
@@ -3338,6 +4206,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_mówimy_tacy_ludzie
 !front: Mówimy o (*o kim? o czym?*) [**tacy** **ludzie**].
 !back:
@@ -3352,6 +4224,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_mówię_taki_człowiek
 !front: Mówię o (*o kim? o czym?*) [**taki** **człowiek**].
@@ -3368,6 +4244,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_mówimy_takie_kobiety
 !front: Mówimy o (*o kim? o czym?*) [**takie** **kobiety**].
 !back:
@@ -3382,6 +4262,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_mówię_taka_kobieta
 !front: Mówię o (*o kim? o czym?*) [**taka** **kobieta**].
@@ -3398,6 +4282,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_mówimy_takie_dzieci
 !front: Mówimy o (*o kim? o czym?*) [**takie** **dzieci**].
 !back:
@@ -3412,6 +4300,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_mówię_takie_dziecko
 !front: Mówię o (*o kim? o czym?*) [**takie** **dziecko**].
@@ -3428,6 +4320,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_mówimy_tacy_nauczyciele
 !front: Mówimy o (*o kim? o czym?*) [**tacy** **nauczyciele**].
 !back:
@@ -3442,6 +4338,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_mówię_taki_nauczyciel
 !front: Mówię o (*o kim? o czym?*) [**taki** **nauczyciel**].
@@ -3458,6 +4358,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_mówimy_takie_nauczycielki
 !front: Mówimy o (*o kim? o czym?*) [**takie** **nauczycielki**].
 !back:
@@ -3472,6 +4376,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_mówię_taka_nauczycielka
 !front: Mówię o (*o kim? o czym?*) [**taka** **nauczycielka**].
@@ -3488,6 +4396,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_piszemy_silni_ludzie
 !front: Piszemy o (*o kim? o czym?*) [**silni** **ludzie**].
 !back:
@@ -3502,6 +4414,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_piszę_silny_człowiek
 !front: Piszę o (*o kim? o czym?*) [**silny** **człowiek**].
@@ -3518,6 +4434,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_piszemy_silne_kobiety
 !front: Piszemy o (*o kim? o czym?*) [**silne** **kobiety**].
 !back:
@@ -3532,6 +4452,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_piszę_silna_kobieta
 !front: Piszę o (*o kim? o czym?*) [**silna** **kobieta**].
@@ -3548,6 +4472,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_piszemy_silne_dzieci
 !front: Piszemy o (*o kim? o czym?*) [**silne** **dzieci**].
 !back:
@@ -3562,6 +4490,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_piszę_silne_dziecko
 !front: Piszę o (*o kim? o czym?*) [**silne** **dziecko**].
@@ -3578,6 +4510,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_piszemy_silni_nauczyciele
 !front: Piszemy o (*o kim? o czym?*) [**silni** **nauczyciele**].
 !back:
@@ -3592,6 +4528,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_piszę_silny_nauczyciel
 !front: Piszę o (*o kim? o czym?*) [**silny** **nauczyciel**].
@@ -3608,6 +4548,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_piszemy_silne_nauczycielki
 !front: Piszemy o (*o kim? o czym?*) [**silne** **nauczycielki**].
 !back:
@@ -3622,6 +4566,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_piszę_silna_nauczycielka
 !front: Piszę o (*o kim? o czym?*) [**silna** **nauczycielka**].
@@ -3638,6 +4586,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_piszemy_słabi_ludzie
 !front: Piszemy o (*o kim? o czym?*) [**słabi** **ludzie**].
 !back:
@@ -3652,6 +4604,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_piszę_słaby_człowiek
 !front: Piszę o (*o kim? o czym?*) [**słaby** **człowiek**].
@@ -3668,6 +4624,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_piszemy_słabe_kobiety
 !front: Piszemy o (*o kim? o czym?*) [**słabe** **kobiety**].
 !back:
@@ -3682,6 +4642,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_piszę_słaba_kobieta
 !front: Piszę o (*o kim? o czym?*) [**słaba** **kobieta**].
@@ -3698,6 +4662,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_piszemy_słabe_dzieci
 !front: Piszemy o (*o kim? o czym?*) [**słabe** **dzieci**].
 !back:
@@ -3712,6 +4680,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_piszę_słabe_dziecko
 !front: Piszę o (*o kim? o czym?*) [**słabe** **dziecko**].
@@ -3728,6 +4700,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_piszemy_słabi_nauczyciele
 !front: Piszemy o (*o kim? o czym?*) [**słabi** **nauczyciele**].
 !back:
@@ -3742,6 +4718,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_piszę_słaby_nauczyciel
 !front: Piszę o (*o kim? o czym?*) [**słaby** **nauczyciel**].
@@ -3758,6 +4738,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_piszemy_słabe_nauczycielki
 !front: Piszemy o (*o kim? o czym?*) [**słabe** **nauczycielki**].
 !back:
@@ -3772,6 +4756,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_piszę_słaba_nauczycielka
 !front: Piszę o (*o kim? o czym?*) [**słaba** **nauczycielka**].
@@ -3788,6 +4776,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_piszemy_tacy_ludzie
 !front: Piszemy o (*o kim? o czym?*) [**tacy** **ludzie**].
 !back:
@@ -3802,6 +4794,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_piszę_taki_człowiek
 !front: Piszę o (*o kim? o czym?*) [**taki** **człowiek**].
@@ -3818,6 +4814,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_piszemy_takie_kobiety
 !front: Piszemy o (*o kim? o czym?*) [**takie** **kobiety**].
 !back:
@@ -3832,6 +4832,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_piszę_taka_kobieta
 !front: Piszę o (*o kim? o czym?*) [**taka** **kobieta**].
@@ -3848,6 +4852,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_piszemy_takie_dzieci
 !front: Piszemy o (*o kim? o czym?*) [**takie** **dzieci**].
 !back:
@@ -3862,6 +4870,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_piszę_takie_dziecko
 !front: Piszę o (*o kim? o czym?*) [**takie** **dziecko**].
@@ -3878,6 +4890,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_piszemy_tacy_nauczyciele
 !front: Piszemy o (*o kim? o czym?*) [**tacy** **nauczyciele**].
 !back:
@@ -3892,6 +4908,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_piszę_taki_nauczyciel
 !front: Piszę o (*o kim? o czym?*) [**taki** **nauczyciel**].
@@ -3908,6 +4928,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_piszemy_takie_nauczycielki
 !front: Piszemy o (*o kim? o czym?*) [**takie** **nauczycielki**].
 !back:
@@ -3922,6 +4946,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_piszę_taka_nauczycielka
 !front: Piszę o (*o kim? o czym?*) [**taka** **nauczycielka**].
@@ -3938,6 +4966,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_czytam_silny_człowiek
 !front: Czytam o (*o kim? o czym?*) [**silny** **człowiek**].
 !back:
@@ -3952,6 +4984,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_czytamy_silni_ludzie
 !front: Czytamy o (*o kim? o czym?*) [**silni** **ludzie**].
@@ -3968,6 +5004,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_czytam_silna_kobieta
 !front: Czytam o (*o kim? o czym?*) [**silna** **kobieta**].
 !back:
@@ -3982,6 +5022,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_czytamy_silne_kobiety
 !front: Czytamy o (*o kim? o czym?*) [**silne** **kobiety**].
@@ -3998,6 +5042,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_czytam_silne_dziecko
 !front: Czytam o (*o kim? o czym?*) [**silne** **dziecko**].
 !back:
@@ -4012,6 +5060,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_czytamy_silne_dzieci
 !front: Czytamy o (*o kim? o czym?*) [**silne** **dzieci**].
@@ -4028,6 +5080,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_czytam_silny_nauczyciel
 !front: Czytam o (*o kim? o czym?*) [**silny** **nauczyciel**].
 !back:
@@ -4042,6 +5098,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_czytamy_silni_nauczyciele
 !front: Czytamy o (*o kim? o czym?*) [**silni** **nauczyciele**].
@@ -4058,6 +5118,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_czytam_silna_nauczycielka
 !front: Czytam o (*o kim? o czym?*) [**silna** **nauczycielka**].
 !back:
@@ -4072,6 +5136,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_czytamy_silne_nauczycielki
 !front: Czytamy o (*o kim? o czym?*) [**silne** **nauczycielki**].
@@ -4088,6 +5156,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_czytam_słaby_człowiek
 !front: Czytam o (*o kim? o czym?*) [**słaby** **człowiek**].
 !back:
@@ -4102,6 +5174,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_czytamy_słabi_ludzie
 !front: Czytamy o (*o kim? o czym?*) [**słabi** **ludzie**].
@@ -4118,6 +5194,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_czytam_słaba_kobieta
 !front: Czytam o (*o kim? o czym?*) [**słaba** **kobieta**].
 !back:
@@ -4132,6 +5212,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_czytamy_słabe_kobiety
 !front: Czytamy o (*o kim? o czym?*) [**słabe** **kobiety**].
@@ -4148,6 +5232,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_czytam_słabe_dziecko
 !front: Czytam o (*o kim? o czym?*) [**słabe** **dziecko**].
 !back:
@@ -4162,6 +5250,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_czytamy_słabe_dzieci
 !front: Czytamy o (*o kim? o czym?*) [**słabe** **dzieci**].
@@ -4178,6 +5270,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_czytam_słaby_nauczyciel
 !front: Czytam o (*o kim? o czym?*) [**słaby** **nauczyciel**].
 !back:
@@ -4192,6 +5288,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_czytamy_słabi_nauczyciele
 !front: Czytamy o (*o kim? o czym?*) [**słabi** **nauczyciele**].
@@ -4208,6 +5308,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_czytam_słaba_nauczycielka
 !front: Czytam o (*o kim? o czym?*) [**słaba** **nauczycielka**].
 !back:
@@ -4222,6 +5326,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_czytamy_słabe_nauczycielki
 !front: Czytamy o (*o kim? o czym?*) [**słabe** **nauczycielki**].
@@ -4238,6 +5346,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_czytam_taki_człowiek
 !front: Czytam o (*o kim? o czym?*) [**taki** **człowiek**].
 !back:
@@ -4252,6 +5364,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_czytamy_tacy_ludzie
 !front: Czytamy o (*o kim? o czym?*) [**tacy** **ludzie**].
@@ -4268,6 +5384,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_czytam_taka_kobieta
 !front: Czytam o (*o kim? o czym?*) [**taka** **kobieta**].
 !back:
@@ -4282,6 +5402,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_czytamy_takie_kobiety
 !front: Czytamy o (*o kim? o czym?*) [**takie** **kobiety**].
@@ -4298,6 +5422,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_czytam_takie_dziecko
 !front: Czytam o (*o kim? o czym?*) [**takie** **dziecko**].
 !back:
@@ -4312,6 +5440,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_czytamy_takie_dzieci
 !front: Czytamy o (*o kim? o czym?*) [**takie** **dzieci**].
@@ -4328,6 +5460,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_czytam_taki_nauczyciel
 !front: Czytam o (*o kim? o czym?*) [**taki** **nauczyciel**].
 !back:
@@ -4342,6 +5478,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_czytamy_tacy_nauczyciele
 !front: Czytamy o (*o kim? o czym?*) [**tacy** **nauczyciele**].
@@ -4358,6 +5498,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
 
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
+
 !id: miejscownik_czytam_taka_nauczycielka
 !front: Czytam o (*o kim? o czym?*) [**taka** **nauczycielka**].
 !back:
@@ -4372,6 +5516,10 @@ Miejscownik (*o kim? o czym?*)
 |o dobrej kobiecie |o dobrych kobietach|
 |o dobrym dziecku  |o dobrych dzieciach|
 ~~~
+
+!type: Basic
+!deck: Polski::Odmiany::Rzeczowniki
+!tags: Polski Odmiana
 
 !id: miejscownik_czytamy_takie_nauczycielki
 !front: Czytamy o (*o kim? o czym?*) [**takie** **nauczycielki**].
