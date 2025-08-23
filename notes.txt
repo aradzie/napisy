@@ -13,8 +13,8 @@ a8069d57-1f35-4a02-bedd-dfd1f5a0f498;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedo
 ab8d382c-e721-4e27-9614-adc4b449b629;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::znajdować}} → Dokonany: {{c2::znaleźć}}</p>;<p>Znajduję książkę. / Znalazłem książkę.</p>
 c4315b3e-4706-4196-83b8-6ca3162a273b;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::mówić}} → Dokonany: {{c2::powiedzieć}}</p>;<p>Mówi prawdę. / Powiedział prawdę.</p>
 71dcaaea-53ab-4115-a71d-d78be205e613;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::chodzić/iść}} → Dokonany: {{c2::pójść}}</p>;<p>Idzie do szkoły. / Poszedł do szkoły.</p>
-bb11d1bb-d227-4b9e-9662-933a48022fe8;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::kłaść}} → Dokonany: {{c1::polożyć}}.</p>;<p>Kładzie książkę na stole. / Położył książkę na stole.</p>
-2dfba276-eecc-49dd-a82c-2cab70c9828c;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::wsiadać}} → Dokonany: {{c1::wsiąść}}.</p>;<p>Wsiada do autobusu. / Wsiadł do autobusu.</p>
+bb11d1bb-d227-4b9e-9662-933a48022fe8;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::kłaść}} → Dokonany: {{c2::polożyć}}.</p>;<p>Kładzie książkę na stole. / Położył książkę na stole.</p>
+2dfba276-eecc-49dd-a82c-2cab70c9828c;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::wsiadać}} → Dokonany: {{c2::wsiąść}}.</p>;<p>Wsiada do autobusu. / Wsiadł do autobusu.</p>
 afc1694b-ee6a-4103-ac3f-a54872cab762;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::umierać}} → Dokonany: {{c2::umrzeć}}</p>;<p>Umiera z głodu. / Umarł z głodu.</p>
 08944030-f905-4a20-80c8-7f90fa4176f2;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::pisać}} → Dokonany: {{c2::napisać}}</p>;<p>Piszę list. / Napisałem list.</p>
 7ac4a9dc-9afe-4c64-ab2a-8005a1c1f73a;Cloze;Polski::Aspekt;Polski Aspekt;<p>Niedokonany: {{c1::czytać}} → Dokonany: {{c2::przeczytać}}</p>;<p>Czytam książkę. / Przeczytałem książkę.</p>
@@ -10134,7 +10134,7 @@ a5315a2b-c4ec-420d-a986-a129051d77b3;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 01ef7c1e-4b19-497f-b280-d227eb0c7de3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>покажи мне примеры</p>;<p>pokaż mi przykłady</p>
 47dcf5db-dc9d-4139-b579-3ab5d5743bce;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>общепринятые/разговорные выражения</p>;<p>potoczne wyrażenia</p>
 fff1ddee-ad14-43e3-952f-ad60c1aeef84;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>общепринятый термин</p>;<p>termin potoczny</p>
-f704ff1a-4052-4cec-b490-e5b94b995150;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>иногда лучше, а иногда хуже общепринятых идей</p>;<p>bywa ona raz lepsza a raz gorsza od potocznych wyobrażeń</p>
+f704ff1a-4052-4cec-b490-e5b94b995150;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>она бывает иногда лучше, а иногда хуже общепринятых идей</p>;<p>bywa ona raz lepsza a raz gorsza od potocznych wyobrażeń</p>
 3efec3f6-fc9a-47a7-805d-cba70610071a;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>не использовать разговорную лексику</p>;<p>nie używać słownictwa potocznego</p>
 e07977b3-fdc8-49e4-8404-30a695d9b712;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>общее или научное знание</p>;<p>potoczna czy naukowa wiedza</p>
 cdc25351-8ee2-4890-a9f8-0981d27adce7;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>находи причины</p>;<p>znajduj przyczyny</p>

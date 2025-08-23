@@ -46,12 +46,12 @@
 ~~~
 
 !id: bb11d1bb-d227-4b9e-9662-933a48022fe8
-!text: Niedokonany: {{c1::kłaść}} → Dokonany: {{c1::polożyć}}.
+!text: Niedokonany: {{c1::kłaść}} → Dokonany: {{c2::polożyć}}.
 !back extra: Kładzie książkę na stole. / Położył książkę na stole.
 ~~~
 
 !id: 2dfba276-eecc-49dd-a82c-2cab70c9828c
-!text: Niedokonany: {{c1::wsiadać}} → Dokonany: {{c1::wsiąść}}.
+!text: Niedokonany: {{c1::wsiadać}} → Dokonany: {{c2::wsiąść}}.
 !back extra: Wsiada do autobusu. / Wsiadł do autobusu.
 ~~~
 
