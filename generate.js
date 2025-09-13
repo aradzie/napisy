@@ -1,4 +1,4 @@
-import { Note, NoteList, NoteTypeMap, printNoteNodes } from "@anotes/core";
+import { ModelMap, Note, NoteList, printNoteNodes } from "@notatki/core";
 import { writeFile } from "node:fs/promises";
 import { readDatabase } from "./lib/database.js";
 import { pathTo } from "./lib/io.js";
@@ -220,7 +220,7 @@ Miejscownik (*o kim? o czym?*)
 }
 
 function addNote(notes, id, front, back) {
-  const note = new Note(NoteTypeMap.basic);
+  const note = new Note(ModelMap.basic);
   note.deck = `Polski::Odmiany::Rzeczowniki`;
   note.tags = `Polski Odmiana`;
   note.id = id;

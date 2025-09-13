@@ -7,6 +7,7 @@
     "build": "anotes insert-id --dir=notes && anotes export --dir=notes --out=notes.txt"
   },
   "dependencies": {
+    "@notatki/core": "^0.0.3",
     "dictionary-pl": "^2.0.0",
     "marked": "^16.2.0",
     "nspell": "^2.1.5",

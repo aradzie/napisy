@@ -5,7 +5,7 @@ from util import Znacznik
 morf = morfeusz2.Morfeusz()
 
 count = 0
-with open('corpus/pl-os.txt', 'r') as file:
+with open('corpus/corpus-pl.txt', 'r') as file:
   for line in file:
     line = line.strip()
     print(f"line: '{line}'")
