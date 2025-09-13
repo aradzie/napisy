@@ -20,7 +20,7 @@ await process();
 async function process() {
   await readDict();
   let count = 0;
-  for await (const line of readLines(pathTo("corpus/corpus-pl.txt"))) {
+  for await (const line of readLines(pathTo("corpus/corpus.txt"))) {
     addLine(line);
     count += 1;
     if (count % 1000000 === 0) {
