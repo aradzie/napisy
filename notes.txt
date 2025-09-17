@@ -10049,14 +10049,12 @@ d84d8f16-b4d5-40be-b911-09dd3d8fb663;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 e6099ebf-897d-4a16-88eb-9842bf081120;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>они приспособились</p>;<p>dostosowali się</p>
 9d9ea461-f539-43f1-9799-81477305cebb;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>они жили по действующим правилам</p>;<p>żyli według obowiązujących zasad</p>
 b08aaf18-0d56-4bfc-a739-417c75b99c29;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>привлечение рабочих из-за рубежа</p>;<p>ściąganie pracowników z zagranicy</p>
-476ed628-cc33-4503-b1fd-7c1c739ce647;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>сообщение</p>;<p>przekaz</p>
 07e83bd8-62ce-4dd5-a6c6-e297b92c8091;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>беспорядки болельщиков</p>;<p>zamieszki kibiców</p>
 440066ba-4518-480a-869c-33656946c3c0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>по образу печально известной кампании</p>;<p>na wzór niesławnej kampanii</p>
 d374e4fd-32fe-4800-b7cc-c18bf1e5a352;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>мы не можем согласиться на насилие</p>;<p>na przemoc nie możemy się zgodzić</p>
 d2bdb9fc-b713-4b71-8308-5eaaff99619e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>они никого не беспокоили</p>;<p>nikomu nie wadzili</p>
 90168d10-c68b-408d-9fa4-1cf5d590ad43;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я пытался создать замену/подобие дома</p>;<p>próbowałem stworzyć namiastkę domu</p>
 cc1bbb5a-2aa0-41e2-a0d6-8683151ffcfc;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>клевета на миллионы людей, когда виновный неизвестен</p>;<p>pomówienie milionów ludzi gdy sprawca jest nieznany</p>
-c6adefba-cbe6-4127-b7e7-c9b5acf24245;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>каким-то образом, по какому-то подозрительному совпадению</p>;<p>jakoś podejrzanym trafem</p>
 1ecfaf87-ef4e-4025-8fb3-859e6ae30ced;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>он не оправдывает</p>;<p>on nie usprawiedliwia</p>
 e623d61b-3df0-4cf7-a561-274e3dc8722b;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>полиция ворвалась в хостел</p>;<p>do hostelu wpadła policja</p>
 81cbe96b-cde0-4fef-88d5-fb67ef5d4ed9;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>эмоции вышли из-под контроля</p>;<p>emocje wymknęły się spod kontroli</p>
@@ -10114,7 +10112,7 @@ ac024892-d285-4aa7-99de-42e9ee7020cd;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 153296a7-53a7-4a7b-91b7-c898406da236;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>среднестатистический фанат ничего об этом не знает</p>;<p>przeciętny kibic nic o tym nie wie</p>
 a58477a7-6985-496b-86cf-7d109c8f78ed;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>большая часть общества не будет воспринимать себя</p>;<p>większość społeczeństwa nie będzie siebie postrzegać</p>
 bfc37c8d-7d24-4fd3-8283-61b8fc52f2be;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я что-то пропустил</p>;<p>coś mnie ominęło</p>
-6de3187c-831a-4092-a320-82120d4a88e6;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>вам не понравится то, что я собираюсь сказать</p>;<p>nie spodoba ci się to, co zamierzam powiedzieć</p>
+6de3187c-831a-4092-a320-82120d4a88e6;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>тебе не понравится то, что я собираюсь сказать</p>;<p>nie spodoba ci się to, co zamierzam powiedzieć</p>
 404939fd-70b3-444d-a193-a6cddc7ff620;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>не могу тебя терпеть</p>;<p>nie znoszę cię</p>
 be00d249-0f81-4dd4-bdc8-38b6ecc6a2f0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я внимательно слушаю и запоминаю</p>;<p>słucham uważnie i zapamiętuję</p>
 502b2d0a-fecd-49c2-886d-42c22d0c10e1;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>немедленно</p>;<p>natychmiast</p>
@@ -10128,7 +10126,7 @@ c161d00a-dbb8-438d-8321-576b21b8b348;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 75f41ef6-3ad1-4484-b619-4ed7b43a352d;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>полностью субъективно</p>;<p>całkowicie subiektywnie</p>
 d82f4990-29ab-42bf-afe9-ff34b6a80d27;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>могут звучать просто прекрасно</p>;<p>potrafią brzmieć wręcz pięknie</p>
 01066996-614f-45a4-8626-fdfc1c64da34;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>он такой ревностный</p>;<p>jest tak gorliwy</p>
-a5315a2b-c4ec-420d-a986-a129051d77b3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>вас беспокоят такие вопросы, как</p>;<p>nurtują cię kwestie takie jak</p>
+a5315a2b-c4ec-420d-a986-a129051d77b3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>тебя беспокоят такие вопросы, как</p>;<p>nurtują cię kwestie takie jak</p>
 79a9908e-85f3-4225-9c6a-11fc625432ad;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>так что не волнуйся, если сначала будешь делать ошибки</p>;<p>dlatego nie przejmuj się, jeśli na początku będziesz popełniać błędy</p>
 6b99748a-0b93-4921-abae-b23c4e584103;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>звучный и запоминающийся текст</p>;<p>dźwięczny i chwytliwy tekst</p>
 01ef7c1e-4b19-497f-b280-d227eb0c7de3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>покажи мне примеры</p>;<p>pokaż mi przykłady</p>
@@ -10208,7 +10206,7 @@ c2263435-2821-46a0-b516-7c10e93cc1ff;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 5e3b0754-8d3c-41d8-b07a-d70e7d1e5e66;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>информация, которая непротиворечивая</p>;<p>informacje, które nie są sprzeczne</p>
 ef58ccee-babe-4189-9f92-76d19f5bb1d8;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>по крайней мере/в конце концов</p>;<p>przynajmniej w końcu</p>
 d483907c-41a4-4ecb-ab54-6622ca4d662e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>где рубят лес, там летят щепки</p>;<p>gdzie drwa rąbią tam wióry lecą</p>
-149b1ec5-bf0f-4caa-b29e-93612d58ae13;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>к сожалению, он все еще используется</p>;<p>jest ona niestety ciągle stosowana</p>
+149b1ec5-bf0f-4caa-b29e-93612d58ae13;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>к сожалению, она все еще используется</p>;<p>jest ona niestety ciągle stosowana</p>
 82425769-7f4a-4d15-ac18-b35938e24146;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>пиковая мощность</p>;<p>moc szczytowa</p>
 4f28e854-16c2-4188-9cd4-1a0a4cc8dd4d;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>не приносит никаких результатов</p>;<p>nie przynosi żadnych rezultatów</p>
 56f04b67-e02c-4ce0-ad3d-213dc4b8e5cb;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>он чувствует себя потерянным</p>;<p>on czuje się zagubiony</p>
@@ -10280,3 +10278,6 @@ ec44e503-baa7-46eb-b8b4-ab2da7c0fbba;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 0f4521a8-f59c-47b6-967c-7e2031096aea;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>передняя часть карточки</p>;<p>przód karty</p>
 d840d695-782d-4aa3-af05-ddcab925110c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>задняя часть карточки</p>;<p>tył karty</p>
 dec93d4b-893b-4c0f-8de7-89f808d954d2;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я не подвергаю это сомнению</p>;<p>ja tego nie podważam</p>
+c47d7640-4538-4a6c-bcb1-61c989ee4d3f;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>что опять случилось?</p>;<p>co się znowu stało?</p>
+981b5916-4eeb-470c-9a9d-54dbca8dcdd1;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это недальновидно и безответственно</p>;<p>to krótkowzroczne i nieodpowiedzialne</p>
+0afd8c04-37c8-4159-9bc1-dc16195cdedc;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>нечего скрывать</p>;<p>nie ma co ukrywać</p>

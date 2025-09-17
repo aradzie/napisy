@@ -1592,11 +1592,6 @@
 !back: ściąganie pracowników z zagranicy
 ~~~
 
-!id: 476ed628-cc33-4503-b1fd-7c1c739ce647
-!front: сообщение
-!back: przekaz
-~~~
-
 !id: 07e83bd8-62ce-4dd5-a6c6-e297b92c8091
 !front: беспорядки болельщиков
 !back: zamieszki kibiców
@@ -1625,11 +1620,6 @@
 !id: cc1bbb5a-2aa0-41e2-a0d6-8683151ffcfc
 !front: клевета на миллионы людей, когда виновный неизвестен
 !back: pomówienie milionów ludzi gdy sprawca jest nieznany
-~~~
-
-!id: c6adefba-cbe6-4127-b7e7-c9b5acf24245
-!front: каким-то образом, по какому-то подозрительному совпадению
-!back: jakoś podejrzanym trafem
 ~~~
 
 !id: 1ecfaf87-ef4e-4025-8fb3-859e6ae30ced
@@ -1918,7 +1908,7 @@
 ~~~
 
 !id: 6de3187c-831a-4092-a320-82120d4a88e6
-!front: вам не понравится то, что я собираюсь сказать
+!front: тебе не понравится то, что я собираюсь сказать
 !back: nie spodoba ci się to, co zamierzam powiedzieć
 ~~~
 
@@ -1988,7 +1978,7 @@
 ~~~
 
 !id: a5315a2b-c4ec-420d-a986-a129051d77b3
-!front: вас беспокоят такие вопросы, как
+!front: тебя беспокоят такие вопросы, как
 !back: nurtują cię kwestie takie jak
 ~~~
 
@@ -2388,7 +2378,7 @@
 ~~~
 
 !id: 149b1ec5-bf0f-4caa-b29e-93612d58ae13
-!front: к сожалению, он все еще используется
+!front: к сожалению, она все еще используется
 !back: jest ona niestety ciągle stosowana
 ~~~
 
@@ -2745,4 +2735,19 @@
 !id: dec93d4b-893b-4c0f-8de7-89f808d954d2
 !front: я не подвергаю это сомнению
 !back: ja tego nie podważam
+~~~
+
+!id: c47d7640-4538-4a6c-bcb1-61c989ee4d3f
+!front: что опять случилось?
+!back: co się znowu stało?
+~~~
+
+!id: 981b5916-4eeb-470c-9a9d-54dbca8dcdd1
+!front: это недальновидно и безответственно
+!back: to krótkowzroczne i nieodpowiedzialne
+~~~
+
+!id: 0afd8c04-37c8-4159-9bc1-dc16195cdedc
+!front: нечего скрывать
+!back: nie ma co ukrywać
 ~~~
