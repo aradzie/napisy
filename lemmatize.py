@@ -1,30 +1,30 @@
-import json
-
 import stanza
 
 
-def read_lines(filename):
-    lines = []
-    with open(filename, "r", encoding="utf-8", errors="ignore") as f:
-        for line in f:
-            lines.append(line.rstrip("\n"))
-    return lines
-
-
-phrases = []
 nlp = stanza.Pipeline("pl")
-for line in read_lines("corpus/corpus1000.txt"):
-    doc = nlp(line)
-    phrase = []
-    for word in doc.iter_words():
-        phrase.append(
-            {
-                "text": word.text.lower(),
-                "lemma": word.lemma.lower(),
-                "upos": word.upos,
-                "xpos": word.xpos,
-            }
+
+
+def lemmatize(line):
+    parts = []
+    for word in nlp(line).iter_words():
+        parts.append(
+            f"{word.text.lower()}/{word.lemma.lower()}/{word.upos}/{word.xpos}"
         )
-    phrases.append(phrase)
-with open("phrases.json", "w", encoding="utf-8") as f:
-    json.dump(phrases, f, ensure_ascii=False, indent=2)
+    return "|".join(parts)
+
+
+def process_file(input_path, output_path, transform):
+    count = 0
+    with (
+        open(input_path, "r", encoding="utf-8") as input_file,
+        open(output_path, "w", encoding="utf-8") as output_file,
+    ):
+        for line in input_file:
+            line = transform(line.strip())
+            output_file.write(line + "\n")
+            count += 1
+            if count % 1000000 == 0:
+                print(f"Processed {count} lines")
+
+
+process_file("corpus/corpus.txt", "corpus/lemmas.txt", lemmatize)
