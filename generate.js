@@ -3,8 +3,8 @@ import { writeFile } from "node:fs/promises";
 import { Database } from "./lib/database.js";
 import { pathTo } from "./lib/io.js";
 import { md } from "./lib/markdown.js";
-import { Decl, Tags } from "./lib/tags.js";
 import { capitalize } from "./lib/text.js";
+import { Xext, Xpos } from "./lib/xtags.js";
 
 const db = await Database.read();
 const notes = new NoteList();
@@ -46,13 +46,13 @@ Dopełniacz (*kogo? czego?*)
   for (const [verb, verbTail] of words) {
     for (const [adj, adjTail] of verbTail) {
       for (const noun of adjTail) {
-        for (const V of db.query(verb, Tags.imperf | Tags.fin, Decl.pri)) {
-          const verbDecl = V.decl & Decl.number;
-          const Nnom = db.one(noun, Tags.subst, verbDecl | Decl.nom);
-          const Ngen = db.one(noun, Tags.subst, verbDecl | Decl.gen);
-          const nounDecl = Nnom.decl & (Decl.number | Decl.gender);
-          const Anom = db.one(adj, Tags.adj | Tags.pos, nounDecl | Decl.nom);
-          const Agen = db.one(adj, Tags.adj | Tags.pos, nounDecl | Decl.gen);
+        for (const V of db.query(verb, Xpos.imperf | Xpos.fin, Xext.pri)) {
+          const verbDecl = V.xext & Xext.number;
+          const Nnom = db.one(noun, Xpos.subst, verbDecl | Xext.nom);
+          const Ngen = db.one(noun, Xpos.subst, verbDecl | Xext.gen);
+          const nounDecl = Nnom.xext & (Xext.number | Xext.gender);
+          const Anom = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.nom);
+          const Agen = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.gen);
           const q = `(${md.i(`kogo? czego?`)}) [${md.b(Anom.form)} ${md.b(Nnom.form)}]`;
           const a = `${md.b(Agen.form)} ${md.b(Ngen.form)}`;
           const front = capitalize(`${V.form} ${q}.`);
@@ -83,13 +83,13 @@ Celownik (*komu? czemu?*)
   for (const [verb, verbTail] of words) {
     for (const [adj, adjTail] of verbTail) {
       for (const noun of adjTail) {
-        for (const V of db.query(verb, Tags.imperf | Tags.fin, Decl.pri)) {
-          const verbDecl = V.decl & Decl.number;
-          const Nnom = db.one(noun, Tags.subst, verbDecl | Decl.nom);
-          const Ndat = db.one(noun, Tags.subst, verbDecl | Decl.dat);
-          const nounDecl = Nnom.decl & (Decl.number | Decl.gender);
-          const Anom = db.one(adj, Tags.adj | Tags.pos, nounDecl | Decl.nom);
-          const Adat = db.one(adj, Tags.adj | Tags.pos, nounDecl | Decl.dat);
+        for (const V of db.query(verb, Xpos.imperf | Xpos.fin, Xext.pri)) {
+          const verbDecl = V.xext & Xext.number;
+          const Nnom = db.one(noun, Xpos.subst, verbDecl | Xext.nom);
+          const Ndat = db.one(noun, Xpos.subst, verbDecl | Xext.dat);
+          const nounDecl = Nnom.xext & (Xext.number | Xext.gender);
+          const Anom = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.nom);
+          const Adat = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.dat);
           const q = `(${md.i(`komu? czemu?`)}) [${md.b(Anom.form)} ${md.b(Nnom.form)}]`;
           const a = `${md.b(Adat.form)} ${md.b(Ndat.form)}`;
           const front = capitalize(`${V.form} ${q}.`);
@@ -123,13 +123,13 @@ Biernik (*kogo? co?*)
   for (const [verb, verbTail] of words) {
     for (const [adj, adjTail] of verbTail) {
       for (const noun of adjTail) {
-        for (const V of db.query(verb, Tags.imperf | Tags.fin, Decl.pri)) {
-          const verbDecl = V.decl & Decl.number;
-          const Nnom = db.one(noun, Tags.subst, verbDecl | Decl.nom);
-          const Nacc = db.one(noun, Tags.subst, verbDecl | Decl.acc);
-          const nounDecl = Nnom.decl & (Decl.number | Decl.gender);
-          const Anom = db.one(adj, Tags.adj | Tags.pos, nounDecl | Decl.nom);
-          const Aacc = db.one(adj, Tags.adj | Tags.pos, nounDecl | Decl.acc);
+        for (const V of db.query(verb, Xpos.imperf | Xpos.fin, Xext.pri)) {
+          const verbDecl = V.xext & Xext.number;
+          const Nnom = db.one(noun, Xpos.subst, verbDecl | Xext.nom);
+          const Nacc = db.one(noun, Xpos.subst, verbDecl | Xext.acc);
+          const nounDecl = Nnom.xext & (Xext.number | Xext.gender);
+          const Anom = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.nom);
+          const Aacc = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.acc);
           const q = `(${md.i(`kogo? co?`)}) [${md.b(Anom.form)} ${md.b(Nnom.form)}]`;
           const a = `${md.b(Aacc.form)} ${md.b(Nacc.form)}`;
           const front = capitalize(`${V.form} ${q}.`);
@@ -160,13 +160,13 @@ Narzędnik (*z kim? z czym?*)
   for (const [verb, verbTail] of words) {
     for (const [adj, adjTail] of verbTail) {
       for (const noun of adjTail) {
-        for (const V of db.query(stem(verb), Tags.imperf | Tags.fin, Decl.pri)) {
-          const verbDecl = V.decl & Decl.number;
-          const Nnom = db.one(noun, Tags.subst, verbDecl | Decl.nom);
-          const Ninst = db.one(noun, Tags.subst, verbDecl | Decl.inst);
-          const nounDecl = Nnom.decl & (Decl.number | Decl.gender);
-          const Anom = db.one(adj, Tags.adj | Tags.pos, nounDecl | Decl.nom);
-          const Ainst = db.one(adj, Tags.adj | Tags.pos, nounDecl | Decl.inst);
+        for (const V of db.query(stem(verb), Xpos.imperf | Xpos.fin, Xext.pri)) {
+          const verbDecl = V.xext & Xext.number;
+          const Nnom = db.one(noun, Xpos.subst, verbDecl | Xext.nom);
+          const Ninst = db.one(noun, Xpos.subst, verbDecl | Xext.inst);
+          const nounDecl = Nnom.xext & (Xext.number | Xext.gender);
+          const Anom = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.nom);
+          const Ainst = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.inst);
           const q = `(${md.i(`z kim? z czym?`)}) [${md.b(Anom.form)} ${md.b(Nnom.form)}]`;
           const a = `${md.b(Ainst.form)} ${md.b(Ninst.form)}`;
           const cverb = conn(V.form, verb);
@@ -198,13 +198,13 @@ Miejscownik (*o kim? o czym?*)
   for (const [verb, verbTail] of words) {
     for (const [adj, adjTail] of verbTail) {
       for (const noun of adjTail) {
-        for (const V of db.query(stem(verb), Tags.imperf | Tags.fin, Decl.pri)) {
-          const verbDecl = V.decl & Decl.number;
-          const Nnom = db.one(noun, Tags.subst, verbDecl | Decl.nom);
-          const Nloc = db.one(noun, Tags.subst, verbDecl | Decl.loc);
-          const nounDecl = Nnom.decl & (Decl.number | Decl.gender);
-          const Anom = db.one(adj, Tags.adj | Tags.pos, nounDecl | Decl.nom);
-          const Aloc = db.one(adj, Tags.adj | Tags.pos, nounDecl | Decl.loc);
+        for (const V of db.query(stem(verb), Xpos.imperf | Xpos.fin, Xext.pri)) {
+          const verbDecl = V.xext & Xext.number;
+          const Nnom = db.one(noun, Xpos.subst, verbDecl | Xext.nom);
+          const Nloc = db.one(noun, Xpos.subst, verbDecl | Xext.loc);
+          const nounDecl = Nnom.xext & (Xext.number | Xext.gender);
+          const Anom = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.nom);
+          const Aloc = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.loc);
           const q = `(${md.i(`o kim? o czym?`)}) [${md.b(Anom.form)} ${md.b(Nnom.form)}]`;
           const a = `${md.b(Aloc.form)} ${md.b(Nloc.form)}`;
           const cverb = conn(V.form, verb);

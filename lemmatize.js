@@ -1,21 +1,21 @@
 import { pathTo, readLines } from "./lib/io.js";
-import { parseTags } from "./lib/tags.js";
 import { Phrase, Word } from "./lib/word.js";
+import { parseTags } from "./lib/xtags.js";
 
 function parsePhrase(line) {
   const phrase = new Phrase();
   const words = line.split("|");
   for (const word of words) {
-    const [text, lemma, upos, xpos] = word.split("/");
-    switch (upos) {
+    const [text, lemma, upos0, xpos0] = word.split("/");
+    switch (upos0) {
       case "NOUN": {
-        const { tags, decl } = parseTags(xpos);
-        phrase.push(new Word(lemma, text, tags, decl, upos));
+        const { xpos, xext } = parseTags(xpos0);
+        phrase.push(new Word(lemma, text, xpos, xext, upos0));
         break;
       }
       case "ADJ": {
-        const { tags, decl } = parseTags(xpos);
-        phrase.push(new Word(lemma, text, tags, decl, upos));
+        const { xpos, xext } = parseTags(xpos0);
+        phrase.push(new Word(lemma, text, xpos, xext, upos0));
         break;
       }
       default: {
