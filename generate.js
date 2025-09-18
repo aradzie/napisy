@@ -1,12 +1,12 @@
 import { ModelMap, Note, NoteList, printNoteNodes } from "@notatki/core";
 import { writeFile } from "node:fs/promises";
-import { readDatabase } from "./lib/database.js";
+import { Database } from "./lib/database.js";
 import { pathTo } from "./lib/io.js";
 import { md } from "./lib/markdown.js";
 import { Decl, Tags } from "./lib/tags.js";
 import { capitalize } from "./lib/text.js";
 
-const db = await readDatabase();
+const db = await Database.read();
 const notes = new NoteList();
 for (const [przypadek, generator] of [
   ["dopełniacz", dopełniacz],
