@@ -10281,3 +10281,6 @@ dec93d4b-893b-4c0f-8de7-89f808d954d2;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 c47d7640-4538-4a6c-bcb1-61c989ee4d3f;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>что опять случилось?</p>;<p>co się znowu stało?</p>
 981b5916-4eeb-470c-9a9d-54dbca8dcdd1;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это недальновидно и безответственно</p>;<p>to krótkowzroczne i nieodpowiedzialne</p>
 0afd8c04-37c8-4159-9bc1-dc16195cdedc;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>нечего скрывать</p>;<p>nie ma co ukrywać</p>
+e82f85d3-aea0-4f66-be4d-67cd952a7ff0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>кто-то обыграл тебя в карты?</p>;<p>ktoś ograł cię w karty?</p>
+232a3673-f356-468d-84ff-105b10450aa1;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>но он переиграл самого себя</p>;<p>ale ograł samego siebie</p>
+2b17e559-4566-45fa-b0ed-c0729d3e3410;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>проявили большой характер и переиграли нас</p>;<p>pokazali wielki charakter i ograli nas</p>
