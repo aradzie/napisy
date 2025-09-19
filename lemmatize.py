@@ -1,7 +1,7 @@
 import stanza
 
 
-nlp = stanza.Pipeline("pl")
+nlp = stanza.Pipeline("pl", device=0)
 
 
 def lemmatize(line):
@@ -27,4 +27,4 @@ def process_file(input_path, output_path, transform):
                 print(f"Processed {count} lines")
 
 
-process_file("corpus/corpus.txt", "corpus/lemmas.txt", lemmatize)
+process_file("corpus/corpus.txt", "corpus/corpus_lemmata_x.txt", lemmatize)
