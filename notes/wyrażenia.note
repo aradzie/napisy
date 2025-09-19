@@ -2218,7 +2218,7 @@
 ~~~
 
 !id: 1c7c8b2f-c437-4a4c-b01f-c35335a058bd
-!front: и вернуться к основам чтобы лучше понять
+!front: и вернись к основам чтобы лучше понять
 !back: i wróć do podstaw, aby lepiej zrozumieć
 ~~~
 
@@ -2467,11 +2467,6 @@
 !back: jestes idiota, ze nie da sie tego ogarnac
 ~~~
 
-!id: 65ecdc75-fc5a-4556-883c-d670a7d329c5
-!front: спасение было невозможно
-!back: ratunek był niemożebny
-~~~
-
 !id: 8b435a40-ed14-4df2-b71b-d629bd9739f1
 !front: ужасно по тебе скучаю
 !back: tęsknię niemożebnie
@@ -2523,7 +2518,7 @@
 ~~~
 
 !id: dd91471b-649f-46de-ae2f-4baab1c498c6
-!front: мы должны вам помочь
+!front: мы должны тебе помочь
 !back: musimy ci pomóc
 ~~~
 
@@ -2583,7 +2578,7 @@
 ~~~
 
 !id: 4c53d36d-c593-4cc9-82c9-7370ead8a12c
-!front: это превратится в шутку
+!front: это будет обращено в шутку
 !back: będzie obracanie tego w żart
 ~~~
 
@@ -2765,4 +2760,219 @@
 !id: 2b17e559-4566-45fa-b0ed-c0729d3e3410
 !front: проявили большой характер и переиграли нас
 !back: pokazali wielki charakter i ograli nas
+~~~
+
+!id: 6495b5b8-d22c-4482-a4b3-bf5b0358bb7a
+!front: любое другое поведение
+!back: jakiekolwiek inne zachowanie
+~~~
+
+!id: c0c545ef-5e50-48b5-9fe5-d9d02ea4733c
+!front: слишком поздно на какие-либо изменения
+!back: za późno na jakiekolwiek zmiany
+~~~
+
+!id: c959c0a4-a943-418a-831e-562643fae345
+!front: если у тебя есть какие-либо сомнения
+!back: jeśli masz jakiekolwiek wątpliwości
+~~~
+
+!id: 1a12a83f-2a86-489c-9dde-d6bd2c246c9c
+!front: подумай еще раз
+!back: zastanów się ponownie
+~~~
+
+!id: a53f950d-0377-4125-ab70-6683c0605506
+!front: предпринимает ли кто-нибудь какие-либо действия
+!back: czy ktoś podejmuje jakiekolwiek działania
+~~~
+
+!id: c0b1ca3f-5aef-4867-9e01-6881c4ad6c67
+!front: для исправления этой ситуации
+!back: w celu naprawy tej sytuacji
+~~~
+
+!id: 855f3148-611d-4352-ba2d-ede5f033d9a4
+!front: исключение
+!back: wyjątek
+~~~
+
+!id: bbdcf5ec-8f4b-4279-bee9-b66d8e374613
+!front: исключительная ситуация
+!back: wyjątkowa sytuacja
+~~~
+
+!id: 384e54ec-cde2-485d-8141-e35046020a52
+!front: чрезвычайно опасное дело
+!back: wyjątkowo niebezpieczna sprawa
+~~~
+
+!id: ffd0492f-ecf8-44b6-93c2-f9a9ca2a43c9
+!front: за исключением ближайших родственников
+!back: z wyjątkiem najbliższej rodziny
+~~~
+
+!id: 9025001c-196f-404a-a279-a8188b1f322b
+!front: она не выглядела особенной/исключительно
+!back: nie wyglądała wyjątkowo
+~~~
+
+!id: 61fc7cfb-2a7a-4bfd-9841-ac997d0ab45d
+!front: любитель
+!back: miłośnik
+~~~
+
+!id: cf9ad668-d0d9-44b4-8dbe-4012dbb6bf4b
+!front: только для любителей вина
+!back: tylko dla miłośników wina
+~~~
+
+!id: e897975f-96bb-4b4e-93cd-bfae8df8a133
+!front: для любителей водной стихии
+!back: dla miłośników wodnego żywiołu
+~~~
+
+!id: 20e146b0-7a1f-437d-b539-ef69c535c845
+!front: уточнить вопрос
+!back: wyjaśnić/doprecyzować pytanie
+~~~
+
+!id: 2cbd357c-e05a-48a9-999f-603de7f963f0
+!front: уточнить эти детали
+!back: wyjaśnić/doprecyzować te szczegóły
+~~~
+
+!id: b4f42435-64b7-46e0-8ad8-6d1738f121a1
+!front: стоит пояснить, о чем идет речь
+!back: warto doprecyzować/wyjaśnić, o co chodzi
+~~~
+
+!id: 4dc419be-59a1-4a72-a052-5b94db380473
+!front: издевательство
+!back: kpina
+~~~
+
+!id: f8367527-ab86-4b02-bd25-9e13f45a8435
+!front: это какое-то издевательство
+!back: to jakaś kpina
+~~~
+
+!id: 37d5b8f1-a681-42a3-9f1a-7eafc32ca920
+!front: это издевательство и подстава
+!back: przecież to kpina i ustawka
+~~~
+
+!id: 52dd4cae-8b2c-4f9d-bfc2-4c87e130d8c8
+!front: бросать, отказываться
+!back: rzucać
+~~~
+
+!id: 0349c6c9-80b0-4a4e-9d28-0e896af3d104
+!front: обидно выбрасывать деньги на ветер
+!back: szkoda kasy wyrzucać w błoto
+~~~
+
+!id: 4d4b273f-25b0-4a66-82d4-d4a1005aaf69
+!front: не хочу навязываться
+!back: nie chcę się narzucać
+~~~
+
+!id: 2bd7e71c-1423-4718-bb71-84476051794a
+!front: отклонять предложения о помощи
+!back: odrzucać oferty pomocy
+~~~
+
+!id: f5185ce5-69d7-4ff3-96c7-25119bb5ce62
+!front: как можно навязывать свою волю?
+!back: jak można narzucać swoją wolę?
+~~~
+
+!id: d0fabb7c-c8ad-49e3-90a3-d15abc4dcaf3
+!front: тогда ни при каких обстоятельствах
+!back: wtedy pod żadnym pozorem
+~~~
+
+!id: 78321352-9a6a-4a04-96da-86c1ce7f1363
+!front: нельзя выгонять его из дома
+!back: nie można wyrzucać go z domu
+~~~
+
+!id: 7ad63d47-58c7-47e9-ba80-3251a3b2a46d
+!front: поднимает мне настроение
+!back: wprawia mnie w dobry nastrój
+~~~
+
+!id: 69522347-1e50-453c-a829-c8833623298c
+!front: заставляет меня нервничать
+!back: wprawia mnie w zanerwowanie
+~~~
+
+!id: dd70ae39-b795-4929-ba20-01357ac09250
+!front: это меня удивляет/поражает
+!back: wprawia mnie to w zdumienie/osłupienie
+~~~
+
+!id: 88ff2e3b-38e7-47f2-a009-47be6f812730
+!front: что вытворяет/творит наш правительство?
+!back: co wyprawia nasz rząd?
+~~~
+
+!id: 29bfba76-a8da-41ab-811f-efc9753d7b9f
+!front: только посмотри, что вытворяет эта девушка!
+!back: zobacz tylko, co wyprawia ta dziewczyna!
+~~~
+
+!id: 3ed8e902-c07b-4d65-85b6-94d92e3cd717
+!front: которые тогда использовались
+!back: które były wtedy stosowane
+~~~
+
+!id: 59d3ecaa-03ac-4d33-8ac8-0aacfd4fbc7d
+!front: тогда легче переносить тяготы жизни
+!back: wtedy łatwiej znosić trudy życia
+~~~
+
+!id: c1c5cf78-6f2f-4700-aa96-42c38ffb2c35
+!front: но один из самых удачных
+!back: ale jeden z najbardziej udanych
+~~~
+
+!id: f8399b3a-c4ab-4bbb-9314-76e5a52096fe
+!front: начало сезона можно считать успешным
+!back: początek sezonu można uznać za udany
+~~~
+
+!id: d2e3254e-bf3c-4955-a021-ea9336680def
+!front: при первых неудачных попытках
+!back: przy pierwszych nieudanych próbach
+~~~
+
+!id: 6e30675e-74da-4200-809e-e6cc3de0ef21
+!front: это меня невероятно раздражает
+!back: to mnie irytuje niemożebnie
+~~~
+
+!id: 6608a563-da27-40d4-be3e-234bb88b0089
+!front: стояла невыносимая жара
+!back: upał panował niemożebny
+~~~
+
+!id: 5ec0727f-e0c2-44f6-a45a-374ecc094d07
+!front: я это воспринимаю как моё личное достижение
+!back: postrzegam to jako moje osobiste osiągnięcie
+~~~
+
+!id: d6fbd2cf-ca2b-46e1-8ded-9099847a11f3
+!front: влияет на наше восприятие
+!back: ma wpływ na postrzeganie przez nas
+~~~
+
+!id: d4c5da92-7a46-49e6-8c87-6cb052f5fe0e
+!front: определит общее восприятие
+!back: wyznaczy ogólne postrzeganie
+~~~
+
+!id: 0f2ee0f3-e355-460b-bc1b-bedc622c7677
+!front: в моем восприятии мира
+!back: w moim postrzeganiu świata
 ~~~

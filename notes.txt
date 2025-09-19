@@ -10174,7 +10174,7 @@ c43f4c17-86c6-4a4c-9c20-cf21ff91e024;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 46d4a6a7-1cda-4650-8ea6-9e5967b310df;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>испытываю презрение</p>;<p>odczuwam pogardę</p>
 0e29efe4-41fe-460e-8e09-5c9d852e0ba6;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>как кто-то смеет меня осуждать</p>;<p>jak ktoś w ogóle śmie mnie ganić</p>
 b18d2093-56fb-4d1f-a7e0-147a3b090f62;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это кажется преувеличением</p>;<p>to wydaje się przesadzone</p>
-1c7c8b2f-c437-4a4c-b01f-c35335a058bd;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>и вернуться к основам чтобы лучше понять</p>;<p>i wróć do podstaw, aby lepiej zrozumieć</p>
+1c7c8b2f-c437-4a4c-b01f-c35335a058bd;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>и вернись к основам чтобы лучше понять</p>;<p>i wróć do podstaw, aby lepiej zrozumieć</p>
 1ea09f83-6353-40a7-b40b-47923b40f7fb;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>постоянные жалобы</p>;<p>wieczne narzekanie</p>
 fc71202b-6d3d-460b-a732-9dc872cb1122;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это действительно неприлично</p>;<p>to jest naprawdę nieprzyzwoite</p>
 15d2afc4-7899-4821-b23a-8409bde363a3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>лучшие продукты дают преимущество</p>;<p>lepsze produkty dają przewagę</p>
@@ -10224,7 +10224,6 @@ d5b94f1a-7f38-42e9-9dc5-203711493edf;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 e7b9d11d-55fb-41b6-a4a6-4b699280cb6a;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>почему предрассудки сохраняются в их умах?</p>;<p>dlaczego uprzedzenia utrzymują się w ich umysłach?</p>
 e5c41ec6-b29e-4070-8c7b-cb86f0d92b04;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>один кулак</p>;<p>jedna pięść</p>
 15630193-8296-4b71-b10e-7260ffa09c48;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>ты идиот, раз не можешь этого понять</p>;<p>jestes idiota, ze nie da sie tego ogarnac</p>
-65ecdc75-fc5a-4556-883c-d670a7d329c5;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>спасение было невозможно</p>;<p>ratunek był niemożebny</p>
 8b435a40-ed14-4df2-b71b-d629bd9739f1;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>ужасно по тебе скучаю</p>;<p>tęsknię niemożebnie</p>
 892eba30-fd1f-44a2-9da6-489458077ae3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>самовлюбленный</p>;<p>zapatrzony w siebie</p>
 ce7e25b8-c7c2-418f-b717-0639938153b6;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>полный провал</p>;<p>totalna porażka/kompletną klęską</p>
@@ -10235,7 +10234,7 @@ a56566c1-684e-4f8d-b05f-114b597208b3;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 4f6fb880-3d44-4970-953e-9175b9c488a9;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>путаница</p>;<p>zamęt</p>
 970afb1e-2e00-4bbf-8986-888fcd353612;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>у вас в голове путаница</p>;<p>macie zamęt w głowach</p>
 1a627e90-0a48-4c99-940b-afe896fb1a16;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>партия, которая приносит хаос в государство</p>;<p>partia, która wnosi zamęt do państwa</p>
-dd91471b-649f-46de-ae2f-4baab1c498c6;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>мы должны вам помочь</p>;<p>musimy ci pomóc</p>
+dd91471b-649f-46de-ae2f-4baab1c498c6;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>мы должны тебе помочь</p>;<p>musimy ci pomóc</p>
 c720255c-fcb7-4665-9e1a-2c55daa2d402;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>эффект промывания мозга</p>;<p>efekt prania mózgu</p>
 593979c5-4e18-42d0-9c18-43f64cb3da02;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>наконец то</p>;<p>wreszcie</p>
 bca209e9-b517-43dc-ad94-d8bd1f85cc5f;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>они наконец заметили</p>;<p>wreszcie zauważyli</p>
@@ -10247,7 +10246,7 @@ cfc1d617-419f-484e-bae4-18443491856f;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 c022dd09-0e39-4a54-9477-4f6254a2675e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>нет места лучше дома</p>;<p>nie ma to jak w domu</p>
 117c9877-b109-40f0-bc31-4f2335b19a45;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>высшая форма единства</p>;<p>szczytowa/najwyższa forma jedności</p>
 f52de7fe-cc19-44e8-bc81-7a84774b47fd;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>вы все еще придерживаетесь этого мнения?</p>;<p>czy nadal utrzymujecie taką opinię?</p>
-4c53d36d-c593-4cc9-82c9-7370ead8a12c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это превратится в шутку</p>;<p>będzie obracanie tego w żart</p>
+4c53d36d-c593-4cc9-82c9-7370ead8a12c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это будет обращено в шутку</p>;<p>będzie obracanie tego w żart</p>
 6cd6fbf5-7d0f-49a0-a1d6-19966671f03e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>незначительное событие</p>;<p>mało istotne zdarzenie</p>
 c725d979-62c7-4be0-a8cf-8f0879396fe2;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я не обделался, это он мне в штаны наложил</p>;<p>nie ja sie zesrałem, on mi gówno w spodnie podrzucił</p>
 b9e06131-d9cc-48fd-be25-4df041d598cf;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>отличная идея</p>;<p>świetny/spory pomysł</p>
@@ -10284,3 +10283,46 @@ c47d7640-4538-4a6c-bcb1-61c989ee4d3f;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 e82f85d3-aea0-4f66-be4d-67cd952a7ff0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>кто-то обыграл тебя в карты?</p>;<p>ktoś ograł cię w karty?</p>
 232a3673-f356-468d-84ff-105b10450aa1;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>но он переиграл самого себя</p>;<p>ale ograł samego siebie</p>
 2b17e559-4566-45fa-b0ed-c0729d3e3410;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>проявили большой характер и переиграли нас</p>;<p>pokazali wielki charakter i ograli nas</p>
+6495b5b8-d22c-4482-a4b3-bf5b0358bb7a;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>любое другое поведение</p>;<p>jakiekolwiek inne zachowanie</p>
+c0c545ef-5e50-48b5-9fe5-d9d02ea4733c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>слишком поздно на какие-либо изменения</p>;<p>za późno na jakiekolwiek zmiany</p>
+c959c0a4-a943-418a-831e-562643fae345;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>если у тебя есть какие-либо сомнения</p>;<p>jeśli masz jakiekolwiek wątpliwości</p>
+1a12a83f-2a86-489c-9dde-d6bd2c246c9c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>подумай еще раз</p>;<p>zastanów się ponownie</p>
+a53f950d-0377-4125-ab70-6683c0605506;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>предпринимает ли кто-нибудь какие-либо действия</p>;<p>czy ktoś podejmuje jakiekolwiek działania</p>
+c0b1ca3f-5aef-4867-9e01-6881c4ad6c67;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>для исправления этой ситуации</p>;<p>w celu naprawy tej sytuacji</p>
+855f3148-611d-4352-ba2d-ede5f033d9a4;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>исключение</p>;<p>wyjątek</p>
+bbdcf5ec-8f4b-4279-bee9-b66d8e374613;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>исключительная ситуация</p>;<p>wyjątkowa sytuacja</p>
+384e54ec-cde2-485d-8141-e35046020a52;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>чрезвычайно опасное дело</p>;<p>wyjątkowo niebezpieczna sprawa</p>
+ffd0492f-ecf8-44b6-93c2-f9a9ca2a43c9;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>за исключением ближайших родственников</p>;<p>z wyjątkiem najbliższej rodziny</p>
+9025001c-196f-404a-a279-a8188b1f322b;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>она не выглядела особенной/исключительно</p>;<p>nie wyglądała wyjątkowo</p>
+61fc7cfb-2a7a-4bfd-9841-ac997d0ab45d;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>любитель</p>;<p>miłośnik</p>
+cf9ad668-d0d9-44b4-8dbe-4012dbb6bf4b;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>только для любителей вина</p>;<p>tylko dla miłośników wina</p>
+e897975f-96bb-4b4e-93cd-bfae8df8a133;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>для любителей водной стихии</p>;<p>dla miłośników wodnego żywiołu</p>
+20e146b0-7a1f-437d-b539-ef69c535c845;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>уточнить вопрос</p>;<p>wyjaśnić/doprecyzować pytanie</p>
+2cbd357c-e05a-48a9-999f-603de7f963f0;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>уточнить эти детали</p>;<p>wyjaśnić/doprecyzować te szczegóły</p>
+b4f42435-64b7-46e0-8ad8-6d1738f121a1;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>стоит пояснить, о чем идет речь</p>;<p>warto doprecyzować/wyjaśnić, o co chodzi</p>
+4dc419be-59a1-4a72-a052-5b94db380473;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>издевательство</p>;<p>kpina</p>
+f8367527-ab86-4b02-bd25-9e13f45a8435;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это какое-то издевательство</p>;<p>to jakaś kpina</p>
+37d5b8f1-a681-42a3-9f1a-7eafc32ca920;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это издевательство и подстава</p>;<p>przecież to kpina i ustawka</p>
+52dd4cae-8b2c-4f9d-bfc2-4c87e130d8c8;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>бросать, отказываться</p>;<p>rzucać</p>
+0349c6c9-80b0-4a4e-9d28-0e896af3d104;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>обидно выбрасывать деньги на ветер</p>;<p>szkoda kasy wyrzucać w błoto</p>
+4d4b273f-25b0-4a66-82d4-d4a1005aaf69;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>не хочу навязываться</p>;<p>nie chcę się narzucać</p>
+2bd7e71c-1423-4718-bb71-84476051794a;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>отклонять предложения о помощи</p>;<p>odrzucać oferty pomocy</p>
+f5185ce5-69d7-4ff3-96c7-25119bb5ce62;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>как можно навязывать свою волю?</p>;<p>jak można narzucać swoją wolę?</p>
+d0fabb7c-c8ad-49e3-90a3-d15abc4dcaf3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>тогда ни при каких обстоятельствах</p>;<p>wtedy pod żadnym pozorem</p>
+78321352-9a6a-4a04-96da-86c1ce7f1363;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>нельзя выгонять его из дома</p>;<p>nie można wyrzucać go z domu</p>
+7ad63d47-58c7-47e9-ba80-3251a3b2a46d;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>поднимает мне настроение</p>;<p>wprawia mnie w dobry nastrój</p>
+69522347-1e50-453c-a829-c8833623298c;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>заставляет меня нервничать</p>;<p>wprawia mnie w zanerwowanie</p>
+dd70ae39-b795-4929-ba20-01357ac09250;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это меня удивляет/поражает</p>;<p>wprawia mnie to w zdumienie/osłupienie</p>
+88ff2e3b-38e7-47f2-a009-47be6f812730;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>что вытворяет/творит наш правительство?</p>;<p>co wyprawia nasz rząd?</p>
+29bfba76-a8da-41ab-811f-efc9753d7b9f;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>только посмотри, что вытворяет эта девушка!</p>;<p>zobacz tylko, co wyprawia ta dziewczyna!</p>
+3ed8e902-c07b-4d65-85b6-94d92e3cd717;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>которые тогда использовались</p>;<p>które były wtedy stosowane</p>
+59d3ecaa-03ac-4d33-8ac8-0aacfd4fbc7d;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>тогда легче переносить тяготы жизни</p>;<p>wtedy łatwiej znosić trudy życia</p>
+c1c5cf78-6f2f-4700-aa96-42c38ffb2c35;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>но один из самых удачных</p>;<p>ale jeden z najbardziej udanych</p>
+f8399b3a-c4ab-4bbb-9314-76e5a52096fe;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>начало сезона можно считать успешным</p>;<p>początek sezonu można uznać za udany</p>
+d2e3254e-bf3c-4955-a021-ea9336680def;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>при первых неудачных попытках</p>;<p>przy pierwszych nieudanych próbach</p>
+6e30675e-74da-4200-809e-e6cc3de0ef21;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это меня невероятно раздражает</p>;<p>to mnie irytuje niemożebnie</p>
+6608a563-da27-40d4-be3e-234bb88b0089;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>стояла невыносимая жара</p>;<p>upał panował niemożebny</p>
+5ec0727f-e0c2-44f6-a45a-374ecc094d07;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я это воспринимаю как моё личное достижение</p>;<p>postrzegam to jako moje osobiste osiągnięcie</p>
+d6fbd2cf-ca2b-46e1-8ded-9099847a11f3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>влияет на наше восприятие</p>;<p>ma wpływ na postrzeganie przez nas</p>
+d4c5da92-7a46-49e6-8c87-6cb052f5fe0e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>определит общее восприятие</p>;<p>wyznaczy ogólne postrzeganie</p>
+0f2ee0f3-e355-460b-bc1b-bedc622c7677;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>в моем восприятии мира</p>;<p>w moim postrzeganiu świata</p>
