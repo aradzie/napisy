@@ -1,8 +1,12 @@
 import time
+from datetime import datetime
 
 import stanza
 
-nlp = stanza.Pipeline("pl", device=0)
+from_line = 1
+to_line = 300_000
+
+nlp = stanza.Pipeline("pl", download_method=None)
 
 
 def lemmatize(line):
@@ -14,27 +18,38 @@ def lemmatize(line):
     return "|".join(parts)
 
 
-def process_file(input_path, output_path, transform):
+def process_file(
+    input_path,
+    output_path,
+):
     with (
         open(input_path, "r", encoding="utf-8") as input_file,
         open(output_path, "w", encoding="utf-8") as output_file,
     ):
         count = 0
-        start = time.perf_counter()
+        t_start = time.perf_counter()
         for line in input_file:
             count += 1
-            if count == 200000:
+            if count == to_line:
                 break
-            if count >= 100000:
-                line = transform(line.strip())
+            if count >= from_line:
+                line = lemmatize(line.strip())
                 output_file.write(line + "\n")
                 if count % 100 == 0:
-                    end = time.perf_counter()
-                    elapsed = end - start
-                    rate = (count - 100000) / elapsed
+                    t_end = time.perf_counter()
+                    t_elapsed = t_end - t_start
+                    rate = (count - from_line) / t_elapsed
+                    remaining = (to_line - count) / rate / 60
                     print(
-                        f"Processed {count} lines in {elapsed:.3f}s ({rate:.2f} items/sec)"
+                        f"{datetime.now():%Y-%m-%d %H:%M:%S} "
+                        f"processed {count} lines in {t_elapsed:.3f}s "
+                        f"({rate:.2f} lines per second, "
+                        f"{remaining:.0f} minutes remaining)",
+                        flush=True,
                     )
 
 
-process_file("corpus/corpus.txt", "corpus/corpus-lemmata-b.txt", lemmatize)
+process_file(
+    "corpus/corpus.txt",
+    "corpus/corpus-lemmata-x.txt",
+)
