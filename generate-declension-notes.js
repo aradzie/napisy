@@ -1,12 +1,12 @@
 import { ModelMap, Note, NoteList, printNoteNodes } from "@notatki/core";
 import { writeFile } from "node:fs/promises";
-import { Database } from "./lib/database.js";
+import { Dictionary } from "./lib/dictionary.js";
 import { pathTo } from "./lib/io.js";
 import { md } from "./lib/markdown.js";
 import { capitalize } from "./lib/text.js";
 import { Xext, Xpos } from "./lib/xtags.js";
 
-const db = await Database.read();
+const dict = await Dictionary.read();
 const notes = new NoteList();
 for (const [przypadek, generator] of [
   ["dopełniacz", dopełniacz],
@@ -15,13 +15,13 @@ for (const [przypadek, generator] of [
   ["narzędnik", narzędnik],
   ["miejscownik", miejscownik],
 ]) {
-  generator(db, notes);
+  generator(dict, notes);
 }
-const file = pathTo(`notes/odmiany/rzeczowniki.note`);
-console.log(`Generated ${notes.length} note(s) to file "${file}"`);
-await writeFile(file, printNoteNodes(notes));
+const path = pathTo(`notes/odmiany/rzeczowniki.note`);
+console.log(`Generated ${notes.length} note(s) to file "${path}"`);
+await writeFile(path, printNoteNodes(notes));
 
-function dopełniacz(db, notes) {
+function dopełniacz(dict, notes) {
   // szukać, uczyć, słuchać, używać, życzyć, potrzebować (kogo czego)
   const words = expand([
     ["szukać", [["dobry|zły|taki", ["człowiek", "kobieta", "dziecko"]]]],
@@ -46,13 +46,13 @@ Dopełniacz (*kogo? czego?*)
   for (const [verb, verbTail] of words) {
     for (const [adj, adjTail] of verbTail) {
       for (const noun of adjTail) {
-        for (const V of db.query(verb, Xpos.imperf | Xpos.fin, Xext.pri)) {
+        for (const V of dict.query(verb, Xpos.imperf | Xpos.fin, Xext.pri)) {
           const verbDecl = V.xext & Xext.number;
-          const Nnom = db.one(noun, Xpos.subst, verbDecl | Xext.nom);
-          const Ngen = db.one(noun, Xpos.subst, verbDecl | Xext.gen);
+          const Nnom = dict.one(noun, Xpos.subst, verbDecl | Xext.nom);
+          const Ngen = dict.one(noun, Xpos.subst, verbDecl | Xext.gen);
           const nounDecl = Nnom.xext & (Xext.number | Xext.gender);
-          const Anom = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.nom);
-          const Agen = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.gen);
+          const Anom = dict.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.nom);
+          const Agen = dict.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.gen);
           const q = `(${md.i(`kogo? czego?`)}) [${md.b(Anom.form)} ${md.b(Nnom.form)}]`;
           const a = `${md.b(Agen.form)} ${md.b(Ngen.form)}`;
           const front = capitalize(`${V.form} ${q}.`);
@@ -66,7 +66,7 @@ Dopełniacz (*kogo? czego?*)
   }
 }
 
-function celownik(db, notes) {
+function celownik(dict, notes) {
   const words = expand([
     ["dawać", [["dobry|zły|taki", ["człowiek", "kobieta", "dziecko"]]]],
     ["pomagać", [["ważny|miły|taki", ["nauczyciel", "nauczycielka", "dziecko"]]]],
@@ -83,13 +83,13 @@ Celownik (*komu? czemu?*)
   for (const [verb, verbTail] of words) {
     for (const [adj, adjTail] of verbTail) {
       for (const noun of adjTail) {
-        for (const V of db.query(verb, Xpos.imperf | Xpos.fin, Xext.pri)) {
+        for (const V of dict.query(verb, Xpos.imperf | Xpos.fin, Xext.pri)) {
           const verbDecl = V.xext & Xext.number;
-          const Nnom = db.one(noun, Xpos.subst, verbDecl | Xext.nom);
-          const Ndat = db.one(noun, Xpos.subst, verbDecl | Xext.dat);
+          const Nnom = dict.one(noun, Xpos.subst, verbDecl | Xext.nom);
+          const Ndat = dict.one(noun, Xpos.subst, verbDecl | Xext.dat);
           const nounDecl = Nnom.xext & (Xext.number | Xext.gender);
-          const Anom = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.nom);
-          const Adat = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.dat);
+          const Anom = dict.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.nom);
+          const Adat = dict.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.dat);
           const q = `(${md.i(`komu? czemu?`)}) [${md.b(Anom.form)} ${md.b(Nnom.form)}]`;
           const a = `${md.b(Adat.form)} ${md.b(Ndat.form)}`;
           const front = capitalize(`${V.form} ${q}.`);
@@ -103,7 +103,7 @@ Celownik (*komu? czemu?*)
   }
 }
 
-function biernik(db, notes) {
+function biernik(dict, notes) {
   // widzieć, czytać, kupować, lubić (kogo co)
   const words = expand([
     ["lubić", [["dobry|zły|taki", ["człowiek", "brat", "kobieta", "siostra", "dziecko"]]]],
@@ -123,13 +123,13 @@ Biernik (*kogo? co?*)
   for (const [verb, verbTail] of words) {
     for (const [adj, adjTail] of verbTail) {
       for (const noun of adjTail) {
-        for (const V of db.query(verb, Xpos.imperf | Xpos.fin, Xext.pri)) {
+        for (const V of dict.query(verb, Xpos.imperf | Xpos.fin, Xext.pri)) {
           const verbDecl = V.xext & Xext.number;
-          const Nnom = db.one(noun, Xpos.subst, verbDecl | Xext.nom);
-          const Nacc = db.one(noun, Xpos.subst, verbDecl | Xext.acc);
+          const Nnom = dict.one(noun, Xpos.subst, verbDecl | Xext.nom);
+          const Nacc = dict.one(noun, Xpos.subst, verbDecl | Xext.acc);
           const nounDecl = Nnom.xext & (Xext.number | Xext.gender);
-          const Anom = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.nom);
-          const Aacc = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.acc);
+          const Anom = dict.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.nom);
+          const Aacc = dict.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.acc);
           const q = `(${md.i(`kogo? co?`)}) [${md.b(Anom.form)} ${md.b(Nnom.form)}]`;
           const a = `${md.b(Aacc.form)} ${md.b(Nacc.form)}`;
           const front = capitalize(`${V.form} ${q}.`);
@@ -143,7 +143,7 @@ Biernik (*kogo? co?*)
   }
 }
 
-function narzędnik(db, notes) {
+function narzędnik(dict, notes) {
   const words = expand([
     ["rozmawiać+z", [["dobry|zły|taki", ["człowiek", "kobieta", "dziecko", "nauczyciel", "nauczycielka"]]]],
     ["interesować+się", [["silny|słaby|taki", ["człowiek", "kobieta", "dziecko", "nauczyciel", "nauczycielka"]]]],
@@ -160,13 +160,13 @@ Narzędnik (*z kim? z czym?*)
   for (const [verb, verbTail] of words) {
     for (const [adj, adjTail] of verbTail) {
       for (const noun of adjTail) {
-        for (const V of db.query(stem(verb), Xpos.imperf | Xpos.fin, Xext.pri)) {
+        for (const V of dict.query(stem(verb), Xpos.imperf | Xpos.fin, Xext.pri)) {
           const verbDecl = V.xext & Xext.number;
-          const Nnom = db.one(noun, Xpos.subst, verbDecl | Xext.nom);
-          const Ninst = db.one(noun, Xpos.subst, verbDecl | Xext.inst);
+          const Nnom = dict.one(noun, Xpos.subst, verbDecl | Xext.nom);
+          const Ninst = dict.one(noun, Xpos.subst, verbDecl | Xext.inst);
           const nounDecl = Nnom.xext & (Xext.number | Xext.gender);
-          const Anom = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.nom);
-          const Ainst = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.inst);
+          const Anom = dict.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.nom);
+          const Ainst = dict.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.inst);
           const q = `(${md.i(`z kim? z czym?`)}) [${md.b(Anom.form)} ${md.b(Nnom.form)}]`;
           const a = `${md.b(Ainst.form)} ${md.b(Ninst.form)}`;
           const cverb = conn(V.form, verb);
@@ -181,7 +181,7 @@ Narzędnik (*z kim? z czym?*)
   }
 }
 
-function miejscownik(db, notes) {
+function miejscownik(dict, notes) {
   const words = expand([
     ["mówić+o", [["dobry|zły|taki", ["człowiek", "kobieta", "dziecko", "nauczyciel", "nauczycielka"]]]],
     ["pisać+o|czytać+o", [["silny|słaby|taki", ["człowiek", "kobieta", "dziecko", "nauczyciel", "nauczycielka"]]]],
@@ -198,13 +198,13 @@ Miejscownik (*o kim? o czym?*)
   for (const [verb, verbTail] of words) {
     for (const [adj, adjTail] of verbTail) {
       for (const noun of adjTail) {
-        for (const V of db.query(stem(verb), Xpos.imperf | Xpos.fin, Xext.pri)) {
+        for (const V of dict.query(stem(verb), Xpos.imperf | Xpos.fin, Xext.pri)) {
           const verbDecl = V.xext & Xext.number;
-          const Nnom = db.one(noun, Xpos.subst, verbDecl | Xext.nom);
-          const Nloc = db.one(noun, Xpos.subst, verbDecl | Xext.loc);
+          const Nnom = dict.one(noun, Xpos.subst, verbDecl | Xext.nom);
+          const Nloc = dict.one(noun, Xpos.subst, verbDecl | Xext.loc);
           const nounDecl = Nnom.xext & (Xext.number | Xext.gender);
-          const Anom = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.nom);
-          const Aloc = db.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.loc);
+          const Anom = dict.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.nom);
+          const Aloc = dict.one(adj, Xpos.adj | Xpos.pos, nounDecl | Xext.loc);
           const q = `(${md.i(`o kim? o czym?`)}) [${md.b(Anom.form)} ${md.b(Nnom.form)}]`;
           const a = `${md.b(Aloc.form)} ${md.b(Nloc.form)}`;
           const cverb = conn(V.form, verb);

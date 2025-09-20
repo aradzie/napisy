@@ -1,5 +1,6 @@
 import { writeFile } from "node:fs/promises";
 import { pathTo, readLines } from "./lib/io.js";
+import { Word } from "./lib/word.js";
 
 const dict = new Map();
 
@@ -28,9 +29,8 @@ await dump(
 );
 
 function parsePhrase(line) {
-  const words = line.split("|");
-  for (const word of words) {
-    const [text, lemma, upos, xpos] = word.split("/");
+  for (const word of Word.parseWords(line)) {
+    const { lemma, upos } = word;
     switch (upos) {
       case "VERB":
       case "NOUN":
