@@ -10326,3 +10326,8 @@ d2e3254e-bf3c-4955-a021-ea9336680def;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 d6fbd2cf-ca2b-46e1-8ded-9099847a11f3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>влияет на наше восприятие</p>;<p>ma wpływ na postrzeganie przez nas</p>
 d4c5da92-7a46-49e6-8c87-6cb052f5fe0e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>определит общее восприятие</p>;<p>wyznaczy ogólne postrzeganie</p>
 0f2ee0f3-e355-460b-bc1b-bedc622c7677;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>в моем восприятии мира</p>;<p>w moim postrzeganiu świata</p>
+1f62ee8a-5626-43e6-a884-03e78f3a3cd7;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>как будто они откатились назад в развитии</p>;<p>jakby cofnięci w rozwoju</p>
+3e8b5d98-8b0f-4d43-93b0-79c9ec851311;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>вернемся на пять лет назад</p>;<p>cofnijmy się o pięć lat w czasie</p>
+014c0f22-2b92-414e-ab48-d874187b7b01;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>прошлое нельзя отменить/изменить</p>;<p>przeszłości nie da się cofnąć</p>
+bacc0e50-9d97-4cb0-8267-a5742997c0cd;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>они не остановятся ни перед чем</p>;<p>nie cofną się przed niczym</p>
+53dfa118-e328-4748-b4e2-6b189fa259ee;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>время нельзя отменить/вернуть</p>;<p>czasu nie można cofnąć</p>

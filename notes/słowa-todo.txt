@@ -91,4 +91,3 @@ wyrzucać
 obracanie
 niemożebny
 postrzeganie
-cofnąć
