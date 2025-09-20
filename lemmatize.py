@@ -27,4 +27,4 @@ def process_file(input_path, output_path, transform):
                 print(f"Processed {count} lines")
 
 
-process_file("corpus/corpus.txt", "corpus/corpus_lemmata_x.txt", lemmatize)
+process_file("corpus/corpus.txt", "corpus/corpus-lemmata-x.txt", lemmatize)

@@ -1,5 +1,5 @@
 czas,NOUN,2580
-człowiek,NOUN,2051
+człowiek,NOUN,2050
 dziecko,NOUN,1601
 rok,NOUN,1556
 życie,NOUN,1424
@@ -287,7 +287,6 @@ zapewnić,NOUN,138
 chłopiec,NOUN,137
 klub,NOUN,137
 zagrożenie,NOUN,136
-kościół,NOUN,135
 minuta,NOUN,135
 pan,NOUN,134
 pani,NOUN,134
@@ -456,7 +455,6 @@ opowieść,NOUN,91
 pasja,NOUN,91
 potwierdzić,NOUN,91
 rozmiar,NOUN,91
-seks,NOUN,91
 trasa,NOUN,91
 córka,NOUN,90
 kara,NOUN,90
@@ -814,7 +812,6 @@ zagadnienie,NOUN,52
 żołnierz,NOUN,52
 adres,NOUN,51
 kamera,NOUN,51
-ksiądz,NOUN,51
 mapa,NOUN,51
 opakowanie,NOUN,51
 postęp,NOUN,51
@@ -932,7 +929,6 @@ zakład,NOUN,45
 architektura,NOUN,44
 burza,NOUN,44
 modlitwa,NOUN,44
-narkotyk,NOUN,44
 nastolatek,NOUN,44
 ogłosić,NOUN,44
 pływać,NOUN,44
@@ -1421,7 +1417,6 @@ zapalenie,NOUN,26
 zasięg,NOUN,26
 zmarły,NOUN,26
 czwartek,NOUN,25
-diabeł,NOUN,25
 domena,NOUN,25
 elektrownia,NOUN,25
 filozofia,NOUN,25
@@ -1535,7 +1530,6 @@ bomba,NOUN,23
 czasopismo,NOUN,23
 dojazd,NOUN,23
 dystans,NOUN,23
-erekcja,NOUN,23
 giełda,NOUN,23
 hałas,NOUN,23
 humor,NOUN,23
@@ -1585,7 +1579,6 @@ aukcja,NOUN,22
 bzdura,NOUN,22
 danie,NOUN,22
 deklaracja,NOUN,22
-demon,NOUN,22
 dym,NOUN,22
 flaga,NOUN,22
 format,NOUN,22
@@ -1956,7 +1949,6 @@ skarpetka,NOUN,17
 stereotyp,NOUN,17
 strajk,NOUN,17
 synek,NOUN,17
-szatan,NOUN,17
 śpiew,NOUN,17
 świątynia,NOUN,17
 tablet,NOUN,17
@@ -2335,7 +2327,6 @@ przyłączyć,NOUN,13
 psiak,NOUN,13
 pustynia,NOUN,13
 radio,NOUN,13
-rasizm,NOUN,13
 rękawica,NOUN,13
 rękawiczka,NOUN,13
 rozpacz,NOUN,13
@@ -2396,7 +2387,6 @@ delfin,NOUN,12
 dolina,NOUN,12
 dominacja,NOUN,12
 dopłata,NOUN,12
-dupa,NOUN,12
 dziedzictwo,NOUN,12
 eliminacja,NOUN,12
 emigracja,NOUN,12
@@ -2551,7 +2541,6 @@ kapsułka,NOUN,11
 karać,NOUN,11
 klej,NOUN,11
 komar,NOUN,11
-komunizm,NOUN,11
 konsultant,NOUN,11
 kopiować,NOUN,11
 korporacja,NOUN,11
@@ -2661,7 +2650,6 @@ anemia,NOUN,10
 animacja,NOUN,10
 antena,NOUN,10
 automatyzacja,NOUN,10
-biblia,NOUN,10
 blat,NOUN,10
 bunt,NOUN,10
 cela,NOUN,10
@@ -2698,7 +2686,6 @@ grubość,NOUN,10
 grzywna,NOUN,10
 guz,NOUN,10
 handlowiec,NOUN,10
-homoseksualizm,NOUN,10
 imperium,NOUN,10
 in,NOUN,10
 jogurt,NOUN,10
@@ -2900,7 +2887,6 @@ kryształ,NOUN,9
 kumpel,NOUN,9
 kupujący,NOUN,9
 kura,NOUN,9
-kurwa,NOUN,9
 kwitnienie,NOUN,9
 laser,NOUN,9
 linka,NOUN,9
@@ -3064,7 +3050,6 @@ głębokość,NOUN,8
 grzejnik,NOUN,8
 guma,NOUN,8
 gwiazdka,NOUN,8
-homoseksualista,NOUN,8
 hospitalizacja,NOUN,8
 hybryda,NOUN,8
 hymn,NOUN,8
@@ -3113,7 +3098,6 @@ narzeczony,NOUN,8
 nasienie,NOUN,8
 nawiązanie,NOUN,8
 nawrót,NOUN,8
-nazista,NOUN,8
 niedźwiedzia,NOUN,8
 niepodległość,NOUN,8
 niezadowolenie,NOUN,8
@@ -3471,7 +3455,6 @@ schizofrenia,NOUN,7
 schronienie,NOUN,7
 seans,NOUN,7
 sejf,NOUN,7
-seksualność,NOUN,7
 składować,NOUN,7
 skłonność,NOUN,7
 skrzyżowanie,NOUN,7
@@ -3554,7 +3537,6 @@ afera,NOUN,6
 aktywista,NOUN,6
 aleja,NOUN,6
 anime,NOUN,6
-antysemityzm,NOUN,6
 arkusz,NOUN,6
 atuta,NOUN,6
 audycja,NOUN,6
@@ -3763,7 +3745,6 @@ plaż,NOUN,6
 plener,NOUN,6
 płód,NOUN,6
 pobudka,NOUN,6
-pochwa,NOUN,6
 poczynać,NOUN,6
 podbój,NOUN,6
 podopieczna,NOUN,6
@@ -3781,10 +3762,8 @@ precedens,NOUN,6
 prelekcja,NOUN,6
 premium,NOUN,6
 pretensja,NOUN,6
-prezerwatywa,NOUN,6
 procesja,NOUN,6
 projektowanie,NOUN,6
-prostytucja,NOUN,6
 pryszcz,NOUN,6
 przebierać,NOUN,6
 przeciąć,NOUN,6
@@ -4023,7 +4002,6 @@ geneza,NOUN,5
 gestapo,NOUN,5
 ginekolog,NOUN,5
 gniazda,NOUN,5
-gówno,NOUN,5
 gramatyka,NOUN,5
 gran,NOUN,5
 grant,NOUN,5
@@ -4117,7 +4095,6 @@ namaścić,NOUN,5
 namiastka,NOUN,5
 namiętność,NOUN,5
 napływ,NOUN,5
-narkotyka,NOUN,5
 naruszenie,NOUN,5
 nastolatka,NOUN,5
 natężenie,NOUN,5
@@ -4323,7 +4300,6 @@ umniejszać,NOUN,5
 unia,NOUN,5
 usługodawca,NOUN,5
 uszyć,NOUN,5
-wał,NOUN,5
 warkocz,NOUN,5
 wiązek,NOUN,5
 willa,NOUN,5
@@ -4502,7 +4478,6 @@ futro,NOUN,4
 gadanie,NOUN,4
 garść,NOUN,4
 gazetka,NOUN,4
-gej,NOUN,4
 genetyka,NOUN,4
 getto,NOUN,4
 gimnastyka,NOUN,4
@@ -4566,7 +4541,6 @@ kefir,NOUN,4
 kelner,NOUN,4
 klan,NOUN,4
 kochan,NOUN,4
-kokaina,NOUN,4
 kolonia,NOUN,4
 kolorowanka,NOUN,4
 kołderka,NOUN,4
@@ -4960,7 +4934,6 @@ tuning,NOUN,4
 turnus,NOUN,4
 tusz,NOUN,4
 twierdzo,NOUN,4
-tyłek,NOUN,4
 tytan,NOUN,4
 ubranek,NOUN,4
 ugoda,NOUN,4
@@ -5146,7 +5119,6 @@ budulec,NOUN,3
 bulimia,NOUN,3
 bułka,NOUN,3
 bunkr,NOUN,3
-burdel,NOUN,3
 buzia,NOUN,3
 bytować,NOUN,3
 casting,NOUN,3
@@ -5205,7 +5177,6 @@ desperacja,NOUN,3
 destrukcja,NOUN,3
 detektywa,NOUN,3
 dezinformacja,NOUN,3
-diabl,NOUN,3
 diesel,NOUN,3
 długowieczność,NOUN,3
 dochować,NOUN,3
@@ -5240,7 +5211,6 @@ dyżur,NOUN,3
 dziedziczenie,NOUN,3
 dziewictwo,NOUN,3
 dziuro,NOUN,3
-dziwka,NOUN,3
 echo,NOUN,3
 egzotyka,NOUN,3
 eksmisja,NOUN,3
@@ -5745,7 +5715,6 @@ pokrzywka,NOUN,3
 polaryzacja,NOUN,3
 polifenol,NOUN,3
 polimer,NOUN,3
-polskość,NOUN,3
 polszczyzna,NOUN,3
 pomyłek,NOUN,3
 pończocha,NOUN,3
@@ -5969,7 +5938,6 @@ styk,NOUN,3
 subskrypcja,NOUN,3
 subwencja,NOUN,3
 sudok,NOUN,3
-suka,NOUN,3
 surfować,NOUN,3
 suszenie,NOUN,3
 suteren,NOUN,3
@@ -6423,7 +6391,6 @@ cudowność,NOUN,2
 curra,NOUN,2
 cwaniak,NOUN,2
 cyberprzestrzeń,NOUN,2
-cycka,NOUN,2
 cygaro,NOUN,2
 cykliczność,NOUN,2
 cynamon,NOUN,2
@@ -6511,7 +6478,6 @@ drzewko,NOUN,2
 duchowieństwo,NOUN,2
 dueto,NOUN,2
 dumać,NOUN,2
-dupek,NOUN,2
 dworek,NOUN,2
 dwudziestolatek,NOUN,2
 dwudziestolecie,NOUN,2
@@ -7663,8 +7629,6 @@ sceptycyzm,NOUN,2
 sceptyk,NOUN,2
 schizofrenik,NOUN,2
 sejmik,NOUN,2
-seksbomba,NOUN,2
-seksuolog,NOUN,2
 sentencja,NOUN,2
 separatysta,NOUN,2
 sernik,NOUN,2
@@ -7698,7 +7662,6 @@ skorupa,NOUN,2
 skrępować,NOUN,2
 skrobia,NOUN,2
 skrona,NOUN,2
-skurwiel,NOUN,2
 skuter,NOUN,2
 skwer,NOUN,2
 słodycz,NOUN,2
@@ -7775,7 +7738,6 @@ stwora,NOUN,2
 stwór,NOUN,2
 stylistka,NOUN,2
 suchość,NOUN,2
-suk,NOUN,2
 sumka,NOUN,2
 surowica,NOUN,2
 suspens,NOUN,2
@@ -7822,7 +7784,6 @@ szynka,NOUN,2
 szyszek,NOUN,2
 ściemniacz,NOUN,2
 ścierniwo,NOUN,2
-ścierwo,NOUN,2
 ściółka,NOUN,2
 śledź,NOUN,2
 ślepca,NOUN,2
@@ -8800,7 +8761,6 @@ chrząszcz,NOUN,1
 chrząszcze,NOUN,1
 chrzesniak,NOUN,1
 chrześcijanka,NOUN,1
-chuj,NOUN,1
 chuligan,NOUN,1
 chuligana,NOUN,1
 chusta,NOUN,1
@@ -8822,8 +8782,6 @@ ciepłownictwo,NOUN,1
 cierpkość,NOUN,1
 cieszenie,NOUN,1
 ciężkostrawność,NOUN,1
-cipa,NOUN,1
-cipka,NOUN,1
 ciśnieniomierz,NOUN,1
 citroena,NOUN,1
 citylight,NOUN,1
@@ -9010,8 +8968,6 @@ diabetolog,NOUN,1
 diabetologa,NOUN,1
 diabetyca,NOUN,1
 diabetyk,NOUN,1
-diablo,NOUN,1
-diabło,NOUN,1
 diad,NOUN,1
 diagnost,NOUN,1
 diakon,NOUN,1
@@ -9382,7 +9338,6 @@ flaszek,NOUN,1
 flawonoidy,NOUN,1
 flądra,NOUN,1
 flesza,NOUN,1
-flet,NOUN,1
 flor,NOUN,1
 florysta,NOUN,1
 flot,NOUN,1
@@ -9652,7 +9607,6 @@ henna,NOUN,1
 heparyna,NOUN,1
 herbaciarka,NOUN,1
 hermafrodytyzm,NOUN,1
-heroina,NOUN,1
 herolda,NOUN,1
 heros,NOUN,1
 herpeswirus,NOUN,1
@@ -9680,7 +9634,6 @@ hirsutyzm,NOUN,1
 histeroskopia,NOUN,1
 histogram,NOUN,1
 historiografia,NOUN,1
-hitlerowiec,NOUN,1
 hoc,NOUN,1
 hochsztapler,NOUN,1
 holo,NOUN,1
@@ -9894,7 +9847,6 @@ kapsuła,NOUN,1
 kapsułek,NOUN,1
 kapta,NOUN,1
 kaptia,NOUN,1
-kapucyna,NOUN,1
 kapuścian,NOUN,1
 karafka,NOUN,1
 karaluch,NOUN,1
@@ -10490,7 +10442,6 @@ lwica,NOUN,1
 maceracja,NOUN,1
 macier,NOUN,1
 macoch,NOUN,1
-madonna,NOUN,1
 maestro,NOUN,1
 mafa,NOUN,1
 maga,NOUN,1
@@ -11399,7 +11350,6 @@ peceta,NOUN,1
 pedagoga,NOUN,1
 pedagogika,NOUN,1
 pedagogizacja,NOUN,1
-pedał,NOUN,1
 pediatria,NOUN,1
 pedikiur,NOUN,1
 pektyn,NOUN,1
@@ -11465,7 +11415,6 @@ pieniądza,NOUN,1
 pieprzeć,NOUN,1
 pieprznik,NOUN,1
 pieprzyk,NOUN,1
-pierdoła,NOUN,1
 pierniczka,NOUN,1
 pierożka,NOUN,1
 pierwszak,NOUN,1
@@ -11511,7 +11460,6 @@ piwko,NOUN,1
 piwniczka,NOUN,1
 piwonie,NOUN,1
 piwosz,NOUN,1
-pizdo,NOUN,1
 piżmo,NOUN,1
 placyk,NOUN,1
 plaga,NOUN,1
@@ -11848,7 +11796,6 @@ prorzystać,NOUN,1
 prosiak,NOUN,1
 prostactwo,NOUN,1
 prostować,NOUN,1
-prostytutka,NOUN,1
 proteaza,NOUN,1
 protekcja,NOUN,1
 protektor,NOUN,1
@@ -12216,7 +12163,6 @@ rollercoaster,NOUN,1
 romanizacja,NOUN,1
 romansidło,NOUN,1
 rondlo,NOUN,1
-rosjanin,NOUN,1
 roszponek,NOUN,1
 roszpunka,NOUN,1
 roślinek,NOUN,1
@@ -12405,9 +12351,6 @@ sedes,NOUN,1
 sedyment,NOUN,1
 sekciarz,NOUN,1
 sekretarka,NOUN,1
-seksa,NOUN,1
-seksizm,NOUN,1
-seksoholik,NOUN,1
 selekcjoner,NOUN,1
 selen,NOUN,1
 seler,NOUN,1
@@ -12504,7 +12447,6 @@ skunks,NOUN,1
 skupa,NOUN,1
 skupian,NOUN,1
 skurcz,NOUN,1
-skurwysyństwo,NOUN,1
 slangie,NOUN,1
 slot,NOUN,1
 slums,NOUN,1
@@ -12642,7 +12584,6 @@ stada,NOUN,1
 stadnicko,NOUN,1
 stalagmity,NOUN,1
 stalaktyta,NOUN,1
-stalinizm,NOUN,1
 stanik,NOUN,1
 starce,NOUN,1
 starć,NOUN,1
@@ -12742,7 +12683,6 @@ surfing,NOUN,1
 surówka,NOUN,1
 susła,NOUN,1
 sutannia,NOUN,1
-sutener,NOUN,1
 swat,NOUN,1
 sweterka,NOUN,1
 swędzienie,NOUN,1
@@ -13284,7 +13224,6 @@ wahacz,NOUN,1
 walkower,NOUN,1
 waloryzacja,NOUN,1
 wałek,NOUN,1
-wały,NOUN,1
 wamp,NOUN,1
 wampiryzm,NOUN,1
 wandal,NOUN,1

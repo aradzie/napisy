@@ -12,7 +12,7 @@ tak,ADV,2386
 my,PRON,2264
 jak,ADV,2229
 siebie,PRON,2076
-człowiek,NOUN,2051
+człowiek,NOUN,2050
 inny,ADJ,1964
 chcieć,ADJ,1949
 można,VERB,1948
@@ -347,7 +347,6 @@ ruch,NOUN,208
 twarz,NOUN,208
 akcja,NOUN,207
 podstawa,NOUN,207
-polski,ADJ,207
 budynek,NOUN,206
 łatwy,ADJ,206
 znacznie,ADV,206
@@ -603,7 +602,6 @@ dawny,ADJ,136
 słuchać,VERB,136
 zagrożenie,NOUN,136
 zdecydować,VERB,136
-kościół,NOUN,135
 minuta,NOUN,135
 polityczny,ADJ,135
 szczególny,ADJ,135
@@ -871,7 +869,6 @@ wskazywać,VERB,101
 zjawisko,NOUN,101
 chory,ADJ,100
 miara,NOUN,100
-niemiecki,ADJ,100
 syn,NOUN,100
 waga,NOUN,100
 zewnętrzny,ADJ,100
@@ -966,7 +963,6 @@ potwierdzić,NOUN,91
 powoli,ADV,91
 przechodzić,VERB,91
 rozmiar,NOUN,91
-seks,NOUN,91
 spędzać,VERB,91
 trasa,NOUN,91
 aktualny,ADJ,90
@@ -1200,7 +1196,6 @@ konsument,NOUN,72
 napój,NOUN,72
 ostatecznie,ADV,72
 powyższy,ADJ,72
-seksualny,ADJ,72
 student,NOUN,72
 turysta,NOUN,72
 wprowadzać,NOUN,72
@@ -1620,7 +1615,6 @@ porównanie,NOUN,52
 powtórzyć,VERB,52
 raport,NOUN,52
 religijny,ADJ,52
-rosyjski,ADJ,52
 skierować,ADJ,52
 spaść,VERB,52
 sztuczny,ADJ,52
@@ -1639,7 +1633,6 @@ dostrzec,VERB,51
 głosować,VERB,51
 historyczny,ADJ,51
 kamera,NOUN,51
-ksiądz,NOUN,51
 mapa,NOUN,51
 opakowanie,NOUN,51
 opierać,VERB,51
@@ -1881,7 +1874,6 @@ elastyczny,ADJ,44
 finansować,VERB,44
 mijać,VERB,44
 modlitwa,NOUN,44
-narkotyk,NOUN,44
 nastolatek,NOUN,44
 nienawidzić,VERB,44
 niniejszy,ADJ,44
@@ -2862,7 +2854,6 @@ zwyczajny,ADJ,26
 aktywnie,ADV,25
 angażować,VERB,25
 czwartek,NOUN,25
-diabeł,NOUN,25
 dolny,ADJ,25
 domena,NOUN,25
 dramatyczny,ADJ,25
@@ -3064,7 +3055,6 @@ czasowy,ADJ,23
 dojazd,NOUN,23
 dyskutować,ADJ,23
 dystans,NOUN,23
-erekcja,NOUN,23
 estetyczny,ADJ,23
 giełda,NOUN,23
 hałas,NOUN,23
@@ -3169,7 +3159,6 @@ cywilny,ADJ,22
 danie,NOUN,22
 definiować,VERB,22
 deklaracja,NOUN,22
-demon,NOUN,22
 denerwować,ADJ,22
 dobierać,VERB,22
 dopuścić,VERB,22
@@ -3363,7 +3352,6 @@ telefoniczny,ADJ,21
 tematyczny,ADJ,21
 tolerancja,NOUN,21
 uboczny,ADJ,21
-ukraiński,ADJ,21
 umiarkowany,ADJ,21
 umieszczać,VERB,21
 uniwersytet,NOUN,21
@@ -3860,7 +3848,6 @@ stereotyp,NOUN,17
 strajk,NOUN,17
 symboliczny,ADJ,17
 synek,NOUN,17
-szatan,NOUN,17
 szklany,ADJ,17
 śpiew,NOUN,17
 świątynia,NOUN,17
@@ -4600,7 +4587,6 @@ przypomnić,VERB,13
 psiak,NOUN,13
 pustynia,NOUN,13
 radio,NOUN,13
-rasizm,NOUN,13
 realistyczny,ADJ,13
 rękawica,NOUN,13
 rękawiczka,NOUN,13
@@ -4709,7 +4695,6 @@ dopłata,NOUN,12
 doradzać,VERB,12
 drugorzędny,ADJ,12
 duchowny,ADJ,12
-dupa,NOUN,12
 dziedzictwo,NOUN,12
 dźwiękowy,ADJ,12
 eliminacja,NOUN,12
@@ -4997,7 +4982,6 @@ karać,NOUN,11
 klej,NOUN,11
 komar,NOUN,11
 komunistyczny,ADJ,11
-komunizm,NOUN,11
 konsultant,NOUN,11
 kopiować,NOUN,11
 korporacja,NOUN,11
@@ -5230,7 +5214,6 @@ autonomiczny,ADJ,10
 bezcenny,ADJ,10
 bezpowrotnie,ADV,10
 bezprzewodowy,ADJ,10
-biblia,NOUN,10
 blat,NOUN,10
 boczny,ADJ,10
 bunt,NOUN,10
@@ -5295,7 +5278,6 @@ grubość,NOUN,10
 grzywna,NOUN,10
 guz,NOUN,10
 handlowiec,NOUN,10
-homoseksualizm,NOUN,10
 imperium,NOUN,10
 in,NOUN,10
 indyjski,ADJ,10
@@ -5691,7 +5673,6 @@ krzyżowy,ADJ,9
 kumpel,NOUN,9
 kupujący,NOUN,9
 kura,NOUN,9
-kurwa,NOUN,9
 kwitnienie,NOUN,9
 laser,NOUN,9
 likwidować,VERB,9
@@ -5851,7 +5832,6 @@ samodzielność,NOUN,9
 samorządowy,ADJ,9
 sąsiedztwo,NOUN,9
 sceptyczny,ADJ,9
-seksualnie,ADV,9
 sekta,NOUN,9
 selekcja,NOUN,9
 sezonowy,ADJ,9
@@ -6038,7 +6018,6 @@ grzejnik,NOUN,8
 guma,NOUN,8
 gwałcić,VERB,8
 gwiazdka,NOUN,8
-homoseksualista,NOUN,8
 honorowy,ADJ,8
 hospitalizacja,NOUN,8
 hybryda,NOUN,8
@@ -6115,7 +6094,6 @@ narzeczony,NOUN,8
 nasienie,NOUN,8
 nawiązanie,NOUN,8
 nawrót,NOUN,8
-nazista,NOUN,8
 niedźwiedzia,NOUN,8
 niełatwy,ADJ,8
 nieoczekiwany,ADJ,8
@@ -6533,7 +6511,6 @@ grzewczy,ADJ,7
 harmonijnie,ADV,7
 herbatka,NOUN,7
 hojny,ADJ,7
-homoseksualny,ADJ,7
 hydrauliczny,ADJ,7
 ikularny,ADJ,7
 indywidualność,NOUN,7
@@ -6819,7 +6796,6 @@ schizofrenia,NOUN,7
 schronienie,NOUN,7
 seans,NOUN,7
 sejf,NOUN,7
-seksualność,NOUN,7
 sfotografować,VERB,7
 skalny,ADJ,7
 skarbowy,ADJ,7
@@ -6998,7 +6974,6 @@ aktywista,NOUN,6
 alarmowy,ADJ,6
 aleja,NOUN,6
 anime,NOUN,6
-antysemityzm,NOUN,6
 arkusz,NOUN,6
 atuta,NOUN,6
 audycja,NOUN,6
@@ -7365,7 +7340,6 @@ plener,NOUN,6
 płód,NOUN,6
 płynnie,ADV,6
 pobudka,NOUN,6
-pochwa,NOUN,6
 poczynać,NOUN,6
 podbój,NOUN,6
 podeszły,ADJ,6
@@ -7403,12 +7377,10 @@ precedens,NOUN,6
 prelekcja,NOUN,6
 premium,NOUN,6
 pretensja,NOUN,6
-prezerwatywa,NOUN,6
 procesja,NOUN,6
 procesowy,ADJ,6
 projektowanie,NOUN,6
 prosperować,VERB,6
-prostytucja,NOUN,6
 prowokować,VERB,6
 próbny,ADJ,6
 pryszcz,NOUN,6
@@ -7503,7 +7475,6 @@ rzeźbiarz,NOUN,6
 sądownictwo,NOUN,6
 sceneria,NOUN,6
 sejm,NOUN,6
-seksowny,ADJ,6
 sekwencja,NOUN,6
 sentyment,NOUN,6
 sformułować,VERB,6
@@ -7890,7 +7861,6 @@ globalnie,ADV,5
 gniazda,NOUN,5
 godnie,ADV,5
 górniczy,ADJ,5
-gówno,NOUN,5
 gramatyka,NOUN,5
 gran,NOUN,5
 graniczyć,VERB,5
@@ -8057,7 +8027,6 @@ napaść,VERB,5
 napawać,VERB,5
 napływ,NOUN,5
 napływać,ADJ,5
-narkotyka,NOUN,5
 narodowościowy,ADJ,5
 naruszenie,NOUN,5
 nastawiać,VERB,5
@@ -8494,7 +8463,6 @@ utrwalić,VERB,5
 utrzymyć,VERB,5
 utwardzić,VERB,5
 wadliwy,ADJ,5
-wał,NOUN,5
 warkocz,NOUN,5
 warszawski,ADJ,5
 ważyć,VERB,5
@@ -8872,7 +8840,6 @@ futurystyczny,ADJ,4
 gadanie,NOUN,4
 garść,NOUN,4
 gazetka,NOUN,4
-gej,NOUN,4
 genetyka,NOUN,4
 geologiczny,ADJ,4
 getto,NOUN,4
@@ -8974,7 +8941,6 @@ klasowy,ADJ,4
 kochan,NOUN,4
 kochany,ADJ,4
 kojący,ADJ,4
-kokaina,NOUN,4
 kolonia,NOUN,4
 kolorowanka,NOUN,4
 kołderka,NOUN,4
@@ -9728,7 +9694,6 @@ tuning,NOUN,4
 turnus,NOUN,4
 tusz,NOUN,4
 twierdzo,NOUN,4
-tyłek,NOUN,4
 tymczasem,ADV,4
 tytan,NOUN,4
 tytanowy,ADJ,4
@@ -10150,7 +10115,6 @@ bulimia,NOUN,3
 bułgarski,ADJ,3
 bułka,NOUN,3
 bunkr,NOUN,3
-burdel,NOUN,3
 buzia,NOUN,3
 bydgoski,ADJ,3
 bytować,NOUN,3
@@ -10236,7 +10200,6 @@ detektywa,NOUN,3
 developerski,ADJ,3
 dezinformacja,NOUN,3
 dezynfekcyjny,ADJ,3
-diabl,NOUN,3
 dialogowy,ADJ,3
 diametralnie,ADV,3
 diesel,NOUN,3
@@ -10309,7 +10272,6 @@ dziewictwo,NOUN,3
 dziewiczy,ADJ,3
 dziewięć,ADJ,3
 dziuro,NOUN,3
-dziwka,NOUN,3
 echo,NOUN,3
 egzekucyjny,ADJ,3
 egzotyka,NOUN,3
@@ -11162,7 +11124,6 @@ poległy,ADJ,3
 poliestrowy,ADJ,3
 polifenol,NOUN,3
 polimer,NOUN,3
-polskość,NOUN,3
 polszczyzna,NOUN,3
 pomarzyć,VERB,3
 pomidorowy,ADJ,3
@@ -11481,7 +11442,6 @@ schyłk,NOUN,3
 segmentacja,NOUN,3
 sekretarz,NOUN,3
 sekretny,ADJ,3
-seksownie,ADV,3
 senmia,NOUN,3
 senność,NOUN,3
 sensacyjny,ADJ,3
@@ -11614,7 +11574,6 @@ stylowo,ADV,3
 subskrypcja,NOUN,3
 subwencja,NOUN,3
 sudok,NOUN,3
-suka,NOUN,3
 surfować,NOUN,3
 suszenie,NOUN,3
 suteren,NOUN,3
@@ -11980,7 +11939,6 @@ zadziwić,VERB,3
 zafundować,VERB,3
 zagłada,NOUN,3
 zaimplementować,VERB,3
-zajebiście,ADV,3
 zajechać,VERB,3
 zajście,NOUN,3
 zakasać,VERB,3
@@ -12508,7 +12466,6 @@ curra,NOUN,2
 cwaniak,NOUN,2
 cybernetyczny,ADJ,2
 cyberprzestrzeń,NOUN,2
-cycka,NOUN,2
 cygaro,NOUN,2
 cyklicznie,ADV,2
 cykliczność,NOUN,2
@@ -12693,7 +12650,6 @@ drzwiowy,ADJ,2
 duchowieństwo,NOUN,2
 dueto,NOUN,2
 dumać,NOUN,2
-dupek,NOUN,2
 duszony,ADJ,2
 dworek,NOUN,2
 dworski,ADJ,2
@@ -14846,8 +14802,6 @@ schludnie,ADV,2
 schwytać,ADJ,2
 sejmik,NOUN,2
 sejmowy,ADJ,2
-seksbomba,NOUN,2
-seksuolog,NOUN,2
 sektorowy,ADJ,2
 selekcjonować,VERB,2
 senioralny,ADJ,2
@@ -14904,7 +14858,6 @@ skroić,ADJ,2
 skromnie,ADV,2
 skrona,NOUN,2
 skupować,VERB,2
-skurwiel,NOUN,2
 skusać,VERB,2
 skuter,NOUN,2
 skutkowy,ADJ,2
@@ -15039,7 +14992,6 @@ styczniowy,ADJ,2
 stylistka,NOUN,2
 stylistyczny,ADJ,2
 suchość,NOUN,2
-suk,NOUN,2
 sukcesywnie,ADV,2
 sumka,NOUN,2
 sumować,ADJ,2
@@ -15116,7 +15068,6 @@ szyszek,NOUN,2
 ściemniacz,NOUN,2
 ścierniwo,NOUN,2
 ścierny,ADJ,2
-ścierwo,NOUN,2
 ściółka,NOUN,2
 śladowy,ADJ,2
 śledź,NOUN,2
@@ -16979,8 +16930,6 @@ chrześcijanka,NOUN,1
 chrzęstny,ADJ,1
 chuchać,VERB,1
 chudzić,VERB,1
-chuj,NOUN,1
-chujać,VERB,1
 chuligan,NOUN,1
 chuligana,NOUN,1
 chusta,NOUN,1
@@ -17028,8 +16977,6 @@ ciesłać,ADJ,1
 cieszenie,NOUN,1
 ciężej,ADV,1
 ciężkostrawność,NOUN,1
-cipa,NOUN,1
-cipka,NOUN,1
 cis,ADV,1
 cisi,ADJ,1
 cisnąć,VERB,1
@@ -17336,8 +17283,6 @@ diabetolog,NOUN,1
 diabetologa,NOUN,1
 diabetyca,NOUN,1
 diabetyk,NOUN,1
-diablo,NOUN,1
-diabło,NOUN,1
 diad,NOUN,1
 diagnost,NOUN,1
 diakon,NOUN,1
@@ -17978,7 +17923,6 @@ flaszek,NOUN,1
 flawonoidy,NOUN,1
 flądra,NOUN,1
 flesza,NOUN,1
-flet,NOUN,1
 flisacki,ADJ,1
 flor,NOUN,1
 florysta,NOUN,1
@@ -18365,7 +18309,6 @@ heparyna,NOUN,1
 herbaciać,ADJ,1
 herbaciarka,NOUN,1
 hermafrodytyzm,NOUN,1
-heroina,NOUN,1
 herolda,NOUN,1
 heros,NOUN,1
 herpeswirus,NOUN,1
@@ -18409,8 +18352,6 @@ histologiczny,ADJ,1
 histopatologiczny,ADJ,1
 historiografia,NOUN,1
 historyzować,ADJ,1
-hitlerowiec,NOUN,1
-hitlerowski,ADJ,1
 hm,ADV,1
 hmmm,ADV,1
 hobbystycznie,ADV,1
@@ -18775,7 +18716,6 @@ kapsuła,NOUN,1
 kapsułek,NOUN,1
 kapta,NOUN,1
 kaptia,NOUN,1
-kapucyna,NOUN,1
 kapustny,ADJ,1
 kapuścian,NOUN,1
 kapuściany,ADJ,1
@@ -19655,7 +19595,6 @@ machnąć,VERB,1
 macier,NOUN,1
 macoch,NOUN,1
 maderski,ADJ,1
-madonna,NOUN,1
 maestro,NOUN,1
 mafa,NOUN,1
 maga,NOUN,1
@@ -20300,7 +20239,6 @@ nawinąć,VERB,1
 nawozić,VERB,1
 nawykowo,ADV,1
 nazbierać,VERB,1
-nazistowski,ADJ,1
 nefrologia,NOUN,1
 nefrologiczny,ADJ,1
 negatyw,NOUN,1
@@ -20451,7 +20389,6 @@ niemalowany,ADJ,1
 niemało,ADV,1
 niematerialistyczny,ADJ,1
 niemęczący,ADJ,1
-niemieckojęzyczny,ADJ,1
 niemieniony,ADJ,1
 niemniej,ADV,1
 niemodyfikowalny,ADJ,1
@@ -21561,7 +21498,6 @@ peceta,NOUN,1
 pedagoga,NOUN,1
 pedagogika,NOUN,1
 pedagogizacja,NOUN,1
-pedał,NOUN,1
 pedantyczny,ADJ,1
 pediatria,NOUN,1
 pediatryczny,ADJ,1
@@ -21660,9 +21596,6 @@ pieniądza,NOUN,1
 pieprzeć,NOUN,1
 pieprznik,NOUN,1
 pieprzyk,NOUN,1
-pierdolić,ADJ,1
-pierdoła,NOUN,1
-pierdzić,ADJ,1
 pierniczka,NOUN,1
 pierożka,NOUN,1
 pierścieniowy,ADJ,1
@@ -21729,7 +21662,6 @@ piwniczka,NOUN,1
 piwny,ADJ,1
 piwonie,NOUN,1
 piwosz,NOUN,1
-pizdo,NOUN,1
 piżmo,NOUN,1
 placyk,NOUN,1
 plaga,NOUN,1
@@ -21907,7 +21839,6 @@ podpaść,VERB,1
 podpatrywać,VERB,1
 podpiąć,VERB,1
 podpierać,VERB,1
-podpierdalać,VERB,1
 podpijać,VERB,1
 podpinać,VERB,1
 podpisować,VERB,1
@@ -22030,7 +21961,6 @@ pokrój,NOUN,1
 pokrzykiwać,VERB,1
 pokrzywdzić,ADJ,1
 pokrzywowy,ADJ,1
-poksowny,ADJ,1
 poktywny,ADJ,1
 pokuszyć,VERB,1
 pokutnik,NOUN,1
@@ -22509,7 +22439,6 @@ prostactwo,NOUN,1
 prostoduszny,ADJ,1
 prostopadły,ADJ,1
 prostować,NOUN,1
-prostytutka,NOUN,1
 proszkowy,ADJ,1
 prości,ADJ,1
 proteaza,NOUN,1
@@ -23273,7 +23202,6 @@ romantycznie,ADV,1
 romański,ADJ,1
 rondlo,NOUN,1
 ropny,ADJ,1
-rosjanin,NOUN,1
 rosyjskojęzyczny,ADJ,1
 roszponek,NOUN,1
 roszpunka,NOUN,1
@@ -23684,10 +23612,6 @@ sejsmicznie,ADV,1
 sejsmiczny,ADJ,1
 sekciarz,NOUN,1
 sekretarka,NOUN,1
-seksa,NOUN,1
-seksistowski,ADJ,1
-seksizm,NOUN,1
-seksoholik,NOUN,1
 sekwencyjnie,ADV,1
 selekcjoner,NOUN,1
 selen,NOUN,1
@@ -23870,7 +23794,6 @@ skupa,NOUN,1
 skupian,NOUN,1
 skupmać,VERB,1
 skurcz,NOUN,1
-skurwysyństwo,NOUN,1
 skuszyć,ADJ,1
 skuty,ADJ,1
 slangie,NOUN,1
@@ -24090,7 +24013,6 @@ stadnicko,NOUN,1
 stadny,ADJ,1
 stalagmity,NOUN,1
 stalaktyta,NOUN,1
-stalinizm,NOUN,1
 standaryzować,ADJ,1
 stanik,NOUN,1
 stapić,VERB,1
@@ -24256,7 +24178,6 @@ susić,VERB,1
 susieć,VERB,1
 susła,NOUN,1
 sutannia,NOUN,1
-sutener,NOUN,1
 swat,NOUN,1
 swawolny,ADJ,1
 sweterka,NOUN,1
@@ -25030,7 +24951,6 @@ ukośnica,NOUN,1
 ukośnie,ADV,1
 ukośnik,NOUN,1
 ukośny,ADJ,1
-ukraśński,ADJ,1
 ukroić,VERB,1
 ukrócić,VERB,1
 ukrwienie,NOUN,1
@@ -25268,7 +25188,6 @@ waloryzacja,NOUN,1
 wałek,NOUN,1
 wałęsać,VERB,1
 wałować,VERB,1
-wały,NOUN,1
 wamp,NOUN,1
 wampiryzm,NOUN,1
 wamyslny,ADJ,1
@@ -25504,8 +25423,6 @@ wklepać,VERB,1
 wkręcać,ADJ,1
 wkrętak,NOUN,1
 wkroplić,NOUN,1
-wkurwiać,VERB,1
-wkurwić,ADJ,1
 wlanie,NOUN,1
 wlatywać,VERB,1
 wlaznąć,VERB,1
@@ -26151,7 +26068,6 @@ zaizolować,ADJ,1
 zajarać,VERB,1
 zajazd,NOUN,1
 zajączek,NOUN,1
-zajebisty,ADJ,1
 zajefajnie,ADV,1
 zajefajny,ADJ,1
 zajrzenie,NOUN,1
