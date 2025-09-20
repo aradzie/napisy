@@ -1,7 +1,7 @@
 import { pathTo, readLines } from "./lib/io.js";
 import { Phrase, Word } from "./lib/word.js";
 
-const lines = await Array.fromAsync(readLines(pathTo("corpus/corpus-lemmata.txt")));
+const lines = await Array.fromAsync(readLines(pathTo("corpus/corpus1-lemmata.txt")));
 for (const line of lines.slice(0, 10)) {
   console.log(parsePhrase(line));
 }

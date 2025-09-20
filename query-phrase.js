@@ -6,7 +6,7 @@ const dict = await Dictionary.read();
 
 const forms = new Set(dict.query("cofnąć", 0, 0).map((word) => word.form));
 
-for await (const line of readLines(pathTo("corpus/corpus.txt"))) {
+for await (const line of readLines(pathTo("corpus/corpus1.txt"))) {
   if (matches(line)) {
     console.log(line);
   }
