@@ -1,33 +1,22 @@
+import { Dictionary } from "./lib/dictionary.js";
 import { pathTo, readLines } from "./lib/io.js";
-import { Phrase, Word } from "./lib/word.js";
+import { findWords } from "./lib/text.js";
 
-const lines = await Array.fromAsync(readLines(pathTo("corpus/corpus_lemmata.txt")));
-for (const line of lines) {
-  checkPhrase(Word.parseWords(line), "cofnąć");
-}
+const dict = await Dictionary.read();
 
-function checkPhrase(words, lemma) {
-  if (phraseContains(words, lemma)) {
-    showPhrase(words, lemma);
+const forms = new Set(dict.query("cofnąć", 0, 0).map((word) => word.form));
+
+for await (const line of readLines(pathTo("corpus/corpus.txt"))) {
+  if (matches(line)) {
+    console.log(line);
   }
 }
 
-function phraseContains(words, lemma) {
-  for (const word of words) {
-    if (word.lemma === lemma) {
+function matches(line) {
+  for (const word of findWords(line)) {
+    if (forms.has(word.toLocaleLowerCase("pl"))) {
       return true;
     }
   }
-}
-
-function showPhrase(words, lemma) {
-  const phrase = new Phrase();
-  for (const word of words) {
-    if (word.lemma === lemma) {
-      phrase.push(word);
-    } else {
-      phrase.push(word.form);
-    }
-  }
-  console.log(String(phrase));
+  return false;
 }
