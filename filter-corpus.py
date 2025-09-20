@@ -3,13 +3,25 @@ import re
 blocked_words = set()
 
 for path in [
+    "corpus/blacklist-names.txt",
     "corpus/blacklist-profanity.txt",
     "corpus/blacklist-sensitive.txt",
+    "corpus/blacklist-spell.txt",
     "corpus/blacklist-wulg.txt",
-    "corpus/blacklist-names.txt",
 ]:
-    with open(path, "r", encoding="utf-8") as blacklist_file:
-        blocked_words.update({line.strip() for line in blacklist_file if line.strip()})
+    lines = []
+    with open(path, "r", encoding="utf-8") as file:
+        for line in file:
+            if line == "\n":
+                lines.append(line)
+            elif line not in lines:
+                lines.append(line)
+    with open(path, "w", encoding="utf-8") as f:
+        f.writelines(lines)
+    for line in lines:
+        line = line.strip()
+        if line:
+            blocked_words.add(line)
 
 splitter = re.compile(r"\W+")
 count = 0

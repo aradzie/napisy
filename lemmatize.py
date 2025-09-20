@@ -1,5 +1,6 @@
-import stanza
+import time
 
+import stanza
 
 nlp = stanza.Pipeline("pl", device=0)
 
@@ -14,17 +15,26 @@ def lemmatize(line):
 
 
 def process_file(input_path, output_path, transform):
-    count = 0
     with (
         open(input_path, "r", encoding="utf-8") as input_file,
         open(output_path, "w", encoding="utf-8") as output_file,
     ):
+        count = 0
+        start = time.perf_counter()
         for line in input_file:
-            line = transform(line.strip())
-            output_file.write(line + "\n")
             count += 1
-            if count % 1000000 == 0:
-                print(f"Processed {count} lines")
+            if count == 200000:
+                break
+            if count >= 100000:
+                line = transform(line.strip())
+                output_file.write(line + "\n")
+                if count % 100 == 0:
+                    end = time.perf_counter()
+                    elapsed = end - start
+                    rate = (count - 100000) / elapsed
+                    print(
+                        f"Processed {count} lines in {elapsed:.3f}s ({rate:.2f} items/sec)"
+                    )
 
 
-process_file("corpus/corpus.txt", "corpus/corpus-lemmata-x.txt", lemmatize)
+process_file("corpus/corpus.txt", "corpus/corpus-lemmata-b.txt", lemmatize)

@@ -1,6 +1,7 @@
 import { writeFile } from "node:fs/promises";
 import { Blacklist } from "./lib/blacklist.js";
 import { findFiles, pathTo, readLines } from "./lib/io.js";
+import { spellChecker } from "./lib/spell-checker.js";
 import { Word } from "./lib/word.js";
 
 const blacklist = await new Blacklist().addFiles(await Array.fromAsync(findFiles("corpus", "blacklist*.txt")));
@@ -40,13 +41,17 @@ function parsePhrase(line) {
       case "PRON":
       case "ADJ":
       case "ADV": {
-        if (blacklist.allow(lemma) && blacklist.allow(form)) {
-          let item = dict.get(lemma);
-          if (item == null) {
-            dict.set(lemma, (item = { lemma, upos, count: 0 }));
-          }
-          item.count += 1;
+        if (!(blacklist.allow(lemma) && blacklist.allow(form))) {
+          continue;
         }
+        if (!lemma.includes("_") && !(spellChecker.has(lemma) && spellChecker.has(form))) {
+          continue;
+        }
+        let item = dict.get(lemma);
+        if (item == null) {
+          dict.set(lemma, (item = { lemma, upos, count: 0 }));
+        }
+        item.count += 1;
         break;
       }
     }
