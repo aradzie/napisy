@@ -9775,7 +9775,6 @@ b99ed789-7f20-4f9b-868a-4cd60005963e;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 f34cff63-1ed4-4488-b883-d8306cfff88f;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>столкнулся с реальностью</p>;<p>zderzyłem się z rzeczywistością</p>
 a26fde59-596b-49f6-a259-ae2cc28367b8;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>становишся таким же самым</p>;<p>stajesz się taki sam</p>
 038f0064-839e-4eaa-a821-1a0f619997c5;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я редко помню свои сны</p>;<p>rzadko pamiętam swoje sny</p>
-9ae62129-d0f5-4061-9a1e-ed694468c25e;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>пока что о тех, кто работает в поле</p>;<p>do tej pory wobec pracujących na polu</p>
 8b3df03c-1db3-4619-83dd-b6dd97bec140;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я вспомнил о тебе</p>;<p>pamiętałem o tobie</p>
 b35667db-27a8-4b5d-83ea-ec4863714870;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>потому что я встретил талантливых учителей</p>;<p>bo trafiłem na zdolnych nauczycieli</p>
 647d7d38-db84-4eff-9691-2b318dbb0976;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>между ними нет никакой разницы</p>;<p>nie ma między nimi żadnej różnicy</p>
@@ -10224,7 +10223,7 @@ d5b94f1a-7f38-42e9-9dc5-203711493edf;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 e7b9d11d-55fb-41b6-a4a6-4b699280cb6a;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>почему предрассудки сохраняются в их умах?</p>;<p>dlaczego uprzedzenia utrzymują się w ich umysłach?</p>
 e5c41ec6-b29e-4070-8c7b-cb86f0d92b04;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>один кулак</p>;<p>jedna pięść</p>
 15630193-8296-4b71-b10e-7260ffa09c48;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>ты идиот, раз не можешь этого понять</p>;<p>jestes idiota, ze nie da sie tego ogarnac</p>
-8b435a40-ed14-4df2-b71b-d629bd9739f1;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>ужасно по тебе скучаю</p>;<p>tęsknię niemożebnie</p>
+8b435a40-ed14-4df2-b71b-d629bd9739f1;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>невыносимо по тебе скучаю</p>;<p>tęsknię niemożebnie</p>
 892eba30-fd1f-44a2-9da6-489458077ae3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>самовлюбленный</p>;<p>zapatrzony w siebie</p>
 ce7e25b8-c7c2-418f-b717-0639938153b6;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>полный провал</p>;<p>totalna porażka/kompletną klęską</p>
 63b33949-d3d8-40f6-b107-ae199fadde22;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>только сегодня можно осознать</p>;<p>dopiero dziś można sobie uzmysłowić</p>
@@ -10291,7 +10290,7 @@ a53f950d-0377-4125-ab70-6683c0605506;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 c0b1ca3f-5aef-4867-9e01-6881c4ad6c67;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>для исправления этой ситуации</p>;<p>w celu naprawy tej sytuacji</p>
 855f3148-611d-4352-ba2d-ede5f033d9a4;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>исключение</p>;<p>wyjątek</p>
 bbdcf5ec-8f4b-4279-bee9-b66d8e374613;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>исключительная ситуация</p>;<p>wyjątkowa sytuacja</p>
-384e54ec-cde2-485d-8141-e35046020a52;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>чрезвычайно опасное дело</p>;<p>wyjątkowo niebezpieczna sprawa</p>
+384e54ec-cde2-485d-8141-e35046020a52;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>исключительно опасное дело</p>;<p>wyjątkowo niebezpieczna sprawa</p>
 ffd0492f-ecf8-44b6-93c2-f9a9ca2a43c9;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>за исключением ближайших родственников</p>;<p>z wyjątkiem najbliższej rodziny</p>
 9025001c-196f-404a-a279-a8188b1f322b;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>она не выглядела особенной/исключительно</p>;<p>nie wyglądała wyjątkowo</p>
 61fc7cfb-2a7a-4bfd-9841-ac997d0ab45d;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>любитель</p>;<p>miłośnik</p>
@@ -10320,7 +10319,7 @@ dd70ae39-b795-4929-ba20-01357ac09250;Basic;Polski::Wyrażenia;Polski Wyrażenie;
 c1c5cf78-6f2f-4700-aa96-42c38ffb2c35;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>но один из самых удачных</p>;<p>ale jeden z najbardziej udanych</p>
 f8399b3a-c4ab-4bbb-9314-76e5a52096fe;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>начало сезона можно считать успешным</p>;<p>początek sezonu można uznać za udany</p>
 d2e3254e-bf3c-4955-a021-ea9336680def;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>при первых неудачных попытках</p>;<p>przy pierwszych nieudanych próbach</p>
-6e30675e-74da-4200-809e-e6cc3de0ef21;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это меня невероятно раздражает</p>;<p>to mnie irytuje niemożebnie</p>
+6e30675e-74da-4200-809e-e6cc3de0ef21;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>это меня невыносимо раздражает</p>;<p>to mnie irytuje niemożebnie</p>
 6608a563-da27-40d4-be3e-234bb88b0089;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>стояла невыносимая жара</p>;<p>upał panował niemożebny</p>
 5ec0727f-e0c2-44f6-a45a-374ecc094d07;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>я это воспринимаю как моё личное достижение</p>;<p>postrzegam to jako moje osobiste osiągnięcie</p>
 d6fbd2cf-ca2b-46e1-8ded-9099847a11f3;Basic;Polski::Wyrażenia;Polski Wyrażenie;<p>влияет на наше восприятие</p>;<p>ma wpływ na postrzeganie przez nas</p>
