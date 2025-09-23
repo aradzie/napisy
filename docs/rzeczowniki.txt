@@ -1,0 +1,26 @@
+Rzeczowniki w języku polskim dzielimy na kilka sposobów. Najważniejsze podziały to: ze względu na rodzaj (męski, żeński, nijaki, męskoosobowy, niemęskoosobowy), liczbę (pojedyncza, mnoga) oraz charakter (pospolite, własne, konkretne, abstrakcyjne).
+Podział ze względu na rodzaj:
+
+* Rodzaj męski: odnoszą się do mężczyzn i zwierząt płci męskiej, np. mężczyzna, pies, stół.
+* Rodzaj żeński: odnoszą się do kobiet i zwierząt płci żeńskiej, np. kobieta, kotka, krzesło.
+* Rodzaj nijaki: odnoszą się do istot i przedmiotów, które nie są ani męskie, ani żeńskie, np. dziecko, okno, morze.
+* Rodzaj męskoosobowy: w liczbie mnogiej, odnoszą się do grupy, w której są sami mężczyźni lub mężczyźni i kobiety, np. nauczyciele, studenci, goście.
+* Rodzaj niemęskoosobowy: w liczbie mnogiej, odnoszą się do grupy, w której nie ma mężczyzn lub grupa jest mieszana, np. krzesła, stoły, okna, dzieci.
+
+Podział ze względu na liczbę:
+
+* Liczba pojedyncza: odnosi się do jednego przedmiotu, osoby lub zjawiska, np. kot, dom, miasto.
+* Liczba mnoga: odnosi się do więcej niż jednego przedmiotu, osoby lub zjawiska, np. koty, domy, miasta.
+
+Podział ze względu na charakter:
+
+* Rzeczowniki pospolite: ogólne nazwy osób, zwierząt, rzeczy i zjawisk, np. pies, dom, miasto.
+* Rzeczowniki własne: nazwy własne, np. imiona, nazwiska, nazwy geograficzne, np. Jan Kowalski, Kraków, Wisła.
+* Rzeczowniki konkretne: odnoszą się do przedmiotów, które można zobaczyć, dotknąć, usłyszeć, np. stół, książka, woda.
+* Rzeczowniki abstrakcyjne: odnoszą się do pojęć, idei, uczuć, np. miłość, szczęście, wolność.
+
+Dodatkowe informacje:
+
+Rzeczowniki odmieniają się przez przypadki (mianownik, dopełniacz, celownik, biernik, narzędnik, miejscownik, wołacz).
+
+W języku polskim istnieje zasada, że rodzaj gramatyczny rzeczownika w liczbie mnogiej ustala się na podstawie rodzaju jego formy w liczbie pojedynczej.
