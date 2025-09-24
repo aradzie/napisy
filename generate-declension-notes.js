@@ -1,4 +1,4 @@
-import { ModelMap, Note, NoteList, printNoteNodes } from "@notatki/core";
+import { newNote, printNoteNodes } from "@notatki/core";
 import { writeFile } from "node:fs/promises";
 import { Dictionary } from "./lib/dictionary.js";
 import { pathTo } from "./lib/io.js";
@@ -7,7 +7,7 @@ import { capitalize } from "./lib/text.js";
 import { Xext, Xpos } from "./lib/xtags.js";
 
 const dict = await Dictionary.read();
-const notes = new NoteList();
+const notes = [];
 for (const [przypadek, generator] of [
   ["dopełniacz", dopełniacz],
   ["celownik", celownik],
@@ -220,13 +220,16 @@ Miejscownik (*o kim? o czym?*)
 }
 
 function addNote(notes, id, front, back) {
-  const note = new Note(ModelMap.basic);
-  note.deck = `Polski::Odmiany::Rzeczowniki`;
-  note.tags = `Polski Odmiana`;
-  note.id = id;
-  note.set("front", front.trim());
-  note.set("back", back.trim());
-  notes.add(note.toNode());
+  notes.push(
+    newNote()
+      .type("Basic")
+      .deck(`Polski::Odmiany::Rzeczowniki`)
+      .tags(`Polski Odmiana`)
+      .id(id)
+      .field("front", front.trim())
+      .field("back", back.trim())
+      .make(),
+  );
 }
 
 function expand(words) {
