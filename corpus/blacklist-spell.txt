@@ -5,7 +5,9 @@ ab
 ad
 adm
 ag
+agi
 ahoj
+akbar
 al
 am
 amb
@@ -43,6 +45,7 @@ cą
 cd
 cdn
 ce
+cę
 cf
 chrz
 ck
@@ -67,10 +70,12 @@ dr
 ds
 du
 dwt
+dy
 dz
 e
 ę
 ee
+ef
 el
 em
 en
@@ -78,9 +83,13 @@ eo
 er
 es
 et
+ew
+ez
 f
 fa
 facto
+fag
+fai
 fe
 ff
 fi
@@ -93,6 +102,7 @@ g
 ga
 gamm
 gę
+ghi
 gl
 gł
 gr
@@ -122,6 +132,7 @@ hz
 id
 ie
 ii
+iii
 il
 in
 inc
@@ -134,10 +145,13 @@ itru
 iw
 j
 jr
+jw
 ka
+ką
 kbk
 kbps
 kc
+kę
 kg
 ki
 kk
@@ -160,6 +174,7 @@ ltd
 lu
 m
 mą
+maa
 mbps
 md
 me
@@ -184,6 +199,8 @@ nieee
 np
 nr
 nu
+ny
+ob
 ód
 oe
 oes
@@ -191,6 +208,7 @@ of
 oho
 oj
 om
+oń
 oo
 ooo
 op
@@ -202,6 +220,7 @@ oz
 oż
 p
 pa
+pe
 pff
 pi
 pkt
@@ -253,6 +272,7 @@ tfu
 tg
 th
 ti
+tj
 tm
 tot
 tr
@@ -267,12 +287,17 @@ uh
 uhh
 uhm
 ul
+umm
 up
 ur
 us
+ut
 uu
+uuu
 v
 wa
+wą
+wę
 wg
 wj
 wł
@@ -281,10 +306,12 @@ wrr
 ws
 wsp
 wt
+wu
 ww
 www
 x
 y
+yhm
 yy
 yyy
 zł

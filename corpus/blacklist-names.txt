@@ -73,7 +73,7 @@ sterling*
 suzuki*
 teflon*
 toshib*
-toyot*
+toyo*
 twitter*
 viagr*
 volkswagen*
@@ -81,3 +81,4 @@ volv*
 wellington*
 wrangler*
 yamah*
+yaris
