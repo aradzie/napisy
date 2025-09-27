@@ -5,7 +5,10 @@ import { readCsvFile } from "./lib/csv.js";
 import { pathTo } from "./lib/io.js";
 import { LemmataIndex } from "./lib/lemmata-index.js";
 import { capitalize } from "./lib/text.js";
+import { readTranslations } from "./lib/translation.js";
 import { Phrase } from "./lib/word.js";
+
+const translations = await readTranslations(pathTo("corpus/pol-rus.txt"));
 
 const dict = await LemmataIndex.read(await Blacklist.load());
 
@@ -25,7 +28,7 @@ async function rzeczowniki() {
           .deck(`Polski::Słowa::Rzeczowniki::Pos-${start + 1}-${end}`)
           .tags(`Polski Słowo Rzeczownik Pos-1-${end} Pos-${start + 1}-${end}`)
           .id(`slowo_rzeczownik_${lemma}_ru`)
-          .field("front", makeFront(lemma))
+          .field("front", makeFront(lemma, upos, ppm))
           .field("back", makeBack(lemma, ppm))
           .make(),
       );
@@ -50,7 +53,7 @@ async function czasowniki() {
           .deck(`Polski::Słowa::Czasowniki::Pos-${start + 1}-${end}`)
           .tags(`Polski Słowo Czasownik Pos-1-${end} Pos-${start + 1}-${end}`)
           .id(`slowo_czasownik_${lemma}_ru`)
-          .field("front", makeFront(lemma))
+          .field("front", makeFront(lemma, upos, ppm))
           .field("back", makeBack(lemma, ppm))
           .make(),
       );
@@ -62,8 +65,19 @@ async function czasowniki() {
   await writeFile(path, printNoteNodes(notes));
 }
 
-function makeFront(lemma) {
-  return `${lemma}`;
+function makeFront(lemma, upos, ppm) {
+  let front = lemma;
+  const entry = translations.get(`${upos}:${lemma}`);
+  if (entry != null) {
+    const words = new Set();
+    for (const translation of entry.translations) {
+      for (const word of translation.words) {
+        words.add(word);
+      }
+    }
+    front = [...words].join(", ") + " " + ppm;
+  }
+  return front;
 }
 
 function makeBack(lemma, ppm) {
