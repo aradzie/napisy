@@ -1,0 +1,25 @@
+się|PRON|-ся -сь, себя
+on|PRON|он, оный
+ja|PRON|я, аз
+co|PRON|что
+ty|PRON|ты
+my|PRON|мы
+siebie|PRON|себя
+wszystko|PRON|всё
+coś|PRON|что-нибудь, что-то
+kto|PRON|кто
+nic|PRON|ничто, ничего
+ktoś|PRON|кто-нибудь, кто-то
+wy|PRON|вы, Вы
+wszyscy|PRON|весь
+nikt|PRON|никто
+cóż|PRON|ну что ж
+tata|PRON|папа
+cokolwiek|PRON|что-нибудь
+ktokolwiek|PRON|кто-нибудь, кто-либо
+któż|PRON|
+kimkolwiek|PRON|
+tamto|PRON|
+mię|PRON|
+wszy|PRON|
+te|PRON|

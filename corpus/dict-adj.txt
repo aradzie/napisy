@@ -1,0 +1,6638 @@
+dobry|ADJ|хороший, добрый
+inny|ADJ|другой, разный
+jeden|ADJ|один
+sam|ADJ|сам
+nowy|ADJ|новый
+cały|ADJ|целый, весь
+duży|ADJ|большой, крупный
+pierwszy|ADJ|первый
+ważny|ADJ|важный, действительный
+prosty|ADJ|простой, прямой, ровный
+mały|ADJ|маленький, малый
+kolejny|ADJ|следующий, очередной
+wysoki|ADJ|высокий
+drugi|ADJ|второй
+własny|ADJ|собственный
+różny|ADJ|разный
+ostatni|ADJ|последний
+piękny|ADJ|красивый, прекрасный, хороший
+wielki|ADJ|большой, великий
+zły|ADJ|злой, плохой, сердитый, неподходящий
+ciekawy|ADJ|интересный
+dotyczyć|ADJ|касаться, относиться
+stosować|ADJ|применять
+stary|ADJ|старый
+młody|ADJ|молодой, юный
+odpowiedni|ADJ|соответствующий
+pełny|ADJ|полный
+długi|ADJ|длинный, долгий, далёкий
+wymagać|ADJ|требовать
+prawdziwy|ADJ|правдивый, настоящий, подлинный
+dostępny|ADJ|доступный
+idealny|ADJ|идеальный
+podać|ADJ|подать, передать
+możliwy|ADJ|возможный
+jedyny|ADJ|единственный
+związać|ADJ|связать
+świetny|ADJ|отличный, прекрасный
+szybki|ADJ|быстрый, скорый
+naturalny|ADJ|натуральный, естественный, природный
+gotowy|ADJ|готовый
+następny|ADJ|следующий
+potrzebny|ADJ|нужный
+dodatkowy|ADJ|дополнительный
+trudny|ADJ|трудный, сложный
+zawierać|ADJ|содержать, вмещать, заключать (в себе)
+główny|ADJ|главный, основной
+wspólny|ADJ|общий
+wolny|ADJ|медленный, свободный
+wspaniały|ADJ|великолепный, прекрасный
+czarny|ADJ|чёрный
+bezpieczny|ADJ|безопасный
+biały|ADJ|белый
+łatwy|ADJ|лёгкий, простой
+daleki|ADJ|далёкий, дальний
+zdrowy|ADJ|здоровый
+krótki|ADJ|короткий, краткий
+ogromny|ADJ|огромный
+doskonały|ADJ|совершенный, отличный
+miły|ADJ|милый, приятный
+złożyć|ADJ|сложить
+przeznaczyć|ADJ|выделить, предназначить
+podobny|ADJ|подобный, похожий
+podstawowy|ADJ|основной, базовый
+zamknąć|ADJ|закрыть, заткнуться
+specjalny|ADJ|специальный
+dobra|ADJ|ладно
+pozostały|ADJ|остальной
+trzeci|ADJ|третий
+niski|ADJ|низкий
+indywidualny|ADJ|индивидуальный
+szczęśliwy|ADJ|счастливый
+nowoczesny|ADJ|современный
+pewny|ADJ|уверенный, достоверный, определённый
+występować|ADJ|выступать, наличествовать, выходить
+określić|ADJ|определить
+domowy|ADJ|домашний
+dziwny|ADJ|странный, необычный
+jasny|ADJ|ясный, светлый
+silny|ADJ|сильный
+niezbędny|ADJ|необходимый
+dzisiejszy|ADJ|сегодняшний
+ładny|ADJ|красивый, отличный, хороший
+oglądać|ADJ|смотреть, осматривать, видеть
+finansowy|ADJ|финансовый
+wyjątkowy|ADJ|исключительный
+ustalić|ADJ|определить, установить
+właściwy|ADJ|подходящий, верный, правильный
+publiczny|ADJ|публичный, общественный
+nazywać|ADJ|звать, называть, зваться
+poszukiwać|ADJ|разыскивать
+ludzki|ADJ|человеческий, человечный
+istotny|ADJ|истинный, существенный
+skuteczny|ADJ|эффективный
+wygodny|ADJ|удобный
+poważny|ADJ|серьёзный, почтенный
+obecny|ADJ|теперешний, текущий (срок), присутствующий
+stały|ADJ|неизменный
+szeroki|ADJ|широкий
+oddać|ADJ|отдать
+zwiększyć|ADJ|увеличить
+konieczny|ADJ|необходимый
+osobisty|ADJ|личный, персональный
+fajny|ADJ|классный, хороший
+dorosły|ADJ|взрослый
+profesjonalny|ADJ|профессиональный
+ciężki|ADJ|тяжёлый, тяжкий
+techniczny|ADJ|технический
+społeczny|ADJ|общественный, публичный
+prywatny|ADJ|личный, частный, приватный
+czysty|ADJ|чистый
+zadowolony|ADJ|удовлетворённый, довольный
+konkretny|ADJ|конкретный
+czerwony|ADJ|красный
+szkolny|ADJ|школьный
+ulubiony|ADJ|любимый, излюбленный
+zwykły|ADJ|обыкновенный, обычный
+oczekiwać|ADJ|ожидать, ждать
+dany|ADJ|данный
+kierować|ADJ|руководить, управлять, водить
+zainteresować|ADJ|заинтересовать
+pozytywny|ADJ|позитивный, положительный
+rosnąć|ADJ|расти, всходить
+zawodowy|ADJ|профессиональный, квалифицированный
+wymienić|ADJ|выменить, сменить
+ciepły|ADJ|тёплый
+przyszły|ADJ|будущий, следующий
+niewielki|ADJ|небольшой
+fizyczny|ADJ|физический
+angielski|ADJ|английский
+codzienny|ADJ|ежедневный, повседневный
+powyższy|ADJ|вышеуказанный, вышеупомянутый
+prawny|ADJ|законный, юридический
+zewnętrzny|ADJ|внешний, наружный
+zielony|ADJ|зелёный
+rodzinny|ADJ|родной, семейный
+wewnętrzny|ADJ|внутренний
+bogaty|ADJ|богатый
+głupi|ADJ|глупый, дурацкий
+poprzedni|ADJ|предыдущий, прошлый
+sportowy|ADJ|спортивный
+poszczególny|ADJ|отдельный, каждый
+lekki|ADJ|лёгкий
+świeży|ADJ|свежий, недавний
+medyczny|ADJ|медицинский, врачебный
+elektryczny|ADJ|электрический
+znany|ADJ|известный, знаменитый
+delikatny|ADJ|лёгкий, щепетильный, тонкий
+szczególny|ADJ|особенный, особый
+oryginalny|ADJ|оригинальный, своеобразный
+wczesny|ADJ|ранний, предварительный
+widoczny|ADJ|видимый, заметный
+sprzedawać|ADJ|продавать, продать, продаваться
+normalny|ADJ|нормальный
+ukryć|ADJ|укрыть
+zawrzeć|ADJ|вскипеть, закипеть
+lokalny|ADJ|локальный, местный
+szczegółowy|ADJ|подробный, детальный
+bezpłatny|ADJ|бесплатный
+atrakcyjny|ADJ|интересный, привлекательный, симпатичный
+mocny|ADJ|крепкий
+słaby|ADJ|слабый
+zapisać|ADJ|записать
+praktyczny|ADJ|практический
+lewy|ADJ|левый
+gospodarczy|ADJ|хозяйственный, экономический
+popularny|ADJ|популярный
+wyposażyć|ADJ|оборудовать
+niebezpieczny|ADJ|опасный
+średni|ADJ|средний
+niesamowity|ADJ|необычайный, поразительный
+dawny|ADJ|давний, древний
+osobowy|ADJ|личный, легковой, пассажирский
+przyjemny|ADJ|приятный
+prawidłowy|ADJ|правильный
+zalecać|ADJ|рекомендовать, ухаживать
+poświęcić|ADJ|посветить, уделить
+usuwać|ADJ|удалять, отступать, отходить
+elektroniczny|ADJ|электронный
+kontrolować|ADJ|контролировать
+aktywny|ADJ|активный
+złoty|ADJ|золотистый, золотой, злотый
+dowolny|ADJ|каждый, любой, произвольный
+słodki|ADJ|сладкий
+zbudować|ADJ|построить
+aktualny|ADJ|актуальный
+dokładny|ADJ|точный
+wyciągnąć|ADJ|вытянуть
+drobny|ADJ|мелкий
+prawy|ADJ|лицевой, правый
+otwarty|ADJ|открытый
+poniższy|ADJ|нижеследующий, следующий
+ciemny|ADJ|смуглый, тёмный, чёрный, невежественный
+elegancki|ADJ|элегантный
+udany|ADJ|удачный, успешный
+obcy|ADJ|чужой, посторонний, иностранный
+klasyczny|ADJ|классический
+wyłączyć|ADJ|выключить
+świąteczny|ADJ|праздничный
+drewniany|ADJ|деревянный
+tradycyjny|ADJ|традиционный
+zaplanować|ADJ|запланировать
+polityczny|ADJ|политический, политичный
+użytkować|ADJ|употреблять, использовать
+niezły|ADJ|неплохой
+rzucić|ADJ|бросить, метнуть
+tani|ADJ|дешёвый
+dobrać|ADJ|подобрать, выбирать
+gorący|ADJ|горячий
+niezwykły|ADJ|необычный, необыкновенный
+interesujący|ADJ|интересный, привлекательный
+pański|ADJ|панский, ваш, твой
+miękki|ADJ|мягкий
+handlowy|ADJ|торговый
+współczesny|ADJ|современный
+zaprosić|ADJ|пригласить
+suchy|ADJ|сухой
+darmowy|ADJ|бесплатный
+głęboki|ADJ|глубокий
+kolorowy|ADJ|разноцветный, цветной
+żywy|ADJ|живой
+cudowny|ADJ|чудесный, замечательный
+odpowiedzialny|ADJ|ответственный
+zimowy|ADJ|зимний
+liczny|ADJ|многий, многочисленный
+międzynarodowy|ADJ|международный
+miejski|ADJ|городской
+sztuczny|ADJ|искусственный, неестественный
+biznesowy|ADJ|коммерческий
+budowlany|ADJ|строительный, строитель
+drogi|ADJ|дорогой, родной
+słoneczny|ADJ|солнечный
+muzyczny|ADJ|музыкальный
+zimny|ADJ|холодный
+bić|ADJ|бить
+ogólny|ADJ|общий
+pyszny|ADJ|вкусный, гордый
+skierować|ADJ|направить, повернуть
+całkowity|ADJ|полный, всеобъемлющий
+przydatny|ADJ|полезный, пригодный
+wiązać|ADJ|вязать, связывать
+włożyć|ADJ|вложить
+kluczowy|ADJ|ключевой
+oprzeć|ADJ|сопротивляться
+mądry|ADJ|мудрый, умный
+spokojny|ADJ|спокойный
+niebieski|ADJ|синий, голубой
+ostry|ADJ|острый
+wodny|ADJ|водяной
+zakupić|ADJ|
+zebrać|ADJ|собрать
+kompleksowy|ADJ|комплексный, сложный
+martwy|ADJ|мёртвый
+męski|ADJ|мужской, мужественный
+wytrzymać|ADJ|выдержать, стерпеть
+spadać|ADJ|падать, убывать, понижаться, ослабевать
+straszny|ADJ|ужасный, страшный
+zabawny|ADJ|забавный, смешной
+intensywny|ADJ|интенсивный
+przekazywać|ADJ|передавать
+cenny|ADJ|ценный
+ekologiczny|ADJ|экологический
+europejski|ADJ|европейский
+pusty|ADJ|пустой
+skomplikowany|ADJ|сложный
+chętny|ADJ|склонный, доброволец
+spory|ADJ|существенный
+reklamowy|ADJ|рекламный
+telefoniczny|ADJ|телефонный
+samochodowy|ADJ|автомобильный
+dziecięcy|ADJ|детский
+elastyczny|ADJ|гибкий, эластичный
+niemożliwy|ADJ|невозможный
+francuski|ADJ|французский, французский язык
+naukowy|ADJ|научный
+ustawić|ADJ|установить, расставить
+bezpośredni|ADJ|непосредственный, прямой
+czwarty|ADJ|четвёртый
+zbliżać|ADJ|сближать, приближать
+wart|ADJ|достойный, стоящий
+wrażliwy|ADJ|впечатлительный, чувствительный, уязвимый
+produkować|ADJ|производить, выпускать
+trwały|ADJ|прочный, стойкий
+górny|ADJ|верхний
+uszkodzić|ADJ|повредить, поломать
+zgodny|ADJ|подходящий, соответствующий, согласный
+korzystny|ADJ|выгодный, полезный
+oczyścić|ADJ|очистить, вычистить
+smaczny|ADJ|вкусный
+ślubny|ADJ|брачный
+wdzięczny|ADJ|благодарный, грациозный, изящный
+letni|ADJ|летний, комнатный температура
+oczywisty|ADJ|очевидный
+ciągły|ADJ|непрерывный, беспрерывный, постоянный, неустанный, продолжительный
+niniejszy|ADJ|данный, настоящий
+obniżyć|ADJ|уменьшить, упростить, уценить
+komputerowy|ADJ|компьютерный
+późny|ADJ|поздний
+zagraniczny|ADJ|зарубежный, заграничный
+rodzić|ADJ|порождать, рожать
+przyjazny|ADJ|дружелюбный, дружеский, дружественный
+uzależnić|ADJ|
+dumny|ADJ|гордый
+objąć|ADJ|обнять
+podatkowy|ADJ|налоговый
+świadomy|ADJ|сознательный
+zgłaszać|ADJ|отвечать
+pokroić|ADJ|разрезать
+zmusić|ADJ|вынудить, заставить
+cyfrowy|ADJ|цифровой
+udowodnić|ADJ|доказать, подтверждать
+zeszły|ADJ|прошлый
+żółty|ADJ|жёлтый
+cichy|ADJ|тихий
+ostateczny|ADJ|окончательный, последний, конечный
+przewidzieć|ADJ|предусмотреть
+negatywny|ADJ|негативный, отрицательный
+przebywać|ADJ|пребывать
+przemysłowy|ADJ|промышленный, индустриальный
+drogowy|ADJ|дорожный
+oficjalny|ADJ|официальный
+regularny|ADJ|регулярный, постоянный
+śliczny|ADJ|прекрасный
+godny|ADJ|достойный
+uniwersalny|ADJ|универсальный
+artystyczny|ADJ|артистический, художественный, артистичный
+energetyczny|ADJ|энергетический
+graficzny|ADJ|графический
+odporny|ADJ|закалённый, выносливый, стойкий, упорный, отпорный, устойчивый
+zaprezentować|ADJ|представить
+historyczny|ADJ|исторический
+bankowy|ADJ|банковский
+podwójny|ADJ|двойной
+uwolnić|ADJ|освободить, выпустить, уволить
+częsty|ADJ|частый
+zaawansowany|ADJ|
+znaczny|ADJ|значительный, заметный
+kompletny|ADJ|комплектный
+kontaktowy|ADJ|
+morski|ADJ|морской, цвет морской волны
+fantastyczny|ADJ|фантастический, фантастичный
+kredytowy|ADJ|кредитный
+maksymalny|ADJ|максимальный
+monitorować|ADJ|
+nocny|ADJ|ночной
+święty|ADJ|святой
+włoski|ADJ|итальянский, италиянский
+fałszywy|ADJ|ложный, фальшивый
+mobilny|ADJ|
+twardy|ADJ|твёрдый
+zastąpić|ADJ|заменить, заместить
+bieżący|ADJ|текущий
+niezależny|ADJ|независимый
+przeciwny|ADJ|встречный, противоположный, не согласный, против, противный, напротив, совсем другой
+samodzielny|ADJ|самостоятельный
+przesłać|ADJ|
+wywoływać|ADJ|вызывать
+życiowy|ADJ|жизненный
+ewentualny|ADJ|возможный, предполагаемый
+metalowy|ADJ|металлический
+pojedynczy|ADJ|одиночный, отдельный, единичный, частный
+powtórzyć|ADJ|повторить
+wyświetlać|ADJ|
+chemiczny|ADJ|химический
+końcowy|ADJ|концевой
+sprzyjać|ADJ|благоволить, способствовать
+szalony|ADJ|безумный, сумасшедший, сумасбродный, шальной, экстравагантный
+gruby|ADJ|толстый
+magiczny|ADJ|магический, волшебный
+zamknięty|ADJ|закрытый, замкнутый
+gładki|ADJ|гладкий
+informacyjny|ADJ|информационный, справочный
+obowiązkowy|ADJ|добросовестный, обязательный
+wyznaczyć|ADJ|назначить
+automatyczny|ADJ|автоматический, автоматичный
+inteligentny|ADJ|умный, интеллигентный
+smutny|ADJ|грустный, печальный, тоскливый
+solidny|ADJ|
+szary|ADJ|серый
+zainteresowany|ADJ|
+edukacyjny|ADJ|образовательный
+efektywny|ADJ|эффективный
+ekonomiczny|ADJ|экономический, экономный
+funkcjonalny|ADJ|функциональный
+lekarski|ADJ|врачебный, лечебный, медицинский
+niepełnosprawny|ADJ|инвалид
+pomocny|ADJ|полезный
+samotny|ADJ|одинокий, одиночный, соло
+standardowy|ADJ|стандартный
+światowy|ADJ|мировой, всемирный
+realny|ADJ|реальный
+nieważny|ADJ|
+zaznaczyć|ADJ|
+zdobywać|ADJ|получать, набираться
+charakterystyczny|ADJ|характеристический, своеобразный, характерный
+doświadczyć|ADJ|
+miejscowy|ADJ|местный
+ranny|ADJ|раненый, ранний, раненный
+wojskowy|ADJ|военный, армейский, воинский
+zdrowotny|ADJ|здоровый
+cholerny|ADJ|
+krajowy|ADJ|краевой
+potencjalny|ADJ|потенциальный
+stabilny|ADJ|стабильный
+były|ADJ|бывший
+turystyczny|ADJ|туристический
+zasilać|ADJ|
+damski|ADJ|дамский
+językowy|ADJ|языковой
+rzeczywisty|ADJ|действительный
+kojarzyć|ADJ|ассоциироваться
+modny|ADJ|модный
+potężny|ADJ|мощный, могучий
+biedny|ADJ|бедный
+minimalny|ADJ|минимальный
+popełniać|ADJ|
+przepiękny|ADJ|прекрасный
+zamieścić|ADJ|
+podejrzany|ADJ|подозрительный, подозреваемый
+powszechny|ADJ|общий, совместный
+dzienny|ADJ|дневной
+komfortowy|ADJ|комфортабельный, комфортный
+rozszerzyć|ADJ|расширить, расшириться
+wykluczyć|ADJ|исключить
+firmowy|ADJ|фирменный
+równy|ADJ|равный, ровный, плоский
+specjalistyczny|ADJ|специальный
+sprawny|ADJ|
+inwestycyjny|ADJ|инвестиционный
+produkcyjny|ADJ|
+filmowy|ADJ|фильмовый
+kuchenny|ADJ|кухонный
+ochronny|ADJ|предохранительный
+znakomity|ADJ|великолепный, отличный, превосходный, весомый, значительный, выдающийся, замечательный, знаменитый, известный
+optymalny|ADJ|
+rowerowy|ADJ|велосипедный
+śmieszny|ADJ|смешной
+typowy|ADJ|типичный
+narazić|ADJ|
+przesyłać|ADJ|
+szczery|ADJ|искренний, щирый
+ubiegły|ADJ|
+wycofać|ADJ|
+nieznany|ADJ|неизвестный
+osobny|ADJ|
+przekonany|ADJ|
+wartościowy|ADJ|ценный
+papierowy|ADJ|бумажный
+surowy|ADJ|суровый, сырой, жестокий, строгий
+uroczy|ADJ|обаятельный, очаровательный
+zbędny|ADJ|лишний
+chłodny|ADJ|прохладный
+nawilżać|ADJ|увлажнять
+smażyć|ADJ|жарить, жариться
+udostępniać|ADJ|делать доступный
+cienki|ADJ|тонкий
+odchudzać|ADJ|
+reprezentować|ADJ|
+zabezpieczać|ADJ|
+zdolny|ADJ|способный
+duchowy|ADJ|духовный
+estetyczny|ADJ|эстетический
+fotograficzny|ADJ|фотографический
+psychiczny|ADJ|психический, душевнобольной, сумасшедший
+wieloletni|ADJ|многолетний, долголетний
+znaczący|ADJ|существенный
+centralny|ADJ|главный, основной, центральный
+emocjonalny|ADJ|эмоциональный
+nietypowy|ADJ|нетипичный
+posterunkowy|ADJ|
+roboczy|ADJ|пробный, рабочий
+tylny|ADJ|задний
+dolny|ADJ|нижний, низкий
+narodowy|ADJ|народный, национальный
+piąty|ADJ|пятый
+wstępny|ADJ|вступительный, предварительный
+wyraźny|ADJ|отчётливый, чёткий, ясный
+innowacyjny|ADJ|
+kosmetyczny|ADJ|косметический
+postrzegać|ADJ|воспринимать
+umieszczać|ADJ|помещать, размещать, располагать
+unikalny|ADJ|уникальный
+wirtualny|ADJ|
+wystarczający|ADJ|достаточный
+komórkowy|ADJ|
+spożywczy|ADJ|продовольственный, съестной
+szkodliwy|ADJ|вредный, вредоносный, шкодливый
+tajemniczy|ADJ|таинственный
+wakacyjny|ADJ|каникулярный
+ponieść|ADJ|
+zwać|ADJ|звать
+kobiecy|ADJ|женский, женственный
+nerwowy|ADJ|слабонервный
+niepowtarzalny|ADJ|неповторимый
+niewinny|ADJ|безвредный, безобидный, невинный, невиновный, безвинный
+winny|ADJ|винный, виновный, должный
+zabronić|ADJ|запретить
+zagrozić|ADJ|
+brązowy|ADJ|бронзовый, коричневый
+mechaniczny|ADJ|машинальный, механический
+rozsądny|ADJ|разумный
+załączyć|ADJ|
+męczyć|ADJ|мучить, мучиться
+społecznościowy|ADJ|
+zerwać|ADJ|отрывать
+cywilny|ADJ|гражданский, цивильный
+czynny|ADJ|деятельный
+globalny|ADJ|глобальный
+organizacyjny|ADJ|организационный
+ponowny|ADJ|
+przedni|ADJ|передний, передовой
+psychologiczny|ADJ|психологический
+winien|ADJ|
+kokosowy|ADJ|кокосовый
+oznaczyć|ADJ|
+plastikowy|ADJ|пластиковый, пластмассовый
+promocyjny|ADJ|
+przemyśleć|ADJ|
+różowy|ADJ|розовый
+zmęczony|ADJ|усталый, утомлённый, уставший
+autorski|ADJ|авторский
+chiński|ADJ|китайский
+jesienny|ADJ|осенний
+odważny|ADJ|отважный, смелый, храбрый, бесстрашный
+kiepski|ADJ|плохой, худой
+łamać|ADJ|ломать, нарушать
+nudny|ADJ|скучный
+odłożyć|ADJ|отложить, перенести, положить, осесть, отложиться
+przystosować|ADJ|приспособить
+rewelacyjny|ADJ|
+srebrny|ADJ|серебристый, серебряный
+szkoleniowy|ADJ|учебный
+zapisywać|ADJ|вносить в список, записывать, завещать, прописывать
+biurowy|ADJ|конторский
+dotychczasowy|ADJ|
+inspirować|ADJ|
+dziki|ADJ|дикий
+genialny|ADJ|гениальный
+mailowy|ADJ|
+nadmierny|ADJ|чрезмерный, избыточный
+państwowy|ADJ|государственный
+brudny|ADJ|грязный, запачканый, пошлый
+dala|ADJ|
+drukować|ADJ|печатать
+kulturalny|ADJ|культурный
+mieszkalny|ADJ|жилой
+mokry|ADJ|мокрый, сырой
+różnorodny|ADJ|
+ścigać|ADJ|
+informatyczny|ADJ|информатический
+lotniczy|ADJ|авиационный
+okropny|ADJ|ужасный, чудовищный
+rzadki|ADJ|жидкий, редкий
+nagrodzić|ADJ|
+religijny|ADJ|религиозный, набожный
+skrzywdzić|ADJ|
+tegoroczny|ADJ|
+japoński|ADJ|японский, японский язык
+niezawodny|ADJ|надёжный
+odżywczy|ADJ|
+operacyjny|ADJ|
+piersiowy|ADJ|грудной
+studiować|ADJ|в университете, учиться в вуз, изучать, всматриваться, разглядывать, учиться
+szklany|ADJ|стеклянный
+wyborczy|ADJ|избирательный
+bolesny|ADJ|болезненный
+denerwować|ADJ|раздражать, раздражаться, бесить
+długotrwały|ADJ|длительный, продолжительный
+fachowy|ADJ|
+pijany|ADJ|пьяный
+plastyczny|ADJ|пластичный
+przywieźć|ADJ|привезти
+sądowy|ADJ|судебный
+wzajemny|ADJ|взаимный, обоюдный
+zależny|ADJ|зависимый, обусловленный, подчинённый
+zawiesić|ADJ|
+głodny|ADJ|голодный
+romantyczny|ADJ|романтический, романтичный
+kreatywny|ADJ|креативный
+niewłaściwy|ADJ|неподходящий, неуместный
+oszukać|ADJ|
+płaski|ADJ|плоский
+pobić|ADJ|
+regionalny|ADJ|региональный
+zaoferować|ADJ|
+zróżnicować|ADJ|
+niepotrzebny|ADJ|ненужный
+początkowy|ADJ|начальный
+precyzyjny|ADJ|
+jednorazowy|ADJ|единовременный, одноразовый, разовый
+kosmiczny|ADJ|космический, вселенский
+królewski|ADJ|королевский, царский
+marketingowy|ADJ|маркетинговый
+nieprzyjemny|ADJ|неприятный
+ogrodowy|ADJ|садовый
+przykładowy|ADJ|
+tłusty|ADJ|жирный, толстый
+udostępnić|ADJ|
+wiosenny|ADJ|весенний
+wybudować|ADJ|построить
+wydajny|ADJ|эффективный
+zmarły|ADJ|мёртвый, умерший, покойник
+leczniczy|ADJ|целебный, лечебный, лекарственный, врачебный, целительный
+logiczny|ADJ|логический, логичный
+natychmiastowy|ADJ|мгновенный, немедленный
+nierdzewny|ADJ|нержавеющий
+pokarmowy|ADJ|пищевой
+rozbić|ADJ|
+specyficzny|ADJ|специфический, особый, характерный
+wykwalifikować|ADJ|
+zamordować|ADJ|
+administracyjny|ADJ|административный
+dynamiczny|ADJ|динамический, динамичный
+groźny|ADJ|грозный
+radosny|ADJ|радостный
+transportowy|ADJ|
+ustny|ADJ|устный, вербальный
+nagły|ADJ|внезапный, неожиданный
+organiczny|ADJ|органический
+poprawny|ADJ|правильный
+powiązać|ADJ|
+przetestować|ADJ|
+skórzany|ADJ|кожаный, кожевенный
+stalowy|ADJ|стальной
+konkurencyjny|ADJ|
+ozdobny|ADJ|декоративный
+pomarańczowy|ADJ|апельсиновый, апельсинный, оранжевый
+ręczny|ADJ|ручной, рукодельный
+zachwycać|ADJ|восхищать, восторгать, восторгаться, восхищаться
+twórczy|ADJ|творческий
+uboczny|ADJ|второстепенный, побочный
+grupowy|ADJ|групповой
+identyczny|ADJ|идентичный
+księgowy|ADJ|бухгалтерский, бухгалтер
+nielegalny|ADJ|незаконный, нелегальный, беззаконный
+polubić|ADJ|
+suszyć|ADJ|сушить
+śmiertelny|ADJ|смертельный, смертный
+unijny|ADJ|
+wąski|ADJ|узкий
+wilgotny|ADJ|влажный, мокрый
+boczny|ADJ|боковой, побочный
+nożny|ADJ|
+skazać|ADJ|
+szósty|ADJ|шестой
+uwzględniać|ADJ|учитывать
+zwyczajny|ADJ|обычный, простой, ординарный
+agresywny|ADJ|агрессивный
+brytyjski|ADJ|британский
+łagodny|ADJ|кроткий, мягкий, нераздражительный, спокойный, тихий, некрепкий, неострый
+utracić|ADJ|утратить
+wczorajszy|ADJ|вчерашний
+wesoły|ADJ|весёлый, жизнерадостный
+gazowy|ADJ|газовый
+krytyczny|ADJ|
+mieszkaniowy|ADJ|
+mocować|ADJ|
+olbrzymi|ADJ|
+omawiać|ADJ|
+pisemny|ADJ|письменный
+płynny|ADJ|жидкий, плавный
+policyjny|ADJ|полицейский
+przejrzysty|ADJ|понятный, прозрачный
+przerażający|ADJ|
+spłacić|ADJ|
+technologiczny|ADJ|технологический
+urodzinowy|ADJ|
+załatwiać|ADJ|
+genetyczny|ADJ|генетический, генетски
+komunikacyjny|ADJ|коммуникационный
+laserowy|ADJ|лазерный
+płatny|ADJ|
+stylowy|ADJ|стильный
+badawczy|ADJ|исследовательский, пристальный
+biologiczny|ADJ|биологический
+czasowy|ADJ|временный
+gęsty|ADJ|густой, плотный
+pieszy|ADJ|пешеход
+tajny|ADJ|тайный
+weselny|ADJ|свадебный
+zaskakiwać|ADJ|заставать врасплох, удивлять
+bezdomny|ADJ|бездомный, бомж, БОМЖ, бродяга
+kontrolny|ADJ|контрольный
+masowy|ADJ|массовый
+pilny|ADJ|прилежный, старательный, усердный, срочный, неотложный
+pomalować|ADJ|
+porządny|ADJ|аккуратный, мощный, порядочный, солидный
+roślinny|ADJ|растительный
+słuszny|ADJ|годный, достойный, справедливый, законный, обоснованный, меткий, точный, правильный
+stosowny|ADJ|подходящий, адекватный, оптимальный, уместный
+unosić|ADJ|
+alternatywny|ADJ|
+dekoracyjny|ADJ|декораторский, декорационный
+karny|ADJ|уголовный
+malutki|ADJ|
+następujący|ADJ|
+parkingowy|ADJ|
+projektowy|ADJ|
+wiarygodny|ADJ|достоверный, заслуживающий доверия
+wieczny|ADJ|вечный
+efektowny|ADJ|эффектный
+kulinarny|ADJ|кулинарный
+oddzielny|ADJ|отдельный
+przystępny|ADJ|доступный, доходчивый
+rozbudować|ADJ|
+zasadniczy|ADJ|основной, принципиальный
+żywieniowy|ADJ|питательный
+ambitny|ADJ|амбициозный
+awaryjny|ADJ|аварийный
+dedykować|ADJ|
+długoterminowy|ADJ|долгосрочный
+hiszpański|ADJ|испанский, шпанский, испанский язык
+nastawić|ADJ|
+ograniczony|ADJ|ограниченный
+pieniężny|ADJ|денежный, монетарный, финансовый
+poranny|ADJ|утренний
+prasowy|ADJ|
+rozegrać|ADJ|
+rozstrzygnąć|ADJ|
+wiekowy|ADJ|
+wizualny|ADJ|зрительный
+zachodni|ADJ|западный
+mineralny|ADJ|минеральный
+moralny|ADJ|моральный
+niezapomniany|ADJ|незабвенный, незабываемый
+odmienny|ADJ|склоняемый, отличный, разный
+początkujący|ADJ|начинающий
+pocztowy|ADJ|почтовый
+radiowy|ADJ|радио-
+rozgrzać|ADJ|разогреть, согреть
+rozpatrywać|ADJ|рассматривать
+sieciowy|ADJ|
+stacjonarny|ADJ|
+telewizyjny|ADJ|телевизионный
+błędny|ADJ|ошибочный
+boski|ADJ|божественный, божий
+docelowy|ADJ|
+jednorodzinny|ADJ|
+kosztowny|ADJ|
+materialny|ADJ|материальный
+obywatelski|ADJ|гражданский
+pozyskiwać|ADJ|
+rolniczy|ADJ|аграрный, сельский
+sporządzić|ADJ|оформить, составить
+sympatyczny|ADJ|симпатический, симпатичный
+szlachetny|ADJ|благородный, правый
+ścisły|ADJ|точный
+ubezpieczeniowy|ADJ|страховой
+czekoladowy|ADJ|шоколадный
+górski|ADJ|горный
+hipoteczny|ADJ|ипотечный
+kolejowy|ADJ|железнодорожный
+tłuszczowy|ADJ|жировой
+uczciwy|ADJ|честный, порядочный, щирый
+użyteczny|ADJ|полезный
+zdobić|ADJ|
+zlokalizować|ADJ|
+aluminiowy|ADJ|алюминиевый
+krytykować|ADJ|критиковать
+małżeński|ADJ|супружеский
+oddechowy|ADJ|дыхательный
+strategiczny|ADJ|
+ukochać|ADJ|
+wliczyć|ADJ|
+zapalny|ADJ|
+zobowiązać|ADJ|обязать
+dogodny|ADJ|подходящий
+doświadczony|ADJ|опытный
+konferencyjny|ADJ|
+kulturowy|ADJ|культурный
+legalny|ADJ|легальный
+merytoryczny|ADJ|существенный
+mieszany|ADJ|
+określony|ADJ|
+roczny|ADJ|годовалый, однолетний, годовой
+rzetelny|ADJ|добросовестный, надёжный
+tragiczny|ADJ|трагедийный, трагический, трагичный
+wieczorny|ADJ|вечерний
+wojenny|ADJ|военный
+wskazany|ADJ|
+wychowawczy|ADJ|воспитательный
+aktualizować|ADJ|обновлять, актуализировать
+atmosferyczny|ADJ|атмосферический
+bezprzewodowy|ADJ|беспроводной, беспроводный
+dozwolić|ADJ|
+formalny|ADJ|
+głośny|ADJ|громкий
+klimatyczny|ADJ|климатический
+rozczarować|ADJ|
+towarzyski|ADJ|общительный, коммуникабельный, товарищеский
+uzbroić|ADJ|
+zobowiązywać|ADJ|обязывать
+grecki|ADJ|греческий
+hamować|ADJ|тормозить
+komercyjny|ADJ|коммерческий
+magnetyczny|ADJ|магнитный, привлекательный, магнетический
+nieszczęśliwy|ADJ|несчастный, несчастливый
+pamiątkowy|ADJ|памятный
+perfekcyjny|ADJ|
+podsumować|ADJ|суммировать
+rynkowy|ADJ|рыночный
+skraść|ADJ|
+tematyczny|ADJ|тематический
+terapeutyczny|ADJ|терапевтический, лечебный
+toksyczny|ADJ|токсический, токсичный
+treningowy|ADJ|тренинговый, тренировочный
+użytkowy|ADJ|
+wzbogacić|ADJ|
+zdecydowany|ADJ|решительный
+dopuszczalny|ADJ|допустимый
+leśny|ADJ|лесной
+magazynowy|ADJ|
+miesięczny|ADJ|месячный
+okolicznościowy|ADJ|
+przestronny|ADJ|просторный
+rolny|ADJ|аграрный, сельскохозяйственный, земельный
+starożytny|ADJ|античный, древний
+tymczasowy|ADJ|временный
+ująć|ADJ|
+zakazać|ADJ|запретить
+zapasowy|ADJ|запасной
+hormonalny|ADJ|гормональный
+luźny|ADJ|свободный
+medialny|ADJ|медийный
+oskarżyć|ADJ|обвинить
+południowy|ADJ|южный
+poszerzać|ADJ|расширять
+prawdopodobny|ADJ|вероятный, правдоподобный
+ruchowy|ADJ|
+skromny|ADJ|скромный
+sztywny|ADJ|жёсткий
+usługowy|ADJ|
+wbudować|ADJ|
+wciągać|ADJ|
+zastępować|ADJ|заменять, замещать
+zdalny|ADJ|удалённый, дистанционный
+jednolity|ADJ|единообразный, однородный
+odbić|ADJ|
+otoczyć|ADJ|окружить
+owocowy|ADJ|фруктовый
+przeciętny|ADJ|обычный, простой, средний, типичный
+serdeczny|ADJ|сердечный
+socjalny|ADJ|
+wiejski|ADJ|сельский
+wybitny|ADJ|выдающийся, крупный
+zlikwidować|ADJ|ликвидировать
+złośliwy|ADJ|злобный, язвительный
+zwrotny|ADJ|
+akademicki|ADJ|академический
+brzydki|ADJ|плохой, скверный, уродливый, некрасивый
+dydaktyczny|ADJ|дидактический
+marny|ADJ|крохотный, ничтожный, плохой
+obowiązujący|ADJ|
+obszerny|ADJ|просторный, обширный
+pogodowy|ADJ|
+przestrzenny|ADJ|объёмный, пространственный
+ratunkowy|ADJ|
+zaginiony|ADJ|пропавший
+zintegrować|ADJ|
+federalny|ADJ|федеральный
+hotelowy|ADJ|гостиничный
+maleńki|ADJ|маленький
+przypisać|ADJ|
+racjonalny|ADJ|рациональный
+rządowy|ADJ|правительственный
+spieszyć|ADJ|
+swobodny|ADJ|свободный
+teatralny|ADJ|театральный
+wyszukać|ADJ|подыскать
+zastępczy|ADJ|
+chirurgiczny|ADJ|хирургический
+fiskalny|ADJ|
+konkursowy|ADJ|конкурсный
+laboratoryjny|ADJ|лабораторный
+niepożądany|ADJ|нежелательный
+pedagogiczny|ADJ|педагогический
+pierwotny|ADJ|первичный, первоначальный, первобытный
+służbowy|ADJ|
+teoretyczny|ADJ|теоретический, теоретичный
+zbiorowy|ADJ|групповой
+zdjęciowy|ADJ|
+zmienny|ADJ|ветреный, непостоянный, изменчивый, переменчивый
+absolutny|ADJ|абсолютный, полный, совершенный
+błyskawiczny|ADJ|молниеносный
+czytelny|ADJ|читабельный, читаемый
+grzewczy|ADJ|
+gwałtowny|ADJ|бешеный
+interaktywny|ADJ|интерактивный
+kwalifikacyjny|ADJ|
+motoryzacyjny|ADJ|автотракторный
+odbijać|ADJ|отражать
+odrębny|ADJ|особый, своеобразный, отдельный
+odświeżyć|ADJ|
+piłkarski|ADJ|
+pochować|ADJ|попрятать
+podłogowy|ADJ|напольный
+pokojowy|ADJ|комнатный, мирный
+próbny|ADJ|репетиционный
+przystojny|ADJ|красивый, статный
+sanitarny|ADJ|
+zazdrosny|ADJ|завистливый, ревнивый
+ziemski|ADJ|земельный, земной, земский
+alergiczny|ADJ|аллергический, аллергичный
+cenowy|ADJ|
+jednoznaczny|ADJ|однозначный
+luksusowy|ADJ|роскошный, люкс
+nieliczny|ADJ|малочисленный, немногочисленный
+płciowy|ADJ|сексуальный, половой
+seryjny|ADJ|
+startowy|ADJ|
+architektoniczny|ADJ|архитектурный, архитектонический
+ceramiczny|ADJ|керамический
+ekstremalny|ADJ|экстремальный
+miniony|ADJ|минувший, прошлый
+obronny|ADJ|защитный, оборонительный, оборонный
+okrągły|ADJ|круглый
+ostrożny|ADJ|осторожный, осмотрительный
+podwyższyć|ADJ|
+podziemny|ADJ|подземный, подпольный
+przesunąć|ADJ|передвинуть
+rozmaity|ADJ|разнообразный, разный
+ryzykowny|ADJ|рискованный
+samorządowy|ADJ|
+wypracować|ADJ|
+zmieszać|ADJ|
+integracyjny|ADJ|
+kolorystyczny|ADJ|колористический
+kurierski|ADJ|курьерский
+kwiatowy|ADJ|цветочный
+miłosny|ADJ|любовный
+mleczny|ADJ|молочный
+narciarski|ADJ|лыжный
+płatniczy|ADJ|
+poślubić|ADJ|жениться
+pożądany|ADJ|
+północny|ADJ|северный, северно-
+przypadkowy|ADJ|случайный
+rejestracyjny|ADJ|
+skończony|ADJ|
+taneczny|ADJ|танцевальный
+utalentowany|ADJ|одарённый, талантливый
+wściekły|ADJ|бешеный, яростный
+wystraszyć|ADJ|
+dramatyczny|ADJ|драматический, драматичный
+fascynujący|ADJ|
+hydrauliczny|ADJ|гидравлический
+kliniczny|ADJ|клинический
+kruchy|ADJ|хрупкий
+krwionośny|ADJ|кровеносный
+niedostępny|ADJ|недоступный
+odesłać|ADJ|
+ogrzewać|ADJ|согревать, согреваться
+okresowy|ADJ|временный, периодический, периодичный
+podekscytować|ADJ|
+powstały|ADJ|
+pracowniczy|ADJ|
+rachunkowy|ADJ|счётный
+rozwojowy|ADJ|
+sławny|ADJ|знаменитый, славный, прославленный
+środowiskowy|ADJ|
+uwięzić|ADJ|
+dochodowy|ADJ|доходный, прибыльный
+dojrzały|ADJ|зрелый, спелый
+gotówkowy|ADJ|
+intymny|ADJ|интимный, сокровенный
+kremowy|ADJ|
+ludowy|ADJ|народный
+mięśniowy|ADJ|мышечный
+naciskać|ADJ|нажимать
+nadzorować|ADJ|контролировать, надзирать, курировать, надсматривать
+neutralny|ADJ|нейтральный
+partnerski|ADJ|партнёрский
+profilaktyczny|ADJ|профилактический
+protestować|ADJ|протестовать, возражать
+przewlekły|ADJ|затяжной, хронический
+przykry|ADJ|мерзкий
+rzeczowy|ADJ|
+zrównoważony|ADJ|сбалансированный, гармоничный, стабильный, устойчивый, уравновешенный
+cudny|ADJ|дивный, чудный
+erotyczny|ADJ|эротический
+goły|ADJ|голый
+młodzieżowy|ADJ|молодёжный
+mroczny|ADJ|мрачный
+niepokojący|ADJ|
+oddzielić|ADJ|отделить
+praktykować|ADJ|практиковать
+przerażony|ADJ|
+przytulny|ADJ|уютный
+przyzwoity|ADJ|приличный, порядочный, пристойный
+puszysty|ADJ|полный, пушистый, пышный
+regenerować|ADJ|регенерировать
+siódmy|ADJ|седьмой
+statystyczny|ADJ|статистический
+uporządkować|ADJ|
+uroczysty|ADJ|торжественный
+wymarzony|ADJ|
+wytrzymały|ADJ|выносливый, крепкий
+zajęty|ADJ|занятой, занятый
+autentyczny|ADJ|аутентичный, подлинный, аутентический
+beznadziejny|ADJ|безнадёжный
+egzotyczny|ADJ|экзотический
+higieniczny|ADJ|
+moczowy|ADJ|мочевой
+modyfikować|ADJ|модифицировать
+nagi|ADJ|голый, нагой
+niedzielny|ADJ|воскресный
+nieprawidłowy|ADJ|неправильный
+nierówny|ADJ|
+obracać|ADJ|
+okrutny|ADJ|жестокий
+optyczny|ADJ|оптический
+otwarci|ADJ|
+podejrzeć|ADJ|
+pomiarowy|ADJ|
+powrotny|ADJ|
+przedszkolny|ADJ|дошкольный
+przedwczesny|ADJ|безвременный, преждевременный, преждевременность
+sprawiedliwy|ADJ|справедливый
+syntetyczny|ADJ|синтетический
+systemowy|ADJ|системный
+szwedzki|ADJ|шведский, шведский язык
+świetlny|ADJ|светильный, световой
+towarowy|ADJ|грузовой, товарный
+wschodni|ADJ|восточный
+zmotywować|ADJ|мотивировать
+żałosny|ADJ|жалкий, жалостный, мерзкий
+alarmowy|ADJ|
+aromatyczny|ADJ|ароматный
+azjatycki|ADJ|азиатский
+budżetowy|ADJ|бюджетный
+dzielny|ADJ|отважный, смелый, храбрый
+emerytalny|ADJ|
+opłacalny|ADJ|рентабельный
+pobliski|ADJ|
+pozarządowy|ADJ|
+sprzeczny|ADJ|
+umeblować|ADJ|меблировать
+uprościć|ADJ|упростить
+wsiadać|ADJ|садиться
+zamienny|ADJ|
+zrozumiały|ADJ|понятный
+życzliwy|ADJ|доброжелательный, благожелательный
+bezużyteczny|ADJ|бесполезный
+demokratyczny|ADJ|демократический, демократичный
+dobrowolny|ADJ|добровольный
+energooszczędny|ADJ|
+generalny|ADJ|
+konstruktywny|ADJ|
+miny|ADJ|
+nadużywać|ADJ|злоупотреблять
+nadzwyczajny|ADJ|чрезвычайный, необыкновенный
+niecały|ADJ|
+płonąć|ADJ|гореть, краснеть, пылать, румяниться, пламенеть, полыхать
+pomidorowy|ADJ|томатный
+pożądać|ADJ|желать, жаждать
+rozwinięty|ADJ|
+satelitarny|ADJ|
+sezonowy|ADJ|
+subtelny|ADJ|
+termiczny|ADJ|термический
+wymarzyć|ADJ|
+zagubiony|ADJ|
+bezwzględny|ADJ|абсолютный, жестокий, безоговорочный
+brutalny|ADJ|
+celny|ADJ|меткий, таможенный
+dźwiękowy|ADJ|звуковой
+geograficzny|ADJ|географический
+grzeczny|ADJ|воспитанный
+gwarancyjny|ADJ|гарантийный
+honorowy|ADJ|почётный
+kawowy|ADJ|кофейный
+maszynowy|ADJ|
+narodzić|ADJ|
+nieunikniony|ADJ|неизбежный
+nieustanny|ADJ|
+obrotowy|ADJ|
+ozdobić|ADJ|украсить, украситься
+przenośny|ADJ|переносный, иносказательный, метафорический, переносной
+przepisać|ADJ|
+przezroczysty|ADJ|прозрачный
+serwisowy|ADJ|
+słynny|ADJ|знаменитый
+sprytny|ADJ|смекалистный, сообразительный
+symboliczny|ADJ|символический
+szybka|ADJ|
+totalny|ADJ|тотальный
+wentylacyjny|ADJ|
+wszechstronny|ADJ|всесторонний, разносторонний
+zawalić|ADJ|
+alkoholowy|ADJ|алкогольный, спиртной
+deszczowy|ADJ|дождевой, дождливый
+niewiarygodny|ADJ|невероятный, неимоверный, недостоверный, сомнительный
+niewidoczny|ADJ|невидимый, незаметный
+obojętny|ADJ|безразличный
+owocny|ADJ|
+pachnąć|ADJ|
+przedmiotowy|ADJ|
+rozdawać|ADJ|
+spacerować|ADJ|гулять
+studencki|ADJ|студенческий
+tany|ADJ|
+ubogi|ADJ|убогий, скудный
+usiłować|ADJ|силиться
+weekendowy|ADJ|
+zakochany|ADJ|влюблённый
+zapachowy|ADJ|
+zaskakujący|ADJ|
+członkowski|ADJ|членский
+ekskluzywny|ADJ|эксклюзивный
+farbować|ADJ|
+intelektualny|ADJ|
+kąpielowy|ADJ|купальный
+kryzysowy|ADJ|кризисный
+literacki|ADJ|литературный
+manualny|ADJ|
+matematyczny|ADJ|математический
+mrozić|ADJ|леденить
+naiwny|ADJ|наивный
+niedawny|ADJ|
+niekorzystny|ADJ|неблагоприятный
+oczekiwany|ADJ|
+odpornościowy|ADJ|
+pielęgnacyjny|ADJ|
+poręczny|ADJ|
+sadzić|ADJ|садить
+ukochany|ADJ|любимый
+unikatowy|ADJ|уникальный
+zarysować|ADJ|исцарапать
+zautomatyzować|ADJ|
+cudzy|ADJ|чужой, посторонний
+dopracować|ADJ|
+dziesiąty|ADJ|десятый
+gumowy|ADJ|каучуконосный, резиновый
+intrygować|ADJ|интриганствовать, интриговать
+intuicyjny|ADJ|
+kontrowersyjny|ADJ|
+kwaśny|ADJ|кислый
+logistyczny|ADJ|
+majątkowy|ADJ|имущественный
+odległy|ADJ|далёкий, отдалённый
+ofertowy|ADJ|
+polerować|ADJ|полировать, шлифовать
+procentowy|ADJ|процентный
+systematyczny|ADJ|систематический, систематичный
+uprawnić|ADJ|
+wyczekiwać|ADJ|
+wyprostować|ADJ|
+zgłoszeniowy|ADJ|
+bezcenny|ADJ|бесценный
+charytatywny|ADJ|благотворительный
+częściowy|ADJ|частичный
+kamienny|ADJ|каменный
+nieodpowiedni|ADJ|неподходящий
+niewidzialny|ADJ|невидимый
+odprowadzić|ADJ|проводить
+okoliczny|ADJ|
+orzechowy|ADJ|красновато-коричневый, ореховый
+powietrzny|ADJ|воздушный
+przepyszny|ADJ|
+rozgrzewać|ADJ|
+rozproszyć|ADJ|
+rzymski|ADJ|римский
+schłodzić|ADJ|
+ślepy|ADJ|слепой, тупиковый
+uprzejmy|ADJ|любезный
+wysuszyć|ADJ|
+ziemniaczany|ADJ|картофельный
+afrykański|ADJ|африканский
+anonimowy|ADJ|анонимный, безымянный
+certyfikować|ADJ|сертифицировать
+ciasny|ADJ|тесный, узкий
+foliowy|ADJ|
+gimnastyczny|ADJ|гимнастический
+indyjski|ADJ|индийский
+komunalny|ADJ|коммунальный
+napełnić|ADJ|наполнить
+obdarzyć|ADJ|
+odprowadzać|ADJ|провожать
+ortodontyczny|ADJ|
+osadzić|ADJ|
+osłabić|ADJ|
+paskudny|ADJ|
+pionowy|ADJ|вертикальный, отвесный, пешечный
+podatny|ADJ|
+pogrążyć|ADJ|
+przetworzyć|ADJ|
+rodzicielski|ADJ|родительский
+rozdać|ADJ|
+skandynawski|ADJ|скандинавский
+skłonny|ADJ|склонный
+spektakularny|ADJ|показной, эффектный
+spłacać|ADJ|
+tutejszy|ADJ|здешний
+utrudnić|ADJ|затруднить
+wstawiać|ADJ|
+wyczerpujący|ADJ|утомительный
+zaaranżować|ADJ|
+zespołowy|ADJ|
+antykoncepcyjny|ADJ|противозачаточный, контрацептивный
+betonowy|ADJ|бетонный
+bezproblemowy|ADJ|
+faktyczny|ADJ|фактический
+gorzki|ADJ|горький
+niewidomy|ADJ|незрячий, слепой
+odnawialny|ADJ|
+ósmy|ADJ|восьмой
+personalny|ADJ|
+ponadczasowy|ADJ|
+przeciwpożarowy|ADJ|противопожарный
+przesłuchać|ADJ|
+schodowy|ADJ|лестничный
+sensowny|ADJ|
+skarbowy|ADJ|
+środkowy|ADJ|центральный, средний
+urozmaicić|ADJ|
+uśmiechnięty|ADJ|улыбающийся
+uwalniać|ADJ|
+wielokrotny|ADJ|многократный, многоразовый
+wypoczynkowy|ADJ|
+wyrazisty|ADJ|выразительный
+wzrokowy|ADJ|зрительный
+zakręcić|ADJ|
+zbrojny|ADJ|вооружённый
+atomowy|ADJ|атомный
+autobusowy|ADJ|автобусный
+bakteryjny|ADJ|бактериальный
+ciążowy|ADJ|
+cierpliwy|ADJ|терпеливый
+diagnostyczny|ADJ|диагностический
+fizjologiczny|ADJ|физиологический, физический
+gastronomiczny|ADJ|гастрономический
+gruntowny|ADJ|глубокомысленный
+książkowy|ADJ|книжный
+malowniczy|ADJ|живописный
+matowy|ADJ|глухой, матовый
+mięsny|ADJ|мясной
+multimedialny|ADJ|мультимедийный
+nieudany|ADJ|
+odczuć|ADJ|
+okraść|ADJ|обокрасть, обворовать
+podróżny|ADJ|дорожный, путевой, путешественник, пассажир
+powolny|ADJ|медленный
+pożarny|ADJ|
+pożyteczny|ADJ|полезный
+przeciwsłoneczny|ADJ|солнцезащитный
+rekreacyjny|ADJ|рекреационный
+rozerwać|ADJ|
+równoległy|ADJ|одновременный, параллельный
+sekretny|ADJ|секретный
+stomatologiczny|ADJ|стоматологический
+turecki|ADJ|турецкий, тюркский
+uliczny|ADJ|
+uspokajać|ADJ|успокаивать, успокаиваться
+wejściowy|ADJ|
+wtórny|ADJ|вторичный
+zabytkowy|ADJ|
+zadziwiać|ADJ|
+zwycięski|ADJ|
+absurdalny|ADJ|абсурдный
+barwny|ADJ|красочный, разноцветный, цветастый, яркий, цветной
+branżowy|ADJ|
+dwustronny|ADJ|двусторонний
+farmaceutyczny|ADJ|фармацевтический
+fundamentalny|ADJ|основополагающий
+kompetentny|ADJ|компетентный
+napiąć|ADJ|
+nasycić|ADJ|
+obrzydliwy|ADJ|отвратительный
+poziomy|ADJ|горизонтальный
+przejeżdżać|ADJ|
+przetłumaczyć|ADJ|перевести
+przyrodniczy|ADJ|природный
+radykalny|ADJ|радикальный
+składany|ADJ|сборный, складной, сложный, составной
+skrajny|ADJ|крайний, экстремальный
+sobotni|ADJ|субботний
+spieprzyć|ADJ|испортить
+wielkanocny|ADJ|пасхальный
+wykształcić|ADJ|
+zakopać|ADJ|
+zdumiewający|ADJ|
+zwierzęcy|ADJ|животный, звериный
+żegnać|ADJ|прощаться
+żywnościowy|ADJ|
+czarować|ADJ|
+czołowy|ADJ|ведущий
+dentystyczny|ADJ|дентальный
+fioletowy|ADJ|фиолетовый
+granatowy|ADJ|синий, тёмносиний
+jakościowy|ADJ|качественный
+kryminalny|ADJ|уголовный
+naładować|ADJ|
+niedopuszczalny|ADJ|недозволительный, непозволительный
+nieprzewidywalny|ADJ|непредсказуемый
+niestandardowy|ADJ|
+nieśmiertelny|ADJ|бессмертный
+popołudniowy|ADJ|
+produktowy|ADJ|
+przepełnić|ADJ|
+przytoczyć|ADJ|
+rabatowy|ADJ|
+rozległy|ADJ|обширный
+satysfakcjonować|ADJ|
+spójny|ADJ|связный, целостный
+swoisty|ADJ|своеобразный
+testowy|ADJ|
+ujemny|ADJ|отрицательный
+wyjściowy|ADJ|
+wykonawczy|ADJ|исполнительный
+zbliżony|ADJ|подобный, похожий
+analogowy|ADJ|аналоговый
+arabski|ADJ|арабский, Арабский
+asfaltowy|ADJ|асфальтовый
+benzynowy|ADJ|бензиновый
+błękitny|ADJ|голубой, синий
+cieplny|ADJ|
+dziewiąty|ADJ|девятый
+fryzjerski|ADJ|парикмахерский
+gminny|ADJ|
+hurtowy|ADJ|оптовый
+hybrydowy|ADJ|гибридный
+jednoczesny|ADJ|одновременный
+klubowy|ADJ|
+konstrukcyjny|ADJ|конструкционный
+kwadratowy|ADJ|квадратный, квадратичный
+markowy|ADJ|
+niezadowolony|ADJ|недовольный
+obiadowy|ADJ|обеденный
+odwrotny|ADJ|потивоположный
+oświatowy|ADJ|просветительный
+pożyczkowy|ADJ|
+przejściowy|ADJ|
+przewodni|ADJ|
+rehabilitacyjny|ADJ|реабилитационный
+szpitalny|ADJ|больничный
+tłumić|ADJ|ослаблять, подавлять, сдерживать
+uciążliwy|ADJ|обременительный
+węglowy|ADJ|углеродный, угольный
+wieczysty|ADJ|
+wybuchowy|ADJ|взрывчатый, вспыльчивый
+wymagający|ADJ|
+aktorski|ADJ|актёрский
+beżowy|ADJ|бежевый
+bity|ADJ|
+boży|ADJ|божий
+brutto|ADJ|брутто
+domyślny|ADJ|догадливый
+dorobić|ADJ|
+durny|ADJ|дурацкий
+dwuosobowy|ADJ|
+emitować|ADJ|эмитировать
+ergonomiczny|ADJ|эргономичный
+fatalny|ADJ|
+gigantyczny|ADJ|гигантский
+gimnazjalny|ADJ|гимназический
+kompaktowy|ADJ|
+lodowy|ADJ|ледовый
+losowy|ADJ|случайный
+mali|ADJ|
+nakręcić|ADJ|
+należyty|ADJ|надлежащий, должный
+niepewny|ADJ|
+niezliczony|ADJ|бесчисленный, несметный, несчётный, неисчислимый
+noclegowy|ADJ|
+obciążyć|ADJ|
+odprężyć|ADJ|
+odsłonić|ADJ|
+orientacyjny|ADJ|
+podwodny|ADJ|подводный
+pogrzebowy|ADJ|погребальный, похоронный
+pomyślny|ADJ|
+poszkodować|ADJ|
+pośredni|ADJ|косвенный
+przeróżny|ADJ|
+przewijać|ADJ|
+przysięgły|ADJ|
+realistyczny|ADJ|реалистический
+ryżowy|ADJ|рисовый
+sąsiedni|ADJ|соседний
+sklepowy|ADJ|магазинный
+sojowy|ADJ|соевый
+stresujący|ADJ|
+szaleć|ADJ|беситься, шалеть, сходить с ума, буйствовать, бушевать
+szczupły|ADJ|худой, худощавый, тонкий
+śląski|ADJ|силезский
+takowy|ADJ|таковой
+transportować|ADJ|транспортировать
+tropikalny|ADJ|тропический
+tygodniowy|ADJ|еженедельный
+umiarkowany|ADJ|умеренный
+warzywny|ADJ|овощной
+wodoodporny|ADJ|водонепроницаемый, водоустойчивый
+wymazać|ADJ|вымазать
+zakaźny|ADJ|заразный
+ziemny|ADJ|земляной
+znienawidzić|ADJ|
+zupełny|ADJ|полный, совершенный, сплошной
+bierny|ADJ|пассивный
+celowy|ADJ|умышленный
+ciężarowy|ADJ|
+czeski|ADJ|богемский, чешский, чешский язык
+dostawczy|ADJ|
+ekstra|ADJ|
+etyczny|ADJ|этический
+gruntowy|ADJ|грунтовой, земельный
+izolować|ADJ|
+jawny|ADJ|открытый, явный
+jednakowy|ADJ|одинаковый
+kłopotliwy|ADJ|хлопотный
+konny|ADJ|конный
+krwawy|ADJ|кровавый, окровавленный
+liniowy|ADJ|линейный, линеен, линейнуй
+lojalny|ADJ|лояльный
+łączny|ADJ|соединительный, соединяющий
+macierzyński|ADJ|материнский
+międzyludzki|ADJ|межчеловеческий
+niebanalny|ADJ|
+nieśmiały|ADJ|застенчивый, несмелый, робкий
+nieuczciwy|ADJ|нечестный
+obiektywny|ADJ|объективный
+parowy|ADJ|
+poufny|ADJ|конфиденциальный, секретный
+pracowity|ADJ|трудолюбивый, прилежный
+prawniczy|ADJ|юридический
+przykleić|ADJ|
+przytulić|ADJ|обнять
+rekrutacyjny|ADJ|
+rodzimy|ADJ|родной, самородный
+rozpowszechnić|ADJ|
+subiektywny|ADJ|субъективный
+tamtejszy|ADJ|тамошний
+terminowy|ADJ|
+trafny|ADJ|подходящий, правдивый
+uparty|ADJ|упрямый, упорный
+ustawowy|ADJ|
+walutowy|ADJ|валютный
+wielofunkcyjny|ADJ|многофункциональный
+wyszkolić|ADJ|
+zamierzyć|ADJ|вознамериться, намериться
+zasłużony|ADJ|
+zbić|ADJ|
+ziołowy|ADJ|
+zmysłowy|ADJ|
+adekwatny|ADJ|адекватный, адэкватный
+akustyczny|ADJ|акустический
+autonomiczny|ADJ|автономный
+cesarski|ADJ|императорский, имперский
+dachowy|ADJ|кровельный
+detaliczny|ADJ|
+dmuchać|ADJ|дуть
+ekspresowy|ADJ|
+elektromagnetyczny|ADJ|электромагнитный
+graniczny|ADJ|
+imponujący|ADJ|внушительный
+jabłkowy|ADJ|яблочный
+jądrowy|ADJ|ядерный
+kameralny|ADJ|камерный
+korporacyjny|ADJ|
+leniwy|ADJ|ленивый
+mielony|ADJ|
+mózgowy|ADJ|мозговой
+nagradzać|ADJ|
+naprawczy|ADJ|аварийный
+niegrzeczny|ADJ|невежливый, невоспитанный, непослушный
+nieletni|ADJ|малолетний
+niespodziewany|ADJ|неожиданный, внезапный
+olimpijski|ADJ|
+parafialny|ADJ|приходский, общинный
+pasywny|ADJ|пассивный, страдательный
+patriotyczny|ADJ|патриотический
+podgrzać|ADJ|
+podłożyć|ADJ|
+pomocniczy|ADJ|вспомогательный, подсобный
+powiatowy|ADJ|
+pozabankowy|ADJ|
+przyłapać|ADJ|
+siłowy|ADJ|
+skonstruować|ADJ|
+telekomunikacyjny|ADJ|
+uchylić|ADJ|
+wycofywać|ADJ|
+wyrafinowany|ADJ|
+zabity|ADJ|
+zadowalający|ADJ|удовлетворительный
+zanieczyścić|ADJ|
+zjednoczyć|ADJ|
+źli|ADJ|
+żeński|ADJ|женский
+bezbarwny|ADJ|бесцветный, тусклый
+bezsensowny|ADJ|бессмысленный
+bojowy|ADJ|
+dębowy|ADJ|дубовый
+hartować|ADJ|
+immunologiczny|ADJ|
+lojalnościowy|ADJ|
+łazienkowy|ADJ|
+miła|ADJ|
+niełatwy|ADJ|
+nieodłączny|ADJ|неотлучный, неразделимый
+nieograniczony|ADJ|неограниченный
+nowotworowy|ADJ|
+obierać|ADJ|чистить
+ocynkować|ADJ|
+oddalać|ADJ|отдалять
+pełnoletni|ADJ|совершеннолетний
+podły|ADJ|подлый
+pozwać|ADJ|
+przywiązać|ADJ|привязать
+rozrywkowy|ADJ|
+rozwodowy|ADJ|разводный
+sprecyzować|ADJ|
+sprzedażowy|ADJ|
+średniowieczny|ADJ|средневековый
+terytorialny|ADJ|территориальный
+tętniczy|ADJ|артериальный
+wadliwy|ADJ|
+waniliowy|ADJ|ванильный
+warunkowy|ADJ|условный
+wątpliwy|ADJ|сомнительный
+wciskać|ADJ|
+widłowy|ADJ|
+widnieć|ADJ|виднеться
+wyspecjalizować|ADJ|
+wznieść|ADJ|вознести
+zakazany|ADJ|
+zerowy|ADJ|
+zezwalać|ADJ|
+adresować|ADJ|адресовать, обращаться
+banalny|ADJ|банальный
+beztroski|ADJ|безмятежный, беспечный, беззаботный
+bystry|ADJ|сообразительный, стремительный, быстрый, швыдкий
+chłodniczy|ADJ|
+chorobowy|ADJ|
+coroczny|ADJ|ежегодный, каждогодний
+dyskretny|ADJ|дискретный
+eksploatacyjny|ADJ|
+eteryczny|ADJ|
+fotowoltaiczny|ADJ|
+garażowy|ADJ|гаражный
+kompatybilny|ADJ|
+komunistyczny|ADJ|коммунистический
+majowy|ADJ|майский
+maturalny|ADJ|
+nadrzędny|ADJ|
+napędowy|ADJ|
+niemały|ADJ|
+nieoceniony|ADJ|
+niewygodny|ADJ|неудобный
+niezgodny|ADJ|несовместимый, неуживчивый
+obfity|ADJ|обильный, избыточный
+odblaskowy|ADJ|
+odpalać|ADJ|
+opuszczony|ADJ|заброшенный
+paliwowy|ADJ|топливный
+patologiczny|ADJ|патологический
+pomysłowy|ADJ|оригинальный, остроумный, изобретательный
+ponury|ADJ|мрачный, пасмурный, понурый
+poznawczy|ADJ|
+prestiżowy|ADJ|
+przełomowy|ADJ|переломный
+przyjacielski|ADJ|дружеский, дружественный, приятельский
+ruchomy|ADJ|движимый, подвижный, движущийся, передвижной, переносной, смещающийся
+samolubny|ADJ|себялюбивый
+silikonowy|ADJ|силиконовый
+słuchowy|ADJ|слуховой
+spersonalizować|ADJ|
+szeregowy|ADJ|рядовой
+ściąć|ADJ|
+śnieżny|ADJ|белоснежный, снежный
+ubezpieczyć|ADJ|
+uprzedni|ADJ|
+urzędowy|ADJ|официальный, служебный
+wegetariański|ADJ|веганский, вегетарианский
+wędkarski|ADJ|
+widokowy|ADJ|
+wieczorowy|ADJ|вечерний
+wojewódzki|ADJ|воеводский
+zaburzyć|ADJ|
+zaniedbać|ADJ|
+zatruć|ADJ|
+zgrać|ADJ|
+chwilowy|ADJ|временный
+cytrynowy|ADJ|
+czujny|ADJ|бдительный
+dostąpić|ADJ|
+dziewczęcy|ADJ|
+finałowy|ADJ|финальный
+interpersonalny|ADJ|
+irlandzki|ADJ|ирландский, ирландский гэльский
+jednoosobowy|ADJ|
+jędrny|ADJ|
+minimalistyczny|ADJ|минималистский
+montażowy|ADJ|
+naftowy|ADJ|нефтяной
+nieoczekiwany|ADJ|неожиданный
+niesprawiedliwy|ADJ|
+obrabować|ADJ|ограбить
+obraźliwy|ADJ|
+oczarować|ADJ|
+ohydny|ADJ|мерзкий, отвратительный, гадкий, уродливый
+oświetlić|ADJ|
+owinąć|ADJ|
+ówczesny|ADJ|
+pastelowy|ADJ|
+plenerowy|ADJ|пленэрный
+postojowy|ADJ|
+powalić|ADJ|
+programowy|ADJ|
+przeciwbólowy|ADJ|болеутоляющий, противоболевой
+przewiewny|ADJ|
+psi|ADJ|собачий, пси
+ratowniczy|ADJ|
+remontowy|ADJ|ремонтный
+rewolucyjny|ADJ|революционный
+sentymentalny|ADJ|сентиментальный
+smakowy|ADJ|вкусовой
+szanowny|ADJ|уважаемый
+śluzowy|ADJ|слизистый, шлюзный, шлюзовой
+terrorystyczny|ADJ|террористический
+upalny|ADJ|жаркий, знойный
+uzbierać|ADJ|
+wędzić|ADJ|коптить, коптиться
+wynagrodzić|ADJ|
+wyremontować|ADJ|
+wytrawny|ADJ|сухой
+zatłoczyć|ADJ|
+zdziwiony|ADJ|
+zgrabny|ADJ|грациозный, изящный
+żelazny|ADJ|железный
+abstrakcyjny|ADJ|абстрактный, отвлечённый
+antywirusowy|ADJ|
+bezbronny|ADJ|беззащитный
+bezglutenowy|ADJ|
+biodrowy|ADJ|бедренный, набедренный
+całodobowy|ADJ|круглосуточный
+chrzestny|ADJ|
+dietetyczny|ADJ|диетический
+dobroczynny|ADJ|благотворительный, полезный
+ekscytować|ADJ|эксцитировать
+fabryczny|ADJ|фабричный
+gościnny|ADJ|гостеприимный, хлебосольный
+hodowlany|ADJ|
+holenderski|ADJ|голландский, нидерландский
+jednodniowy|ADJ|однодневный
+jednostronny|ADJ|
+kartonowy|ADJ|
+kierowniczy|ADJ|
+krępować|ADJ|связывать
+lodowaty|ADJ|
+magisterski|ADJ|магистерский
+malarski|ADJ|живописный, малярский
+militarny|ADJ|военный
+należny|ADJ|должный
+niedozwolony|ADJ|
+nieduży|ADJ|небольшой
+nieodwracalny|ADJ|неотвратимый, необратимый
+niepełny|ADJ|неполный
+niezdrowy|ADJ|
+nowatorski|ADJ|новаторский
+ogrodzić|ADJ|огородить, оградить
+ostrzegawczy|ADJ|
+oświetleniowy|ADJ|
+palny|ADJ|огнестрельный
+permanentny|ADJ|
+płodny|ADJ|плодовитый
+poczynić|ADJ|
+ponadgimnazjalny|ADJ|
+poparzyć|ADJ|
+prymitywny|ADJ|примитивный, невежественный
+prysznicowy|ADJ|
+przeciwzapalny|ADJ|противовоспалительный
+przewidywalny|ADJ|предсказуемый
+przybliżać|ADJ|приближать, сближать
+przydomowy|ADJ|
+rezerwowy|ADJ|запасной
+skórny|ADJ|кожный
+sponsorować|ADJ|спонсировать
+spóźniony|ADJ|
+stołowy|ADJ|
+szwajcarski|ADJ|швейцарский
+śniadaniowy|ADJ|
+tekstowy|ADJ|текстовой, текстовый
+tekstylny|ADJ|
+terenowy|ADJ|
+upływać|ADJ|
+upoważnić|ADJ|
+warsztatowy|ADJ|
+wszelaki|ADJ|всякий, любой
+wybrany|ADJ|
+wyśmienity|ADJ|отличный, отменный
+wyważyć|ADJ|
+zaprogramować|ADJ|
+zoptymalizować|ADJ|
+analityczny|ADJ|аналитический
+brukowy|ADJ|
+chłonny|ADJ|
+długofalowy|ADJ|
+doradczy|ADJ|
+ekscytujący|ADJ|
+głuchy|ADJ|глухой
+hojny|ADJ|
+koncertowy|ADJ|концертный
+konserwować|ADJ|консервировать
+lity|ADJ|
+narastać|ADJ|
+nieaktualny|ADJ|
+niedobry|ADJ|
+niedorzeczny|ADJ|неуместный
+nieodpłatny|ADJ|безвозмездный
+nieskończony|ADJ|бесконечный
+niestabilny|ADJ|нестабильный
+notarialny|ADJ|нотариальный
+ogólnodostępny|ADJ|общедоступный
+ogrodniczy|ADJ|овощеводческий, огороднический
+opiekuńczy|ADJ|
+opróżnić|ADJ|
+parlamentarny|ADJ|парламентский
+pasażerski|ADJ|пассажирский
+pitny|ADJ|
+plażowy|ADJ|пляжный
+podporządkować|ADJ|
+podyplomowy|ADJ|
+porządkowy|ADJ|относиться к поддержание порядок, служба охрана общественный порядок, штраф, порядковый, распорядитель
+powoływać|ADJ|
+programować|ADJ|программировать
+prostszy|ADJ|
+prowokować|ADJ|провоцировать
+przegrany|ADJ|
+prześliczny|ADJ|
+relaksacyjny|ADJ|
+rybny|ADJ|рыбный
+samobójczy|ADJ|самоубийственный
+sosnowy|ADJ|сосновый
+sparaliżować|ADJ|
+spiąć|ADJ|скрепить
+spontaniczny|ADJ|спонтанный
+staranny|ADJ|старательный
+strukturalny|ADJ|структурный
+trawienny|ADJ|пищеварительный
+tytułowy|ADJ|
+umysłowy|ADJ|
+utrwalić|ADJ|
+uważny|ADJ|внимательный, пристальный
+wysyłkowy|ADJ|
+zaistniały|ADJ|
+zakupowy|ADJ|
+zapobiegawczy|ADJ|
+zasypać|ADJ|
+zawinąć|ADJ|
+zdominować|ADJ|превзойти
+zużyty|ADJ|
+akrylowy|ADJ|акриловый
+arogancki|ADJ|высокомерный, нахальный
+bezbolesny|ADJ|безболезненный, безбольный
+bezsilny|ADJ|бессильный, немощный
+bezwartościowy|ADJ|
+biegowy|ADJ|беговой
+ciśnieniowy|ADJ|
+cukrowy|ADJ|сахарный
+cywilizować|ADJ|цивилизовать
+czasochłonny|ADJ|времязатратный, времяёмкий
+doraźny|ADJ|временный
+dwudziesty|ADJ|двадцатый
+dziecinny|ADJ|
+dziedziczny|ADJ|
+finalny|ADJ|
+głosowy|ADJ|голосовой
+hamulcowy|ADJ|тормозной
+indukcyjny|ADJ|
+integralny|ADJ|интегральный
+kablowy|ADJ|
+kanalizacyjny|ADJ|канализационный
+kisić|ADJ|
+limitować|ADJ|
+mikrofalowy|ADJ|
+motocyklowy|ADJ|мотоциклетный
+motywacyjny|ADJ|
+niechciany|ADJ|
+niecodzienny|ADJ|
+niemiły|ADJ|немилый
+nieobecny|ADJ|отсутствующий
+niepoprawny|ADJ|неисправимый, некорректный, неучтивый
+nieprawdziwy|ADJ|неправдивый
+nieregularny|ADJ|иррегулярный, нерегулярний
+niespotykany|ADJ|
+nieszkodliwy|ADJ|безобидный, безвредный
+niewiadomy|ADJ|
+niewyobrażalny|ADJ|
+niezdolny|ADJ|неспособный
+noworoczny|ADJ|новогодний
+odwodnić|ADJ|дегидратировать
+opóźniony|ADJ|
+orzeźwiający|ADJ|
+podręczny|ADJ|
+pogwarancyjny|ADJ|
+powszedni|ADJ|повседневный
+prezydencki|ADJ|президентский
+przedświąteczny|ADJ|предпраздничный
+przewozowy|ADJ|
+przymusowy|ADJ|принудительный
+rasowy|ADJ|расовый, чистокровный
+równomierny|ADJ|равномерный
+równoznaczny|ADJ|
+ruski|ADJ|
+senny|ADJ|сонный
+słony|ADJ|солёный
+spadkowy|ADJ|
+statyczny|ADJ|статичный
+szczelny|ADJ|герметичный, непроницаемый
+ścienny|ADJ|стенной
+śmiały|ADJ|смелый, смельчак, храбрец, бесстрашный
+ujędrniać|ADJ|
+ukierunkować|ADJ|
+uzdrowić|ADJ|оздоровить
+wegański|ADJ|веганский
+wpływowy|ADJ|влиятельный
+wszechobecny|ADJ|вездесущий
+wyścigowy|ADJ|
+względny|ADJ|относительный
+zakłócić|ADJ|
+zaręczynowy|ADJ|обручальный
+zlecony|ADJ|
+zmielić|ADJ|
+zmontować|ADJ|
+zniszczony|ADJ|
+żołądkowy|ADJ|желудочный
+archiwalny|ADJ|архивный
+bezwarunkowy|ADJ|безусловный, безоговорочный
+błogosławić|ADJ|благословлять
+chora|ADJ|
+cywilizacyjny|ADJ|цивилизационный
+deklarować|ADJ|декларировать
+drzewny|ADJ|
+dwuletni|ADJ|двухгодичный, двухлетний, двухгодовалый
+dziwaczny|ADJ|странный, чудачный
+filozoficzny|ADJ|философский, философический
+frontowy|ADJ|
+gazowany|ADJ|газированный
+giętki|ADJ|гибкий
+gustowny|ADJ|
+inwazyjny|ADJ|
+istny|ADJ|
+koci|ADJ|кошачий
+konwencjonalny|ADJ|конвенционный
+koszmarny|ADJ|
+laminować|ADJ|
+litewski|ADJ|литовский, литовский язык
+malinowy|ADJ|малиновый
+młodzieńczy|ADJ|
+naciągnąć|ADJ|
+naczelny|ADJ|верховный, главный, начальный, примат
+neurologiczny|ADJ|неврологический
+nieformalny|ADJ|
+niekończący|ADJ|
+niemowlęcy|ADJ|
+nierealny|ADJ|нереальный, несбыточный
+niespokojny|ADJ|
+nietuzinkowy|ADJ|необычайный, экстраординарный
+nieznośny|ADJ|несносный, непереносимый, нестерпимый
+ortograficzny|ADJ|орфографический
+piątkowy|ADJ|пятничный
+pieczony|ADJ|печёный, запечённый
+planszowy|ADJ|
+podbijać|ADJ|
+podpiąć|ADJ|
+podrażnić|ADJ|
+pogodny|ADJ|
+pooperacyjny|ADJ|
+popychać|ADJ|
+porównywalny|ADJ|
+posiadający|ADJ|
+potworny|ADJ|ужасный, уродливый
+problematyczny|ADJ|проблематический
+procesowy|ADJ|
+przetargowy|ADJ|
+przeważający|ADJ|
+psychiatryczny|ADJ|психиатрический
+radziecki|ADJ|депутатский, советский
+renomowany|ADJ|
+rozliczeniowy|ADJ|
+roztopić|ADJ|
+rygorystyczny|ADJ|
+samoprzylepny|ADJ|
+słabnąć|ADJ|
+soczysty|ADJ|сочный
+solarny|ADJ|
+sowiecki|ADJ|советский
+strażacki|ADJ|
+sycący|ADJ|
+sylwestrowy|ADJ|
+szorstki|ADJ|колючий, шершавый
+śródziemnomorski|ADJ|средиземноморский
+targowy|ADJ|
+tarty|ADJ|
+tenisowy|ADJ|теннисный
+truskawkowy|ADJ|
+uczuciowy|ADJ|
+umorzyć|ADJ|
+upokorzyć|ADJ|
+usatysfakcjonować|ADJ|удовлетворять, удовлить, удовлять
+wrogi|ADJ|вражеский, враждебный
+wstydliwy|ADJ|
+wykształcony|ADJ|образованный
+wzmóc|ADJ|
+związkowy|ADJ|профсоюзный, союзный
+źródłowy|ADJ|
+żółciowy|ADJ|жёлчный
+biblioteczny|ADJ|библиотечный
+całoroczny|ADJ|круглогодичный
+cykliczny|ADJ|цикличный, циклический
+dedykowany|ADJ|
+dotykowy|ADJ|тактильный
+dyscyplinarny|ADJ|
+górniczy|ADJ|горный, горняцкий
+hialuronowy|ADJ|
+idiotyczny|ADJ|идиотский, идиотический, идиотичный
+ilustrować|ADJ|иллюстрировать
+imitować|ADJ|
+inwalidzki|ADJ|инвалидный
+kawalerski|ADJ|холостяцкий
+kochany|ADJ|милый
+komunijny|ADJ|
+koński|ADJ|конский
+kwantowy|ADJ|квантовый
+letniskowy|ADJ|
+lubelski|ADJ|люблинский
+łatwiejszy|ADJ|
+macierzysty|ADJ|
+masywny|ADJ|массивный
+mentalny|ADJ|ментальный
+miniaturowy|ADJ|миниатюрный
+myśliwski|ADJ|
+nieczysty|ADJ|нечистый
+nieprawdopodobny|ADJ|невероятный, немыслимый, неправдоподобный
+nieskuteczny|ADJ|
+nieświadomy|ADJ|невежественный
+niewątpliwy|ADJ|несомненный
+niezrozumiały|ADJ|непонятный
+nominować|ADJ|
+nuklearny|ADJ|
+oczny|ADJ|глазной
+odpłatny|ADJ|
+odprawić|ADJ|
+odprężać|ADJ|
+ojczysty|ADJ|родной
+opcjonalny|ADJ|
+optymistyczny|ADJ|оптимистический, оптимистичный
+oszczędny|ADJ|бережливый, экономный, экономичный
+panieński|ADJ|
+pełnowartościowy|ADJ|полноценный
+pluszowy|ADJ|плюшевый
+polarny|ADJ|полярный, полюсный
+powitalny|ADJ|
+pożarowy|ADJ|
+pożywny|ADJ|сытный
+proporcjonalny|ADJ|пропорциональный
+przecudny|ADJ|
+przetrzymywać|ADJ|
+przylegać|ADJ|прилегать
+rozbawić|ADJ|
+rozbudzić|ADJ|
+rozczarowywać|ADJ|
+sceptyczny|ADJ|скептичный
+sercowy|ADJ|
+skazić|ADJ|
+skupiony|ADJ|
+sprzętowy|ADJ|
+stopniowy|ADJ|постепенный
+świecki|ADJ|мирской, светский, мирянский, мирянин
+udusić|ADJ|удушить, утушить
+uszkodzony|ADJ|повреждённый
+uśpić|ADJ|заснуть, поддаться наркоз, уснуть, усыпить
+utwardzić|ADJ|
+warszawski|ADJ|варшавский
+wielorodzinny|ADJ|многоквартирный
+więzienny|ADJ|тюремный
+wigilijny|ADJ|
+wodociągowy|ADJ|
+wrocławski|ADJ|вроцлавский
+wykończeniowy|ADJ|
+wyluzować|ADJ|
+wyłączny|ADJ|
+wymierny|ADJ|измеримый
+wypijać|ADJ|випивать
+wypukły|ADJ|выпуклый
+wysuwać|ADJ|
+wyśmiewać|ADJ|насмехаться
+zafascynować|ADJ|
+zaokrąglić|ADJ|
+zatracić|ADJ|
+zauważalny|ADJ|
+zdezorientować|ADJ|
+zwijać|ADJ|
+austriacki|ADJ|австрийский
+bajeczny|ADJ|
+bazowy|ADJ|
+bezradny|ADJ|беспомощный
+błyskotliwy|ADJ|
+cal|ADJ|дюйм
+ciekły|ADJ|жидкий
+deweloperski|ADJ|
+dojazdowy|ADJ|
+drużynowy|ADJ|звеньевой
+dwunasty|ADJ|двенадцатый
+gotowany|ADJ|
+jaglany|ADJ|
+kaloryczny|ADJ|
+kolonialny|ADJ|колониальный
+krótkotrwały|ADJ|кратковременный
+kursować|ADJ|
+legendarny|ADJ|легендарный
+lniany|ADJ|
+metaliczny|ADJ|
+migdałowy|ADJ|
+miodowy|ADJ|медовый, медоцветный, медвяный
+mistrzowski|ADJ|чемпионский
+modułowy|ADJ|модульный
+monotonny|ADJ|монотонный
+myślowy|ADJ|
+naliczyć|ADJ|насчитать, насчитаться
+niekompletny|ADJ|некомплектный, неполный
+niemy|ADJ|немой
+nieskazitelny|ADJ|
+nieszczęsny|ADJ|
+nieuzasadniony|ADJ|неоправданный
+niewiadoma|ADJ|
+niezastąpiony|ADJ|незаменимый
+niezmienny|ADJ|бессменный, постоянный
+norweski|ADJ|норвежский
+obowiązany|ADJ|
+odczuwalny|ADJ|
+ostać|ADJ|
+ozdabiać|ADJ|украшать
+pachnący|ADJ|ароматный, благоухающий
+parterowy|ADJ|
+pasjonować|ADJ|
+płytki|ADJ|мелкий, неглубокий
+pociąć|ADJ|изрезать
+polny|ADJ|полевой
+pompować|ADJ|
+poniżać|ADJ|
+porównawczy|ADJ|сравнительный
+posłuszny|ADJ|послушный
+potrójny|ADJ|тройной
+przestępczy|ADJ|
+przygotowawczy|ADJ|приготовительный
+rockowy|ADJ|
+rozstrzelać|ADJ|
+rożny|ADJ|
+siwy|ADJ|седой, серый, сивый
+skorumpować|ADJ|
+słodzić|ADJ|
+słowacki|ADJ|словацкий
+smukły|ADJ|гибкий, стройный
+stonować|ADJ|
+szczepić|ADJ|прививать, вакцинировать
+śliski|ADJ|скользкий
+taktyczny|ADJ|тактический
+tapicerować|ADJ|
+traumatyczny|ADJ|травматический
+trzeźwy|ADJ|трезвый
+tytoniowy|ADJ|табачный
+warty|ADJ|
+weterynaryjny|ADJ|ветеринарный
+węgierski|ADJ|венгерский, мадьярский
+wjeżdżać|ADJ|въезжать
+wredny|ADJ|
+wydłużony|ADJ|продолговатый
+zabójczy|ADJ|убийственный
+zaciąć|ADJ|
+zakorzenić|ADJ|
+zamocować|ADJ|закрепить
+zwiastować|ADJ|
+antybakteryjny|ADJ|антибактериальный
+antypoślizgowy|ADJ|
+autoryzować|ADJ|
+bajkowy|ADJ|басенный
+blady|ADJ|бледный
+burzliwy|ADJ|мятежный
+całodzienny|ADJ|
+chaotyczny|ADJ|хаотичный, хаотический
+detektywistyczny|ADJ|детективный
+dotkliwy|ADJ|болезненный, мучительный, ощутимый, чувствительный
+doustny|ADJ|
+drastyczny|ADJ|жестокий, яркий, резкий, суровый
+drożdżowy|ADJ|дрожжевой
+duński|ADJ|датский, Датский
+dźgnąć|ADJ|
+eksponować|ADJ|
+energiczny|ADJ|энергичный
+etniczny|ADJ|этнический
+góralski|ADJ|гуральский
+humanistyczny|ADJ|
+ilościowy|ADJ|количественный
+kadrowy|ADJ|
+karmiony|ADJ|
+klasowy|ADJ|классный, классовый
+konsumencki|ADJ|
+kontrastowy|ADJ|
+kostny|ADJ|костяной
+kreskowy|ADJ|
+kręgowy|ADJ|
+krótkoterminowy|ADJ|краткосрочный
+kultowy|ADJ|
+laskowy|ADJ|
+małoletni|ADJ|
+marynować|ADJ|мариновать
+metaboliczny|ADJ|метаболический
+mistyczny|ADJ|мистический
+nadchodzący|ADJ|
+nędzny|ADJ|жалкий, несчастный
+niebywały|ADJ|
+niedaleki|ADJ|
+nieodzowny|ADJ|
+nieproszony|ADJ|непрошеный
+odepchnąć|ADJ|
+opatrzyć|ADJ|
+orientalny|ADJ|
+papierkowy|ADJ|бумажный
+pikantny|ADJ|пикантный, острый
+pneumatyczny|ADJ|пневматический
+poetycki|ADJ|поэтический, поэтичный
+pospolity|ADJ|обыкновенный, посполитый
+powojenny|ADJ|послевоенный
+przedsiębiorczy|ADJ|
+przekręcić|ADJ|
+przestarzały|ADJ|устаревший, старый
+przytomny|ADJ|сознательный
+regeneracyjny|ADJ|
+reprezentacyjny|ADJ|
+rokować|ADJ|
+rozpuszczalny|ADJ|растворимый
+równia|ADJ|
+różnoraki|ADJ|
+serowy|ADJ|
+skazywać|ADJ|
+szyty|ADJ|
+trzyletni|ADJ|трёхлетний
+turkusowy|ADJ|бирюзовый
+tykać|ADJ|тикать, тыкать
+upadły|ADJ|
+wnikliwy|ADJ|
+wspinaczkowy|ADJ|
+wstrętny|ADJ|отвратительный, омерзительный
+wulgarny|ADJ|вульгарный
+wyczerpany|ADJ|
+wyczuwalny|ADJ|
+wymienny|ADJ|обменный
+wymiotować|ADJ|рвать, тошнить
+wyprofilować|ADJ|
+wytyczyć|ADJ|
+zaczerpnąć|ADJ|
+zadaszyć|ADJ|
+zadbany|ADJ|
+zapoczątkować|ADJ|
+zastawić|ADJ|
+zdany|ADJ|
+zoologiczny|ADJ|зоологический
+zrównoważyć|ADJ|
+żelowy|ADJ|
+żmudny|ADJ|кропотливый
+adaptacyjny|ADJ|адаптационный, адаптивный
+aksamitny|ADJ|бархатный, бархатистый
+alfabetyczny|ADJ|алфавитный
+amatorski|ADJ|
+anatomiczny|ADJ|анатомический
+anielski|ADJ|ангельский
+antyalergiczny|ADJ|антиаллергический
+archeologiczny|ADJ|археологический
+asymetryczny|ADJ|асимметрический, асимметричный
+basenowy|ADJ|бассейновый
+blogowy|ADJ|
+bujny|ADJ|буйный
+ciekawski|ADJ|любопытный
+cukrzycowy|ADJ|диабетический
+dłużny|ADJ|
+drugorzędny|ADJ|второстепенный
+dwukrotny|ADJ|двукратный
+dyplomowy|ADJ|
+emocjonować|ADJ|
+farmakologiczny|ADJ|фармакологический
+geodezyjny|ADJ|геодезический
+golfowy|ADJ|
+gramatyczny|ADJ|грамматический
+humanitarny|ADJ|гуманный, человечный
+inżynierski|ADJ|
+jadalny|ADJ|съедобный
+jednostkowy|ADJ|единичный
+kinowy|ADJ|
+klasyfikować|ADJ|классифицировать
+klimatyzować|ADJ|
+kolanowy|ADJ|коленный
+księżycowy|ADJ|лунный
+licencjonować|ADJ|лицензировать
+maślany|ADJ|масляный
+meksykański|ADJ|мексиканский, мехиканский
+miętowy|ADJ|мятный
+mikro|ADJ|
+morderczy|ADJ|
+motoryczny|ADJ|
+mundurowy|ADJ|мундирный
+napływać|ADJ|
+napotkany|ADJ|
+nawigacyjny|ADJ|навигационный
+niedostateczny|ADJ|недостаточный, неудовлетворительный
+niegroźny|ADJ|
+niekonwencjonalny|ADJ|
+nienaruszony|ADJ|интактный
+nieodpowiedzialny|ADJ|безответственный
+niepełnoletni|ADJ|несовершеннолетний
+niewierzący|ADJ|неверующий, некресть, нехристь
+niezdecydowany|ADJ|
+nurkowy|ADJ|
+obustronny|ADJ|
+odnotowywać|ADJ|
+odosobnić|ADJ|
+okienny|ADJ|оконный
+opętać|ADJ|
+orzec|ADJ|
+osiemdziesiąty|ADJ|восьмидесятый
+osobliwy|ADJ|особенный, своеобразный
+perłowy|ADJ|
+piaszczysty|ADJ|песчаный
+piwny|ADJ|карий, пивной
+podyktować|ADJ|
+pogłębić|ADJ|
+porodowy|ADJ|
+postrzałowy|ADJ|
+powierzchowny|ADJ|
+pracochłonny|ADJ|трудоёмкий
+promienny|ADJ|
+prostokątny|ADJ|
+próżniowy|ADJ|вакуумный
+przeszklić|ADJ|
+ramowy|ADJ|
+redakcyjny|ADJ|
+retoryczny|ADJ|риторический
+rozpoznawalny|ADJ|распознаваемый
+rudy|ADJ|рыжий
+rutynowy|ADJ|
+rybacki|ADJ|рыбацкий, рыбачий, рыболовный
+rytualny|ADJ|ритуальный, обрядовый
+skalny|ADJ|скальный
+sumować|ADJ|
+szczytny|ADJ|
+szkocki|ADJ|шотландский
+tajski|ADJ|тайский
+tępy|ADJ|тупой
+toaletowy|ADJ|
+upominkowy|ADJ|
+urzekać|ADJ|
+wielebny|ADJ|
+wydawniczy|ADJ|
+wytrwały|ADJ|
+zabiegowy|ADJ|
+zakrywać|ADJ|закрывать
+zbożowy|ADJ|зерновой, хлебный
+zegarowy|ADJ|
+zeszłoroczny|ADJ|
+żeglarski|ADJ|
+żywiołowy|ADJ|
+adopcyjny|ADJ|
+analogiczny|ADJ|аналогичный, подобный
+antyseptyczny|ADJ|антисептический
+astronomiczny|ADJ|астрономический
+atopowy|ADJ|
+australijski|ADJ|австралийский
+bambusowy|ADJ|бамбуковый
+bankietowy|ADJ|банкетный
+barokowy|ADJ|барочный
+białkowy|ADJ|белочный
+białoruski|ADJ|белорусский
+błyskowy|ADJ|
+chciwy|ADJ|жадный, ненасытный
+choinkowy|ADJ|
+chrupać|ADJ|
+chudy|ADJ|худой
+czerwcowy|ADJ|июньский
+czytelniczy|ADJ|
+długoletni|ADJ|
+doliczyć|ADJ|
+dowcipny|ADJ|остроумный
+dowodowy|ADJ|
+drażliwy|ADJ|раздражающий, раздражительный, обидчивый
+dyskusyjny|ADJ|дискуссионный, спорный, сомнительный
+egzekucyjny|ADJ|
+egzekwować|ADJ|взыскание, приводить в исполнение
+elementarny|ADJ|элементарный
+giełdowy|ADJ|биржевой
+ginekologiczny|ADJ|гинекологический
+gończy|ADJ|
+gotycki|ADJ|готический
+gromki|ADJ|
+hipoalergiczny|ADJ|
+imienny|ADJ|
+improwizować|ADJ|импровизировать
+jedwabny|ADJ|шёлковый
+kalendarzowy|ADJ|
+kapitałowy|ADJ|
+karnawałowy|ADJ|карнавальный
+kempingowy|ADJ|
+kleić|ADJ|врубаться, клеить
+kojący|ADJ|
+kolekcjonerski|ADJ|коллекционерский
+konfigurować|ADJ|конфигурировать
+konsekwentny|ADJ|последовательный
+konserwatywny|ADJ|консервативный, правый
+koreański|ADJ|корейский
+korzeniowy|ADJ|
+krystaliczny|ADJ|
+kryty|ADJ|
+krzywy|ADJ|кривой
+lewicowy|ADJ|левый
+ligowy|ADJ|
+liściasty|ADJ|лиственный, листовой
+łaciński|ADJ|латинский
+łańcuchowy|ADJ|цепной
+meblowy|ADJ|мебельный
+międzywojenny|ADJ|междувоенный
+milutki|ADJ|смазливый
+murować|ADJ|муровать
+nazębny|ADJ|
+nerkowy|ADJ|почечный
+niecierpliwy|ADJ|нетерпеливый
+nieczynny|ADJ|
+niejasny|ADJ|непонятный, неясный
+nieprzewidziany|ADJ|
+nieprzytomny|ADJ|
+nierozłączny|ADJ|
+nieużywany|ADJ|
+niewystarczający|ADJ|недостаточный
+niezauważony|ADJ|
+niezmieniony|ADJ|
+nurtować|ADJ|
+odejmować|ADJ|
+odzieżowy|ADJ|одёжный
+okazały|ADJ|величественный, впечатляющий, внушительный
+opatentować|ADJ|
+piekielny|ADJ|адский
+poglądowy|ADJ|
+porcelanowy|ADJ|фарфоровый
+portowy|ADJ|портовый, гаванский
+prawomocny|ADJ|
+priorytetowy|ADJ|
+produktywny|ADJ|
+przesadny|ADJ|
+przesuwny|ADJ|
+przeszkolić|ADJ|
+przygodowy|ADJ|авантюрный, приключенческий
+przytłoczyć|ADJ|
+przyziemny|ADJ|
+ptasi|ADJ|птицеобразный, птицеподобный, птичий
+punktualny|ADJ|пунктуальный
+referencyjny|ADJ|
+rzekomy|ADJ|мнимый, кажущийся, ложный
+rzemieślniczy|ADJ|ремесленный
+satynowy|ADJ|
+schnąć|ADJ|
+silnikowy|ADJ|
+solny|ADJ|соляной
+spiskowy|ADJ|
+spocić|ADJ|
+spotykany|ADJ|
+stanowy|ADJ|
+starty|ADJ|
+sterujący|ADJ|
+szachowy|ADJ|шахматный
+szykowny|ADJ|
+śmieciowy|ADJ|мусорный
+termowizyjny|ADJ|
+toruński|ADJ|
+transferowy|ADJ|
+trujący|ADJ|ядовитый
+ultradźwiękowy|ADJ|ультразвуковой
+uporczywy|ADJ|упрямый
+uprowadzić|ADJ|похитить
+urokliwy|ADJ|
+wielkopolski|ADJ|великопольский
+wokalny|ADJ|вокальный
+wpisowy|ADJ|
+wręczać|ADJ|вручать
+wsteczny|ADJ|обратный, реакционный
+wścibski|ADJ|
+wyeksponować|ADJ|
+wymalować|ADJ|
+wynegocjować|ADJ|
+wyrozumiały|ADJ|снисходительный
+zadłużony|ADJ|
+zakonny|ADJ|монашеский
+zamieszkały|ADJ|обитаемый
+zamszowy|ADJ|
+zapchać|ADJ|
+zaprzeć|ADJ|
+zasuwać|ADJ|шпарить
+zawstydzić|ADJ|
+zdeterminować|ADJ|
+zrelaksowany|ADJ|
+zwarty|ADJ|смычный, сплочённый, плотный
+żenować|ADJ|
+żerować|ADJ|
+adresowy|ADJ|адресный
+animowany|ADJ|
+autystyczny|ADJ|аутистический, аутистичный, аутический
+babski|ADJ|бабий
+belgijski|ADJ|бельгийский
+bożonarodzeniowy|ADJ|рождественский
+bólowy|ADJ|болевой
+bułgarski|ADJ|болгарский, болгарский язык
+całościowy|ADJ|холистический
+chromować|ADJ|хромировать
+comiesięczny|ADJ|ежемесячный
+decydujący|ADJ|решающий, определяющий
+demograficzny|ADJ|демографический
+destrukcyjny|ADJ|разрушительный, деструктивный
+doglądać|ADJ|
+dogłębny|ADJ|
+dokumentalny|ADJ|документальный
+drapieżny|ADJ|хищный
+dyniowy|ADJ|тыквенный
+dziewiczy|ADJ|
+egipski|ADJ|египетский
+eksploatować|ADJ|
+fenomenalny|ADJ|феноменальный
+frustrować|ADJ|
+glikemiczny|ADJ|
+grzybiczy|ADJ|
+homeopatyczny|ADJ|гомеопатический
+imprezowy|ADJ|
+industrialny|ADJ|индустриальный
+instalacyjny|ADJ|
+irracjonalny|ADJ|иррациональный
+jadowity|ADJ|ядовитый, ядоносный
+jelitowy|ADJ|кишечный
+jubileuszowy|ADJ|юбилейный
+kanałowy|ADJ|
+kierunkowy|ADJ|
+klarowny|ADJ|
+kominkowy|ADJ|
+koronkowy|ADJ|
+kupowany|ADJ|
+leasingowy|ADJ|
+lekkomyślny|ADJ|легкомысленный, ветреный
+licencjacki|ADJ|
+łaskawy|ADJ|
+łowiecki|ADJ|
+menstruacyjny|ADJ|менструальный
+mięciutki|ADJ|мягонький
+mroźny|ADJ|морозный
+muzealny|ADJ|музейный
+mydlany|ADJ|мыльный
+mylny|ADJ|ошибочный
+nadzorczy|ADJ|
+nakryć|ADJ|
+napinać|ADJ|
+narożny|ADJ|угловой
+nawodnić|ADJ|
+neuronowy|ADJ|
+nieistotny|ADJ|мелкий, незначительный, ничтожный
+nienaganny|ADJ|безукоризненный, безупречный
+nietoksyczny|ADJ|нетоксичный
+nieustający|ADJ|непрестанный
+niewdzięczny|ADJ|неблагодарный
+niezobowiązujący|ADJ|
+niezręczny|ADJ|
+nikczemny|ADJ|подлый
+obrazowy|ADJ|образный
+obwodowy|ADJ|областной
+oddalony|ADJ|
+odurzający|ADJ|
+okazjonalny|ADJ|окказиональный
+okazyjny|ADJ|
+onkologiczny|ADJ|онкологический
+opodatkować|ADJ|обложить налог
+ortopedyczny|ADJ|ортопедический
+osolić|ADJ|
+oszczędnościowy|ADJ|сберегательный
+pełen|ADJ|полон
+piętrowy|ADJ|
+płacowy|ADJ|
+pobożny|ADJ|набожный
+poderżnąć|ADJ|
+podeszły|ADJ|
+podskórny|ADJ|подкожный
+podstępny|ADJ|коварный
+podwieszać|ADJ|
+pokazowy|ADJ|
+pokładowy|ADJ|
+polecony|ADJ|
+poliuretanowy|ADJ|
+polowy|ADJ|полевой
+popieprzyć|ADJ|поперчить
+poprzedzić|ADJ|
+potoczny|ADJ|разговорный
+pozamykać|ADJ|
+progresywny|ADJ|прогрессивный
+proszkowy|ADJ|
+przebiegły|ADJ|хитрый, коварный
+przeciwdeszczowy|ADJ|
+przemiły|ADJ|
+pszenny|ADJ|пшеничный
+randkowy|ADJ|
+rażący|ADJ|
+rozprawiać|ADJ|
+rozrodczy|ADJ|
+sensacyjny|ADJ|
+sklasyfikować|ADJ|классифицировать
+słowiański|ADJ|славянский
+służący|ADJ|служащий
+solowy|ADJ|
+spawalniczy|ADJ|
+spokrewnić|ADJ|
+stanowczy|ADJ|решительный
+stołeczny|ADJ|столичный
+stopniować|ADJ|
+straszliwy|ADJ|страшный
+szkieletowy|ADJ|скелетный
+szurnąć|ADJ|шаркнуть, шмыгнуть
+teleinformatyczny|ADJ|
+tlenowy|ADJ|кислородный
+transgraniczny|ADJ|
+ulokować|ADJ|
+umiarkować|ADJ|
+umowny|ADJ|
+upragniony|ADJ|желанный
+uzupełniający|ADJ|
+widowiskowy|ADJ|захватывающий, зрительный
+wieńcowy|ADJ|
+wierzchni|ADJ|верхний
+wietnamski|ADJ|вьетнамский
+windykacyjny|ADJ|
+wiśniowy|ADJ|вишнёвый
+wołowy|ADJ|воловий, говяжий
+wschodzić|ADJ|восходить, всходить, начинаться
+wybielić|ADJ|
+wyjazdowy|ADJ|
+wzorowy|ADJ|
+zakładowy|ADJ|
+zakodować|ADJ|
+zamożny|ADJ|богатый, зажиточный, состоятельный
+zaniedbywać|ADJ|
+zaraźliwy|ADJ|
+zarozumiały|ADJ|заносчивый, самоуверенный
+zasadny|ADJ|
+zbity|ADJ|
+zwiewny|ADJ|
+zwisać|ADJ|
+absorbować|ADJ|абсорбировать
+adwokacki|ADJ|адвокатский
+antywłamaniowy|ADJ|
+apetyczny|ADJ|аппетитный
+atestować|ADJ|
+aukcyjny|ADJ|аукционный
+bezczelny|ADJ|бессовестный, наглый, нахальный
+bezlitosny|ADJ|беспощадный, безжалостный
+bezludny|ADJ|безлюдный, необитаемый
+bezmyślny|ADJ|бездумный, бессмысленный
+bezstronny|ADJ|беспристрастный, нелицеприятный
+binarny|ADJ|бинарный
+bliźniaczy|ADJ|
+brzuszny|ADJ|брюшной, абдоминальный
+cateringowy|ADJ|
+cotygodniowy|ADJ|еженедельный
+cywilnoprawny|ADJ|
+czternasty|ADJ|четырнадцатый
+decyzyjny|ADJ|решающий
+diabelski|ADJ|дьявольский, бесовский
+diamentowy|ADJ|алмазный
+doktorancki|ADJ|докторантский
+domniemany|ADJ|
+dosłowny|ADJ|дословный, буквальный
+dostateczny|ADJ|достаточный
+doświadczalny|ADJ|опытный, экспериментальный
+dyspozycyjny|ADJ|
+działowy|ADJ|
+dziennikarski|ADJ|журналистский
+dziurawy|ADJ|дырявый
+egzaminacyjny|ADJ|экзаменационный
+eksperymentalny|ADJ|
+elitarny|ADJ|элитарный
+gaśniczy|ADJ|
+geometryczny|ADJ|геометрический
+gipsowy|ADJ|гипсовый
+górować|ADJ|
+indiański|ADJ|индейский
+interdyscyplinarny|ADJ|междисциплинарный
+ironiczny|ADJ|иронический
+jaskrawy|ADJ|яркий
+jazzowy|ADJ|джазовый
+jedenasty|ADJ|одиннадцатый
+jeździecki|ADJ|
+jubilerski|ADJ|ювелирный
+juter|ADJ|
+katastrofalny|ADJ|
+kieszonkowy|ADJ|карманный
+kilkudniowy|ADJ|
+klonowy|ADJ|кленовый
+koloński|ADJ|кёльнский, одеколонный
+komunikatywny|ADJ|
+korespondencyjny|ADJ|дистантный, корреспондентский
+krakowski|ADJ|краковский
+krokowy|ADJ|
+kryształowy|ADJ|
+krzyżowy|ADJ|
+kucharski|ADJ|
+lądowy|ADJ|наземный, сухопутный
+legislacyjny|ADJ|
+leżący|ADJ|лежащий
+lędźwiowy|ADJ|
+lękowy|ADJ|
+licowy|ADJ|
+limfatyczny|ADJ|лимфатический
+linowy|ADJ|канатный
+liturgiczny|ADJ|литургический
+londyński|ADJ|лондонский
+lubuski|ADJ|
+łódzki|ADJ|лодзинский
+menedżerski|ADJ|менеджерский
+mglisty|ADJ|туманный
+mierzalny|ADJ|измеримый
+miesiączkowy|ADJ|менструальный
+młodociany|ADJ|
+muszkatołowy|ADJ|
+naczyniowy|ADJ|сосудистый
+nadwrażliwy|ADJ|
+namacalny|ADJ|
+namiętny|ADJ|горячий, страстный
+namiotowy|ADJ|палаточный
+naoczny|ADJ|
+nasączyć|ADJ|
+nastoletni|ADJ|
+nastrojowy|ADJ|уютный
+nieaktywny|ADJ|
+nieciekawy|ADJ|
+niedługi|ADJ|
+niedojrzały|ADJ|зелёный, незрелый, неспелый
+niefortunny|ADJ|
+niepodważalny|ADJ|неуязвимый, неопровержимый
+niesprzyjający|ADJ|
+niestosowny|ADJ|
+nietknięty|ADJ|девственный, в первоначальном состоянии, нетронутый, интактный
+nietrzeźwy|ADJ|нетрезвый
+niskokaloryczny|ADJ|малокалорийный
+normalizować|ADJ|
+nośny|ADJ|
+nowiutki|ADJ|
+nowojorski|ADJ|нью-йоркский
+obcisły|ADJ|тесный, обтягивающий
+obyczajowy|ADJ|
+odwieczny|ADJ|извечный, изначальный, исконный
+odżywić|ADJ|
+opałowy|ADJ|
+oszałamiać|ADJ|
+oślepiać|ADJ|
+pajęczy|ADJ|паучий, паутинный
+pięcioletni|ADJ|пятилетний
+pochmurny|ADJ|пасмурный
+poirytować|ADJ|
+pojemny|ADJ|
+pokaźny|ADJ|
+portugalski|ADJ|португальский
+poślubny|ADJ|
+pourazowy|ADJ|
+prądotwórczy|ADJ|
+preferencyjny|ADJ|
+proekologiczny|ADJ|
+prostopadły|ADJ|перпендикулярный, ортогональный
+przeciwbakteryjny|ADJ|антибактериальный
+przekreślić|ADJ|
+przesuszyć|ADJ|
+przychylny|ADJ|доброжелательный
+przygnębiać|ADJ|
+przygnębić|ADJ|
+przypinać|ADJ|прикалывать, пристёгивать
+pulsować|ADJ|пульсировать
+punktować|ADJ|
+punktowy|ADJ|
+pustynny|ADJ|пустынный
+rajski|ADJ|райский
+refundować|ADJ|
+regulacyjny|ADJ|регуляционный
+rekordowy|ADJ|рекордный
+rozlać|ADJ|
+rozpędzić|ADJ|
+rozważny|ADJ|осмотрительный
+równoważny|ADJ|эквивалентный, равносильный
+rumuński|ADJ|румынский
+rycynowy|ADJ|
+samowystarczalny|ADJ|самодостаточный
+sceniczny|ADJ|сценический
+schludny|ADJ|опрятный
+sfinalizować|ADJ|
+słodziutki|ADJ|сладенький
+słyszalny|ADJ|слышный
+smakowity|ADJ|вкусный
+spalinowy|ADJ|
+sporny|ADJ|спорный
+sprężyć|ADJ|
+spuchnąć|ADJ|
+starczy|ADJ|старческий, старушечий
+stawowy|ADJ|
+sterylny|ADJ|
+stolarski|ADJ|столярный
+stromy|ADJ|крутой
+studyjny|ADJ|
+szczytowy|ADJ|
+szklisty|ADJ|стекловидный
+śpiący|ADJ|
+świński|ADJ|свинский
+tarczowy|ADJ|
+teleadresowy|ADJ|
+trądzikowy|ADJ|
+trekkingowy|ADJ|
+trójwymiarowy|ADJ|трёхмерный
+trywialny|ADJ|тривиальный
+uniewinnić|ADJ|
+upokarzać|ADJ|унижать, унижаться
+upośledzić|ADJ|
+uprawniony|ADJ|
+uprawny|ADJ|возделываемый, культурный
+uspokajający|ADJ|
+użyty|ADJ|
+walny|ADJ|решающий
+webowy|ADJ|
+wełniany|ADJ|шерстяной
+witalny|ADJ|
+włosowy|ADJ|
+wulkaniczny|ADJ|вулканический
+wyborny|ADJ|отличный
+wydalać|ADJ|выделять, исключать
+wygnać|ADJ|
+wylotowy|ADJ|
+wymowny|ADJ|
+zachowawczy|ADJ|консервативный
+zacienić|ADJ|
+zakrwawić|ADJ|
+zamaskować|ADJ|
+zaniedbany|ADJ|
+zapuścić|ADJ|
+zarobkowy|ADJ|
+zaufany|ADJ|
+zawstydzać|ADJ|
+zbiorczy|ADJ|
+zdeterminowany|ADJ|
+zdumiony|ADJ|
+zepchnąć|ADJ|
+zestresować|ADJ|
+zębowy|ADJ|зубной
+zgiąć|ADJ|согнуть
+zjawiskowy|ADJ|
+złocisty|ADJ|
+zmodernizować|ADJ|
+znikomy|ADJ|мизерный, незначительный, ничтожный
+zsynchronizować|ADJ|синхронизировать
+zszokować|ADJ|
+zszywać|ADJ|
+adwentowy|ADJ|
+alarmować|ADJ|алармировать
+alkaliczny|ADJ|щелочной
+aplikacyjny|ADJ|
+bezgraniczny|ADJ|необъятный, безграничный, беспредельный
+bezterminowy|ADJ|бессрочный
+biometryczny|ADJ|
+błogosławiony|ADJ|благословенный, блаженный
+bombowy|ADJ|бомбовый
+bratni|ADJ|братский
+brunatny|ADJ|коричневый
+buddyjski|ADJ|буддийский, буддистский
+burzowy|ADJ|грозовой
+charyzmatyczny|ADJ|харизматический
+chlewny|ADJ|
+chwalebny|ADJ|похвальный
+cięty|ADJ|
+cyniczny|ADJ|циничный, кинический, цинический
+doktorski|ADJ|докторский
+dwudniowy|ADJ|двухдневный
+dwutygodniowy|ADJ|двухнедельный
+dyplomatyczny|ADJ|дипломатический
+dystrybuować|ADJ|
+ewolucyjny|ADJ|эволюционный
+geologiczny|ADJ|геологический
+grafitowy|ADJ|графитный, графитовый
+grawitacyjny|ADJ|гравитационный
+grubi|ADJ|
+grupować|ADJ|
+harmonijny|ADJ|гармоничный
+hazardowy|ADJ|азартный
+identyfikacyjny|ADJ|идентификационный
+ideologiczny|ADJ|идеологический
+izolacyjny|ADJ|
+jezdny|ADJ|
+kapłański|ADJ|
+kilkugodzinny|ADJ|
+klimatyzacyjny|ADJ|
+kolarski|ADJ|велосипедный
+komediowy|ADJ|
+komplementarny|ADJ|
+koncepcyjny|ADJ|
+konserwacyjny|ADJ|
+konsolidacyjny|ADJ|
+kozi|ADJ|козий
+krajobrazowy|ADJ|
+kukurydziany|ADJ|кукурузный
+kulisty|ADJ|шаровой
+kuloodporny|ADJ|пуленепробиваемый
+lakierniczy|ADJ|
+lekcyjny|ADJ|лекционный, урочный
+liberalny|ADJ|либеральный
+liczbowy|ADJ|цифровой
+lokatorski|ADJ|
+lubiany|ADJ|
+łzawić|ADJ|
+marokański|ADJ|марокканский
+materiałowy|ADJ|
+miedziany|ADJ|медный
+migowy|ADJ|
+mizerny|ADJ|
+nabywczy|ADJ|
+nadmorski|ADJ|приморский
+nadziewać|ADJ|фаршировать, натыкаться
+nagromadzić|ADJ|
+nasienny|ADJ|
+nasłonecznić|ADJ|
+nauczycielski|ADJ|учительский
+nawiedzić|ADJ|
+nawilżyć|ADJ|
+naziemny|ADJ|
+niedokończony|ADJ|
+niekomercyjny|ADJ|
+niekompetentny|ADJ|
+nieoczywisty|ADJ|
+nieodparty|ADJ|
+niepowołany|ADJ|
+niepozorny|ADJ|непримечательный
+nieprzemakalny|ADJ|непромокаемый
+nieprzerwany|ADJ|безостановочный, беспрерывный, непрестанный
+niepubliczny|ADJ|
+niewskazany|ADJ|
+nieznaczny|ADJ|
+niezwyciężony|ADJ|непобедимый, непобеждённый
+nikły|ADJ|
+nominalny|ADJ|
+nominowany|ADJ|
+noworodkowy|ADJ|
+numerować|ADJ|нумеровать
+numeryczny|ADJ|
+obłożyć|ADJ|
+obrobić|ADJ|
+obrzezać|ADJ|совершить обрезание
+obserwacyjny|ADJ|наблюдательный, обсервационный
+oburzyć|ADJ|
+ocalały|ADJ|
+ocieplony|ADJ|
+odgromowy|ADJ|
+odkażać|ADJ|
+odroczyć|ADJ|
+odseparować|ADJ|
+odszkodowawczy|ADJ|
+ognisty|ADJ|
+ogólnopolski|ADJ|
+ojcowski|ADJ|
+okaleczyć|ADJ|
+okręgowy|ADJ|
+okryć|ADJ|
+olejny|ADJ|
+opolski|ADJ|
+osiągalny|ADJ|достижимый
+owalny|ADJ|
+pamięciowy|ADJ|
+panoramiczny|ADJ|панорамный
+parszywy|ADJ|паршивый
+paryski|ADJ|парижский
+paszportowy|ADJ|
+październikowy|ADJ|октябрьский
+pełnoziarnisty|ADJ|
+pieprzowy|ADJ|перцовый
+piętnasty|ADJ|пятнадцатый
+pilotażowy|ADJ|
+pilotować|ADJ|
+pirotechniczny|ADJ|пиротехнический
+pływacki|ADJ|
+pochopny|ADJ|
+podkarpacki|ADJ|подкарпатский
+podniecić|ADJ|
+podświetlić|ADJ|
+polubowny|ADJ|
+ponawiać|ADJ|
+programistyczny|ADJ|
+przebyty|ADJ|
+przedostatni|ADJ|предпоследний
+przedwojenny|ADJ|
+przetwórczy|ADJ|
+przysłowiowy|ADJ|пословичный
+przyszłościowy|ADJ|
+pudrowy|ADJ|
+purpurowy|ADJ|пурпурный, пурпуровый
+rakietowy|ADJ|ракетный
+rakowy|ADJ|раковый
+razowy|ADJ|цельнозерновой
+rejonowy|ADJ|районный
+renesansowy|ADJ|ренессансный
+restauracyjny|ADJ|ресторанный
+romański|ADJ|романский
+rozcieńczyć|ADJ|
+ruchliwy|ADJ|подвижный
+rustykalny|ADJ|
+sakralny|ADJ|сакральный
+sąsiadować|ADJ|соседствовать
+sąsiedzki|ADJ|соседский
+secesyjny|ADJ|
+selektywny|ADJ|
+sensoryczny|ADJ|сенсорный
+setny|ADJ|сотый
+siedemdziesiąty|ADJ|семидесятый
+skandaliczny|ADJ|скандальный
+składowy|ADJ|
+skryć|ADJ|
+smoczy|ADJ|
+socjalistyczny|ADJ|социалистический
+spadochronowy|ADJ|парашютный
+spłoszyć|ADJ|вспугнуть
+staromodny|ADJ|старомодный, старосветский
+staropolski|ADJ|
+sufitowy|ADJ|
+sumienny|ADJ|добросовестный
+szpiegowski|ADJ|шпионский
+śladowy|ADJ|
+ślepa|ADJ|
+śnieżnobiały|ADJ|белоснежный
+tekturowy|ADJ|картонный
+tolerancyjny|ADJ|толерантный
+trójkątny|ADJ|треугольный
+trzydziesty|ADJ|тридцатый
+trzyosobowy|ADJ|
+uczesać|ADJ|
+uleczalny|ADJ|
+upokarzający|ADJ|
+urlopowy|ADJ|
+utlenić|ADJ|
+uzasadniony|ADJ|обоснованный
+uzdrowiskowy|ADJ|курортный
+warstwowy|ADJ|слоистый
+wirusowy|ADJ|вирусный
+wjazdowy|ADJ|въездной
+wrześniowy|ADJ|сентябрьский
+wspomagający|ADJ|
+wybredny|ADJ|разборчивый
+wygórowany|ADJ|чрезмерный
+wykwintny|ADJ|утончённый, изысканный, изящный
+wypchać|ADJ|
+wypiekać|ADJ|
+wysypać|ADJ|
+wyszczególnić|ADJ|
+wywiązywać|ADJ|
+zadłużyć|ADJ|
+zagmatwać|ADJ|
+zaległy|ADJ|
+zamiatać|ADJ|
+zaniechać|ADJ|воздержаться, перестать, бросать
+zapinany|ADJ|
+zaradny|ADJ|
+zatykać|ADJ|заслонять, затыкать
+zbilansować|ADJ|
+zgubny|ADJ|гибельный, губителен, губительный, пагубен
+zwięzły|ADJ|ёмкий
+adaptować|ADJ|адаптировать, адаптироваться, приспособлять
+anafilaktyczny|ADJ|
+anglojęzyczny|ADJ|англоговорящий, англоязычный
+arachidowy|ADJ|арахисовый
+argentyński|ADJ|аргентинский
+arytmetyczny|ADJ|арифметический
+bagażowy|ADJ|багажный, носильщик
+balkonowy|ADJ|балконный
+bezbłędny|ADJ|безошибочный
+bezcelowy|ADJ|бесцельный
+bezduszny|ADJ|бездушный
+bezgotówkowy|ADJ|безналичный, безденежный
+bezinteresowny|ADJ|бескорыстный
+bezkarny|ADJ|безнаказанный
+bezstresowy|ADJ|
+bezzapachowy|ADJ|
+bezzwrotny|ADJ|
+blednąć|ADJ|бледнеть
+błahy|ADJ|ничтожный
+bokserski|ADJ|боксёрский
+bolszewicki|ADJ|большевистский
+brazylijski|ADJ|бразильский
+brzozowy|ADJ|берёзовый
+butelkować|ADJ|
+chromowany|ADJ|
+cieniutki|ADJ|
+cieplutki|ADJ|
+czarodziejski|ADJ|волшебный, чародейский
+czosnkowy|ADJ|чесночный
+czteroosobowy|ADJ|
+czwartkowy|ADJ|четверговый
+dodatni|ADJ|положительный
+doniczkowy|ADJ|
+dożywotni|ADJ|пожизненный
+drażniący|ADJ|
+dwujęzyczny|ADJ|двуязычный
+dwupokojowy|ADJ|двухкомнатный
+dyskryminować|ADJ|дискриминировать
+działkowy|ADJ|
+ekscentryczny|ADJ|эксцентричный
+emerytować|ADJ|
+energetyzować|ADJ|
+fabularny|ADJ|
+filcowy|ADJ|фетровый
+fluorescencyjny|ADJ|флюоресцентный
+franczyzowy|ADJ|
+galowy|ADJ|
+godzinny|ADJ|часовой
+gruziński|ADJ|грузинский
+grzeszny|ADJ|грешный
+gwiazdkowy|ADJ|
+hałaśliwy|ADJ|громкий, шумный
+haniebny|ADJ|
+hollywoodzki|ADJ|голливудский
+inspirujący|ADJ|
+instruktażowy|ADJ|
+interwencyjny|ADJ|интервенционный
+irański|ADJ|иранский
+jajeczny|ADJ|яичный
+jałowy|ADJ|стерильный
+kaflowy|ADJ|
+kajakowy|ADJ|
+kamienisty|ADJ|каменистый
+kapitalny|ADJ|
+kasowy|ADJ|
+klarować|ADJ|
+klejony|ADJ|
+kolosalny|ADJ|
+konsumpcyjny|ADJ|потребительский
+kontrastować|ADJ|
+koślawy|ADJ|кривой
+kwiecisty|ADJ|
+lateksowy|ADJ|
+laurowy|ADJ|
+licealny|ADJ|лицейский
+liczebny|ADJ|
+listopadowy|ADJ|ноябрьский
+łysy|ADJ|лысый
+makabryczny|ADJ|ужасный, чудовищный, макабрический
+meteorologiczny|ADJ|метеорологический
+metodyczny|ADJ|методичный
+migracyjny|ADJ|
+mityczny|ADJ|мифический
+modernizacyjny|ADJ|
+monetarny|ADJ|монетарный
+monochromatyczny|ADJ|монохроматический, монохромный
+nachalny|ADJ|нахальный
+naciowy|ADJ|
+nadarzać|ADJ|
+niedokrwienny|ADJ|ишемический
+niedrogi|ADJ|
+nieleczony|ADJ|
+nieludzki|ADJ|бесчеловечный
+niematerialny|ADJ|нематериальный
+nieoficjalny|ADJ|неофициальный
+nieosiągalny|ADJ|недосягаемый
+niepoważny|ADJ|
+nieruchomy|ADJ|неподвижный, недвижимый
+niewymagający|ADJ|
+niewytłumaczalny|ADJ|необъяснимый
+niezadowalający|ADJ|
+nieziemski|ADJ|
+nijaki|ADJ|никакой, средний
+niszczący|ADJ|
+obliczeniowy|ADJ|
+obojętni|ADJ|
+obozowy|ADJ|
+obsesyjny|ADJ|
+ocieplić|ADJ|
+odkrywczy|ADJ|
+odręczny|ADJ|
+odwoławczy|ADJ|
+okrętowy|ADJ|
+okulistyczny|ADJ|офтальмологический
+opakować|ADJ|
+osiemnasty|ADJ|восемнадцатый
+oświecić|ADJ|
+otyły|ADJ|полный, толстый, тучный
+owczy|ADJ|овечий
+pałacowy|ADJ|дворцовый
+paranormalny|ADJ|
+parzysty|ADJ|парный, чётный
+perfumować|ADJ|
+piaskowy|ADJ|песочный, песчаный
+pielęgniarski|ADJ|
+plenarny|ADJ|пленарный
+płomienny|ADJ|
+poboczny|ADJ|
+podpiwniczyć|ADJ|
+pogrupować|ADJ|
+pojmać|ADJ|
+pokorny|ADJ|покорный
+ponadnarodowy|ADJ|наднациональный
+poniedziałkowy|ADJ|понедельничный
+poniżyć|ADJ|
+poranić|ADJ|
+poważać|ADJ|
+powierzchniowy|ADJ|поверхностный
+powtórny|ADJ|
+powypadkowy|ADJ|
+pozalekcyjny|ADJ|
+pozycyjny|ADJ|
+półroczny|ADJ|полугодичный, полугодовой, полугодовалый
+prenatalny|ADJ|
+przeciwzmarszczkowy|ADJ|
+przecudowny|ADJ|
+przeładować|ADJ|
+przeuroczy|ADJ|
+przewodowy|ADJ|
+przeźroczysty|ADJ|
+przygnębiony|ADJ|подавленный, удрученный
+przykręcać|ADJ|
+przyswajalny|ADJ|
+radiologiczny|ADJ|радиологический
+ratalny|ADJ|
+rentgenowski|ADJ|рентгеновский
+rozciągliwy|ADJ|
+rozdrażnić|ADJ|
+rozdzielczy|ADJ|
+rozpracować|ADJ|
+równorzędny|ADJ|
+różowaty|ADJ|
+rysunkowy|ADJ|
+rześki|ADJ|свежий
+rzeźbić|ADJ|ваять
+siatkowy|ADJ|
+składowa|ADJ|слагаемое
+skupować|ADJ|
+słuchawkowy|ADJ|
+smoleński|ADJ|смоленский
+spedycyjny|ADJ|
+spłukany|ADJ|
+staroświecki|ADJ|старозаветный, старосветский
+strzelecki|ADJ|
+stylistyczny|ADJ|стилистический
+swędzić|ADJ|зудеть, чесаться
+syberyjski|ADJ|сибирский
+symetryczny|ADJ|симметрический, симметричный
+sypki|ADJ|
+szyjny|ADJ|
+ścierny|ADJ|абразивный, абразионный
+światłowodowy|ADJ|
+tajemny|ADJ|тайный
+tandetny|ADJ|
+tchórzliwy|ADJ|трусливый
+tętnić|ADJ|пульсировать
+toksykologiczny|ADJ|токсикологический
+transakcyjny|ADJ|
+transparentny|ADJ|
+troskliwy|ADJ|заботливый
+trzcinowy|ADJ|тростниковый
+trzynasty|ADJ|тринадцатый
+tytanowy|ADJ|титановый
+ubiegłoroczny|ADJ|прошлогодний
+uciskać|ADJ|жать
+ufundować|ADJ|
+ujednolicić|ADJ|
+ulewny|ADJ|ливневый, проливной
+umiejętny|ADJ|умелый
+umyślny|ADJ|
+unieszkodliwić|ADJ|обезвредить
+upadłościowy|ADJ|
+upraszczać|ADJ|сокращать, упрощать
+uradować|ADJ|
+uzależniony|ADJ|
+uziemić|ADJ|заземлить
+walentynkowy|ADJ|
+wdrożeniowy|ADJ|
+wektorowy|ADJ|векторный
+welurowy|ADJ|велюровый
+wentylować|ADJ|
+wiatrowy|ADJ|ветровой
+wibracyjny|ADJ|
+wielkoformatowy|ADJ|
+wieloosobowy|ADJ|
+wieprzowy|ADJ|
+wkomponować|ADJ|
+własnościowy|ADJ|
+wtorkowy|ADJ|вторничный
+wtryskowy|ADJ|
+wycieczkowy|ADJ|экскурсионный
+wykonalny|ADJ|выполнимый
+wymyślny|ADJ|
+wysokogatunkowy|ADJ|высококачественный
+wytłoczyć|ADJ|
+wytworny|ADJ|грациозный, изящный, тонкий
+wzorcowy|ADJ|
+zaciszny|ADJ|
+zagorzały|ADJ|
+zamężny|ADJ|
+zamkowy|ADJ|
+zaoczny|ADJ|
+zardzewiały|ADJ|ржавый
+zasiać|ADJ|
+zaszyfrować|ADJ|
+zatrzymany|ADJ|
+zawziąć|ADJ|
+zażenować|ADJ|
+zbytni|ADJ|
+zdeponować|ADJ|
+ześwirować|ADJ|
+zgniły|ADJ|скапан, гнилой
+zirytować|ADJ|
+zobligować|ADJ|
+zwyczajowy|ADJ|
+żądany|ADJ|
+alimentacyjny|ADJ|алиментный
+ambulatoryjny|ADJ|амбулаторный
+anaboliczny|ADJ|
+antenowy|ADJ|
+antydepresyjny|ADJ|
+apelacyjny|ADJ|
+astralny|ADJ|
+autokarowy|ADJ|
+ażurowy|ADJ|ажурный
+behawioralny|ADJ|
+błotny|ADJ|
+bohaterski|ADJ|геройский
+bordowy|ADJ|бордовый
+budyniowy|ADJ|
+bukmacherski|ADJ|
+bukowy|ADJ|буковый
+buszować|ADJ|
+certyfikacyjny|ADJ|
+chroniczny|ADJ|хронический
+chroniony|ADJ|
+cielesny|ADJ|
+cieniować|ADJ|
+cierpki|ADJ|
+cygański|ADJ|цыганский
+cyrkowy|ADJ|цирковой
+demoniczny|ADJ|демонический
+depozytowy|ADJ|депозитный
+depresyjny|ADJ|
+dermatologiczny|ADJ|дерматологический
+długowłosy|ADJ|длинноволосый, длинношёрстный, длинношёрстый
+dokuczliwy|ADJ|докучливый, невыносимый, несносный, надоедливый
+drzwiowy|ADJ|дверной
+egoistyczny|ADJ|
+empatyczny|ADJ|
+epokowy|ADJ|эпохальный
+ewakuacyjny|ADJ|эвакуационный
+ewidentny|ADJ|очевидный
+fermentować|ADJ|ферментировать
+fikcyjny|ADJ|
+fotogeniczny|ADJ|фотогенический, фотогеничный
+gabinetowy|ADJ|
+geopolityczny|ADJ|геополитический
+głębokie|ADJ|
+godziwy|ADJ|
+grudniowy|ADJ|декабрьский
+grzejny|ADJ|
+holistyczny|ADJ|холистический
+hotelarski|ADJ|
+importowy|ADJ|
+impregnować|ADJ|
+infekcyjny|ADJ|
+infrastrukturalny|ADJ|
+instytucjonalny|ADJ|институциональный, институционный
+islandzki|ADJ|исландский, исландский язык
+jagodowy|ADJ|
+jednostajny|ADJ|однообразный
+jedwabisty|ADJ|шелковистый
+juniorski|ADJ|
+kabinowy|ADJ|
+kanoniczny|ADJ|канонический, каноничный
+kapryśny|ADJ|капризный
+karany|ADJ|
+kelnerski|ADJ|
+kilkuletni|ADJ|
+kłamliwy|ADJ|лживый
+kłębić|ADJ|
+koleżeński|ADJ|приятельский, товарищеский
+kołowy|ADJ|
+komorniczy|ADJ|
+kompozytowy|ADJ|
+konstytucyjny|ADJ|конституционный
+konsultacyjny|ADJ|консультационный
+kontraktowy|ADJ|
+korekcyjny|ADJ|коррекционный
+koszulowy|ADJ|сорочечный
+krótkowzroczny|ADJ|близорукий, недальновидный
+kupiony|ADJ|
+kurzy|ADJ|куриный
+kwartalny|ADJ|
+lawendowy|ADJ|лавандовый
+lepki|ADJ|вязкий, липкий, навязчивый, прилипчивый, приставучий
+logopedyczny|ADJ|
+lokalowy|ADJ|
+lustrzany|ADJ|
+ładunkowy|ADJ|
+mailingowy|ADJ|
+makroekonomiczny|ADJ|макроэкономический
+małopolski|ADJ|
+mazowiecki|ADJ|мазовецкий
+medytacyjny|ADJ|медитативный
+metafizyczny|ADJ|метафизический
+miażdżyć|ADJ|
+mikrobiologiczny|ADJ|микробиологический
+mleczarski|ADJ|молочный
+mlekowy|ADJ|
+mocowany|ADJ|
+modelarski|ADJ|моделистский
+modernistyczny|ADJ|
+motorowy|ADJ|
+murowany|ADJ|
+nacjonalistyczny|ADJ|националистический
+nadawczy|ADJ|
+nadrukować|ADJ|
+naznaczyć|ADJ|
+niechlubny|ADJ|
+niecki|ADJ|
+niehumanitarny|ADJ|
+niejawny|ADJ|
+niemądry|ADJ|
+nienaturalny|ADJ|неестественный
+nieparzysty|ADJ|нечётный
+nieprofesjonalny|ADJ|
+nieprzyjazny|ADJ|враждебный, неприязненный, вражеский, недружелюбный
+nierozsądny|ADJ|безрассудный
+nierozwiązany|ADJ|
+niesforny|ADJ|
+nieświeży|ADJ|
+nieudolny|ADJ|
+nieufny|ADJ|недоверчивый
+nieuleczalny|ADJ|неизлечимый, инкурабельный
+niewybaczalny|ADJ|непростительный
+niewykonalny|ADJ|
+niewyraźny|ADJ|
+niezapowiedziany|ADJ|
+niezauważalny|ADJ|
+niezniszczalny|ADJ|
+niszczycielski|ADJ|разрушительный
+niszowy|ADJ|
+nosowy|ADJ|назальный, носовой
+ochroniarski|ADJ|
+odurzać|ADJ|
+odwlekać|ADJ|
+ofiarny|ADJ|беззаветный
+ogniowy|ADJ|
+ogólnoświatowy|ADJ|всемирный
+operowy|ADJ|оперный
+opisowy|ADJ|
+opozycyjny|ADJ|оппозиционный
+opuchnąć|ADJ|
+owadobójczy|ADJ|инсектицидный
+paletowy|ADJ|
+partyjny|ADJ|партийный
+pełnoprawny|ADJ|
+perforować|ADJ|
+pierworodny|ADJ|первородный, первенец
+pieść|ADJ|
+pijacki|ADJ|
+piorunować|ADJ|чертыхаться
+płytowy|ADJ|
+podarunkowy|ADJ|
+podróżniczy|ADJ|
+podszywać|ADJ|
+podwinąć|ADJ|
+pogrzebany|ADJ|
+pokerowy|ADJ|
+poligraficzny|ADJ|полиграфический
+pomnożyć|ADJ|
+pomocowy|ADJ|
+ponadprzeciętny|ADJ|
+popuścić|ADJ|
+porowaty|ADJ|
+postępowy|ADJ|передовой, прогрессивный
+poszukiwawczy|ADJ|
+pozłacać|ADJ|золотить
+pozorny|ADJ|ложный, мнимый
+pożegnalny|ADJ|прощальный
+prażyć|ADJ|жарить, запекать
+prewencyjny|ADJ|превентивный
+problemowy|ADJ|
+prowokacyjny|ADJ|провокационный
+prozdrowotny|ADJ|
+przebudować|ADJ|перестроить
+przechlapać|ADJ|
+przeciwwskazany|ADJ|
+przeczyszczać|ADJ|
+przedwyborczy|ADJ|
+przeklęty|ADJ|
+przelotny|ADJ|мимолётный
+przeszły|ADJ|минувший, прошедший, прошлый
+przewrotny|ADJ|
+przybrzeżny|ADJ|прибрежный
+przyszłoroczny|ADJ|
+radioaktywny|ADJ|радиоактивный
+rajdowy|ADJ|
+rankingowy|ADJ|
+recytować|ADJ|
+robotniczy|ADJ|
+rocznicowy|ADJ|
+rozbieżny|ADJ|
+rozmowny|ADJ|разговорчивый
+rozpoznawczy|ADJ|
+rozsiany|ADJ|
+rozstawić|ADJ|
+różańcowy|ADJ|
+rysowany|ADJ|
+rytmiczny|ADJ|ритмический, ритмичный
+schabowy|ADJ|
+siarkowy|ADJ|серный
+sierpniowy|ADJ|августовский
+skołować|ADJ|
+skoordynować|ADJ|координировать
+skroić|ADJ|
+skrzydłowy|ADJ|
+skrzyżować|ADJ|
+słoniowy|ADJ|слоновый
+słowny|ADJ|вербальный
+sodowy|ADJ|натриевый
+spacerowy|ADJ|
+spółdzielczy|ADJ|кооперативный
+spustowy|ADJ|
+sromowy|ADJ|
+starożytni|ADJ|
+stłuc|ADJ|
+stuprocentowy|ADJ|стопроцентный
+syty|ADJ|сытый
+śmietankowy|ADJ|сливочный
+świetlicowy|ADJ|
+święcić|ADJ|
+świętokrzyski|ADJ|
+teleskopowy|ADJ|
+tożsamy|ADJ|
+tramwajowy|ADJ|трамвайный
+trenerski|ADJ|тренерский
+ugruntować|ADJ|
+ulotny|ADJ|
+ultrafioletowy|ADJ|ультрафиолетовый
+unowocześnić|ADJ|
+upierdliwy|ADJ|
+uprzywilejować|ADJ|
+urzędniczy|ADJ|чиновничий
+usypiać|ADJ|засыпать, поддаваться наркоз, усыплять
+uzdolnić|ADJ|
+uzdolniony|ADJ|
+wagowy|ADJ|
+wczesnoszkolny|ADJ|
+wiążący|ADJ|
+wiejący|ADJ|
+wielopokoleniowy|ADJ|
+wietrzny|ADJ|ветряный, ветреный
+witaminowy|ADJ|витаминный, витаминовый
+wizerunkowy|ADJ|
+włochaty|ADJ|волосатый
+woskować|ADJ|
+wpleść|ADJ|
+wrzeszczeć|ADJ|верещать
+wyboisty|ADJ|
+wydechowy|ADJ|выдыхательный
+wygiąć|ADJ|
+wykastrować|ADJ|кастрировать
+wykładowy|ADJ|лекционный
+wymierać|ADJ|
+wypędzić|ADJ|
+wypolerować|ADJ|
+wyprzedać|ADJ|
+wyrównany|ADJ|
+wysmażyć|ADJ|
+wystawienniczy|ADJ|
+wystawny|ADJ|роскошный
+wystawowy|ADJ|
+wytężyć|ADJ|
+wytrenować|ADJ|
+wywozić|ADJ|вывозить
+wyznaniowy|ADJ|
+wzięty|ADJ|популярный, ходный
+zachmurzyć|ADJ|
+zadziwiający|ADJ|
+zadźgać|ADJ|
+zahipnotyzować|ADJ|
+zamazać|ADJ|
+zarządczy|ADJ|
+zastanawiający|ADJ|
+zastraszać|ADJ|
+zatkany|ADJ|
+zawężać|ADJ|
+zbawienny|ADJ|
+zdemaskować|ADJ|
+zdewastować|ADJ|
+zmianowy|ADJ|
+zmiażdżyć|ADJ|
+znieczulać|ADJ|анестезировать
+zniekształcić|ADJ|
+zręczny|ADJ|ловкий
+zryczałtować|ADJ|
+zwerbować|ADJ|завербовать
+zżyć|ADJ|
+źródlany|ADJ|ключевой, родниковый
+żądny|ADJ|жадный
+żółtawy|ADJ|желтоватый
+żurawinowy|ADJ|клюквенный
+aerobowy|ADJ|
+aerodynamiczny|ADJ|аэродинамический
+afgański|ADJ|афганский
+akcyzowy|ADJ|акцизный
+alpejski|ADJ|альпийский
+amortyzacyjny|ADJ|
+antykorozyjny|ADJ|антикоррозийный, антикоррозионный, противокоррозийный, противокоррозионный
+antystatyczny|ADJ|
+archaiczny|ADJ|архаичный
+archiwizować|ADJ|архивировать
+armatni|ADJ|пушечный
+autobiograficzny|ADJ|автобиографический, автобиографичный
+autoimmunologiczny|ADJ|
+automatyzować|ADJ|
+balować|ADJ|
+balowy|ADJ|бальный
+balsamiczny|ADJ|бальзамический
+bałkański|ADJ|балканский
+bananowy|ADJ|банановый
+berliński|ADJ|берлинский
+bezalkoholowy|ADJ|безалкогольный
+bezdzietny|ADJ|бездетный
+bezpodstawny|ADJ|беспочвенный, безосновательный, необоснованный
+bielony|ADJ|
+bilardowy|ADJ|бильярдный
+bitewny|ADJ|
+biurkowy|ADJ|
+błyszczący|ADJ|блестящий
+bonusowy|ADJ|
+botaniczny|ADJ|ботанический
+brzoskwiniowy|ADJ|персиковый
+brzydcy|ADJ|
+bursztynowy|ADJ|янтарный
+bytowy|ADJ|бытовой
+chamski|ADJ|хамский
+chłopski|ADJ|крестьянский
+chmurowy|ADJ|
+chronologiczny|ADJ|хронологический
+chrzanowy|ADJ|хреновый
+cnotliwy|ADJ|добродетельный, целомудренный
+cukierniczy|ADJ|кондитерский
+cylindryczny|ADJ|цилиндрический
+cynamonowy|ADJ|
+czatować|ADJ|стеречь
+daremny|ADJ|напрасный
+demonstracyjny|ADJ|демонстрационный
+denny|ADJ|
+desperacki|ADJ|
+dialogowy|ADJ|
+długodystansowy|ADJ|
+długookresowy|ADJ|
+dobowy|ADJ|суточный
+dociekliwy|ADJ|
+doczesny|ADJ|бренный, земной, мирской, тленный
+dokować|ADJ|
+dolnośląski|ADJ|нижнесилезский
+donośny|ADJ|зычный
+dorodny|ADJ|дородный
+dostrzegalny|ADJ|
+dowartościować|ADJ|
+drobiowy|ADJ|
+drogocenny|ADJ|драгоценный
+drugoplanowy|ADJ|
+duszpasterski|ADJ|
+duzi|ADJ|
+dworski|ADJ|
+dwuczęściowy|ADJ|
+dwugłowy|ADJ|двухголовый, двуглавый
+dwukierunkowy|ADJ|
+dwupoziomowy|ADJ|
+dystrybucyjny|ADJ|дистрибьюторский
+dywanowy|ADJ|
+dziesięcioletni|ADJ|десятилетний
+dziesiętny|ADJ|десятичный, децимальный
+dźwiękochłonny|ADJ|
+ekstrawagancki|ADJ|экстравагантный
+epicki|ADJ|эпичный
+falowany|ADJ|
+figowy|ADJ|фиговый
+frapować|ADJ|
+funkcyjny|ADJ|
+gliniany|ADJ|
+głośnikowy|ADJ|
+godzinowy|ADJ|
+gorączkowy|ADJ|
+gospodarski|ADJ|
+granitowy|ADJ|гранитный
+groteskowy|ADJ|гротескный, гротесковый
+gwiezdny|ADJ|звёздный
+histopatologiczny|ADJ|гистопатологический
+holograficzny|ADJ|голографический
+holowniczy|ADJ|
+ideowy|ADJ|
+inauguracyjny|ADJ|вступительный, инаугурационный
+introligatorski|ADJ|
+inwestorski|ADJ|
+jadalniany|ADJ|
+jednoczęściowy|ADJ|
+jednokierunkowy|ADJ|
+jednokolorowy|ADJ|одноцветный
+kardiologiczny|ADJ|кардиологический
+karmelowy|ADJ|карамельный
+kaskaderski|ADJ|каскадёрский
+kaszubski|ADJ|кашубский
+katalogowy|ADJ|каталожный
+katastroficzny|ADJ|катастрофический
+każdorazowy|ADJ|
+kątowy|ADJ|
+kinetyczny|ADJ|кинетический
+klasztorny|ADJ|обительский
+klepać|ADJ|
+koktajlowy|ADJ|
+kolczasty|ADJ|колючий
+kolisty|ADJ|
+kompetencyjny|ADJ|
+kosztowy|ADJ|
+koszykarski|ADJ|баскетболистский
+krajoznawczy|ADJ|краеведческий, страноведческий
+króciutki|ADJ|
+króliczy|ADJ|
+kuriozalny|ADJ|курьёзный
+licencyjny|ADJ|лицензионный
+lotny|ADJ|
+łatwopalny|ADJ|легковоспламеняемый, легковоспламеняющийся, огнеопасный
+łonowy|ADJ|лобковый
+łopatologiczny|ADJ|
+łupać|ADJ|
+łupkowy|ADJ|
+maltretować|ADJ|
+malusieńki|ADJ|малюсенький
+marchewkowy|ADJ|
+marynarski|ADJ|
+meczowy|ADJ|матчевый
+metalurgiczny|ADJ|металлургический
+mętny|ADJ|мутный, облачный, туманный
+mikroskopowy|ADJ|микроскопный
+milki|ADJ|
+mimiczny|ADJ|мимический
+mosiężny|ADJ|латунный
+nacierać|ADJ|натирать
+nadjeżdżać|ADJ|
+nadliczbowy|ADJ|сверхурочный
+nagrzać|ADJ|
+namaścić|ADJ|
+napromieniować|ADJ|
+nasenny|ADJ|
+naświetlać|ADJ|
+niedoceniany|ADJ|
+nieefektywny|ADJ|
+nieestetyczny|ADJ|
+nieetyczny|ADJ|неэтичный
+niefajny|ADJ|
+niegodny|ADJ|
+nieinwazyjny|ADJ|
+niemoralny|ADJ|безнравственный, аморальный
+nienormalny|ADJ|ненормальный, анормальный
+nieostrożny|ADJ|неосторожный
+nieporównywalny|ADJ|несравнимый
+nieprzeciętny|ADJ|
+niesłuszny|ADJ|
+niespełniony|ADJ|
+niesprawny|ADJ|
+niestacjonarny|ADJ|
+nieuchronny|ADJ|неизбежный
+nieuregulowany|ADJ|
+niewerbalny|ADJ|невербальный
+niewolniczy|ADJ|рабский, невольнический, невольничий
+niewykorzystany|ADJ|
+niewzruszony|ADJ|
+niezamężny|ADJ|
+niezamierzony|ADJ|непреднамеренный, неумышленный
+niezaprzeczalny|ADJ|неоспоримый
+niezbity|ADJ|
+niezdarny|ADJ|
+niezrównoważony|ADJ|
+niezwiązany|ADJ|
+non|ADJ|
+obdarty|ADJ|
+oblewać|ADJ|
+obligatoryjny|ADJ|облигаторный
+obłąkany|ADJ|
+obolały|ADJ|
+obopólny|ADJ|
+obsypać|ADJ|
+ocieplany|ADJ|
+odbarwić|ADJ|
+oddolny|ADJ|
+odkopywać|ADJ|
+odłączać|ADJ|
+odrzutowy|ADJ|
+odświętny|ADJ|
+odźwierny|ADJ|портье
+offsetowy|ADJ|
+ogonowy|ADJ|задний, хвостовой
+ogrodzeniowy|ADJ|
+okrężny|ADJ|
+oleisty|ADJ|
+olsztyński|ADJ|
+opancerzyć|ADJ|
+opiewać|ADJ|
+osamotnić|ADJ|
+osłonić|ADJ|
+oszalały|ADJ|
+pakistański|ADJ|пакистанский
+paliatywny|ADJ|паллиативный
+panierować|ADJ|панировать
+patentowy|ADJ|
+patogenny|ADJ|патогенный
+pełnowymiarowy|ADJ|
+perfidny|ADJ|
+peryferyjny|ADJ|
+pochodny|ADJ|производный
+pociągający|ADJ|привлекательный, притягательный
+podejrzliwi|ADJ|
+podłużny|ADJ|повдольный, продольный, продолговатый
+podsuwać|ADJ|
+podświadomy|ADJ|подсознательный
+pogański|ADJ|языческий
+pokoleniowy|ADJ|
+pokopać|ADJ|
+pokrewny|ADJ|смежный, сродный
+poliestrowy|ADJ|
+pomarszczyć|ADJ|
+pomny|ADJ|
+poplamić|ADJ|
+poprzeczny|ADJ|
+portretowy|ADJ|портретный
+porywczy|ADJ|
+posolić|ADJ|
+poszarpać|ADJ|
+pozaziemski|ADJ|внеземной, инопланетный
+prężny|ADJ|
+prostacki|ADJ|простацкий
+protetyczny|ADJ|
+próżny|ADJ|порожний
+przeciążyć|ADJ|
+przeciwwirusowy|ADJ|противовирусный
+przedawnić|ADJ|
+przedmedyczny|ADJ|
+przedwstępny|ADJ|
+przedziwny|ADJ|
+przefiltrować|ADJ|
+przereklamować|ADJ|
+przerysować|ADJ|
+przeterminować|ADJ|
+przybliżony|ADJ|приблизительный
+przykuty|ADJ|
+przypiąć|ADJ|
+przytwierdzić|ADJ|прикрепить
+psychoaktywny|ADJ|
+psychoruchowy|ADJ|
+pszczelarski|ADJ|пчеловодческий
+pszczeli|ADJ|пчелиный
+pudełkowy|ADJ|
+pulchny|ADJ|пухлый
+puszczalski|ADJ|
+rejestrowy|ADJ|регистровый
+reklamacyjny|ADJ|рекламационный
+rentowny|ADJ|рентабельный
+restrukturyzacyjny|ADJ|
+rezerwacyjny|ADJ|
+rodowy|ADJ|
+rogowy|ADJ|
+rosnący|ADJ|
+rozciągający|ADJ|
+rozdzierać|ADJ|
+rozgoryczyć|ADJ|
+rozlokować|ADJ|
+rozmyty|ADJ|
+rozpaczliwy|ADJ|
+rozruchowy|ADJ|
+rozrzucić|ADJ|
+rozwścieczyć|ADJ|
+równoczesny|ADJ|одновременный
+różany|ADJ|розовый
+rybi|ADJ|рыбий
+rycerski|ADJ|рыцарский
+rychły|ADJ|
+rzepakowy|ADJ|рапсовый
+sejmowy|ADJ|
+sfrustrować|ADJ|
+skokowy|ADJ|
+skrępować|ADJ|
+skrupulatny|ADJ|скрупулёзный
+słodkowodny|ADJ|пресноводный
+słody|ADJ|
+słonecznikowy|ADJ|подсолнечный
+snowboardowy|ADJ|
+spekulacyjny|ADJ|спекулятивный
+sporadyczny|ADJ|спорадический
+spostrzegawczy|ADJ|приметливый
+srebrzysty|ADJ|серебристый
+statutowy|ADJ|
+stężyć|ADJ|
+strączkowy|ADJ|стручковый
+stypendialny|ADJ|стипендиальный
+styropianowy|ADJ|пенопластовый
+sukcesywny|ADJ|
+sycylijski|ADJ|сицилийский
+syryjski|ADJ|сирийский
+szacunkowy|ADJ|
+szaleńczy|ADJ|
+szczątkowy|ADJ|
+szczerzy|ADJ|
+szczurzy|ADJ|крысиный
+szerokopasmowy|ADJ|
+sześcioletni|ADJ|шестилетний
+szlachecki|ADJ|дворянский, шляхетский
+szparagowy|ADJ|
+szturmowy|ADJ|ударный, штурмовой
+ślubować|ADJ|
+śródroczny|ADJ|
+świerkowy|ADJ|еловый
+tatrzański|ADJ|татранский
+telegraficzny|ADJ|телеграфный
+telepatyczny|ADJ|телепатический
+teraźniejszy|ADJ|теперешний, настоящий, нынешний
+tęczowy|ADJ|радужный
+totalitarny|ADJ|тоталитарный
+tranzytowy|ADJ|транзитный
+trójwarstwowy|ADJ|трёхслойный
+twardszy|ADJ|
+tybetański|ADJ|тибетский
+uciskowy|ADJ|
+uczniowski|ADJ|
+uderzeniowy|ADJ|
+udowy|ADJ|
+ulepić|ADJ|
+umoczyć|ADJ|
+uniwersytecki|ADJ|университетский
+ustrojowy|ADJ|
+uwodzicielski|ADJ|
+weryfikacyjny|ADJ|
+wielkogabarytowy|ADJ|
+wielobarwny|ADJ|
+wielostronny|ADJ|
+wielowiekowy|ADJ|многовековой
+więzić|ADJ|
+winiarski|ADJ|
+winylowy|ADJ|виниловый
+wioskowy|ADJ|
+wizowy|ADJ|визовый
+władczy|ADJ|властный
+wnękowy|ADJ|
+wodnisty|ADJ|водянистый
+wodoszczelny|ADJ|водонепроницаемый
+woźny|ADJ|
+wpatrzyć|ADJ|
+wrodzić|ADJ|
+wrzodowy|ADJ|язвенный
+wspólnotowy|ADJ|
+współfinansować|ADJ|
+wstrząsający|ADJ|
+wybudzić|ADJ|
+wyczulić|ADJ|
+wyedukować|ADJ|
+wykraść|ADJ|
+wynikły|ADJ|
+wyparzyć|ADJ|
+wypiąć|ADJ|
+wyrejestrować|ADJ|
+wysokogórski|ADJ|высокогорный
+wywiadowczy|ADJ|
+wzburzyć|ADJ|
+wzgardzić|ADJ|
+zachodniopomorski|ADJ|западнопоморский
+zaczerwienić|ADJ|покраснеть
+zadaniowy|ADJ|
+zagadkowy|ADJ|загадочный
+zakłopotany|ADJ|
+zamierzchły|ADJ|
+zaniżyć|ADJ|
+zapłonowy|ADJ|
+zarzygać|ADJ|
+zaschnąć|ADJ|
+zastawiać|ADJ|
+zaślepić|ADJ|
+zaśnieżyć|ADJ|
+zatrważający|ADJ|
+zawarty|ADJ|
+zbroić|ADJ|
+zbudzić|ADJ|разбудить
+zbyteczny|ADJ|излишний, избыточный, лишний
+zdeformować|ADJ|
+zdradliwy|ADJ|
+zdruzgotać|ADJ|
+zdwoić|ADJ|
+zdzirowaty|ADJ|
+zesłać|ADJ|
+złowieszczy|ADJ|зловещий
+zmotoryzować|ADJ|моторизировать, моторизовать
+zmutować|ADJ|
+zrekonstruować|ADJ|
+zrumienić|ADJ|
+zwiadowczy|ADJ|
+zwyrodnieniowy|ADJ|
+życiodajny|ADJ|животворный, животворящий
+żyzny|ADJ|плодородный
+abonamentowy|ADJ|абонементный
+akcentować|ADJ|акцентировать
+akcyjny|ADJ|
+aktywacyjny|ADJ|активационный
+aloesowy|ADJ|алойный
+ambiwalentny|ADJ|амбивалентный
+analny|ADJ|
+ankietowy|ADJ|анкетный
+antycellulitowy|ADJ|
+antyspamowy|ADJ|
+apokaliptyczny|ADJ|апокалипсический
+arbitralny|ADJ|
+aromatyzować|ADJ|
+asekuracyjny|ADJ|страховой
+asertywny|ADJ|ассертивный
+bakteriobójczy|ADJ|бактерицидный
+barkowy|ADJ|баржевой, баржевый
+baśniowy|ADJ|сказочный
+betlejemski|ADJ|
+bezawaryjny|ADJ|
+bezkompromisowy|ADJ|бескомпромиссный
+bezowy|ADJ|
+bezprawny|ADJ|беззаконный
+bezszwowy|ADJ|бесшовный
+bezwonny|ADJ|без запаха
+bezzasadny|ADJ|
+bębnowy|ADJ|барабанный
+bibliograficzny|ADJ|библиографический
+biletowy|ADJ|билетный
+biograficzny|ADJ|биографический
+biszkoptowy|ADJ|бисквитный
+blacharski|ADJ|
+bogatsi|ADJ|
+bogatszy|ADJ|
+bojaźliwy|ADJ|боязливый, пугливый, робкий
+ceglany|ADJ|кирпичный
+cekinowy|ADJ|
+celtycki|ADJ|кельтский
+cementowy|ADJ|цементный
+chodnikowy|ADJ|
+chwytliwy|ADJ|
+ciekawszy|ADJ|
+cielęcy|ADJ|телячий
+cieplarniany|ADJ|
+ciepłowniczy|ADJ|
+ciężkostrawny|ADJ|тяжёлый
+cmentarny|ADJ|кладбищенский
+cukierkowy|ADJ|конфетный
+czarowny|ADJ|
+cząstkowy|ADJ|частичный
+czworonożny|ADJ|четвероногий
+debetowy|ADJ|дебетовый
+debilny|ADJ|дебильный
+dezynfekcyjny|ADJ|дезинфекционный
+długowieczny|ADJ|долговечный, многолетний
+dobroduszny|ADJ|добродушный
+docisnąć|ADJ|
+dolotowy|ADJ|
+dopochwowy|ADJ|
+dorywczy|ADJ|
+doskonalszy|ADJ|
+dostarczany|ADJ|
+dostępowy|ADJ|
+dostojny|ADJ|достойный, почтенный
+dozgonny|ADJ|
+dozorować|ADJ|
+dresowy|ADJ|
+drętwy|ADJ|
+drogeryjny|ADJ|
+dwuznaczny|ADJ|двусмысленный
+dymny|ADJ|дымный
+dżinsowy|ADJ|джинсовый
+emocjonujący|ADJ|
+empiryczny|ADJ|эмпирический
+epoksydowy|ADJ|эпоксидный
+feministyczny|ADJ|феминистический
+festiwalowy|ADJ|фестивальный
+filtracyjny|ADJ|фильтрационный
+folklorystyczny|ADJ|фольклорный
+forsowny|ADJ|
+frazeologiczny|ADJ|фразеологический
+galwaniczny|ADJ|гальванический
+gdyński|ADJ|гдынский
+geotermalny|ADJ|
+germański|ADJ|германский
+gęsi|ADJ|
+ginący|ADJ|
+glebowy|ADJ|
+głębinowy|ADJ|
+gniewny|ADJ|гневный
+gorsy|ADJ|
+górzysty|ADJ|гористый
+grywalny|ADJ|
+grzybowy|ADJ|грибной
+hakerski|ADJ|
+halowy|ADJ|
+harcerski|ADJ|пионерский
+harmoniczny|ADJ|
+hawajski|ADJ|гавайский
+himalajski|ADJ|гималайский
+hinduski|ADJ|индийский, индуистский
+hobbystyczny|ADJ|
+hostingowy|ADJ|
+humorystyczny|ADJ|юмористический
+igłowy|ADJ|
+imbirowy|ADJ|имбирный
+impulsowy|ADJ|
+impulsywny|ADJ|импульсивный
+infantylny|ADJ|инфантильный
+instrumentalny|ADJ|инструментальный
+interpretacyjny|ADJ|
+intratny|ADJ|доходный, прибыльный
+iracki|ADJ|иракский
+izotoniczny|ADJ|изотонический
+jednoroczny|ADJ|одногодичный, однолетний
+jednorodny|ADJ|однородный
+jogurtowy|ADJ|йогуртный, йогуртовый
+kakaowy|ADJ|какаовый
+kaleki|ADJ|
+kalkulacyjny|ADJ|калькуляционный
+kandyzować|ADJ|
+karbonowy|ADJ|
+karbować|ADJ|
+karciany|ADJ|
+karmiący|ADJ|
+kastrować|ADJ|кастрировать, оскоплять
+kilkumiesięczny|ADJ|
+kilkunastoletni|ADJ|
+klasyfikacyjny|ADJ|классификационный
+kleć|ADJ|
+klozetowy|ADJ|
+kolagenowy|ADJ|
+komandytowy|ADJ|
+kompetentni|ADJ|
+koncentracyjny|ADJ|
+kondycyjny|ADJ|
+konfiguracyjny|ADJ|
+konkretni|ADJ|
+kontynentalny|ADJ|континентальный, материковый
+koperkowy|ADJ|
+koralowy|ADJ|
+kowalski|ADJ|кузнечный
+krawiecki|ADJ|портновский
+kręty|ADJ|извилистый
+krnąbrny|ADJ|своенравный
+krótkometrażowy|ADJ|
+kryptograficzny|ADJ|криптографический
+kubański|ADJ|кубанский, кубинский
+kulminacyjny|ADJ|кульминационный
+kulszowy|ADJ|седалищный
+kupiecki|ADJ|
+kursowy|ADJ|
+kusicielski|ADJ|
+kwaskowy|ADJ|
+lejący|ADJ|
+lewacki|ADJ|левацкий, правацкий
+leworęczny|ADJ|левша
+libijski|ADJ|ливийский
+likwidacyjny|ADJ|ликвидационный
+linuksowy|ADJ|линуксовый
+liryczny|ADJ|лирический
+lodowcowy|ADJ|ледниковый
+lokomocyjny|ADJ|
+lśniący|ADJ|
+lubieżny|ADJ|похотливый, сладострастный
+lubować|ADJ|
+łojowy|ADJ|
+łokciowy|ADJ|локтевой
+mahoniowy|ADJ|
+majestatyczny|ADJ|величавый, величественный, царственный
+maklerski|ADJ|маклерский
+maltański|ADJ|мальтийский
+manipulacyjny|ADJ|
+marmurowy|ADJ|
+marudny|ADJ|
+matrymonialny|ADJ|матримониальный
+mediacyjny|ADJ|
+melancholijny|ADJ|
+membranowy|ADJ|мембранный
+mięsisty|ADJ|мясистый
+mikroskopijny|ADJ|микроскопический, микроскопичный
+milionowy|ADJ|миллионный
+milowy|ADJ|
+minowy|ADJ|
+modelowy|ADJ|
+mongolski|ADJ|монгольский
+możny|ADJ|державный
+muchowy|ADJ|
+nać|ADJ|ботва
+nadmuchiwać|ADJ|
+nadwyrężyć|ADJ|
+nałogowy|ADJ|заядлый
+napadowy|ADJ|
+napierać|ADJ|
+narodowościowy|ADJ|национальный
+narzeczeński|ADJ|
+naszywać|ADJ|
+natrętny|ADJ|раздражающий, надоедливый
+negocjacyjny|ADJ|
+nieautoryzowany|ADJ|
+niebrzydki|ADJ|
+niechlujny|ADJ|неряшливый
+nieczuły|ADJ|бессердечный, бесчувственный
+niedostrzegalny|ADJ|незримый
+niedoszły|ADJ|
+niedoświadczony|ADJ|малоопытный
+niejaki|ADJ|некий, некоторый
+niejednoznaczny|ADJ|
+niekwestionowany|ADJ|
+nieodebrany|ADJ|
+nieopłacalny|ADJ|бездоходный, бесприбыльный, начётистый, нерентабельный
+niepalący|ADJ|
+niepoczytalny|ADJ|невменяемый
+niepojęty|ADJ|
+nieprecyzyjny|ADJ|неточный
+nieprzekraczalny|ADJ|
+nieprzyzwoity|ADJ|неприличный, непристойный
+nieracjonalny|ADJ|
+nierozerwalny|ADJ|
+nierozgarnięty|ADJ|
+nieskalany|ADJ|
+niesłabnący|ADJ|
+niesmaczny|ADJ|невкусный, пошлый
+niespożyty|ADJ|
+niespójny|ADJ|
+niesprawdzony|ADJ|
+niestrzeżony|ADJ|
+nieszczelny|ADJ|
+nietrafiony|ADJ|
+nietykalny|ADJ|неприкосновенный, неприкасаемый
+nieubłagany|ADJ|
+nieuchwytny|ADJ|
+nieumyślny|ADJ|непреднамеренный, неумышленный
+nieuprzejmy|ADJ|неучтивый
+nieuzbrojony|ADJ|невооружённый, безоружный
+niezamieszkały|ADJ|
+niezaspokojony|ADJ|
+niezłomny|ADJ|непреклонный, несгибаемый, несокрушимый
+niezrównany|ADJ|
+niezwłoczny|ADJ|
+nikotynowy|ADJ|
+nordycki|ADJ|
+nostalgiczny|ADJ|ностальгический
+nowożytny|ADJ|
+nużący|ADJ|
+obeznać|ADJ|
+obiektowy|ADJ|объектно-ориентированный
+objawowy|ADJ|
+oburzony|ADJ|возмущённый, негодующий
+obwoźny|ADJ|
+octowy|ADJ|уксусный, ацетатный
+odmierzyć|ADJ|
+odpylać|ADJ|
+odruchowy|ADJ|
+odwykowy|ADJ|
+ogniskowy|ADJ|
+ograniczający|ADJ|
+okrzyknąć|ADJ|
+oksydacyjny|ADJ|
+olejowy|ADJ|
+ołówkowy|ADJ|карандашный
+opakowaniowy|ADJ|
+oporny|ADJ|
+opryskliwy|ADJ|
+opustoszały|ADJ|
+ordynarny|ADJ|вульгарный, грубый
+oschły|ADJ|
+osiedlowy|ADJ|
+osłonowy|ADJ|
+ośrodkowy|ADJ|
+otruty|ADJ|
+paczkować|ADJ|
+padaczkowy|ADJ|
+palący|ADJ|
+palmowy|ADJ|пальмовый
+paraboliczny|ADJ|параболический, аллегоричный, иносказательный
+parametryczny|ADJ|
+paranoiczny|ADJ|параноический
+partyzancki|ADJ|партизанский
+pazerny|ADJ|
+pechowy|ADJ|невезучий, неудачливый
+pediatryczny|ADJ|
+pekiński|ADJ|пекинский
+perkusyjny|ADJ|
+pijący|ADJ|
+plakatowy|ADJ|
+planetarny|ADJ|планетарный
+planowy|ADJ|
+plazmowy|ADJ|плазменный
+plugawy|ADJ|
+płucny|ADJ|лёгочный
+pobity|ADJ|
+podenerwować|ADJ|
+podlaski|ADJ|
+podłamać|ADJ|
+podrzędny|ADJ|второсортный
+pogardzać|ADJ|побрезговать, презирать, пренебрегать
+poległy|ADJ|
+policealny|ADJ|
+połyskujący|ADJ|
+pomorski|ADJ|померанский
+pomostowy|ADJ|
+popularnonaukowy|ADJ|научно-популярный
+porozrzucać|ADJ|
+poselski|ADJ|
+postarzyć|ADJ|
+postronny|ADJ|посторонний, сторонний
+poszczepienny|ADJ|
+potyliczny|ADJ|
+powabny|ADJ|
+powierniczy|ADJ|
+pozarolniczy|ADJ|
+pozaszkolny|ADJ|внешкольный
+poznański|ADJ|познанский
+półfinałowy|ADJ|полуфинальный
+pradawny|ADJ|давнопрошедший
+pragmatyczny|ADJ|
+prążkować|ADJ|
+prehistoryczny|ADJ|доисторический
+premierowy|ADJ|премьерный
+prezentowy|ADJ|
+probiotyczny|ADJ|
+prokuratorski|ADJ|прокурорский
+prowansalski|ADJ|провансальский, провансальский диалект, провансальский наречие
+pruski|ADJ|прусский, пруссацкий
+przebudowywać|ADJ|
+przecięty|ADJ|
+przeciwgorączkowy|ADJ|жаропонижающий, противолихорадочный
+przeciwgrzybiczy|ADJ|противогрибковый
+przeciwległy|ADJ|противолежащий, противоположный
+przeciwlotniczy|ADJ|противовоздушный
+przeciwzakrzepowy|ADJ|
+przedmałżeński|ADJ|
+przedterminowy|ADJ|досрочный
+przegadać|ADJ|
+przekłamać|ADJ|
+przekonujący|ADJ|
+przekwitnąć|ADJ|
+przeogromny|ADJ|
+przeprojektować|ADJ|
+przepuszczalny|ADJ|
+przesiewowy|ADJ|
+przesłodzić|ADJ|
+przesyłowy|ADJ|
+przewiązać|ADJ|
+przewrażliwić|ADJ|
+przezabawny|ADJ|
+przyciągający|ADJ|
+przyciszyć|ADJ|
+przydługi|ADJ|
+przygraniczny|ADJ|приграничный
+przyłączeniowy|ADJ|
+przypalać|ADJ|
+przyparty|ADJ|
+przyrodni|ADJ|неполнородный
+przysłonić|ADJ|
+przywódczy|ADJ|
+pszeniczny|ADJ|пшеничный
+puchaty|ADJ|пушистый
+pyrrusowy|ADJ|
+rafinować|ADJ|
+redukcyjny|ADJ|
+refinansować|ADJ|
+renomować|ADJ|
+represjonować|ADJ|
+restrykcyjny|ADJ|
+reumatyczny|ADJ|ревматический
+rewizyjny|ADJ|
+ropny|ADJ|гнойный
+rotacyjny|ADJ|
+rozbiórkowy|ADJ|
+rozchwytywać|ADJ|
+rozkojarzyć|ADJ|
+rozliczny|ADJ|
+rozpieścić|ADJ|
+rozpostrzeć|ADJ|
+rozsiać|ADJ|
+rozszarpać|ADJ|
+roztropny|ADJ|осмотрительный
+roztrzepany|ADJ|
+równoramienny|ADJ|равнобедренный
+różnicowy|ADJ|
+rzeczny|ADJ|речной
+salonowy|ADJ|салонный
+samolotowy|ADJ|самолётный
+samoobsługowy|ADJ|
+sarkastyczny|ADJ|саркастический, саркастичный
+schowany|ADJ|
+serialowy|ADJ|
+sędziowski|ADJ|судейский
+sformalizować|ADJ|
+siedmioletni|ADJ|семилетний
+sielski|ADJ|
+skatalogować|ADJ|
+sklonować|ADJ|
+skondensować|ADJ|
+skory|ADJ|охотник
+skośny|ADJ|
+slaby|ADJ|
+solidarnościowy|ADJ|
+somatyczny|ADJ|соматический
+spiralny|ADJ|спиралеобразный, спиральный
+spirytusowy|ADJ|
+spłaszczyć|ADJ|
+sprawozdawczy|ADJ|отчётный
+sprężynowy|ADJ|
+sprężysty|ADJ|
+srogi|ADJ|строгий
+starodawny|ADJ|старинный, стародавний
+stresogenny|ADJ|
+stronniczy|ADJ|
+stropowy|ADJ|
+stuletni|ADJ|столетний
+supernowy|ADJ|
+symbolizujący|ADJ|
+symulacyjny|ADJ|
+symultaniczny|ADJ|
+szablonowy|ADJ|шаблонный
+szamański|ADJ|шаманский
+sześcienny|ADJ|
+sześćdziesiąty|ADJ|шестидесятый
+szklarniowy|ADJ|
+szokowy|ADJ|
+szosowy|ADJ|шоссейный
+sztruksowy|ADJ|
+śledziowy|ADJ|сельдевый, селёдочный
+ślepi|ADJ|
+śliwkowy|ADJ|сливовый
+śmietanowy|ADJ|сметанный
+śródlądowy|ADJ|
+światopoglądowy|ADJ|мировоззренческий
+tajwański|ADJ|тайваньский
+tatarski|ADJ|татарский
+teologiczny|ADJ|богословский, теологический
+termalny|ADJ|
+termoaktywny|ADJ|
+tępić|ADJ|тупить, уничтожать
+tkany|ADJ|
+tonizować|ADJ|
+transformatorowy|ADJ|
+trapezowy|ADJ|
+treściwy|ADJ|содержательный
+trędowaty|ADJ|прокажённый
+trojański|ADJ|троянский
+trzydniowy|ADJ|трёхдневный
+tuczyć|ADJ|
+tunezyjski|ADJ|тунисский
+tysięczny|ADJ|тысячный
+ubarwić|ADJ|
+ujadać|ADJ|
+ulgowy|ADJ|
+ultrasonograficzny|ADJ|
+umocować|ADJ|
+umówiony|ADJ|
+upojny|ADJ|
+uposażyć|ADJ|
+urażony|ADJ|
+urobić|ADJ|
+urodziwy|ADJ|
+urodzony|ADJ|
+ustawny|ADJ|
+ustronny|ADJ|
+uśmiechnięci|ADJ|
+utajnić|ADJ|
+utarty|ADJ|
+wałęsać|ADJ|
+wapienny|ADJ|известковый
+warzy|ADJ|
+wątły|ADJ|ветхий, утлый, тощий, хилый, чахлый
+wczasowy|ADJ|
+wepchnąć|ADJ|втолкнуть
+werbalny|ADJ|вербальный
+wędrowny|ADJ|кочевой, странствующий
+wgnieść|ADJ|
+wiadomy|ADJ|
+widny|ADJ|светлый
+wielkoduszny|ADJ|великодушный
+wielopoziomowy|ADJ|
+wieloraki|ADJ|
+wilczy|ADJ|волчий
+wizyjny|ADJ|
+wlotowy|ADJ|
+własnoręczny|ADJ|собственноручный
+woskowy|ADJ|восковой, вощаной
+współistnieć|ADJ|
+wyblakły|ADJ|выцветший
+wyczynowy|ADJ|
+wydobywczy|ADJ|
+wydrążyć|ADJ|
+wydrzeć|ADJ|
+wyidealizować|ADJ|
+wyimaginować|ADJ|
+wyizolować|ADJ|
+wymiatać|ADJ|
+wynikowy|ADJ|
+wypiec|ADJ|выпечь
+wypoczęty|ADJ|
+wyśnić|ADJ|
+wytrzymałościowy|ADJ|
+wzniosły|ADJ|
+wzrostowy|ADJ|
+wzruszony|ADJ|
+zaalarmować|ADJ|
+zaciekły|ADJ|
+zaciskowy|ADJ|
+zacny|ADJ|достойный, почтенный, отменный
+zaczarować|ADJ|
+zaimpregnować|ADJ|
+zakamuflować|ADJ|закамуфлировать
+zakrzywiony|ADJ|
+zaludnić|ADJ|
+założycielski|ADJ|учредительский
+zamachowy|ADJ|
+zaopatrzeniowy|ADJ|
+zapalony|ADJ|
+zapatrzyć|ADJ|
+zapisany|ADJ|
+zaplątać|ADJ|
+zapłakać|ADJ|
+zaporowy|ADJ|
+zapożyczyć|ADJ|
+zaprawić|ADJ|
+zaradczy|ADJ|
+zarchiwizować|ADJ|
+zarośnięty|ADJ|
+zarzynać|ADJ|
+zasądzić|ADJ|
+zaszczytny|ADJ|
+zatknąć|ADJ|
+zawiły|ADJ|
+zawszyć|ADJ|
+zażarty|ADJ|
+zbrodniczy|ADJ|
+zdatny|ADJ|
+zdecentralizować|ADJ|
+zdegradować|ADJ|
+zdeklarować|ADJ|
+zdyskredytować|ADJ|
+zindywidualizować|ADJ|индивидуализировать
+zjazdowy|ADJ|съездовский
+złudny|ADJ|
+zmiennokształtny|ADJ|
+znamionowy|ADJ|
+zniweczyć|ADJ|
+zrozpaczony|ADJ|
+zrzędliwy|ADJ|
+zwinny|ADJ|проворный, прыткий
+żołnierski|ADJ|солдатский
+żrący|ADJ|едкий
+żużlowy|ADJ|
+żytny|ADJ|
+żywiczny|ADJ|
+agrotechniczny|ADJ|агротехнический
+akceptowalny|ADJ|
+akredytować|ADJ|
+akumulatorowy|ADJ|аккумуляторный
+albański|ADJ|албанский, албанский язык
+algebraiczny|ADJ|алгебраический
+anarchistyczny|ADJ|анархистский
+andaluzyjski|ADJ|андалузский, андалусийский
+angielskojęzyczny|ADJ|
+antyczny|ADJ|античный, древний, старый
+antykradzieżowy|ADJ|
+antykryzysowy|ADJ|антикризисный
+antyoksydacyjny|ADJ|
+apodyktyczny|ADJ|
+apteczny|ADJ|аптечный
+aranżacyjny|ADJ|
+arbitrażowy|ADJ|арбитражный
+aromaterapeutyczny|ADJ|
+aseksualny|ADJ|асексуальный
+aspołeczny|ADJ|асоциальный, антиобщественный
+atramentowy|ADJ|чернильный
+autorytarny|ADJ|авторитарный
+azerski|ADJ|азербайджанский, азери
+babiloński|ADJ|вавилонский
+balonowy|ADJ|
+bałtycki|ADJ|балтийский
+barmański|ADJ|барменский
+barowy|ADJ|бариевый
+berberyjski|ADJ|берберский
+bezchmurny|ADJ|безоблачный
+bezczynny|ADJ|бездейственный, бездеятельный, пассивный
+bezdeszczowy|ADJ|бездождный
+bezpański|ADJ|бесхозный, бесхозяйный
+bezpartyjny|ADJ|беспартийный
+bezpłodny|ADJ|бесплодный
+bezprecedensowy|ADJ|беспрецедентный
+bezrobotni|ADJ|
+bezskuteczny|ADJ|безуспешный, безрезультатный, бесплодный
+beztlenowy|ADJ|анаэробный, бескислородный
+beztłuszczowy|ADJ|
+bezwstydny|ADJ|бесстыдный, бесстыжий
+bieszczadzki|ADJ|бещадский
+bilateralny|ADJ|
+biochemiczny|ADJ|биохимический
+biotechnologiczny|ADJ|
+blaszany|ADJ|жестяной
+blokowy|ADJ|
+błazny|ADJ|
+błogi|ADJ|
+boloński|ADJ|болонский
+bramkowy|ADJ|
+bratobójczy|ADJ|братоубийственный
+brokatowy|ADJ|
+brzegowy|ADJ|береговой
+buforowy|ADJ|
+butikowy|ADJ|
+całodniowy|ADJ|
+cebulowy|ADJ|луковицеобразный, луковый
+cenzurować|ADJ|цензуровать, цензурировать
+chlebowy|ADJ|хлебный
+chorobliwy|ADJ|болезненный, патологический
+chorowity|ADJ|хилый, болезненный
+chorwacki|ADJ|хорватский, хорватский язык
+chóralny|ADJ|хоровой
+chropowaty|ADJ|
+chwytny|ADJ|хватательный
+ciemnoczerwony|ADJ|тёмно-красный
+ciemnowłosy|ADJ|темноволосый
+ciemnozielony|ADJ|тёмно-зелёный
+ckliwo|ADJ|
+coachingowy|ADJ|
+cudzoziemski|ADJ|иноземный, иностранный, чужестранный
+cynkowy|ADJ|цинковый
+cytrusowy|ADJ|цитрусовый
+czarnoskóry|ADJ|чернокожий
+czarnowłosy|ADJ|черноволосый
+czasoprzestrzenny|ADJ|
+czekowy|ADJ|чековый
+czerstwy|ADJ|чёрствый
+czternastoletni|ADJ|четырнадцатилетний
+czteroletni|ADJ|четырёхгодичный, четырёхлетний
+czterolistny|ADJ|четырёхлистный
+czuciowy|ADJ|
+czyściutki|ADJ|
+dalekosiężny|ADJ|
+debiutancki|ADJ|дебютантский
+derbowy|ADJ|
+desantowy|ADJ|десантный
+destylować|ADJ|дистиллировать
+dęty|ADJ|
+diodowy|ADJ|
+doborowy|ADJ|
+doceniany|ADJ|
+dogmatyczny|ADJ|догматичный, догматический
+dojrzalszy|ADJ|
+dokładni|ADJ|
+dotować|ADJ|
+dożylny|ADJ|внутривенный
+dożynkowy|ADJ|дожиночный
+drobni|ADJ|
+drukarski|ADJ|печатный
+dwojaki|ADJ|
+dwuetapowy|ADJ|
+dwumiesięczny|ADJ|двухмесячный
+dwupiętrowy|ADJ|трёхэтажный, двухэтажный
+dwurzędowy|ADJ|двубортный, двухбортный
+dwuskładnikowy|ADJ|
+dwuskrzydłowy|ADJ|
+dwuspadowy|ADJ|двускатный, двухскатный
+dwutysięczny|ADJ|двухтысячный
+dwuwarstwowy|ADJ|двухслойный
+dysfunkcyjny|ADJ|дисфункциональный
+dyskowy|ADJ|
+dystansowy|ADJ|
+dziejowy|ADJ|
+dziewczyński|ADJ|
+dźwigowy|ADJ|крановщик
+dżentelmeński|ADJ|джентльменский
+edytorski|ADJ|
+egzystencjalny|ADJ|экзистенциальный
+eklektyczny|ADJ|эклектический, эклектичный
+eksterytorialny|ADJ|экстерриториальный
+ekumeniczny|ADJ|экуменический
+elektrolityczny|ADJ|электролитический
+elektrostatyczny|ADJ|электростатический
+eliminacyjny|ADJ|
+enzymatyczny|ADJ|энзиматический
+epidemiologiczny|ADJ|эпидемиологический
+epizodyczny|ADJ|
+erogenny|ADJ|эрогенный
+etnograficzny|ADJ|этнографический
+ewaluacyjny|ADJ|
+ewidencyjny|ADJ|
+fajowy|ADJ|
+fakultatywny|ADJ|факультативный
+falisty|ADJ|
+fanatyczny|ADJ|фанатический, фанатичный
+fiński|ADJ|финский
+fizjoterapeutyczny|ADJ|физиотерапевтический
+flagowy|ADJ|
+folkowy|ADJ|
+fonetyczny|ADJ|фонетический
+fosforowy|ADJ|фосфорный
+futbolowy|ADJ|
+futerkowy|ADJ|
+futurystyczny|ADJ|футуристический
+gadatliwy|ADJ|болтливый, разговорчивый
+garażować|ADJ|
+gardłowy|ADJ|горловой
+gazetowy|ADJ|газетный
+gąbczasty|ADJ|губчатый
+genealogiczny|ADJ|генеалогический
+genewski|ADJ|женевский
+genowy|ADJ|генный
+głodowy|ADJ|
+głogowski|ADJ|
+głupawy|ADJ|дураковатый
+głupkowaty|ADJ|глуповатый
+głusi|ADJ|
+gnykowy|ADJ|
+gojący|ADJ|
+gorliwy|ADJ|
+granulować|ADJ|
+gratisowy|ADJ|
+grillowy|ADJ|
+grodziowy|ADJ|
+halogenowy|ADJ|
+hermetyczny|ADJ|герметичный, герметический
+heroiczny|ADJ|героический, героичный, геройский
+hierarchiczny|ADJ|иерархический, иерархичный
+hiperbaryczny|ADJ|
+histeryczny|ADJ|истерический, кликушеский, истеричный
+hokejowy|ADJ|хоккейный
+iglasty|ADJ|хвойный
+imigracyjny|ADJ|иммиграционный
+indonezyjski|ADJ|индонезийский
+indyczy|ADJ|
+inflacyjny|ADJ|инфляционный
+infuzyjny|ADJ|
+instynktowny|ADJ|инстинктивный
+intencyjny|ADJ|
+intensyfikować|ADJ|
+irytujący|ADJ|
+jachtowy|ADJ|яхтенный, яхтный, яхтовый
+jajowy|ADJ|
+jasnoniebieski|ADJ|светло-голубой
+jasnoszary|ADJ|
+jasnowłosy|ADJ|белокудрый, белокурый, светловолосый
+jaśnieć|ADJ|
+jednodzielny|ADJ|
+jednokomorowy|ADJ|
+jednostanowiskowy|ADJ|
+jonizować|ADJ|ионизировать, ионизовать
+juczny|ADJ|
+kalifornijski|ADJ|калифорнийский
+kamieniarski|ADJ|каменоломный
+kapitalistyczny|ADJ|капиталистический
+kasowany|ADJ|
+kasynowy|ADJ|
+kasztanowy|ADJ|каштановый
+kategoryczny|ADJ|категорический
+kawitacyjny|ADJ|
+keratynowy|ADJ|
+kobaltowy|ADJ|кобальтовый
+kolektywny|ADJ|коллективный
+kombinacyjny|ADJ|
+kompozycyjny|ADJ|
+kondensacyjny|ADJ|конденсационный
+konopny|ADJ|конопляный
+konsekrować|ADJ|
+konsekwentni|ADJ|
+konserwatorski|ADJ|реставраторский
+konsolowy|ADJ|
+konsularny|ADJ|консульский
+kontenerowy|ADJ|
+kontuzjować|ADJ|контузить
+konwekcyjny|ADJ|
+kopenhaski|ADJ|копенгагенский
+korbowy|ADJ|
+korkowy|ADJ|
+koronny|ADJ|коронный
+koronować|ADJ|короновать
+korumpować|ADJ|
+kosmetologiczny|ADJ|
+koszowy|ADJ|
+kowbojski|ADJ|ковбойский
+krańcowy|ADJ|
+krążeniowy|ADJ|
+kretyński|ADJ|
+kręglarski|ADJ|
+krwisty|ADJ|
+kryjomy|ADJ|
+krzątać|ADJ|
+krzywa|ADJ|кривая
+kulkowy|ADJ|
+kwarcowy|ADJ|кварцевый
+kwasowy|ADJ|
+kwietniowy|ADJ|апрельский
+laktacyjny|ADJ|
+lawirować|ADJ|
+leasingować|ADJ|
+lekkoatletyczny|ADJ|легкоатлетический
+lekkostrawny|ADJ|удобоваримый, усваиваемый
+lekowy|ADJ|
+leśniczy|ADJ|лесничий, лесник
+lichy|ADJ|худой
+lipcowy|ADJ|июльский
+lipidowy|ADJ|
+lipny|ADJ|
+litościwy|ADJ|милосердный, милостивый, сострадательный
+lokalizacyjny|ADJ|
+lukrować|ADJ|
+łamliwy|ADJ|ломкий
+łojotokowy|ADJ|
+łukowy|ADJ|
+macoszy|ADJ|
+makaronowy|ADJ|
+makowy|ADJ|маковый
+małostkowy|ADJ|мелкий
+mammograficzny|ADJ|
+manewrowy|ADJ|маневровый
+maratoński|ADJ|марафонский
+marcowy|ADJ|мартовский
+marginalizować|ADJ|
+marnotrawny|ADJ|расточительный, мотовской
+marsjański|ADJ|марсианский
+maskujący|ADJ|
+masoński|ADJ|масонский
+matczyny|ADJ|материнский
+mazurski|ADJ|мазурский
+mączny|ADJ|мучной
+mdły|ADJ|
+medalowy|ADJ|медальный
+meldunkowy|ADJ|прописочный
+melodyjny|ADJ|мелодичный, благозвучный
+metaforyczny|ADJ|метафорический, метафоричный
+metodologiczny|ADJ|методологический
+mężny|ADJ|мужественный
+micelarny|ADJ|мицеллярный
+międzykręgowy|ADJ|
+międzyrządowy|ADJ|межправительственный
+migrować|ADJ|
+miliardowy|ADJ|биллионный, миллиардный
+miłosierny|ADJ|милосердный
+misterny|ADJ|
+mitologiczny|ADJ|мифологический
+mnogi|ADJ|
+moczanowy|ADJ|
+modlitewny|ADJ|молитвенный
+modulować|ADJ|модулировать
+molekularny|ADJ|молекулярный
+monopolowy|ADJ|
+mozolny|ADJ|
+mszalny|ADJ|
+musować|ADJ|
+musztardowy|ADJ|
+myjący|ADJ|
+nadbałtycki|ADJ|прибалтийский
+naddźwiękowy|ADJ|сверхзвуковой
+nadgryźć|ADJ|
+nadnaturalny|ADJ|
+nadpisać|ADJ|
+nadpobudliwy|ADJ|гипервозбудимый
+naganny|ADJ|
+nagminny|ADJ|распространенный, частый
+nakazany|ADJ|
+nalistny|ADJ|
+naoliwić|ADJ|
+naostrzyć|ADJ|
+narwać|ADJ|
+narzędziowy|ADJ|
+nastroić|ADJ|
+naszyć|ADJ|
+nawykowy|ADJ|
+neodymowy|ADJ|
+neogotycki|ADJ|неоготический
+neoliberalny|ADJ|
+nieagresywny|ADJ|
+nieatrakcyjny|ADJ|непривлекательный
+niebagatelny|ADJ|немаловажный
+niedorozwinięty|ADJ|
+niedostosowany|ADJ|
+nieelegancki|ADJ|
+niegodziwy|ADJ|бесчестный
+niejadalny|ADJ|несъедобный
+niejednogłośny|ADJ|
+niejedyny|ADJ|
+nielakierowany|ADJ|
+nielojalny|ADJ|
+niemogący|ADJ|
+nieobliczalny|ADJ|
+nieobowiązkowy|ADJ|
+nieodporny|ADJ|
+nieopanowany|ADJ|
+nieostry|ADJ|
+nieoznakowany|ADJ|
+nieożywiony|ADJ|
+niepamiętny|ADJ|
+niepłodny|ADJ|
+niepodległościowy|ADJ|
+nieposiadający|ADJ|
+nieposłuszny|ADJ|
+nieprzebrany|ADJ|
+nieprzejezdny|ADJ|
+nieprzespany|ADJ|
+nieprzezroczysty|ADJ|непрозрачный
+nieprzychylny|ADJ|
+nieprzydatny|ADJ|
+nieprzypadkowy|ADJ|
+nierafinowany|ADJ|
+nierealistyczny|ADJ|
+nieruchomościowy|ADJ|
+nieskażony|ADJ|
+niesłyszący|ADJ|
+niestworzony|ADJ|
+nieswój|ADJ|
+nieszablonowy|ADJ|
+niewrażliwy|ADJ|
+niewyczerpany|ADJ|
+niewysoki|ADJ|
+niewyspany|ADJ|
+niezabudowany|ADJ|
+niezarejestrowany|ADJ|
+niezatapialny|ADJ|
+niezawarty|ADJ|
+niezawisły|ADJ|независимый
+niezbadany|ADJ|
+niezbywalny|ADJ|
+niezidentyfikowany|ADJ|
+nieżyjący|ADJ|
+niszczeć|ADJ|
+nitrylowy|ADJ|
+nizinny|ADJ|
+notoryczny|ADJ|
+nowozelandzki|ADJ|новозеландский
+nużyć|ADJ|
+obcojęzyczny|ADJ|иноязычный
+objazdowy|ADJ|
+oblegać|ADJ|осаждать
+obłędny|ADJ|
+obmywać|ADJ|
+obsługowy|ADJ|
+ocalony|ADJ|
+oczytać|ADJ|
+odbiorczy|ADJ|
+odbity|ADJ|
+odcinkowy|ADJ|
+odciskać|ADJ|
+oderwany|ADJ|
+odholować|ADJ|
+odjazdowy|ADJ|
+odludny|ADJ|
+odmowny|ADJ|
+odnawiany|ADJ|
+odpracować|ADJ|
+odsetkowy|ADJ|
+odstresować|ADJ|
+odtrącić|ADJ|
+odwracalny|ADJ|
+odzwierzęcy|ADJ|
+ofensywny|ADJ|
+oficerski|ADJ|офицерский
+ogólnikowy|ADJ|
+ogólnokrajowy|ADJ|общегосударственный
+oklejony|ADJ|
+oksydować|ADJ|
+oliwkowy|ADJ|оливковый
+oliwny|ADJ|
+olśniewający|ADJ|
+onieśmielić|ADJ|
+opadły|ADJ|
+opalony|ADJ|
+opiniować|ADJ|
+opłakany|ADJ|
+opłatkowy|ADJ|облаточный
+organizujący|ADJ|
+orkiszowy|ADJ|
+osadowy|ADJ|осадочный
+osobowościowy|ADJ|личностный
+ostrołęcki|ADJ|
+ostrowiecki|ADJ|
+oszukany|ADJ|
+ościenny|ADJ|
+ośmioletni|ADJ|восьмилетний
+otworkowy|ADJ|
+outsourcingowy|ADJ|
+owiać|ADJ|
+ożywczy|ADJ|
+ożywiony|ADJ|
+pakietowy|ADJ|
+panelowy|ADJ|
+papierosowy|ADJ|сигаретный
+paprykowy|ADJ|
+parafinowy|ADJ|
+paranoidalny|ADJ|
+parkowy|ADJ|парковый
+parmeński|ADJ|пармский
+pasjonujący|ADJ|
+pasterski|ADJ|
+pastoralny|ADJ|
+paszowy|ADJ|
+patowy|ADJ|
+perski|ADJ|персидский
+perspektywiczny|ADJ|
+pesymistyczny|ADJ|пессимистичный
+petrochemiczny|ADJ|нефтехимический
+pierwszoplanowy|ADJ|
+pierwszorzędny|ADJ|первоклассный, первосортный
+pięcioosobowy|ADJ|
+pięćdziesiąty|ADJ|пятидесятый
+pigmentowy|ADJ|
+pijaki|ADJ|
+piknikowy|ADJ|
+piniowy|ADJ|
+pionierski|ADJ|
+piracki|ADJ|пиратский
+pisowski|ADJ|
+plamisty|ADJ|пятнистый
+planistyczny|ADJ|
+pleciony|ADJ|
+plemienny|ADJ|племенной
+płaczliwy|ADJ|
+płodowy|ADJ|
+płonący|ADJ|
+pochlebny|ADJ|
+pochwalny|ADJ|
+poczciwy|ADJ|добродушный, доброжелательный
+podawczy|ADJ|
+podejrzliwy|ADJ|подозрительный
+podległy|ADJ|подобострастный
+podmiotowy|ADJ|
+podmokły|ADJ|
+podniosły|ADJ|
+podsłuchowy|ADJ|
+podszyć|ADJ|
+podwiesić|ADJ|
+pofałdować|ADJ|
+pojednawczy|ADJ|
+pokonkursowy|ADJ|
+pokrzepiać|ADJ|
+policzkowy|ADJ|
+polietylenowy|ADJ|
+połatać|ADJ|
+położniczy|ADJ|родильный, родовспомогательный
+pomijany|ADJ|
+pomylony|ADJ|
+ponadpodstawowy|ADJ|
+ponumerować|ADJ|
+popękany|ADJ|
+popisowy|ADJ|
+popowy|ADJ|
+poprzewracać|ADJ|
+porosnąć|ADJ|порасти
+posępny|ADJ|мрачный
+postny|ADJ|
+poszatkować|ADJ|
+poszukiwany|ADJ|
+potężnie|ADJ|
+potulny|ADJ|
+powodziowy|ADJ|паводковый
+powstańczy|ADJ|повстанческий
+powściągliwy|ADJ|
+powtarzalny|ADJ|
+powybijać|ADJ|
+pozamiatać|ADJ|
+pozapłacowy|ADJ|
+prawdomówny|ADJ|правдивый, правдолюбивый
+prawicowy|ADJ|правый
+praworęczny|ADJ|
+prawosławny|ADJ|православный
+prawowity|ADJ|законный, легальный, легитимный
+prefabrykować|ADJ|
+proceduralny|ADJ|
+promieniowy|ADJ|
+propagandowy|ADJ|пропагандистский
+prorodzinny|ADJ|
+prozaiczny|ADJ|
+pryskać|ADJ|брызгать
+prywatni|ADJ|
+przeciwstawny|ADJ|
+przedmiesiączkowy|ADJ|предменструальный
+przedpołudniowy|ADJ|
+przedślubny|ADJ|
+przegotować|ADJ|
+przejazdowy|ADJ|
+przejechany|ADJ|
+przejezdny|ADJ|
+przekazany|ADJ|
+przekaźnikowy|ADJ|
+przekierowywać|ADJ|
+przekłuty|ADJ|
+przekrzywić|ADJ|
+przelotowy|ADJ|
+przełajowy|ADJ|
+przemieść|ADJ|
+przemoczyć|ADJ|
+przepływowy|ADJ|
+przepytać|ADJ|
+przerąbać|ADJ|
+przesłodki|ADJ|
+prześladowczy|ADJ|
+przewartościować|ADJ|
+przeziębiony|ADJ|
+przybity|ADJ|
+przyczynowy|ADJ|причинный
+przyćmić|ADJ|
+przydrożny|ADJ|придорожный
+przygnieść|ADJ|
+przykładny|ADJ|
+przyległy|ADJ|
+przynosowy|ADJ|
+przypodłogowy|ADJ|
+psychodeliczny|ADJ|психоделический
+psychofizyczny|ADJ|
+psychosomatyczny|ADJ|
+psychospołeczny|ADJ|
+psychotropowy|ADJ|психотропный
+psychotyczny|ADJ|
+ptysiowy|ADJ|
+pulsacyjny|ADJ|
+pyskaty|ADJ|
+radomski|ADJ|
+rafineryjny|ADJ|нефтеперерабатывающий
+rdzeniowy|ADJ|
+rdzenny|ADJ|коренной
+reaktywny|ADJ|
+recepturowy|ADJ|рецептурный
+refleksyjny|ADJ|
+regulaminowy|ADJ|
+relacyjny|ADJ|
+renegocjować|ADJ|
+reperować|ADJ|
+reprezentatywny|ADJ|
+reprodukcyjny|ADJ|
+rewanżowy|ADJ|
+rezonansowy|ADJ|
+rękodzielniczy|ADJ|
+robaczkowy|ADJ|
+roszczeniowy|ADJ|
+rozbrykać|ADJ|
+rozdwajający|ADJ|
+rozdwoić|ADJ|
+rozdzielny|ADJ|
+rozgrzewający|ADJ|
+rozkruszyć|ADJ|
+rozlosować|ADJ|
+rozpierać|ADJ|
+rozrosnąć|ADJ|разрастись
+rozumny|ADJ|разумный, умный
+rozwiany|ADJ|
+rozwijalny|ADJ|
+rozżarzyć|ADJ|
+rubinowy|ADJ|рубиновый
+rufowy|ADJ|
+rurkowaty|ADJ|
+ryczałtowy|ADJ|
+rynnowy|ADJ|
+rzeczony|ADJ|
+sadowniczy|ADJ|
+sadystyczny|ADJ|садистский
+sakramentalny|ADJ|сакраментальный
+salicylowy|ADJ|салициловый
+samoistny|ADJ|независимый, самодостаточный, самостоятельный, спонтанный
+samowolny|ADJ|
+satysfakcjonujący|ADJ|
+sądowniczy|ADJ|
+sensomotoryczny|ADJ|
+serbski|ADJ|сербский
+serologiczny|ADJ|
+serwerowy|ADJ|
+setni|ADJ|
+sezamowy|ADJ|сезамовый
+sfabrykować|ADJ|
+sferyczny|ADJ|сферический
+siarczysty|ADJ|
+siateczkowy|ADJ|
+siedzący|ADJ|
+sienny|ADJ|
+siewny|ADJ|
+siny|ADJ|сизый, синий
+skąpy|ADJ|скудный, скупой, скаредный
+skoczny|ADJ|
+skonkretyzować|ADJ|
+skonsolidować|ADJ|
+skonsternować|ADJ|
+skrwawić|ADJ|
+skryty|ADJ|
+skrzydlaty|ADJ|крылатый
+skrzywić|ADJ|
+skumulować|ADJ|
+skutkowy|ADJ|
+smażony|ADJ|
+socjologiczny|ADJ|социологический
+solankowy|ADJ|рассольный, солончаковый
+solaryjny|ADJ|
+solony|ADJ|
+sopocki|ADJ|
+spaprać|ADJ|
+sparingowy|ADJ|
+spłycić|ADJ|
+spolaryzować|ADJ|
+sprawczy|ADJ|
+sprawnościowy|ADJ|
+sproszkować|ADJ|
+stacjonować|ADJ|
+stadionowy|ADJ|стадионный
+stajenny|ADJ|
+stepowy|ADJ|степной
+stereotypowy|ADJ|стереотипный
+sterowniczy|ADJ|
+strefowy|ADJ|зонный
+stresowy|ADJ|
+studniówkowy|ADJ|
+styczniowy|ADJ|январский
+surrealistyczny|ADJ|сюрреалистический
+swojski|ADJ|
+sygnować|ADJ|
+symfoniczny|ADJ|симфонический
+syzyfowy|ADJ|сизифов
+szacowny|ADJ|
+szafirowy|ADJ|
+szarmancki|ADJ|
+szczękowy|ADJ|
+sześciocyfrowy|ADJ|
+sześciomiesięczny|ADJ|шестимесячный
+sześciotygodniowy|ADJ|
+szewski|ADJ|сапожницкий, сапожнический
+szpecić|ADJ|
+szybkoschnący|ADJ|быстросохнущий
+szydełkowy|ADJ|
+ślizgowy|ADJ|
+śmiercionośny|ADJ|смертоносный
+środowy|ADJ|
+świetlisty|ADJ|светлый
+święcony|ADJ|
+tarasowy|ADJ|
+tarnowski|ADJ|
+taśmowy|ADJ|
+teletechniczny|ADJ|
+termoelektryczny|ADJ|
+termoizolacyjny|ADJ|
+termokurczliwy|ADJ|
+tłoczny|ADJ|
+tłumaczeniowy|ADJ|
+tonalny|ADJ|
+tonący|ADJ|
+toniczny|ADJ|
+torowy|ADJ|
+tożsamościowy|ADJ|
+trawiasty|ADJ|травянистый
+trefny|ADJ|
+trenujący|ADJ|
+triumfalny|ADJ|триумфальный
+trójkołowy|ADJ|трёхколёсный
+trzycyfrowy|ADJ|трёхзначный
+trzykrotny|ADJ|троекратный, трёхкратный, тройной
+trzynastoletni|ADJ|тринадцатилетний
+turniejowy|ADJ|
+twardzi|ADJ|
+twarzowy|ADJ|
+typograficzny|ADJ|
+ucisnąć|ADJ|
+uczący|ADJ|
+uczynny|ADJ|
+udarowy|ADJ|
+uduchowić|ADJ|
+układany|ADJ|
+układowy|ADJ|
+ukośny|ADJ|косой, наклонный
+umuzykalniać|ADJ|
+upiorny|ADJ|
+upublicznić|ADJ|
+urodzeniowy|ADJ|
+usłać|ADJ|
+uszny|ADJ|ушной
+uśrednić|ADJ|
+utaić|ADJ|
+walijski|ADJ|валлийский
+wanilinowy|ADJ|
+watykański|ADJ|ватиканский
+ważony|ADJ|
+wegetacyjny|ADJ|
+wekslowy|ADJ|
+weneryczny|ADJ|венерический
+wężowy|ADJ|змеиный
+widzialny|ADJ|
+wiedeński|ADJ|венский
+wiedzowy|ADJ|
+wielgachny|ADJ|
+wielodzietny|ADJ|многодетный, многосемейный
+wieloetapowy|ADJ|
+wielokanałowy|ADJ|
+wielokomórkowy|ADJ|многоклеточный
+wielokulturowy|ADJ|
+wielomiesięczny|ADJ|многомесячный
+wielowarstwowy|ADJ|многослойный
+wielowymiarowy|ADJ|
+wielozadaniowy|ADJ|
+wierzbowy|ADJ|
+wiklinowy|ADJ|
+wileński|ADJ|виленский, вильнюсский
+willowy|ADJ|
+wirnikowy|ADJ|
+wiwatować|ADJ|
+wklęsły|ADJ|
+właścicielski|ADJ|
+włoscy|ADJ|
+włosowaty|ADJ|
+wnerwiać|ADJ|бесить
+wolnoobrotowy|ADJ|
+wplatać|ADJ|
+wprawny|ADJ|
+wrodzony|ADJ|врождённый, прирождённый
+wrosnąć|ADJ|
+wryć|ADJ|
+wspanialszy|ADJ|
+współodpowiedzialny|ADJ|
+współwinny|ADJ|подельник
+współzależny|ADJ|
+wszczepiać|ADJ|
+wszechmocny|ADJ|всемогущий
+wszyty|ADJ|
+wtapiać|ADJ|
+wybiórczy|ADJ|
+wybrukować|ADJ|
+wylewny|ADJ|
+wyludnić|ADJ|
+wymęczyć|ADJ|
+wypaczyć|ADJ|
+wypakować|ADJ|
+wyryć|ADJ|
+wysiłkowy|ADJ|
+wysokobiałkowy|ADJ|
+wysokokaloryczny|ADJ|высококалорийный
+wyświęcić|ADJ|
+wywoławczy|ADJ|
+wywyższać|ADJ|
+wzbronić|ADJ|
+wzorniczy|ADJ|
+wzorzysty|ADJ|узорчатый
+zabawkowy|ADJ|
+zabliźniać|ADJ|
+zabłąkać|ADJ|
+zachwycający|ADJ|
+zadedykować|ADJ|
+zadziorny|ADJ|
+zagospodarowywać|ADJ|
+zagrabić|ADJ|
+zajefajny|ADJ|
+zajęciowy|ADJ|
+zakląć|ADJ|
+zakroić|ADJ|
+zaleczyć|ADJ|
+zamieszkany|ADJ|
+zaostrzać|ADJ|
+zapieczętować|ADJ|
+zapoznawczy|ADJ|
+zaprzyjaźniony|ADJ|
+zapylić|ADJ|
+zasobny|ADJ|богатый
+zasuszyć|ADJ|
+zasysać|ADJ|
+zaszokować|ADJ|
+zawistny|ADJ|завистливый, завистнический
+zawodny|ADJ|
+zaworowy|ADJ|
+zawrotny|ADJ|головокружительный
+zażegnać|ADJ|
+zbawiony|ADJ|
+zbłąkać|ADJ|
+zboczony|ADJ|
+zboczyć|ADJ|
+zbrojeniowy|ADJ|
+zdawkowy|ADJ|
+zdradziecki|ADJ|коварный, предательский
+zdrów|ADJ|
+zdziwieni|ADJ|
+zębaty|ADJ|
+zgrupować|ADJ|
+zgubiony|ADJ|
+zharmonizować|ADJ|
+zielarski|ADJ|
+ziemisty|ADJ|
+zjonizować|ADJ|
+zlotowy|ADJ|
+złocić|ADJ|золотить
+złożony|ADJ|
+zmęczeniowy|ADJ|
+zmoknąć|ADJ|
+zniesmaczyć|ADJ|
+zniewolony|ADJ|
+zobojętniać|ADJ|
+zrośnięty|ADJ|
+zsumować|ADJ|
+zszargać|ADJ|
+zszokowany|ADJ|
+zubożyć|ADJ|
+zuchwały|ADJ|бесцеремонный, дерзкий, надменный, самонадеянный, самоуверенный, отчаянный, рискованный
+zwęglić|ADJ|
+zwęglony|ADJ|
+zwinięty|ADJ|
+zżyty|ADJ|
+żakardowy|ADJ|
+żałobny|ADJ|похоронный, траурный
+żaroodporny|ADJ|
+żeliwny|ADJ|чугунный
+acetylosalicylowy|ADJ|
+afiliacyjny|ADJ|аффилиационный
+agroturystyczny|ADJ|
+akacjowy|ADJ|
+akcesoryjny|ADJ|
+aktywizacyjny|ADJ|
+akumulacyjny|ADJ|аккумулятивный
+akwarystyczny|ADJ|
+alergizować|ADJ|
+aliancki|ADJ|
+altruistyczny|ADJ|альтруистический, альтруистичный
+amazoński|ADJ|амазонский
+ambasadorski|ADJ|посольский
+amorficzny|ADJ|аморфный
+ananasowy|ADJ|ананасный, ананасовый
+animacyjny|ADJ|
+animować|ADJ|
+anodować|ADJ|анодировать
+anodyzować|ADJ|анодировать
+anomalny|ADJ|аномальный, ненормальный
+antropometryczny|ADJ|антропометрический
+antyfaszystowski|ADJ|антифашистский
+antymonopolowy|ADJ|антимонопольный, антитрестовский
+antynarkotykowy|ADJ|антинаркотический
+antynowotworowy|ADJ|
+antyspołeczny|ADJ|противообщественный
+aprobować|ADJ|апробировать, одобрять
+archetypiczny|ADJ|
+aresztowany|ADJ|
+artyleryjski|ADJ|артиллерийский
+ascetyczny|ADJ|аскетический, аскетичный, строгий
+aseptyczny|ADJ|асептический
+ateistyczny|ADJ|атеистический
+atletyczny|ADJ|атлетический
+awangardowy|ADJ|авангардистский, авангардный
+azotowy|ADJ|азотный
+azowski|ADJ|азовский
+badziewny|ADJ|
+bagienny|ADJ|болотистый
+bakteriologiczny|ADJ|бактериологический
+bakteriostatyczny|ADJ|бактериостатический
+bałaganiarski|ADJ|безалаберный
+barażowy|ADJ|
+barometryczny|ADJ|
+barski|ADJ|барский
+barwnikowy|ADJ|
+barwowy|ADJ|
+barytonowy|ADJ|баритональный
+baseballowy|ADJ|
+bawarski|ADJ|баварский
+bekonowy|ADJ|беконный
+bezbożny|ADJ|безбожный
+bezbramkowy|ADJ|
+bezcłowy|ADJ|беспошлинный
+bezdotykowy|ADJ|
+bezdyskusyjny|ADJ|
+bezdzietni|ADJ|
+bezgłośny|ADJ|беззвучный
+bezinwazyjny|ADJ|
+bezkonfliktowy|ADJ|бесконфликтный
+bezkonkurencyjny|ADJ|
+bezkresny|ADJ|бескрайний, беспредельный, необозримый
+bezkształtny|ADJ|бесформенный
+bezmózgi|ADJ|безмозглый
+bezobjawowy|ADJ|
+bezobsługowy|ADJ|
+bezosobowy|ADJ|безличный
+bezowocny|ADJ|безрезультатный, тщетный
+bezprzedmiotowy|ADJ|
+bezsenny|ADJ|бессонный
+bezustanny|ADJ|безустанный, беспрестанный, непрерывный, непрестанный, неустанный
+bezwietrzny|ADJ|безветренный
+bezwładny|ADJ|
+bezwolny|ADJ|
+bębenkowy|ADJ|
+bieglejszy|ADJ|
+biesiadny|ADJ|
+bilansowy|ADJ|
+bioklimatyczny|ADJ|
+biorący|ADJ|
+bitumiczny|ADJ|
+bizantyjski|ADJ|византийский
+biżuteryjny|ADJ|
+bliskowschodni|ADJ|ближневосточный
+błotnisty|ADJ|грязный
+bogaci|ADJ|
+borowy|ADJ|борный
+bostoński|ADJ|бостонский
+bosy|ADJ|
+bramowy|ADJ|
+brany|ADJ|
+braterski|ADJ|братский
+brawurowy|ADJ|
+brzydszy|ADJ|
+bufiasty|ADJ|с буфы
+bungalowy|ADJ|
+butelkowy|ADJ|бутылочный
+bydgoski|ADJ|
+bydlęcy|ADJ|
+bzdurny|ADJ|
+bzowy|ADJ|
+cedrowy|ADJ|кедровый
+celowniczy|ADJ|
+celulozowy|ADJ|целлюлозный
+ceremonialny|ADJ|церемониальный
+chelatować|ADJ|
+chilijski|ADJ|чилийский
+chłopięcy|ADJ|мальчиковый
+chmurny|ADJ|затянутый облако, затянутый туча, хмурый, смурной, угрюмый
+chorobotwórczy|ADJ|болезнетворный, патогенный
+chromosomowy|ADJ|хромосомный
+chrupki|ADJ|
+chudziutki|ADJ|
+chwastobójczy|ADJ|
+chwiejny|ADJ|
+chytry|ADJ|жадный, хитрый, скользкий
+cichutki|ADJ|тихонький
+cieczowy|ADJ|
+cieknąć|ADJ|
+cielący|ADJ|
+ciemnoszary|ADJ|
+cienisty|ADJ|
+ciernisty|ADJ|тернистый
+cierpiący|ADJ|
+ciesielski|ADJ|
+cyrkulacyjny|ADJ|
+czadowy|ADJ|
+czaszkowy|ADJ|краниальный, черепной
+czechosłowacki|ADJ|чехословацкий
+czterdziestoletni|ADJ|сорокалетний
+czterdziesty|ADJ|сороковой
+czterokondygnacyjny|ADJ|четырёхэтажный
+czterosuwowy|ADJ|
+czynnościowy|ADJ|
+czyszczący|ADJ|
+czyści|ADJ|
+dalekobieżny|ADJ|
+defensywny|ADJ|
+definiowalny|ADJ|определимый
+dekarski|ADJ|
+delikatni|ADJ|
+depilować|ADJ|
+deserowy|ADJ|десертный
+despotyczny|ADJ|деспотический, деспотичный, тираничный
+destruktywny|ADJ|
+diecezjalny|ADJ|епархиальный
+długaśny|ADJ|
+dobrotliwy|ADJ|
+doceniony|ADJ|
+dociskowy|ADJ|
+dojmować|ADJ|
+dokapitalizować|ADJ|
+dokleić|ADJ|
+doładowywać|ADJ|
+domofonowy|ADJ|
+domorosły|ADJ|доморощенный
+doniosły|ADJ|
+donny|ADJ|
+dopieścić|ADJ|
+dopingujący|ADJ|
+dopływać|ADJ|
+doroczny|ADJ|ежегодный
+dosadny|ADJ|
+dostosowawczy|ADJ|
+doszlifować|ADJ|
+douszny|ADJ|
+dozorowy|ADJ|
+drasnąć|ADJ|
+drewnopodobny|ADJ|
+drobiazgowy|ADJ|мелочный, придирчивый, подробный, тщательный, детальный, скрупулёзный
+drobniutki|ADJ|
+druciany|ADJ|
+dubbingowy|ADJ|
+duszny|ADJ|душный
+dworcowy|ADJ|
+dwójki|ADJ|
+dwucyfrowy|ADJ|двузначный
+dwudrzwiowy|ADJ|
+dwudziestopięcioletni|ADJ|двадцатипятилетний
+dwugodzinny|ADJ|двухчасовой
+dwukołowy|ADJ|двухколесный, двухколёсный
+dwurodzinny|ADJ|
+dwutonowy|ADJ|
+dwutorowy|ADJ|двухколейный
+dyfuzyjny|ADJ|
+dymowy|ADJ|
+dyndać|ADJ|
+dyrektorski|ADJ|директорський
+dyskontowy|ADJ|
+dyskotekowy|ADJ|дискотечный
+dyskretni|ADJ|
+dzianinowy|ADJ|
+dzielnicowy|ADJ|
+dziewięcioletni|ADJ|девятилетний
+dziobowy|ADJ|носовой
+dźwięczny|ADJ|звонкий, звучный
+dźwiękoszczelny|ADJ|
+egalitarny|ADJ|эгалитарный
+ekranowy|ADJ|
+ekspandować|ADJ|
+eksportowy|ADJ|экспортный
+ekstradycyjny|ADJ|
+elektronowy|ADJ|электронный
+elektrotechniczny|ADJ|
+elewacyjny|ADJ|
+emaliować|ADJ|эмалировать
+emancypacyjny|ADJ|
+emisyjny|ADJ|
+endemiczny|ADJ|эндемический, эндемичный
+endotermiczny|ADJ|эндотермический
+energochłonny|ADJ|
+entuzjastyczny|ADJ|
+estoński|ADJ|эстонский, эстонский язык
+etatowy|ADJ|ординарный
+etiologiczny|ADJ|этиологический
+etylowy|ADJ|этиловый
+eucharystyczny|ADJ|евхаристический
+eukaliptusowy|ADJ|эвкалиптовый
+ewangelizacyjny|ADJ|
+falbaniasty|ADJ|
+familijny|ADJ|
+fantazyjny|ADJ|
+farmerski|ADJ|фермерский
+fasetować|ADJ|
+feminizować|ADJ|
+fenotypowy|ADJ|фенотипический
+feralny|ADJ|
+ferować|ADJ|
+filipiński|ADJ|филиппинский
+filologiczny|ADJ|филологический
+fizykoterapeutyczny|ADJ|
+florencki|ADJ|флорентийский, флорентинский
+florystyczny|ADJ|
+flotowy|ADJ|
+fluorowodorowy|ADJ|
+fonograficzny|ADJ|фонографический
+formacyjny|ADJ|
+franciszkański|ADJ|францисканский
+frezujący|ADJ|
+fuzyjny|ADJ|
+gabarytowy|ADJ|габаритный
+galicyjski|ADJ|галицийский
+garbaty|ADJ|горбатый
+gatunkowy|ADJ|
+gazowniczy|ADJ|
+gdański|ADJ|гданьский
+generyczny|ADJ|
+gęsiego|ADJ|гуськом
+gibraltarski|ADJ|гибралтарский
+gitarowy|ADJ|гитарный
+glikolowy|ADJ|
+głupiutki|ADJ|
+gnieść|ADJ|комкать, сминать
+godowy|ADJ|
+gołosłowny|ADJ|
+gorzowski|ADJ|
+goździkowy|ADJ|
+grany|ADJ|
+gratulacyjny|ADJ|поздравительный
+gresowy|ADJ|
+grobowy|ADJ|гробовой, похоронный, могильный
+gronowy|ADJ|виноградный
+gruboziarnisty|ADJ|
+gryczany|ADJ|гречишный, гречневый
+grzbietowy|ADJ|
+grzecznościowy|ADJ|
+grzmieć|ADJ|греметь
+grzybobójczy|ADJ|
+guzowaty|ADJ|
+gwiazdorski|ADJ|
+habilitować|ADJ|
+hackerski|ADJ|
+hafciarski|ADJ|
+hasłowy|ADJ|
+hebrajski|ADJ|еврейский, иврит
+herbaciany|ADJ|чайный
+higienizacyjny|ADJ|
+hipertoniczny|ADJ|
+hiphopowy|ADJ|
+hipotetyczny|ADJ|гипотетический, гипотетичный
+histologiczny|ADJ|гистологический
+homologować|ADJ|
+horyzontalny|ADJ|горизонтальный
+hospicyjny|ADJ|
+hospitalizować|ADJ|
+huczny|ADJ|
+hutniczy|ADJ|
+hydrologiczny|ADJ|гидрологический
+hydroponiczny|ADJ|
+iberyjski|ADJ|иберийский
+idealistyczny|ADJ|идеалистический
+ignorancki|ADJ|
+imbusowy|ADJ|имбусовый
+imieninowy|ADJ|
+imperialny|ADJ|имперский
+inaugurować|ADJ|
+inhalacyjny|ADJ|
+iniekcyjny|ADJ|
+instalatorski|ADJ|
+instruktorski|ADJ|инструкторский
+interpunkcyjny|ADJ|пунктуационный
+interwałowy|ADJ|
+iskrowy|ADJ|
+izbowy|ADJ|
+jarzynowy|ADJ|овощной
+jaskrawoczerwony|ADJ|ярко-красный
+jeansowy|ADJ|
+jednocyfrowy|ADJ|
+jednokrotny|ADJ|
+jednomyślny|ADJ|единодушный, единогласный
+jednooki|ADJ|одноглазый
+jednoręczny|ADJ|
+jednotorowy|ADJ|
+jemeński|ADJ|йеменский
+jerozolimski|ADJ|иерусалимский
+jesionowy|ADJ|ясеневый
+jęczmienny|ADJ|ячменный
+jonowy|ADJ|ионный
+kabaretowy|ADJ|
+kafelkowy|ADJ|
+kajeński|ADJ|
+kaletniczy|ADJ|
+kaliski|ADJ|
+kałowy|ADJ|
+kanaryjski|ADJ|канарский
+kapitalizować|ADJ|
+karalny|ADJ|наказуемый
+karkołomny|ADJ|головокружительный, головоломный, опасный
+karmelizować|ADJ|
+karpiowaty|ADJ|
+kartuski|ADJ|
+karygodny|ADJ|
+kaskadowy|ADJ|
+katalityczny|ADJ|каталитический
+kataloński|ADJ|каталонский
+kaucjonować|ADJ|
+kauczukowy|ADJ|каучуковый
+kąpielowa|ADJ|
+kenijski|ADJ|кенийский
+ketonowy|ADJ|
+kibicujący|ADJ|
+kielecki|ADJ|
+kiełbasiany|ADJ|колбасный
+kieszeniowy|ADJ|
+kilkakrotny|ADJ|
+kilkutygodniowy|ADJ|
+kilometrowy|ADJ|километровый
+klaustrofobiczny|ADJ|
+klejowy|ADJ|
+kleszczowy|ADJ|клещевой
+kloniczny|ADJ|
+kłótliwy|ADJ|сварливый
+koksowniczy|ADJ|
+koloidalny|ADJ|
+kolorymetryczny|ADJ|
+komiczny|ADJ|комический
+kominiarski|ADJ|
+komorowy|ADJ|
+kompozytorski|ADJ|композиторский
+konać|ADJ|умирать
+konfliktowy|ADJ|конфликтный
+koniunkturalny|ADJ|
+konsekutywny|ADJ|
+konsultingowy|ADJ|
+koordynacyjny|ADJ|
+kopalny|ADJ|
+kopić|ADJ|
+kopytowy|ADJ|
+koryncki|ADJ|коринфский
+korzenny|ADJ|
+kosmaty|ADJ|косматый
+kosmówkowy|ADJ|
+koszerny|ADJ|кошерный
+kościany|ADJ|
+kościański|ADJ|
+kozacki|ADJ|казацкий
+kranowy|ADJ|
+krawędziowy|ADJ|
+kredowy|ADJ|меловой
+krewetkowy|ADJ|
+krezkowy|ADJ|
+kriogeniczny|ADJ|криогенный
+krojony|ADJ|
+krośnieński|ADJ|
+krowi|ADJ|коровий
+krowy|ADJ|
+krwiożerczy|ADJ|кровожадный
+krzemowy|ADJ|кремниевый
+krzepki|ADJ|
+krzesełkowy|ADJ|
+krzyczący|ADJ|
+krzykliwy|ADJ|крикливый
+krzyżykowy|ADJ|
+kształtny|ADJ|
+kulturystyczny|ADJ|
+kunsztowny|ADJ|артистический, искусный, мастерской, тонкий
+kurdyjski|ADJ|курдский
+kuszący|ADJ|
+kute|ADJ|
+kwaskowaty|ADJ|кисловатый
+kwasoodporny|ADJ|
+kwotowy|ADJ|
+lakoniczny|ADJ|лаконический, лаконичный
+laparoskopowy|ADJ|лапароскопический
+latynoamerykański|ADJ|латиноамериканский
+latynoski|ADJ|
+lawinowy|ADJ|
+legitymacyjny|ADJ|
+lekceważący|ADJ|
+lektorski|ADJ|лекторский
+lenki|ADJ|
+leszczynowy|ADJ|орешниковый
+lęgowy|ADJ|
+lękliwy|ADJ|боязливый, робкий, пугливый
+libański|ADJ|ливанский
+libertariański|ADJ|
+liofilizować|ADJ|
+lipowy|ADJ|липовый
+luby|ADJ|
+luksemburski|ADJ|люксембургский
+lutowniczy|ADJ|
+luzacki|ADJ|
+ładniutki|ADJ|смазливый
+łakomy|ADJ|
+łamany|ADJ|
+łososiowy|ADJ|
+łotewski|ADJ|латвийский, латышский
+łowicki|ADJ|
+łowny|ADJ|
+łóżkowy|ADJ|
+łuczniczy|ADJ|
+łzowy|ADJ|
+macedoński|ADJ|македонский
+maciczny|ADJ|маточный
+malezyjski|ADJ|малайзийский
+małpy|ADJ|
+managerski|ADJ|менеджерский
+maniakalny|ADJ|маниакальный
+mapowy|ADJ|
+marginalny|ADJ|
+marksistowski|ADJ|марксистский
+marsowy|ADJ|
+masztowy|ADJ|
+mądraliński|ADJ|
+mechać|ADJ|
+melodramatyczny|ADJ|мелодраматичный
+menadżerski|ADJ|менеджерский
+męczący|ADJ|
+miarodajny|ADJ|
+miarowy|ADJ|ритмический, ритмичный
+mięć|ADJ|
+międzygwiezdny|ADJ|межзвёздный
+międzykomórkowy|ADJ|
+międzykulturowy|ADJ|
+międzyplanetarny|ADJ|межпланетный
+międzypokoleniowy|ADJ|
+międzysektorowy|ADJ|
+mięsożerny|ADJ|плотоядный
+mijany|ADJ|
+milczący|ADJ|
+mimowolny|ADJ|невольный, непроизвольный
+ministerialny|ADJ|министерский
+minutowy|ADJ|минутный
+miński|ADJ|минский
+miodny|ADJ|медвяный
+misjonarski|ADJ|миссионерский
+młodziutki|ADJ|молоденький
+młyński|ADJ|мельничный
+mobilizacyjny|ADJ|мобилизационный
+moczopędny|ADJ|мочегонный
+modry|ADJ|синий
+modularny|ADJ|модульный
+moherowy|ADJ|мохеровый
+molowy|ADJ|
+monitoringowy|ADJ|
+monogamiczny|ADJ|единобрачный, моногамный
+monolityczny|ADJ|
+monopolistyczny|ADJ|монополистический
+monterski|ADJ|монтёрский
+morfologiczny|ADJ|
+morowy|ADJ|
+moskiewski|ADJ|московский
+mostowy|ADJ|мостовой
+motorowerowy|ADJ|
+mrozoodporny|ADJ|морозоустойчивый
+mściwy|ADJ|мстительный
+multiwitaminowy|ADJ|
+muskać|ADJ|
+mysi|ADJ|
+nabrzmiały|ADJ|
+naburmuszyć|ADJ|
+nabuzować|ADJ|
+naczelne|ADJ|
+nadaremny|ADJ|
+nadbrzeżny|ADJ|прибрежный
+naderwać|ADJ|
+nadęty|ADJ|надутый
+nadgarstkowy|ADJ|запястный
+nadobowiązkowy|ADJ|
+nadpłacić|ADJ|
+nadworny|ADJ|
+nadziemny|ADJ|
+nadzy|ADJ|
+nagłośnieniowy|ADJ|
+nagraniowy|ADJ|
+najedzeni|ADJ|
+napchany|ADJ|
+napisany|ADJ|
+napocząć|ADJ|
+napowietrzyć|ADJ|
+narracyjny|ADJ|
+natchnąć|ADJ|
+natryskowy|ADJ|
+naturalistyczny|ADJ|натуралистичный
+nauszny|ADJ|
+nawozowy|ADJ|
+nazaretański|ADJ|
+nerwicowy|ADJ|
+neuronalny|ADJ|
+neutronowy|ADJ|
+newralgiczny|ADJ|невралгический
+niderlandzki|ADJ|нидерландский
+nieadekwatny|ADJ|неадекватный
+niealkoholowy|ADJ|
+niebiański|ADJ|
+niecenzuralny|ADJ|
+niechemiczny|ADJ|
+niechętny|ADJ|неохотный, недружелюбный
+niecny|ADJ|
+nieczytelny|ADJ|нечитабельный
+niedbały|ADJ|
+niedoceniony|ADJ|
+niedokładny|ADJ|
+niedołężny|ADJ|
+niedoskonały|ADJ|несовершенный
+niedościgniony|ADJ|
+niedotykalny|ADJ|
+niedrożny|ADJ|
+niedziałający|ADJ|
+niedźwiedzi|ADJ|медвежий
+nieelastyczny|ADJ|
+niegazowany|ADJ|
+niegłupi|ADJ|
+niegościnny|ADJ|
+nieidealny|ADJ|
+niekaralny|ADJ|
+niekochany|ADJ|
+niekomfortowy|ADJ|
+niekonieczny|ADJ|
+niekrępujący|ADJ|
+nielimitowany|ADJ|
+nieliniowy|ADJ|
+nielogiczny|ADJ|нелогичный
+nielubiany|ADJ|
+niemodny|ADJ|
+nienachalny|ADJ|
+nienarodzony|ADJ|
+nienawistny|ADJ|
+nieodkryty|ADJ|
+nieodnawialny|ADJ|
+nieokiełznany|ADJ|
+nieokreślony|ADJ|неопределенный
+nieomylny|ADJ|безошибочный
+nieoperacyjny|ADJ|
+nieorganiczny|ADJ|
+nieoryginalny|ADJ|
+nieoznaczony|ADJ|
+niepasujący|ADJ|
+niepiśmienny|ADJ|безграмотный, неграмотный
+nieplanowany|ADJ|
+niepodobny|ADJ|
+niepohamowany|ADJ|
+niepokonany|ADJ|
+niepokorny|ADJ|
+nieporadny|ADJ|
+nieporządny|ADJ|
+niepowiązany|ADJ|
+niepraktyczny|ADJ|
+nieprawdy|ADJ|
+nieprawy|ADJ|
+nieprzekonany|ADJ|
+nieprzemyślany|ADJ|
+nieprzenikniony|ADJ|
+nieprzetworzony|ADJ|
+nieprzygotowany|ADJ|неготовый
+nieprzymuszony|ADJ|
+niereligijny|ADJ|нерелигиозный
+nierozcieńczony|ADJ|
+nierozdzielny|ADJ|
+nierozpoznany|ADJ|
+nierzadki|ADJ|
+nierzeczywisty|ADJ|
+niesłyszalny|ADJ|неслышный
+niespecyficzny|ADJ|
+niespieszny|ADJ|
+niespodziany|ADJ|
+niesteroidowy|ADJ|
+niestraszny|ADJ|
+niestrawiony|ADJ|непродуманный
+niesympatyczny|ADJ|
+nieszczery|ADJ|неискренний
+nieślubny|ADJ|
+nietaktowny|ADJ|бестактный, нетактичный
+nietłusty|ADJ|
+nietradycyjny|ADJ|
+nietrudny|ADJ|
+nietrwały|ADJ|
+nieujawniony|ADJ|
+nieujęty|ADJ|
+nieumiejętny|ADJ|
+nieupoważniony|ADJ|
+nieusprawiedliwiony|ADJ|
+nieustępliwy|ADJ|
+nieużyteczny|ADJ|
+niewarty|ADJ|
+niewesoły|ADJ|
+niewidzący|ADJ|
+niewyczerpalny|ADJ|
+niewydolny|ADJ|
+niewygórowany|ADJ|
+niewykryty|ADJ|
+niewymierny|ADJ|
+niewyparzony|ADJ|
+niewypowiedziany|ADJ|невысказанный, неописуемый
+niezagrażający|ADJ|
+niezakłócony|ADJ|
+niezamknięty|ADJ|
+niezamożny|ADJ|
+niezatarty|ADJ|
+nieznaczący|ADJ|
+niezrealizowany|ADJ|
+niezrozumiany|ADJ|
+niezrzeszony|ADJ|
+niezwyczajny|ADJ|
+nieżywy|ADJ|неживой
+niklować|ADJ|никелировать
+niskobudżetowy|ADJ|
+niskopodłogowy|ADJ|
+niskotemperaturowy|ADJ|
+nitkowaty|ADJ|нитковидный, ниткообразный
+nitowany|ADJ|
+norowy|ADJ|
+notowany|ADJ|
+nowohucki|ADJ|
+nowomowy|ADJ|
+nudnawy|ADJ|
+nyski|ADJ|
+obejrzany|ADJ|
+obezwładniony|ADJ|
+obiciowy|ADJ|
+obleśny|ADJ|плотоядный, похотливый
+oblodzić|ADJ|
+obłudny|ADJ|лицемерный, двуличный
+obosieczny|ADJ|обоюдоострый
+obsłużony|ADJ|
+obszyty|ADJ|
+oburęczny|ADJ|
+obwisły|ADJ|
+oceaniczny|ADJ|океанический
+ocenzurować|ADJ|
+ochotniczy|ADJ|добровольческий
+odchylać|ADJ|
+odczulać|ADJ|
+oddłużeniowy|ADJ|
+odkręcać|ADJ|
+odlotowy|ADJ|
+odmalować|ADJ|
+odmrozić|ADJ|
+odpędzić|ADJ|
+odpływowy|ADJ|
+odrętwiały|ADJ|
+odrysować|ADJ|
+odsadzić|ADJ|
+odśnieżyć|ADJ|
+odśrodkowy|ADJ|центробежный
+odświeżający|ADJ|
+odtajnić|ADJ|
+odtłuszczający|ADJ|
+odtłuścić|ADJ|
+odziać|ADJ|
+odziany|ADJ|
+ogłupiały|ADJ|
+ogłuszać|ADJ|
+ogólnokształcący|ADJ|общеобразовательный
+ogórkowy|ADJ|огуречный
+ogromy|ADJ|
+okalać|ADJ|
+okleić|ADJ|
+oklepać|ADJ|
+okładkowy|ADJ|
+okładzinowy|ADJ|
+okrywowy|ADJ|
+okrzemkowy|ADJ|
+olchowy|ADJ|ольховый
+ołowiany|ADJ|свинцовый
+opalizować|ADJ|
+opatrunkowy|ADJ|
+opierzyć|ADJ|
+opiniotwórczy|ADJ|
+opioidowy|ADJ|
+opłakać|ADJ|
+opłucny|ADJ|
+opływowy|ADJ|обтекаемый
+oporowy|ADJ|
+opowiadający|ADJ|
+opowiedziany|ADJ|
+oprzemy|ADJ|
+oralny|ADJ|оральный, устный
+orbitalny|ADJ|орбитальный
+organowy|ADJ|органный
+ortodoksyjny|ADJ|ортодоксальный
+orzeczniczy|ADJ|
+osaczyć|ADJ|
+oscarowy|ADJ|
+oskrzelowy|ADJ|
+osłonięty|ADJ|
+osmotyczny|ADJ|осмотический
+osobniczy|ADJ|
+ospały|ADJ|
+ostrowski|ADJ|
+oszlifować|ADJ|
+ośmioklasowy|ADJ|восьмиклассный
+otępiały|ADJ|
+otwocki|ADJ|
+outdoorowy|ADJ|
+owodniowy|ADJ|
+padły|ADJ|
+paintballowy|ADJ|
+paleontologiczny|ADJ|палеонтологический
+pantoflowy|ADJ|
+papierniczy|ADJ|
+papieski|ADJ|папский
+papilarny|ADJ|
+paradoksalny|ADJ|парадоксальный
+paraolimpijski|ADJ|
+parapsychologiczny|ADJ|
+partycypacyjny|ADJ|
+pasiasty|ADJ|
+paskowy|ADJ|
+pasowy|ADJ|
+pasożytniczy|ADJ|паразитарный, паразитический, паразитный, дармоедческий
+pastewny|ADJ|
+pastwiskowy|ADJ|
+pchli|ADJ|
+pełnoekranowy|ADJ|
+pełnoetatowy|ADJ|
+pełnometrażowy|ADJ|
+pełnosprawny|ADJ|
+pełnotłusty|ADJ|
+peptydowy|ADJ|
+perwersyjny|ADJ|
+pępkowy|ADJ|
+pępowinowy|ADJ|
+piankowy|ADJ|
+pieczarkowy|ADJ|
+piekarniczy|ADJ|
+piernikowy|ADJ|пряничный
+pierwiastkowy|ADJ|
+pięćdziesięcioletni|ADJ|пятидесятилетний
+piętowy|ADJ|
+pingpongowy|ADJ|
+pisarski|ADJ|
+piszczący|ADJ|
+piśmienniczy|ADJ|
+piwniczny|ADJ|
+piżmowy|ADJ|
+plackowaty|ADJ|
+platynowy|ADJ|платинный, платиновый
+plisować|ADJ|
+płocki|ADJ|
+pobieżny|ADJ|беглый
+pochwowy|ADJ|влагалищный
+poczytny|ADJ|
+podatni|ADJ|
+podbramkowy|ADJ|
+podchwytliwy|ADJ|
+podczepić|ADJ|
+podkładowy|ADJ|
+podkrążyć|ADJ|
+podmiejski|ADJ|загородный, пригородный
+podpiekać|ADJ|
+podprogowy|ADJ|
+podprowadzać|ADJ|
+podpuchnąć|ADJ|
+podstarzały|ADJ|
+podziałowy|ADJ|
+podzielny|ADJ|
+pogardliwy|ADJ|презрительный
+pogrążony|ADJ|
+pohańbić|ADJ|
+pojętny|ADJ|
+pokojowa|ADJ|
+pokrzywowy|ADJ|крапивный
+polarowy|ADJ|
+polekowy|ADJ|
+policki|ADJ|
+polimerowy|ADJ|
+polimorficzny|ADJ|
+polipropylenowy|ADJ|
+połowiczny|ADJ|
+pomęczyć|ADJ|
+pomieszany|ADJ|
+ponadregionalny|ADJ|
+ponętny|ADJ|
+poniektóry|ADJ|
+pootwierać|ADJ|
+popielcowy|ADJ|
+poplenerowy|ADJ|
+poprodukcyjny|ADJ|
+popromienny|ADJ|
+poprzemysłowy|ADJ|
+populacyjny|ADJ|
+porąbany|ADJ|
+posilony|ADJ|
+posiłkowy|ADJ|
+postkolonialny|ADJ|
+pościelowy|ADJ|постельный
+pościgowy|ADJ|
+pośladkowy|ADJ|ягодичный
+potasowy|ADJ|
+potokowy|ADJ|
+potomny|ADJ|
+potowy|ADJ|потовой
+poukładany|ADJ|
+poustawiać|ADJ|
+powieściowy|ADJ|
+powlekany|ADJ|
+powołany|ADJ|
+powycierać|ADJ|
+powyginać|ADJ|
+pozagrobowy|ADJ|
+pozaliczać|ADJ|
+pozałatwiać|ADJ|
+pozasądowy|ADJ|
+pozaustrojowy|ADJ|
+pożarniczy|ADJ|
+pożółkły|ADJ|
+półciężki|ADJ|
+półgodzinny|ADJ|получасовой
+półsłodki|ADJ|полусладкий
+półtoraroczny|ADJ|
+pralniczy|ADJ|
+prany|ADJ|
+prastary|ADJ|
+prawodawczy|ADJ|
+prądowy|ADJ|
+prędki|ADJ|быстрый, швыдкий
+pręgowany|ADJ|
+producencki|ADJ|
+profilowy|ADJ|
+prostolinijny|ADJ|простолинейный, прямолинейный
+prości|ADJ|
+protegować|ADJ|
+protestacyjny|ADJ|
+protestancki|ADJ|протестантский
+prototypowy|ADJ|
+prowincjonalny|ADJ|провинциальный
+prowizoryczny|ADJ|
+przeciwdepresyjny|ADJ|антидепрессивный
+przeciwdrgawkowy|ADJ|
+przeciwdrobnoustrojowy|ADJ|
+przeciwhistaminowy|ADJ|антигистаминный
+przeciwłupieżowy|ADJ|
+przeciwprzepięciowy|ADJ|
+przedemerytalny|ADJ|предпенсионный
+przedpotopowy|ADJ|допотопный
+przedstawicielski|ADJ|
+przedzawałowy|ADJ|
+przedzielić|ADJ|
+przegubowy|ADJ|
+przeholować|ADJ|
+przekopany|ADJ|
+przekrojowy|ADJ|
+przelewowy|ADJ|
+przeludnić|ADJ|
+przeładunkowy|ADJ|перевалочный
+przemarznąć|ADJ|
+przemienny|ADJ|
+przemożny|ADJ|
+przenikliwy|ADJ|пронзительный, проницательный
+przenośnikowy|ADJ|
+przepocić|ADJ|
+przeponowy|ADJ|bránicový, bráničný
+przeraźliwy|ADJ|ужасный
+przerzedzić|ADJ|
+przesiąknąć|ADJ|
+przestawny|ADJ|
+prześmiewczy|ADJ|
+przewalić|ADJ|
+przewodnicki|ADJ|
+przeżarty|ADJ|
+przeżuwać|ADJ|
+przybrudzić|ADJ|
+przychodowy|ADJ|
+przyciemnić|ADJ|
+przyczepny|ADJ|
+przygodny|ADJ|
+przykrótki|ADJ|
+przyłapywać|ADJ|
+przyodziać|ADJ|
+przyprawowy|ADJ|
+przyśrodkowy|ADJ|
+przyuszny|ADJ|
+psychoanalityczny|ADJ|психоаналитический
+psychoedukacyjny|ADJ|
+pucharowy|ADJ|
+punkowy|ADJ|
+pustelniczy|ADJ|
+puszczany|ADJ|
+puszkowy|ADJ|
+pyłowy|ADJ|
+ramienny|ADJ|
+ratingowy|ADJ|
+realizacyjny|ADJ|
+recesywny|ADJ|рецессивный
+recytatorski|ADJ|декламаторский
+reformatorski|ADJ|реформаторский
+refrakcyjny|ADJ|
+rekolekcyjny|ADJ|
+relatywny|ADJ|относительный
+rentierski|ADJ|
+repartycyjny|ADJ|
+reporterski|ADJ|
+republikański|ADJ|республиканский
+resortowy|ADJ|
+retencyjny|ADJ|
+retrospektywny|ADJ|
+rewitalizacyjny|ADJ|
+reżyserować|ADJ|
+ropopochodny|ADJ|
+rosołowy|ADJ|
+rozdmuchiwać|ADJ|
+rozedrgać|ADJ|
+rozgorączkować|ADJ|
+rozgrywkowy|ADJ|
+rozhulać|ADJ|
+rozkloszować|ADJ|
+rozkładowy|ADJ|
+rozkoszny|ADJ|
+rozłączny|ADJ|
+rozłożysty|ADJ|
+rozpieprzyć|ADJ|
+rozrzutny|ADJ|расточительный
+rozszczepić|ADJ|
+rozszerzalny|ADJ|
+równoboczny|ADJ|равносторонний
+różnobarwny|ADJ|
+różowawy|ADJ|
+ruchy|ADJ|
+rudawy|ADJ|
+runiczny|ADJ|
+rymować|ADJ|
+ryty|ADJ|
+rzeszowski|ADJ|
+rzeźnicki|ADJ|
+rzeźniczy|ADJ|
+rzeźny|ADJ|
+saksoński|ADJ|саксонский
+salowy|ADJ|
+sałatkowy|ADJ|
+samczy|ADJ|
+samobieżny|ADJ|самоходный
+samoczynny|ADJ|автоматический
+samokrytyczny|ADJ|самокритический, самокритичный
+samoopalający|ADJ|
+samozachowawczy|ADJ|
+samozwańczy|ADJ|самозванный, самопровозглашённый, самозваный
+samurajski|ADJ|самурайский
+sanatoryjny|ADJ|санаторный
+sandałowy|ADJ|
+satynować|ADJ|
+saudyjski|ADJ|саудовский
+sądecki|ADJ|
+scenariuszowy|ADJ|
+scentralizować|ADJ|централизовать
+schematyczny|ADJ|схематический, схематичный
+sejsmiczny|ADJ|сейсмический
+sektorowy|ADJ|
+sekundowy|ADJ|
+sekwencyjny|ADJ|
+semantyczny|ADJ|семантический
+seminaryjny|ADJ|
+sensualny|ADJ|
+separacyjny|ADJ|
+septyczny|ADJ|
+sędziować|ADJ|судить
+sfatygować|ADJ|
+siatkarski|ADJ|волейбольный
+siedlecki|ADJ|
+siedmiodniowy|ADJ|семидневный
+siostrzany|ADJ|
+skalarny|ADJ|
+skalisty|ADJ|скальный
+skąpać|ADJ|
+skorodować|ADJ|
+skostniały|ADJ|
+skóropodobny|ADJ|
+skulić|ADJ|
+słabiutki|ADJ|
+słodowy|ADJ|
+słomkowy|ADJ|
+słoweński|ADJ|словенский
+smarkać|ADJ|
+smarny|ADJ|
+smętny|ADJ|грустный
+snobistyczny|ADJ|снобистский
+socjaldemokratyczny|ADJ|социал-демократический
+socjoterapeutyczny|ADJ|
+solidarny|ADJ|солидарный
+sołecki|ADJ|
+spadzisty|ADJ|
+spatynować|ADJ|
+spleść|ADJ|сплести
+spodni|ADJ|
+sponsorski|ADJ|спонсорский
+spotkany|ADJ|
+sprać|ADJ|
+sprinterski|ADJ|спринтерский
+sprytni|ADJ|
+sprzątany|ADJ|
+stabilizujący|ADJ|
+starotestamentowy|ADJ|ветхозаветный
+stereofoniczny|ADJ|стереофонический
+stęskniony|ADJ|
+stłoczyć|ADJ|
+stłumiony|ADJ|
+stoczniowy|ADJ|судостроительный
+stopowy|ADJ|
+stożkowy|ADJ|конический, конусный
+strajkowy|ADJ|забастовочный, забастовщицкий
+strapić|ADJ|
+strawny|ADJ|
+strażniczy|ADJ|
+stróżować|ADJ|
+strumieniowy|ADJ|
+stumetrowy|ADJ|
+stwardniały|ADJ|
+stykowy|ADJ|
+substytucyjny|ADJ|
+subtropikalny|ADJ|
+surfingowy|ADJ|
+sutkowy|ADJ|
+syjonistyczny|ADJ|сионистский
+sylikonowy|ADJ|
+syntetyzować|ADJ|
+sypialny|ADJ|
+szałowy|ADJ|
+szampański|ADJ|
+szarżować|ADJ|утрировать
+szatański|ADJ|сатанинский
+szczeciński|ADJ|щецинский
+szczelinowy|ADJ|
+szczeniacki|ADJ|
+szczodry|ADJ|щедрый
+szesnasty|ADJ|шестнадцатый
+szkarłatny|ADJ|алый
+szlachetni|ADJ|
+szpachlowy|ADJ|
+szpiczasty|ADJ|остроконечный, острый
+sztampowy|ADJ|
+sztandarowy|ADJ|
+sztokholmski|ADJ|стокгольмский
+szukany|ADJ|
+szyderczy|ADJ|глумливый, язвительный
+szykanować|ADJ|
+ślusarski|ADJ|слесарский
+śródbłonkowy|ADJ|
+śrubować|ADJ|
+śrubowy|ADJ|спиралеобразный
+światłoczuły|ADJ|светочувствительный, фоточувствительный
+świecowy|ADJ|
+świetlany|ADJ|
+świeższy|ADJ|
+świeżutki|ADJ|
+taksówkowy|ADJ|
+taktowny|ADJ|тактичный
+tandemowy|ADJ|
+tańczący|ADJ|
+taoistyczny|ADJ|даосский
+tapicerski|ADJ|
+taryfowy|ADJ|
+tekowy|ADJ|
+telemedyczny|ADJ|
+temporalny|ADJ|
+terminologiczny|ADJ|терминологический
+termo|ADJ|
+termojądrowy|ADJ|термоядерный
+termostatyczny|ADJ|
+testamentowy|ADJ|
+tęgi|ADJ|толстый
+tiulowy|ADJ|
+tkacki|ADJ|ткацкий
+tkankowy|ADJ|
+tokijski|ADJ|токийский
+topologiczny|ADJ|топологический
+tostowy|ADJ|
+trakcyjny|ADJ|
+transcendentalny|ADJ|трансцендентальный
+transgeniczny|ADJ|
+transmisyjny|ADJ|
+transseksualny|ADJ|транссексуальный
+triathlonowy|ADJ|
+trójfazowy|ADJ|
+trwalszy|ADJ|
+trzustkowy|ADJ|
+trzyczęściowy|ADJ|трёхсторонний
+trzymiesięczny|ADJ|трёхмесячный
+tuberkulinowy|ADJ|
+tunelowy|ADJ|тоннельный
+tyrolski|ADJ|тирольский
+tysiącletni|ADJ|тысячелетний
+ubecki|ADJ|
+ubraniowy|ADJ|
+uchylny|ADJ|
+ucywilizować|ADJ|
+udoskonalany|ADJ|
+ufny|ADJ|доверчивый
+ugodowy|ADJ|
+ujęty|ADJ|
+ultranowoczesny|ADJ|ультрасовременный
+ułaskawić|ADJ|
+ułomny|ADJ|
+umięśnić|ADJ|
+umiłować|ADJ|
+umotywować|ADJ|
+upaństwowić|ADJ|
+uprawomocnić|ADJ|
+uprowadzać|ADJ|похищать
+urazowy|ADJ|
+urażać|ADJ|
+urągać|ADJ|
+urodzajny|ADJ|
+urojony|ADJ|
+urologiczny|ADJ|урологический
+urwisty|ADJ|
+ustawodawczy|ADJ|законодательный
+ustecki|ADJ|
+uszczypliwy|ADJ|
+uszykować|ADJ|
+utajniony|ADJ|
+utkać|ADJ|
+utopijny|ADJ|утопический
+utrudzić|ADJ|
+uwiązać|ADJ|
+uwidocznić|ADJ|
+uwierzytelnić|ADJ|
+uwodnić|ADJ|
+wahadłowy|ADJ|маятниковый
+waleczny|ADJ|
+wałbrzyski|ADJ|
+wampirzy|ADJ|
+wannowy|ADJ|ванный
+ważki|ADJ|
+wąsaty|ADJ|усатый
+wątrobowy|ADJ|печёночный
+wbity|ADJ|
+wczesnoporonny|ADJ|
+wedyjski|ADJ|ведический
+wegetatywny|ADJ|вегетативный
+wełnisty|ADJ|
+wertykalny|ADJ|
+wewnątrzkomórkowy|ADJ|внутриклеточный
+wewnątrzmaciczny|ADJ|внутриматочный
+wewnątrzszkolny|ADJ|
+węchowy|ADJ|
+węgielny|ADJ|краеугольный, угольный
+węglowodanowy|ADJ|углеводный
+wiedźmiński|ADJ|
+wiekuisty|ADJ|
+wielkokwiatowy|ADJ|крупноцветковый
+wielkomiejski|ADJ|
+wielmożny|ADJ|
+wielodniowy|ADJ|многодневный
+wielogodzinny|ADJ|
+wielopunktowy|ADJ|
+wielosezonowy|ADJ|
+wieloskładnikowy|ADJ|
+wielospecjalistyczny|ADJ|
+wielotonowy|ADJ|
+wielotysięczny|ADJ|многотысячный
+wielowątkowy|ADJ|
+wierutny|ADJ|
+większościowy|ADJ|мажоритарный
+więzieni|ADJ|
+winogronowy|ADJ|виноградный
+wiórowy|ADJ|
+witrażowy|ADJ|витражный
+wkurzony|ADJ|
+wlewany|ADJ|
+wliczony|ADJ|
+włókienniczy|ADJ|
+wmontować|ADJ|
+wnętrzarski|ADJ|
+wniebowzięty|ADJ|
+wodorowy|ADJ|водородный
+wodorozcieńczalny|ADJ|
+wojowniczy|ADJ|
+wonny|ADJ|
+wrzaskliwy|ADJ|
+wrzodzieć|ADJ|
+wskaźnikowy|ADJ|
+wspaniałomyślny|ADJ|великодушный
+wspominany|ADJ|
+wspornikowy|ADJ|
+współczujący|ADJ|сочувственный
+współmierny|ADJ|
+wstawienniczy|ADJ|
+wstrząsowy|ADJ|
+wszechwiedzący|ADJ|
+wszędobylski|ADJ|
+wtryskiwać|ADJ|
+wtykowy|ADJ|
+wwiercać|ADJ|
+wyborowy|ADJ|избирательный
+wyburzeniowy|ADJ|
+wychudzić|ADJ|
+wydumać|ADJ|
+wydziałowy|ADJ|
+wydzielniczy|ADJ|
+wyeksploatować|ADJ|
+wyekwipować|ADJ|
+wygodni|ADJ|
+wyhaftować|ADJ|
+wyjęty|ADJ|
+wykafelkować|ADJ|
+wykropkować|ADJ|
+wymarły|ADJ|вымерший
+wymiarowy|ADJ|
+wypadowy|ADJ|
+wypielęgnować|ADJ|
+wyrachować|ADJ|
+wyrównawczy|ADJ|
+wysmukły|ADJ|
+wysokociśnieniowy|ADJ|
+wysokoprężny|ADJ|
+wysokowydajny|ADJ|
+wysprzedać|ADJ|
+wysterylizować|ADJ|
+wystrzeliwać|ADJ|
+wystylizować|ADJ|
+wytłuścić|ADJ|
+wyzwolony|ADJ|
+wzbijać|ADJ|
+wzmiankować|ADJ|упоминать
+zaadresować|ADJ|
+zaakcentować|ADJ|
+zabawowy|ADJ|
+zablokowany|ADJ|
+zabrzański|ADJ|
+zachodnioberliński|ADJ|западноберлинский
+zaczepny|ADJ|
+zadawnić|ADJ|
+zadeptać|ADJ|
+zadurzyć|ADJ|
+zafałszować|ADJ|
+zagięty|ADJ|
+zaginieni|ADJ|
+zagłębiowski|ADJ|
+zagniewać|ADJ|
+zagrodzić|ADJ|
+zagrzebany|ADJ|
+zaklejać|ADJ|
+zaklęty|ADJ|
+zakłopotać|ADJ|
+zakorkować|ADJ|
+zakrzepowy|ADJ|
+zakrzywić|ADJ|
+zakulisowy|ADJ|
+zaliczeniowy|ADJ|
+zaliczony|ADJ|
+zamanifestować|ADJ|
+zaminować|ADJ|заминировать
+zamojski|ADJ|
+zamykany|ADJ|
+zapaśniczy|ADJ|борцовский
+zapowietrzyć|ADJ|
+zaprzęgowy|ADJ|
+zarosnąć|ADJ|зарасти
+zarybić|ADJ|
+zasiedlać|ADJ|
+zasłuchać|ADJ|
+zasłyszeć|ADJ|
+zasmażać|ADJ|
+zastosowany|ADJ|
+zatroskany|ADJ|
+zatwardziały|ADJ|
+zawiedziony|ADJ|
+zawoalować|ADJ|
+zażyły|ADJ|фамильярный
+zbanować|ADJ|
+zbiegły|ADJ|
+zbieżny|ADJ|
+zbijany|ADJ|
+zbilansowany|ADJ|
+zbojkotować|ADJ|
+zdechły|ADJ|
+zdegenerować|ADJ|дегенерировать
+zdezorganizować|ADJ|
+zdobny|ADJ|
+zdublować|ADJ|
+zdyskwalifikować|ADJ|
+zdziczały|ADJ|
+zegarmistrzowski|ADJ|hodinársky
+zekranizować|ADJ|
+zeschnąć|ADJ|
+zestroić|ADJ|
+zgarbić|ADJ|
+zgorzkniały|ADJ|прогорклый
+zgrany|ADJ|
+zgrubny|ADJ|
+zielny|ADJ|
+zielonkawy|ADJ|зеленоватый
+zlecany|ADJ|
+złowrogi|ADJ|зловещий, злонамеренный, враждебный
+zmasować|ADJ|
+zmechacić|ADJ|
+znacjonalizować|ADJ|
+znakować|ADJ|
+znakowy|ADJ|
+znamienny|ADJ|
+zniewalać|ADJ|порабощать
+zniżkowy|ADJ|
+znużony|ADJ|уставший
+znużyć|ADJ|
+zraszać|ADJ|
+zrelatywizować|ADJ|
+zręcznościowy|ADJ|
+zsiadły|ADJ|
+zupowy|ADJ|
+zwieszać|ADJ|
+zwietrzały|ADJ|
+zwiędły|ADJ|
+zwilżony|ADJ|
+zwiotczały|ADJ|
+zwodniczy|ADJ|
+zyskowny|ADJ|рентабельный
+żarliwy|ADJ|ревностный
+żarłoczny|ADJ|ненасытный, прожорливый
+żartobliwy|ADJ|лукавый, насмешливый
+żelbetowy|ADJ|железобетонный
+żorski|ADJ|
+żwawy|ADJ|резвый, бойкий, оживлённый, прыткий
+życzeniowy|ADJ|
+żylny|ADJ|венозный

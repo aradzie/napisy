@@ -2,7 +2,7 @@ import { Dictionary } from "./lib/dictionary.js";
 import { pathTo, readLines } from "./lib/io.js";
 import { findWords } from "./lib/text.js";
 
-const dict = await Dictionary.read();
+const dict = await Dictionary.load();
 
 const forms = new Set(dict.query("cofnąć", 0, 0).map((word) => word.form));
 
