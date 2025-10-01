@@ -8,7 +8,7 @@ const blacklist = await Blacklist.load();
 function checkLine(line) {
   const words = Word.parseWords(line);
   for (const word of words) {
-    if (word.upos !== "AUX" && word.upos !== "PUNCT" && blacklist.bad(word.form)) {
+    if (word.pos !== "AUX" && word.pos !== "PUNCT" && blacklist.bad(word.form)) {
       return false;
     }
   }

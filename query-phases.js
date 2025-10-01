@@ -9,8 +9,8 @@ for (const line of lines.slice(0, 10)) {
 function parsePhrase(line) {
   const phrase = new Phrase();
   for (const word of Word.parseWords(line)) {
-    const { form, upos } = word;
-    switch (upos) {
+    const { form, pos } = word;
+    switch (pos) {
       case "NOUN": {
         phrase.push(word);
         break;

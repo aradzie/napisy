@@ -4,13 +4,13 @@ import { Blacklist } from "./lib/blacklist.js";
 import { readCsvFile } from "./lib/csv.js";
 import { Dict } from "./lib/dict.js";
 import { pathTo } from "./lib/io.js";
-import { LemmataIndex } from "./lib/lemmata-index.js";
+import { PhraseIndex } from "./lib/phrase-index.js";
 import { capitalize } from "./lib/text.js";
 import { Phrase } from "./lib/word.js";
 
 const dict = await Dict.load();
 
-const index = await LemmataIndex.load(await Blacklist.load());
+const index = await PhraseIndex.load(await Blacklist.load());
 
 await rzeczowniki();
 await czasowniki();
