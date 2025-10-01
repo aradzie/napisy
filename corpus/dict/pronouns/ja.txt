@@ -1,9 +1,0 @@
-ja ja ppron12:sg:nom:m1.m2.m3.f.n:pri
-mi ja ppron12:sg:dat:m1.m2.m3.f.n:pri:nakc
-mię ja ppron12:sg:acc:m1.m2.m3.f.n:pri:nakc  rzad.
-mię ja ppron12:sg:gen:m1.m2.m3.f.n:pri:nakc  rzad.
-mnie ja ppron12:sg:acc:m1.m2.m3.f.n:pri:akc
-mnie ja ppron12:sg:dat:m1.m2.m3.f.n:pri:akc
-mnie ja ppron12:sg:gen:m1.m2.m3.f.n:pri:akc
-mnie ja ppron12:sg:loc:m1.m2.m3.f.n:pri
-mną ja ppron12:sg:inst:m1.m2.m3.f.n:pri
