@@ -4,11 +4,15 @@ import { Blacklist } from "./lib/blacklist.js";
 import { readCsvFile } from "./lib/csv.js";
 import { Dict } from "./lib/dict.js";
 import { pathTo } from "./lib/io.js";
+import { Morpholog } from "./lib/morpholog.js";
 import { PhraseIndex } from "./lib/phrase-index.js";
 import { capitalize } from "./lib/text.js";
 import { Phrase } from "./lib/word.js";
+import { Xext, Xpos } from "./lib/xtags.js";
 
 const dict = await Dict.load();
+
+const morpholog = await Morpholog.load();
 
 const index = await PhraseIndex.load(await Blacklist.load());
 
@@ -147,13 +151,62 @@ function makeBack({ lemmas, pos, translations }) {
   const lines = [];
   let index = 0;
   for (const { lemma, ppm } of lemmas) {
+    let title = [lemma];
+    if (pos === "ADJ") {
+      let found;
+      // dobry -> lepszy | adj:sg:nom.voc:m1.m2.m3:com
+      found = morpholog.find(
+        lemma, //
+        Xpos.adj,
+        Xext.sg | Xext.m1 | Xext.m2 | Xext.m3 | Xext.nom | Xext.com,
+      );
+      if (found.length === 1) {
+        title.push(found[0].form);
+      }
+      // dobry -> najlepszy | adj:sg:nom.voc:m1.m2.m3:sup
+      found = morpholog.find(
+        lemma, //
+        Xpos.adj,
+        Xext.sg | Xext.m1 | Xext.m2 | Xext.m3 | Xext.nom | Xext.sup,
+      );
+      if (found.length === 1) {
+        title.push(found[0].form);
+      }
+      // dotyczyć -> dotyczący | pact:sg:nom.voc:m1.m2.m3:imperf:aff
+      found = morpholog.find(
+        lemma, //
+        Xpos.pact | Xpos.imperf,
+        Xext.sg | Xext.m1 | Xext.m2 | Xext.m3 | Xext.nom | Xext.aff,
+      );
+      if (found.length === 1) {
+        title.push(found[0].form);
+      }
+      // stosować -> stosowany | ppas:sg:nom.voc:m1.m2.m3:imperf:aff
+      found = morpholog.find(
+        lemma, //
+        Xpos.ppas | Xpos.imperf,
+        Xext.sg | Xext.m1 | Xext.m2 | Xext.m3 | Xext.nom | Xext.aff,
+      );
+      if (found.length === 1) {
+        title.push(found[0].form);
+      }
+      // podać -> podany | ppas:sg:nom.voc:m1.m2.m3:perf:aff
+      found = morpholog.find(
+        lemma, //
+        Xpos.ppas | Xpos.perf,
+        Xext.sg | Xext.m1 | Xext.m2 | Xext.m3 | Xext.nom | Xext.aff,
+      );
+      if (found.length === 1) {
+        title.push(found[0].form);
+      }
+    }
     if (index > 0) {
       lines.push("\n---\n");
     }
     const prefix = lemmas.length > 1 ? `${index + 1}. ` : ``;
     lines.push(
-      `${prefix}${lemma}\n\n` + //
-        `[anki:tts lang=pl_PL]${lemma}[/anki:tts]\n\n` +
+      `${prefix}${title.join(", ")}\n\n` + //
+        `[anki:tts lang=pl_PL]${title.join(", ")}[/anki:tts]\n\n` +
         `${makeExamples(lemma, pos)}\n\n` +
         `Części na milion: ${ppm}`,
     );
