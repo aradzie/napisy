@@ -3,7 +3,7 @@
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_jak_ru
-!front: как (ADV)
+!front: как
 !back:
 jak
 
@@ -23,7 +23,7 @@ Części na milion: 7366
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_tak_ru
-!front: так, да (ADV)
+!front: так, да
 !back:
 tak
 
@@ -43,11 +43,16 @@ Części na milion: 4098
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_bardzo_ru
-!front: очень, весьма (ADV)
+!front:
+очень, весьма
+
+~~silnie~~, ~~całkiem~~, ~~wysoce~~
 !back:
 bardzo, bardziej, najbardziej
 
 [anki:tts lang=pl_PL]bardzo, bardziej, najbardziej[/anki:tts]
+
+**Synonimy**: silnie, całkiem, wysoce
 
 - Jednym z **najbardziej** powszechnych zawodów jest zawód fryzjera.
 - Ubezpieczenia są postrzegane jako jeden z **najbardziej** stabilnych biznesów.
@@ -63,11 +68,16 @@ Części na milion: 3859
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_dobrze_ru
-!front: хорошо, ладно (ADV)
+!front:
+хорошо, ладно
+
+~~dobra~~
 !back:
 dobrze, lepiej, najlepiej
 
 [anki:tts lang=pl_PL]dobrze, lepiej, najlepiej[/anki:tts]
+
+**Synonimy**: dobra
 
 - **Lepiej** jest używać kompaktowych mebli do rozładunku przestrzeni.
 - Każdy mężczyzna stara się **dobrze** przygotować na tę chwilę.
@@ -83,11 +93,16 @@ Części na milion: 1895
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_tu_ru
-!front: здесь, тут, сюда (ADV)
+!front:
+здесь, тут, сюда
+
+~~tutaj~~, ~~tędy~~
 !back:
 tu
 
 [anki:tts lang=pl_PL]tu[/anki:tts]
+
+**Synonimy**: tutaj, tędy
 
 - I jak **tu** nie uwielbiać tak złożonej postaci?
 - **Tu** i w lecie jest czasami trudno dotrzeć w pewne miejsca.
@@ -103,11 +118,16 @@ Części na milion: 1582
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_teraz_ru
-!front: теперь, сейчас (ADV)
+!front:
+теперь, сейчас
+
+~~obecnie~~, ~~zaraz~~
 !back:
 teraz
 
 [anki:tts lang=pl_PL]teraz[/anki:tts]
+
+**Synonimy**: obecnie, zaraz
 
 - **Teraz** to sobie przypisujecie.
 - **Teraz** jednak idziemy do dziewczynki, tak?
@@ -123,11 +143,16 @@ Części na milion: 1519
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_kiedy_ru
-!front: когда (ADV)
+!front:
+когда
+
+~~gdy~~
 !back:
 kiedy
 
 [anki:tts lang=pl_PL]kiedy[/anki:tts]
+
+**Synonimy**: gdy
 
 - Są zaskakująco delikatne, **kiedy** się wspinają.
 - Tylko lekarz, może jednoznacznie stwierdzić **kiedy** zakończyć leczenie.
@@ -143,11 +168,16 @@ Części na milion: 1402
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_dlaczego_ru
-!front: почему, зачем (ADV)
+!front:
+почему, зачем
+
+~~czemu~~
 !back:
 dlaczego
 
 [anki:tts lang=pl_PL]dlaczego[/anki:tts]
+
+**Synonimy**: czemu
 
 - **Dlaczego** tylko te trzy?
 - **Dlaczego** miałabym narażać własne dziecko?
@@ -163,11 +193,16 @@ Części na milion: 1173
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_tam_ru
-!front: там (ADV)
+!front:
+там
+
+~~ówdzie~~
 !back:
 tam
 
 [anki:tts lang=pl_PL]tam[/anki:tts]
+
+**Synonimy**: ówdzie
 
 - Nieszczęśnicy, ciągle są gdzieś **tam**, grając i cierpiąc.
 - Nie wiem jak się **tam** znalazł, prawdopodobnie wsiadła przez przypadek do autobusu.
@@ -183,7 +218,7 @@ Części na milion: 1166
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_zawsze_ru
-!front: всегда (ADV)
+!front: всегда
 !back:
 zawsze
 
@@ -203,11 +238,16 @@ Części na milion: 1129
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_gdy_ru
-!front: когда, если (ADV)
+!front:
+когда, если
+
+~~kiedy~~
 !back:
 gdy
 
 [anki:tts lang=pl_PL]gdy[/anki:tts]
+
+**Synonimy**: kiedy
 
 - **Gdy** mnie zobaczył, przeraził się.
 - **Gdy** zniszczy obydwa płuca, chory umiera.
@@ -223,11 +263,16 @@ Części na milion: 1048
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_gdzie_ru
-!front: где, куда (ADV)
+!front:
+где, куда
+
+~~którędy~~, ~~dokąd~~
 !back:
 gdzie
 
 [anki:tts lang=pl_PL]gdzie[/anki:tts]
+
+**Synonimy**: którędy, dokąd
 
 - Pozostaje pytanie, **gdzie** leży przyczyna, a **gdzie** skutek?
 - A może po prostu nie masz pewności, **gdzie** wyruszyć na wypoczynek?
@@ -243,11 +288,16 @@ Części na milion: 1003
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_tutaj_ru
-!front: здесь, сюда (ADV)
+!front:
+здесь, сюда
+
+~~tu~~, ~~tędy~~
 !back:
 tutaj
 
 [anki:tts lang=pl_PL]tutaj[/anki:tts]
+
+**Synonimy**: tu, tędy
 
 - Jednak mówimy **tutaj** o latach.
 - To przyjemność mieć możliwość pracować **tutaj**.
@@ -263,7 +313,7 @@ Części na milion: 902
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_nigdy_ru
-!front: никогда (ADV)
+!front: никогда
 !back:
 nigdy
 
@@ -283,11 +333,16 @@ Części na milion: 846
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_często_ru
-!front: часто (ADV)
+!front:
+часто
+
+~~nieraz~~
 !back:
 często, częściej, najczęściej
 
 [anki:tts lang=pl_PL]często, częściej, najczęściej[/anki:tts]
+
+**Synonimy**: nieraz
 
 - Nie jeżdżę zbyt **często** za granicę.
 - W ich wyniku **często** dochodzi o omyłkowych ostrzałów moździerzowych tureckiego terytorium.
@@ -302,12 +357,17 @@ Części na milion: 768
 !deck: Polski::Słowa::Przysłówki::Pos-1-100
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
-!id: slowo_przysłówek_trochę_niewiele_ru
-!front: немного (ADV)
+!id: slowo_przysłówek_trochę_ru
+!front:
+немного
+
+~~mało~~, ~~niewiele~~
 !back:
-1. trochę
+trochę
 
 [anki:tts lang=pl_PL]trochę[/anki:tts]
+
+**Synonimy**: mało, niewiele
 
 - **Trochę** grosza, ale to chyba nic nowego, wszystkie dobre rzeczy muszą kosztować.
 - Chcieliśmy działać na **trochę** większą skalę.
@@ -316,20 +376,6 @@ Części na milion: 768
 - Jest **trochę** zimno i zaraz zacznie padać.
 
 Części na milion: 705
-
----
-
-2. niewiele
-
-[anki:tts lang=pl_PL]niewiele[/anki:tts]
-
-- Gospodarze zagrali **niewiele** lepiej.
-- Bardzo lubię gotować, ale **niewiele** umiem.
-- Praca niewolników **niewiele** się różni od pracy zwierząt.
-- Pod względem ergonomii **niewiele** można mu zarzucić.
-- **Niewiele** można dostać za darmo.
-
-Części na milion: 130
 ~~~
 
 !type: Basic
@@ -337,11 +383,16 @@ Części na milion: 130
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_dlatego_ru
-!front: потому что, поэтому (ADV)
+!front:
+потому что, поэтому
+
+~~stąd~~
 !back:
 dlatego
 
 [anki:tts lang=pl_PL]dlatego[/anki:tts]
+
+**Synonimy**: stąd
 
 - Pewnie też **dlatego**, by nie odstawać od reszty.
 - Po prostu **dlatego**, że musisz coś robić, inaczej oszalejesz.
@@ -356,12 +407,17 @@ Części na milion: 697
 !deck: Polski::Słowa::Przysłówki::Pos-1-100
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
-!id: slowo_przysłówek_szybko_prędko_ru
-!front: быстро (ADV)
+!id: slowo_przysłówek_szybko_ru
+!front:
+быстро
+
+~~prędko~~
 !back:
-1. szybko, szybciej, najszybciej
+szybko, szybciej, najszybciej
 
 [anki:tts lang=pl_PL]szybko, szybciej, najszybciej[/anki:tts]
+
+**Synonimy**: prędko
 
 - Mogą oni napisać maila i stosunkowo **szybko** otrzymać odpowiedź.
 - W momencie otwarcia opakowania żywność **szybko** traci swoją świeżość i wartości odżywcze.
@@ -370,20 +426,6 @@ Części na milion: 697
 - Jak **szybko** to nastąpi, w znacznym stopniu zależy do rodziców.
 
 Części na milion: 621
-
----
-
-2. prędko, prędzej, najprędzej
-
-[anki:tts lang=pl_PL]prędko, prędzej, najprędzej[/anki:tts]
-
-- Mam nadzieję, że **prędzej** niż później nasze udoskonalenia wystarczą, aby zniwelować stratę.
-- **Prędzej** się pozabijamy niż cokolwiek zbudujemy.
-- Nie należy zbyt **prędko** składać broni.
-- **Prędzej** czy później każde dziecko musi się nauczyć liczyć.
-- **Prędzej** czy później ją zaakceptuje.
-
-Części na milion: 38
 ~~~
 
 !type: Basic
@@ -391,11 +433,16 @@ Części na milion: 38
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_wtedy_ru
-!front: тогда (ADV)
+!front:
+тогда
+
+~~wówczas~~
 !back:
 wtedy
 
 [anki:tts lang=pl_PL]wtedy[/anki:tts]
+
+**Synonimy**: wówczas
 
 - Uderzyła mnie **wtedy** konsekwencja w realizowaniu zaplanowanych rzeczy.
 - Tylko **wtedy** będzie możliwe dokonanie zapisu.
@@ -411,7 +458,7 @@ Części na milion: 600
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_ile_ru
-!front: сколько (ADV)
+!front: сколько
 !back:
 ile
 
@@ -431,11 +478,16 @@ Części na milion: 579
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_dziś_ru
-!front: сегодня (ADV)
+!front:
+сегодня
+
+~~dzisiaj~~
 !back:
 dziś
 
 [anki:tts lang=pl_PL]dziś[/anki:tts]
+
+**Synonimy**: dzisiaj
 
 - Już **dziś** skorzystaj z usług profesjonalnego tłumacza.
 - **Dziś** złożę taką skargę.
@@ -451,7 +503,7 @@ Części na milion: 562
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_długo_ru
-!front: длинно, долго (ADV)
+!front: длинно, долго
 !back:
 długo, dłużej, najdłużej
 
@@ -471,7 +523,7 @@ Części na milion: 441
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_daleko_ru
-!front: далеко (ADV)
+!front: далеко
 !back:
 daleko, dalej, najdalej
 
@@ -491,11 +543,16 @@ Części na milion: 434
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_zbyt_ru
-!front: слишком (ADV)
+!front:
+слишком
+
+~~zanadto~~
 !back:
 zbyt
 
 [anki:tts lang=pl_PL]zbyt[/anki:tts]
+
+**Synonimy**: zanadto
 
 - Nie jeżdżę **zbyt** często za granicę.
 - Posłał mu jednak ostrzegawcze spojrzenie, by nie wygadał **zbyt** wiele.
@@ -511,11 +568,16 @@ Części na milion: 413
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_pewno_ru
-!front: обязательно, точно (ADV)
+!front:
+обязательно, точно
+
+~~koniecznie~~
 !back:
 pewno, pewniej, najpewniej
 
 [anki:tts lang=pl_PL]pewno, pewniej, najpewniej[/anki:tts]
+
+**Synonimy**: koniecznie
 
 - A na **pewno** dobry początek produktywnego dnia.
 - Na **pewno** wybierzemy wtedy to, co jest najmożniejsze dla naszych pieniędzy.
@@ -531,11 +593,16 @@ Części na milion: 411
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_potem_ru
-!front: потом, затем, после (ADV)
+!front:
+потом, затем, после
+
+~~następnie~~
 !back:
 potem
 
 [anki:tts lang=pl_PL]potem[/anki:tts]
+
+**Synonimy**: następnie
 
 - **Potem** nie graliśmy już tak, jak wcześniej.
 - **Potem** mają nadejść burzowe chmury, ale to jeszcze nic pewnego.
@@ -551,11 +618,16 @@ Części na milion: 394
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_wcześnie_ru
-!front: рано, скоро (ADV)
+!front:
+рано, скоро
+
+~~wkrótce~~, ~~niedługo~~, ~~wnet~~
 !back:
 wcześnie, wcześniej, najwcześniej
 
 [anki:tts lang=pl_PL]wcześnie, wcześniej, najwcześniej[/anki:tts]
+
+**Synonimy**: wkrótce, niedługo, wnet
 
 - My mieliśmy okazję przyjrzeć się jej **wcześniej**.
 - Potem nie graliśmy już tak, jak **wcześniej**.
@@ -571,11 +643,16 @@ Części na milion: 379
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_mało_ru
-!front: мало, немного (ADV)
+!front:
+мало, немного
+
+~~trochę~~, ~~niewiele~~
 !back:
 mało, mniej, najmniej
 
 [anki:tts lang=pl_PL]mało, mniej, najmniej[/anki:tts]
+
+**Synonimy**: trochę, niewiele
 
 - Fakty są na ogół znacznie **mniej** sensacyjne niż fikcja.
 - Płuca u dziecka rozwijają się **mniej** więcej do ósmego roku życia.
@@ -591,7 +668,7 @@ Części na milion: 375
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_późno_ru
-!front: поздно (ADV)
+!front: поздно
 !back:
 późno, później, najpóźniej
 
@@ -610,12 +687,17 @@ Części na milion: 370
 !deck: Polski::Słowa::Przysłówki::Pos-1-100
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
-!id: slowo_przysłówek_razem_wspólnie_ru
-!front: вместе (ADV)
+!id: slowo_przysłówek_razem_ru
+!front:
+вместе
+
+~~wraz~~, ~~wspólnie~~, ~~naraz~~
 !back:
-1. razem
+razem
 
 [anki:tts lang=pl_PL]razem[/anki:tts]
+
+**Synonimy**: wraz, wspólnie, naraz
 
 - Szczęśliwe pary cieszą się z tego że inni widzą ich **razem**.
 - Występowałyśmy bardzo często **razem**.
@@ -624,20 +706,6 @@ Części na milion: 370
 - Jesteśmy **razem** jedną drużyną, **razem** przegrywamy i **razem** cieszymy się ze zwycięstw.
 
 Części na milion: 330
-
----
-
-2. wspólnie
-
-[anki:tts lang=pl_PL]wspólnie[/anki:tts]
-
-- **Wspólnie** szukamy rozwiązań wewnętrznych trudności.
-- Wyszliśmy **wspólnie** na plażę, aby zrobić zdjęcia.
-- Zróbmy coś **wspólnie**, dobrze?
-- Decyzje podejmuję **wspólnie** z rodzicami.
-- **Wspólnie** zobaczyli występ artystyczny, który się bardzo podobał.
-
-Części na milion: 69
 ~~~
 
 !type: Basic
@@ -645,7 +713,7 @@ Części na milion: 69
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_nadal_ru
-!front: по-прежнему, как и раньше (ADV)
+!front: по-прежнему, как и раньше
 !back:
 nadal
 
@@ -665,7 +733,7 @@ Części na milion: 326
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_kiedyś_ru
-!front: когда-нибудь, когда-то (ADV)
+!front: когда-нибудь, когда-то
 !back:
 kiedyś
 
@@ -685,7 +753,7 @@ Części na milion: 306
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_wciąż_ru
-!front: всё ещё (ADV)
+!front: всё ещё
 !back:
 wciąż
 
@@ -705,11 +773,16 @@ Części na milion: 302
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_łatwo_ru
-!front: легко, просто (ADV)
+!front:
+легко, просто
+
+~~lekko~~, ~~prosto~~
 !back:
 łatwo, łatwiej, najłatwiej
 
 [anki:tts lang=pl_PL]łatwo, łatwiej, najłatwiej[/anki:tts]
+
+**Synonimy**: lekko, prosto
 
 - Po prostu można lepiej zobaczyć, a więc są **łatwiej** niż równomiernie.
 - To dość **łatwo** odróżnić.
@@ -725,7 +798,7 @@ Części na milion: 295
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_coraz_ru
-!front: всё более и более, и (ADV)
+!front: всё более и более, и
 !back:
 coraz
 
@@ -745,7 +818,7 @@ Części na milion: 288
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_skąd_ru
-!front: откуда (ADV)
+!front: откуда
 !back:
 skąd
 
@@ -765,11 +838,16 @@ Części na milion: 247
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_trudno_ru
-!front: трудно (ADV)
+!front:
+трудно
+
+~~ciężko~~
 !back:
 trudno, trudniej, najtrudniej
 
 [anki:tts lang=pl_PL]trudno, trudniej, najtrudniej[/anki:tts]
+
+**Synonimy**: ciężko
 
 - **Trudno** jednak cokolwiek mu zarzucać.
 - Tu i w lecie jest czasami **trudno** dotrzeć w pewne miejsca.
@@ -785,7 +863,7 @@ Części na milion: 236
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_inaczej_ru
-!front: иначе (ADV)
+!front: иначе
 !back:
 inaczej
 
@@ -805,11 +883,16 @@ Części na milion: 232
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_źle_ru
-!front: плохо (ADV)
+!front:
+плохо
+
+~~niedobrze~~
 !back:
 źle, gorzej, najgorzej
 
 [anki:tts lang=pl_PL]źle, gorzej, najgorzej[/anki:tts]
+
+**Synonimy**: niedobrze
 
 - Jednak z książkami nie jest tak **źle**.
 - **Gorzej**, kiedy nie czeka nikt.
@@ -825,11 +908,16 @@ Części na milion: 230
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_obecnie_ru
-!front: сейчас, теперь (ADV)
+!front:
+сейчас, теперь
+
+~~teraz~~, ~~zaraz~~
 !back:
 obecnie
 
 [anki:tts lang=pl_PL]obecnie[/anki:tts]
+
+**Synonimy**: teraz, zaraz
 
 - **Obecnie** firmy mają możliwość samodzielnego założenia konta reklamowego.
 - Co oferuje **obecnie** telewizja kablowa?
@@ -845,7 +933,7 @@ Części na milion: 227
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_serdecznie_ru
-!front: сердечно (ADV)
+!front: сердечно
 !back:
 serdecznie, serdeczniej, najserdeczniej
 
@@ -865,11 +953,16 @@ Części na milion: 224
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_następnie_ru
-!front: потом, после, затем (ADV)
+!front:
+потом, после, затем
+
+~~potem~~
 !back:
 następnie
 
 [anki:tts lang=pl_PL]następnie[/anki:tts]
+
+**Synonimy**: potem
 
 - **Następnie** oceni się działanie leku i zacznie się stopniowe odstawienie.
 - **Następnie** zanurzyłam stopy do ciepłej wody.
@@ -885,7 +978,7 @@ Części na milion: 222
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_jutro_ru
-!front: завтра (ADV)
+!front: завтра
 !back:
 jutro
 
@@ -905,11 +998,16 @@ Części na milion: 212
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_zupełnie_ru
-!front: полностью, совсем (ADV)
+!front:
+полностью, совсем
+
+~~doskonale~~, ~~kompletnie~~, ~~doszczętnie~~, ~~całkowicie~~, ~~całkiem~~, ~~wcale~~
 !back:
 zupełnie, zupełniej, najzupełniej
 
 [anki:tts lang=pl_PL]zupełnie, zupełniej, najzupełniej[/anki:tts]
+
+**Synonimy**: doskonale, kompletnie, doszczętnie, całkowicie, całkiem, wcale
 
 - Ich pytania będą **zupełnie** inne.
 - Ale to nie tak, prawda wygląda **zupełnie** inaczej.
@@ -925,11 +1023,16 @@ Części na milion: 212
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_rano_ru
-!front: утром, утро (ADV)
+!front:
+утром, утро
+
+~~ranek~~, ~~poranek~~
 !back:
 rano, raniej, najraniej
 
 [anki:tts lang=pl_PL]rano, raniej, najraniej[/anki:tts]
+
+**Synonimy**: ranek, poranek
 
 - **Rano** możemy ruszyć dalej.
 - Zaś **rano**, jako pierwsi rozgrywali mecz.
@@ -945,11 +1048,16 @@ Części na milion: 200
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_czemu_ru
-!front: почему (ADV)
+!front:
+почему
+
+~~dlaczego~~
 !back:
 czemu
 
 [anki:tts lang=pl_PL]czemu[/anki:tts]
+
+**Synonimy**: dlaczego
 
 - **Czemu** termofor jest taki skuteczny?
 - **Czemu** ktoś miałby wyrzucać podobny plakat?
@@ -965,11 +1073,16 @@ Części na milion: 193
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_stąd_ru
-!front: отсюда, поэтому (ADV)
+!front:
+отсюда, поэтому
+
+~~dlatego~~, ~~odtąd~~
 !back:
 stąd
 
 [anki:tts lang=pl_PL]stąd[/anki:tts]
+
+**Synonimy**: dlatego, odtąd
 
 - **Stąd** odgrywa on najważniejszą rolę w procesie projektowania nowych modeli.
 - **Stąd** też tak ważny jest wybór producenta.
@@ -985,11 +1098,16 @@ Części na milion: 193
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_gdzieś_ru
-!front: где-то, где-нибудь (ADV)
+!front:
+где-то, где-нибудь
+
+~~gdziekolwiek~~
 !back:
 gdzieś
 
 [anki:tts lang=pl_PL]gdzieś[/anki:tts]
+
+**Synonimy**: gdziekolwiek
 
 - Nieszczęśnicy, ciągle są **gdzieś** tam, grając i cierpiąc.
 - **Gdzieś** tak pod koniec wojny, gdy już widzieli, że przegrywają.
@@ -1004,12 +1122,17 @@ Części na milion: 192
 !deck: Polski::Słowa::Przysłówki::Pos-1-100
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
-!id: slowo_przysłówek_ciągle_stale_ru
-!front: постоянно (ADV)
+!id: slowo_przysłówek_ciągle_ru
+!front:
+постоянно
+
+~~stale~~
 !back:
-1. ciągle
+ciągle
 
 [anki:tts lang=pl_PL]ciągle[/anki:tts]
+
+**Synonimy**: stale
 
 - Nieszczęśnicy, **ciągle** są gdzieś tam, grając i cierpiąc.
 - **Ciągle** wspominam o upływie czasu.
@@ -1018,20 +1141,6 @@ Części na milion: 192
 - Goście, mimo nazwy **ciągle** stoją w miejscu.
 
 Części na milion: 189
-
----
-
-2. stale, stalej, najstalej
-
-[anki:tts lang=pl_PL]stale, stalej, najstalej[/anki:tts]
-
-- Nasze ciało **stale** wymienia komórki.
-- To właśnie dzięki nim możemy **stale** urozmaicać nasze miksy.
-- Jego osiągnięcia są **stale** monitorowane.
-- Kolejka kotów czekających na naszą pomoc **stale** się wydłuża.
-- Będą więc służyć przez długie lata, **stale** ciesząc wzrok właścicieli.
-
-Części na milion: 54
 ~~~
 
 !type: Basic
@@ -1039,11 +1148,16 @@ Części na milion: 54
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_zaraz_ru
-!front: сейчас, сразу (ADV)
+!front:
+сейчас, сразу
+
+~~teraz~~, ~~obecnie~~, ~~naraz~~
 !back:
 zaraz
 
 [anki:tts lang=pl_PL]zaraz[/anki:tts]
+
+**Synonimy**: teraz, obecnie, naraz
 
 - Tylko **zaraz** po ogłoszeniu tych rewelacji, pojawiają się trudne pytania.
 - Jest trochę zimno i **zaraz** zacznie padać.
@@ -1059,7 +1173,7 @@ Części na milion: 185
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_najpierw_ru
-!front: сначала, сперва, в первую очередь (ADV)
+!front: сначала, сперва, в первую очередь
 !back:
 najpierw
 
@@ -1079,11 +1193,16 @@ Części na milion: 184
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_zwykle_ru
-!front: обычно, обыкновенно (ADV)
+!front:
+обычно, обыкновенно
+
+~~zazwyczaj~~
 !back:
 zwykle, zwyklej, najzwyklej
 
 [anki:tts lang=pl_PL]zwykle, zwyklej, najzwyklej[/anki:tts]
+
+**Synonimy**: zazwyczaj
 
 - **Zwykle** powierzchnia silnie błyszcząca.
 - **Zwykle** jest usuwany przed wyjazdem do domu.
@@ -1099,11 +1218,16 @@ Części na milion: 180
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_całkowicie_ru
-!front: совсем, целиком (ADV)
+!front:
+совсем, целиком
+
+~~zupełnie~~, ~~całkiem~~, ~~wcale~~
 !back:
 całkowicie, całkowiciej, najcałkowiciej
 
 [anki:tts lang=pl_PL]całkowicie, całkowiciej, najcałkowiciej[/anki:tts]
+
+**Synonimy**: zupełnie, całkiem, wcale
 
 - W naszych warunkach są **całkowicie** wytrzymałe na mrozy.
 - Ciężko nam stwierdzić, czy je **całkowicie** wyeliminuje.
@@ -1119,7 +1243,7 @@ Części na milion: 179
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_super_ru
-!front: супер (ADV)
+!front: супер
 !back:
 super
 
@@ -1139,11 +1263,16 @@ Części na milion: 178
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_wraz_ru
-!front: вместе, разом, совместно, враз, одновременно (ADV)
+!front:
+вместе, разом, совместно, враз, одновременно
+
+~~razem~~, ~~wspólnie~~, ~~naraz~~, ~~jednocześnie~~, ~~równocześnie~~
 !back:
 wraz
 
 [anki:tts lang=pl_PL]wraz[/anki:tts]
+
+**Synonimy**: razem, wspólnie, naraz, jednocześnie, równocześnie
 
 - Jednak **wraz** z kapitałem spłacane są w.
 - Spokojnie, **wraz** z wiekiem wszystko się zmieni.
@@ -1159,7 +1288,7 @@ Części na milion: 177
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_blisko_ru
-!front: близко (ADV)
+!front: близко
 !back:
 blisko, bliżej, najbliżej
 
@@ -1179,7 +1308,7 @@ Części na milion: 177
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_chętnie_ru
-!front: охотно, с желанием (ADV)
+!front: охотно, с желанием
 !back:
 chętnie, chętniej, najchętniej
 
@@ -1198,12 +1327,17 @@ Części na milion: 176
 !deck: Polski::Słowa::Przysłówki::Pos-1-100
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
-!id: slowo_przysłówek_świetnie_wyśmienicie_ru
-!front: отлично (ADV)
+!id: slowo_przysłówek_świetnie_ru
+!front:
+отлично
+
+~~doskonale~~, ~~wyśmienicie~~
 !back:
-1. świetnie, świetniej, najświetniej
+świetnie, świetniej, najświetniej
 
 [anki:tts lang=pl_PL]świetnie, świetniej, najświetniej[/anki:tts]
+
+**Synonimy**: doskonale, wyśmienicie
 
 - **Świetnie** wygląda zarówno włożona do spodni, jak i wyciągnięta na wierzch.
 - I tylko **świetnie** wyszkolony pedagog jest w stanie naprawdę motywować dzieci.
@@ -1212,20 +1346,6 @@ Części na milion: 176
 - Możemy **świetnie** się bawić, jeżdżąc na motorze.
 
 Części na milion: 175
-
----
-
-2. wyśmienicie, wyśmieniciej, najwyśmieniciej
-
-[anki:tts lang=pl_PL]wyśmienicie, wyśmieniciej, najwyśmieniciej[/anki:tts]
-
-- Całość **wyśmienicie** się prezentuje i będzie stanowić idealny prezent dla każdego dziecka.
-- Wszyscy bawili się **wyśmienicie**, doceniając walory sztuki.
-- Tylko **wyśmienicie** wykształcony personel może prawidłowo doradzić, sprzedać oraz zastosować.
-- Każdy z nas **wyśmienicie** rozumie, jak dość istotna jest jakość spania.
-- Wszyscy **wyśmienicie** się bawili przy swoich ulubionych piosenkach.
-
-Części na milion: 9
 ~~~
 
 !type: Basic
@@ -1233,7 +1353,7 @@ Części na milion: 9
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_ostatnio_ru
-!front: в последнее время, в прошлый раз (ADV)
+!front: в последнее время, в прошлый раз
 !back:
 ostatnio
 
@@ -1253,11 +1373,16 @@ Części na milion: 171
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_mocno_ru
-!front: сильно, мощно (ADV)
+!front:
+сильно, мощно
+
+~~silnie~~
 !back:
 mocno, mocniej, najmocniej
 
 [anki:tts lang=pl_PL]mocno, mocniej, najmocniej[/anki:tts]
+
+**Synonimy**: silnie
 
 - Argumenty moim zdaniem słabe i **mocno** naciągnięte.
 - Wtedy będziemy **mocniej** się mobilizować.
@@ -1273,11 +1398,16 @@ Części na milion: 162
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_jednocześnie_ru
-!front: одновременно (ADV)
+!front:
+одновременно
+
+~~wraz~~, ~~równocześnie~~
 !back:
 jednocześnie
 
 [anki:tts lang=pl_PL]jednocześnie[/anki:tts]
+
+**Synonimy**: wraz, równocześnie
 
 - Jest **jednocześnie** w środku siebie i na zewnątrz.
 - Kierujący ciężarówką był **jednocześnie** właścicielem firmy.
@@ -1293,7 +1423,7 @@ Części na milion: 159
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_znacznie_ru
-!front: гораздо (ADV)
+!front: гораздо
 !back:
 znacznie, znaczniej, najznaczniej
 
@@ -1313,7 +1443,7 @@ Części na milion: 159
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_tym_ru
-!front: тем (ADV)
+!front: тем
 !back:
 tym
 
@@ -1333,7 +1463,7 @@ Części na milion: 159
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_jakoś_ru
-!front: как-то, почему-то (ADV)
+!front: как-то, почему-то
 !back:
 jakoś
 
@@ -1353,11 +1483,16 @@ Części na milion: 158
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_nieco_ru
-!front: немножко, слегка, чуть (ADV)
+!front:
+немножко, слегка, чуть
+
+~~lekko~~
 !back:
 nieco
 
 [anki:tts lang=pl_PL]nieco[/anki:tts]
+
+**Synonimy**: lekko
 
 - Niech te literki będą **nieco** większe.
 - Warto **nieco** wypełnić tę lukę.
@@ -1373,11 +1508,16 @@ Części na milion: 158
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_wyłącznie_ru
-!front: исключительно (ADV)
+!front:
+исключительно
+
+~~wyjątkowo~~
 !back:
 wyłącznie, wyłączniej, najwyłączniej
 
 [anki:tts lang=pl_PL]wyłącznie, wyłączniej, najwyłączniej[/anki:tts]
+
+**Synonimy**: wyjątkowo
 
 - Dziecko zna mało wyrazów zapisanych pismem, bo dotychczas posługiwało się **wyłącznie** mową.
 - Dopuszczalne są **wyłącznie** naturalne cukry pochodzące z owoców.
@@ -1393,11 +1533,16 @@ Części na milion: 157
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_całkiem_ru
-!front: весьма, вовсе, вполне, окончательно, совершенно, совсем (ADV)
+!front:
+весьма, вовсе, вполне, окончательно, совершенно, совсем
+
+~~bardzo~~, ~~wysoce~~, ~~zupełnie~~, ~~całkowicie~~, ~~wcale~~, ~~ostatecznie~~
 !back:
 całkiem
 
 [anki:tts lang=pl_PL]całkiem[/anki:tts]
+
+**Synonimy**: bardzo, wysoce, zupełnie, całkowicie, wcale, ostatecznie
 
 - Gdzie dokładnie się znajdowała nie jest **całkiem** pewne.
 - Zewnętrzna część prezentowała się **całkiem** nieźle, chociaż wewnątrz wiele jej jeszcze brakowało.
@@ -1413,7 +1558,7 @@ Części na milion: 155
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_ponownie_ru
-!front: снова, опять (ADV)
+!front: снова, опять
 !back:
 ponownie
 
@@ -1433,11 +1578,16 @@ Części na milion: 148
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_zazwyczaj_ru
-!front: обычно (ADV)
+!front:
+обычно
+
+~~zwykle~~
 !back:
 zazwyczaj
 
 [anki:tts lang=pl_PL]zazwyczaj[/anki:tts]
+
+**Synonimy**: zwykle
 
 - Polecam spłatę długu, który ma najwyższe odsetki, będzie to **zazwyczaj** karta kredytowa.
 - W czasie wyjazdu integracyjnego **zazwyczaj** nie ma takiej możliwości.
@@ -1453,7 +1603,7 @@ Części na milion: 147
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_dodatkowo_ru
-!front: дополнительно (ADV)
+!front: дополнительно
 !back:
 dodatkowo
 
@@ -1473,7 +1623,7 @@ Części na milion: 146
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_zgodnie_ru
-!front: согласно (ADV)
+!front: согласно
 !back:
 zgodnie, zgodniej, najzgodniej
 
@@ -1493,11 +1643,16 @@ Części na milion: 146
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_ciężko_ru
-!front: тяжело, трудно (ADV)
+!front:
+тяжело, трудно
+
+~~trudno~~
 !back:
 ciężko, ciężej, najciężej
 
 [anki:tts lang=pl_PL]ciężko, ciężej, najciężej[/anki:tts]
+
+**Synonimy**: trudno
 
 - **Ciężko** nam stwierdzić, czy je całkowicie wyeliminuje.
 - **Ciężko** mi ocenić tą książkę, bo to nie książka, jakie zazwyczaj czytam.
@@ -1513,7 +1668,7 @@ Części na milion: 143
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_wczoraj_ru
-!front: вчера (ADV)
+!front: вчера
 !back:
 wczoraj
 
@@ -1533,11 +1688,16 @@ Części na milion: 143
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_wkrótce_ru
-!front: скоро, вскоре (ADV)
+!front:
+скоро, вскоре
+
+~~wcześnie~~, ~~niedługo~~, ~~wnet~~
 !back:
 wkrótce
 
 [anki:tts lang=pl_PL]wkrótce[/anki:tts]
+
+**Synonimy**: wcześnie, niedługo, wnet
 
 - **Wkrótce** opiszemy te kontrowersje.
 - **Wkrótce** rozpoczną się testy kliniczne wynalazku.
@@ -1553,7 +1713,7 @@ Części na milion: 139
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_samo_ru
-!front: samo (ADV)
+!front: samo
 !back:
 samo
 
@@ -1573,7 +1733,7 @@ Części na milion: 137
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_niezwykle_ru
-!front: необычайно (ADV)
+!front: необычайно
 !back:
 niezwykle, niezwyklej, najniezwyklej
 
@@ -1593,11 +1753,16 @@ Części na milion: 136
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_wcale_ru
-!front: вообще, совсем (ADV)
+!front:
+вообще, совсем
+
+~~zupełnie~~, ~~całkowicie~~, ~~całkiem~~, ~~ogólnie~~
 !back:
 wcale
 
 [anki:tts lang=pl_PL]wcale[/anki:tts]
+
+**Synonimy**: zupełnie, całkowicie, całkiem, ogólnie
 
 - I **wcale** nie będę mówił, że jestem od tego wolny.
 - I to **wcale** nie był szczyt jego możliwości.
@@ -1613,7 +1778,7 @@ Części na milion: 134
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_zewnątrz_ru
-!front: снаружи (ADV)
+!front: снаружи
 !back:
 zewnątrz
 
@@ -1632,12 +1797,42 @@ Części na milion: 132
 !deck: Polski::Słowa::Przysłówki::Pos-1-100
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
+!id: slowo_przysłówek_niewiele_ru
+!front:
+немного
+
+~~trochę~~, ~~mało~~
+!back:
+niewiele
+
+[anki:tts lang=pl_PL]niewiele[/anki:tts]
+
+**Synonimy**: trochę, mało
+
+- Gospodarze zagrali **niewiele** lepiej.
+- Bardzo lubię gotować, ale **niewiele** umiem.
+- Praca niewolników **niewiele** się różni od pracy zwierząt.
+- Pod względem ergonomii **niewiele** można mu zarzucić.
+- **Niewiele** można dostać za darmo.
+
+Części na milion: 130
+~~~
+
+!type: Basic
+!deck: Polski::Słowa::Przysłówki::Pos-1-100
+!tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
+
 !id: slowo_przysłówek_natychmiast_ru
-!front: немедленно, сейчас же (ADV)
+!front:
+немедленно, сейчас же
+
+~~niezwłocznie~~
 !back:
 natychmiast
 
 [anki:tts lang=pl_PL]natychmiast[/anki:tts]
+
+**Synonimy**: niezwłocznie
 
 - Część z nich **natychmiast** się rozpierzchła.
 - Wszelkie zmiany są **natychmiast** widoczne w polu podglądu modelu.
@@ -1653,7 +1848,7 @@ Części na milion: 124
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_podobnie_ru
-!front: похоже (ADV)
+!front: похоже
 !back:
 podobnie, podobniej, najpodobniej
 
@@ -1673,11 +1868,16 @@ Części na milion: 123
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_doskonale_ru
-!front: отлично, полностью (ADV)
+!front:
+отлично, полностью
+
+~~zupełnie~~, ~~kompletnie~~, ~~doszczętnie~~, ~~świetnie~~, ~~wyśmienicie~~
 !back:
 doskonale, doskonalej, najdoskonalej
 
 [anki:tts lang=pl_PL]doskonale, doskonalej, najdoskonalej[/anki:tts]
+
+**Synonimy**: zupełnie, kompletnie, doszczętnie, świetnie, wyśmienicie
 
 - Rozumiałam je **doskonale** i łączyłam się z nimi w bólu.
 - **Doskonale** odzwierciedlało profil czasopisma.
@@ -1693,7 +1893,7 @@ Części na milion: 120
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_wysoko_ru
-!front: высоко (ADV)
+!front: высоко
 !back:
 wysoko, wyżej, najwyżej
 
@@ -1713,7 +1913,7 @@ Części na milion: 120
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_codziennie_ru
-!front: каждый день (ADV)
+!front: каждый день
 !back:
 codziennie
 
@@ -1733,11 +1933,16 @@ Części na milion: 115
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_wszędzie_ru
-!front: везде, всюду, повсеместно (ADV)
+!front:
+везде, всюду, повсеместно
+
+~~powszechnie~~
 !back:
 wszędzie
 
 [anki:tts lang=pl_PL]wszędzie[/anki:tts]
+
+**Synonimy**: powszechnie
 
 - Łatwiej jest coś załatwić, chociaż wiadomo, że nie **wszędzie**.
 - **Wszędzie** można bawić się i śmiać do woli.
@@ -1753,7 +1958,7 @@ Części na milion: 115
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_osobiście_ru
-!front: лично (ADV)
+!front: лично
 !back:
 osobiście
 
@@ -1773,7 +1978,7 @@ Części na milion: 114
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_dawno_ru
-!front: давно (ADV)
+!front: давно
 !back:
 dawno, dawniej, najdawniej
 
@@ -1793,11 +1998,16 @@ Części na milion: 109
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_wówczas_ru
-!front: в то время как, тогда (ADV)
+!front:
+в то время как, тогда
+
+~~wtedy~~
 !back:
 wówczas
 
 [anki:tts lang=pl_PL]wówczas[/anki:tts]
+
+**Synonimy**: wtedy
 
 - W sukcesie większej firmy nie stanowi **wówczas** teraz takie łatwe zadanie.
 - **Wówczas** świat wokół ciebie stanie się błogosławiony.
@@ -1813,7 +2023,7 @@ Części na milion: 108
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_idealnie_ru
-!front: идеально (ADV)
+!front: идеально
 !back:
 idealnie, idealniej, najidealniej
 
@@ -1833,11 +2043,16 @@ Części na milion: 107
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_nagle_ru
-!front: вдруг, внезапно, неожиданно (ADV)
+!front:
+вдруг, внезапно, неожиданно
+
+~~naraz~~, ~~wtem~~, ~~raptem~~, ~~gwałtownie~~, ~~znienacka~~, ~~niespodziewanie~~
 !back:
 nagle, naglej, najnaglej
 
 [anki:tts lang=pl_PL]nagle, naglej, najnaglej[/anki:tts]
+
+**Synonimy**: naraz, wtem, raptem, gwałtownie, znienacka, niespodziewanie
 
 - Piłkarze **nagle** powiedzieli dość.
 - **Nagle** kierowca zatrzymuje się i wskazuje mi jezioro.
@@ -1853,11 +2068,16 @@ Części na milion: 106
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_rzeczywiście_ru
-!front: действительно (ADV)
+!front:
+действительно
+
+~~istotnie~~
 !back:
 rzeczywiście
 
 [anki:tts lang=pl_PL]rzeczywiście[/anki:tts]
+
+**Synonimy**: istotnie
 
 - Czy regenerowane części **rzeczywiście** dorównują nowym?
 - Najświetniejszym podejściem będzie **rzeczywiście** woda, żyć prawdopodobnie odpowiednie napoje energetyzujące dla sportowców.
@@ -1873,11 +2093,16 @@ Części na milion: 106
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_miło_ru
-!front: приятно, мило (ADV)
+!front:
+приятно, мило
+
+~~ładnie~~, ~~przyjemnie~~, ~~mile~~
 !back:
 miło, milej, najmilej
 
 [anki:tts lang=pl_PL]miło, milej, najmilej[/anki:tts]
+
+**Synonimy**: ładnie, przyjemnie, mile
 
 - Również **miło** nam, że do zespołu redakcyjnego dołączają nowe osoby.
 - **Miło** spędziliśmy czas i naprawdę wypoczęliśmy.
@@ -1893,7 +2118,7 @@ Części na milion: 104
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_pięknie_ru
-!front: красиво (ADV)
+!front: красиво
 !back:
 pięknie, piękniej, najpiękniej
 
@@ -1913,7 +2138,7 @@ Części na milion: 102
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_spokojnie_ru
-!front: спокойно (ADV)
+!front: спокойно
 !back:
 spokojnie, spokojniej, najspokojniej
 
@@ -1933,7 +2158,7 @@ Części na milion: 100
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_kiedykolwiek_ru
-!front: когда-либо (ADV)
+!front: когда-либо
 !back:
 kiedykolwiek
 
@@ -1953,7 +2178,7 @@ Części na milion: 99
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_bezpośrednio_ru
-!front: непосредственно (ADV)
+!front: непосредственно
 !back:
 bezpośrednio, bezpośredniej, najbezpośredniej
 
@@ -1973,7 +2198,7 @@ Części na milion: 95
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_fajnie_ru
-!front: здорово (ADV)
+!front: здорово
 !back:
 fajnie, fajniej, najfajniej
 
@@ -1993,11 +2218,16 @@ Części na milion: 94
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_równie_ru
-!front: одинаково, равно (ADV)
+!front:
+одинаково, равно
+
+~~jednakowo~~
 !back:
 równie, równiej, najrówniej
 
 [anki:tts lang=pl_PL]równie, równiej, najrówniej[/anki:tts]
+
+**Synonimy**: jednakowo
 
 - Co więcej, **równie** często u osób rodzących samodzielnie lub przez cesarskie cięcie.
 - **Równie** istotną rolę odgrywa czyszczenie stajni oraz dbanie o higienę koni.
@@ -2013,11 +2243,16 @@ Części na milion: 91
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_powoli_ru
-!front: медленно (ADV)
+!front:
+медленно
+
+~~wolno~~
 !back:
 powoli
 
 [anki:tts lang=pl_PL]powoli[/anki:tts]
+
+**Synonimy**: wolno
 
 - **Powoli** temat testowania dobiega końca.
 - Zainteresowanie europejskich władz nowym ruchem wzrastało stopniowo i **powoli**.
@@ -2033,7 +2268,7 @@ Części na milion: 87
 !tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
 
 !id: slowo_przysłówek_skutecznie_ru
-!front: эффективно (ADV)
+!front: эффективно
 !back:
 skutecznie, skuteczniej, najskuteczniej
 
@@ -2049,15 +2284,20 @@ Części na milion: 86
 ~~~
 
 !type: Basic
-!deck: Polski::Słowa::Przysłówki::Pos-1-100
-!tags: Polski Słowo Przysłówek Pos-1-100 Pos-1-100
+!deck: Polski::Słowa::Przysłówki::Pos-101-200
+!tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_niedługo_ru
-!front: вскоре, скоро (ADV)
+!front:
+вскоре, скоро
+
+~~wcześnie~~, ~~wkrótce~~, ~~wnet~~
 !back:
 niedługo
 
 [anki:tts lang=pl_PL]niedługo[/anki:tts]
+
+**Synonimy**: wcześnie, wkrótce, wnet
 
 - Już **niedługo** prawda o tym przerażającym horrorze wyjdzie na jaw.
 - Grupa już **niedługo** odwiedzi nas kraj.
@@ -2073,7 +2313,7 @@ Części na milion: 86
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_przykro_ru
-!front: досадно (ADV)
+!front: досадно
 !back:
 przykro, przykrzej, najprzykrzej
 
@@ -2093,11 +2333,16 @@ Części na milion: 86
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_lekko_ru
-!front: легко, осторожно, слегка (ADV)
+!front:
+легко, осторожно, слегка
+
+~~łatwo~~, ~~nieco~~, ~~ostrożnie~~
 !back:
 lekko, lżej, najlżej
 
 [anki:tts lang=pl_PL]lekko, lżej, najlżej[/anki:tts]
+
+**Synonimy**: łatwo, nieco, ostrożnie
 
 - Muszę przyznać, że do drugiej części serii podchodziłam **lekko** sceptycznie.
 - Meble wyglądają bardzo **lekko**.
@@ -2112,12 +2357,17 @@ Części na milion: 85
 !deck: Polski::Słowa::Przysłówki::Pos-101-200
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
-!id: slowo_przysłówek_wystarczająco_dostatecznie_ru
-!front: достаточно (ADV)
+!id: slowo_przysłówek_wystarczająco_ru
+!front:
+достаточно
+
+~~dostatecznie~~
 !back:
-1. wystarczająco
+wystarczająco
 
 [anki:tts lang=pl_PL]wystarczająco[/anki:tts]
+
+**Synonimy**: dostatecznie
 
 - W sukcesu przedsiębiorców sprawa jest **wystarczająco** prosta.
 - Liście szpinaku są gotowe do zbioru, gdy są **wystarczająco** duże do jedzenia.
@@ -2126,20 +2376,6 @@ Części na milion: 85
 - Podlewać umiarkowanie, jednak **wystarczająco**, aby zwilżyć korzenie.
 
 Części na milion: 83
-
----
-
-2. dostatecznie, dostateczniej, najdostateczniej
-
-[anki:tts lang=pl_PL]dostatecznie, dostateczniej, najdostateczniej[/anki:tts]
-
-- To już **dostatecznie** długi okres czasu uprawniający do dokonania oceny.
-- Odkąd przyszłam, jest **dostatecznie** ciepło.
-- Teza ta nie jest jednak jak dotąd **dostatecznie** udokumentowana.
-- Pod warunkiem że jest i wystarczająco ambitny, i **dostatecznie** realistyczny.
-- Śledztwo umorzono, ponieważ brakowało danych **dostatecznie** uzasadniających popełnienie przestępstwa.
-
-Części na milion: 10
 ~~~
 
 !type: Basic
@@ -2147,7 +2383,7 @@ Części na milion: 10
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_wewnątrz_ru
-!front: внутри (ADV)
+!front: внутри
 !back:
 wewnątrz
 
@@ -2167,11 +2403,16 @@ Części na milion: 83
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_prosto_ru
-!front: просто (ADV)
+!front:
+просто
+
+~~łatwo~~
 !back:
 prosto, prościej, najprościej
 
 [anki:tts lang=pl_PL]prosto, prościej, najprościej[/anki:tts]
+
+**Synonimy**: łatwo
 
 - Na lewo, prawo czy **prosto**?
 - Czy **prosto** jest zdecydować się na zabawkę dla najmłodszych?
@@ -2187,11 +2428,16 @@ Części na milion: 81
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_poważnie_ru
-!front: серьёзно (ADV)
+!front:
+серьёзно
+
+~~serio~~
 !back:
 poważnie, poważniej, najpoważniej
 
 [anki:tts lang=pl_PL]poważnie, poważniej, najpoważniej[/anki:tts]
+
+**Synonimy**: serio
 
 - Było jakby mroczniej, **poważniej**.
 - Bierzemy zdrowia dzieci bardzo **poważnie**!
@@ -2207,7 +2453,7 @@ Części na milion: 81
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_rzadko_ru
-!front: редко (ADV)
+!front: редко
 !back:
 rzadko, rzadziej, najrzadziej
 
@@ -2227,11 +2473,16 @@ Części na milion: 79
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_szczerze_ru
-!front: искренне, откровенно (ADV)
+!front:
+искренне, откровенно
+
+~~otwarcie~~
 !back:
 szczerze, szczerzej, najszczerzej
 
 [anki:tts lang=pl_PL]szczerze, szczerzej, najszczerzej[/anki:tts]
+
+**Synonimy**: otwarcie
 
 - Starsi wywiązujący się ze swej powinności **szczerze** starają się usługiwać innym.
 - Ale **szczerze** mówiąc, nie bardzo rozumiem twoje rachunki.
@@ -2247,7 +2498,7 @@ Części na milion: 77
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_odpowiednio_ru
-!front: соответственно (ADV)
+!front: соответственно
 !back:
 odpowiednio, odpowiedniej, najodpowiedniej
 
@@ -2266,12 +2517,17 @@ Części na milion: 76
 !deck: Polski::Słowa::Przysłówki::Pos-101-200
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
-!id: slowo_przysłówek_strasznie_okropnie_ru
-!front: страшно, ужасно (ADV)
+!id: slowo_przysłówek_strasznie_ru
+!front:
+страшно, ужасно
+
+~~okropnie~~
 !back:
-1. strasznie, straszniej, najstraszniej
+strasznie, straszniej, najstraszniej
 
 [anki:tts lang=pl_PL]strasznie, straszniej, najstraszniej[/anki:tts]
+
+**Synonimy**: okropnie
 
 - **Strasznie** wypowiadać to słowo, ale wypowiedzieć je muszę.
 - Co musiało wyglądać nieco **strasznie** niż sympatycznie.
@@ -2280,20 +2536,6 @@ Części na milion: 76
 - **Strasznie** podobała mi się konceptualizacja niektórych elementów świata przedstawionego.
 
 Części na milion: 74
-
----
-
-2. okropnie, okropniej, najokropniej
-
-[anki:tts lang=pl_PL]okropnie, okropniej, najokropniej[/anki:tts]
-
-- Kręgosłup i plecy **okropnie** mnie bolą od dźwigania ciężkiej torby z listami.
-- Chcę jeszcze tylko napisać, że **okropnie** się wstydzę.
-- Rozmowy o tym co mnie **okropnie** boli pomogły.
-- Dziś czuję się **okropnie**.
-- Ilekroć widziałam sceny z moją babcią lub moim wujkiem, zawsze **okropnie** płakałam.
-
-Części na milion: 11
 ~~~
 
 !type: Basic
@@ -2301,11 +2543,16 @@ Części na milion: 11
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_specjalnie_ru
-!front: специально (ADV)
+!front:
+специально
+
+~~celowo~~
 !back:
 specjalnie
 
 [anki:tts lang=pl_PL]specjalnie[/anki:tts]
+
+**Synonimy**: celowo
 
 - **Specjalnie** wyprofilowany kształt urządzenia znacznie zwiększają wygodę użytkowania.
 - Nie był **specjalnie** odpowiedzialną osobą.
@@ -2321,11 +2568,16 @@ Części na milion: 73
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_koniecznie_ru
-!front: непременно, обязательно (ADV)
+!front:
+непременно, обязательно
+
+~~pewno~~, ~~niewątpliwie~~
 !back:
 koniecznie, konieczniej, najkonieczniej
 
 [anki:tts lang=pl_PL]koniecznie, konieczniej, najkonieczniej[/anki:tts]
+
+**Synonimy**: pewno, niewątpliwie
 
 - Kiedy maluch się uspokoi, **koniecznie** zapytaj o powód złości.
 - A, **koniecznie** zabierzcie ze sobą lornetkę.
@@ -2341,7 +2593,7 @@ Części na milion: 71
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_samodzielnie_ru
-!front: самостоятельно (ADV)
+!front: самостоятельно
 !back:
 samodzielnie, samodzielniej, najsamodzielniej
 
@@ -2361,7 +2613,7 @@ Części na milion: 71
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_indywidualnie_ru
-!front: индивидуально (ADV)
+!front: индивидуально
 !back:
 indywidualnie
 
@@ -2380,12 +2632,17 @@ Części na milion: 69
 !deck: Polski::Słowa::Przysłówki::Pos-101-200
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
-!id: slowo_przysłówek_ładnie_przyjemnie_ru
-!front: приятно (ADV)
+!id: slowo_przysłówek_ładnie_ru
+!front:
+приятно
+
+~~miło~~, ~~przyjemnie~~
 !back:
-1. ładnie, ładniej, najładniej
+ładnie, ładniej, najładniej
 
 [anki:tts lang=pl_PL]ładnie, ładniej, najładniej[/anki:tts]
+
+**Synonimy**: miło, przyjemnie
 
 - Wiem, że ta torebka będzie **ładnie** wyglądać przez lata.
 - Jest pięknie, **ładnie**, ale co z ich przeszłością?
@@ -2394,20 +2651,31 @@ Części na milion: 69
 - Twoje wyglądają bardzo **ładnie**.
 
 Części na milion: 69
+~~~
 
----
+!type: Basic
+!deck: Polski::Słowa::Przysłówki::Pos-101-200
+!tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
-2. przyjemnie, przyjemniej, najprzyjemniej
+!id: slowo_przysłówek_wspólnie_ru
+!front:
+вместе
 
-[anki:tts lang=pl_PL]przyjemnie, przyjemniej, najprzyjemniej[/anki:tts]
+~~razem~~, ~~wraz~~, ~~naraz~~
+!back:
+wspólnie
 
-- Może i historia jest dość przewidywalna, jednak czyta się ją bardzo **przyjemnie**.
-- Niemniej jednak **przyjemnie** nawilżał.
-- Tu także jest bardzo **przyjemnie**.
-- **Przyjemnie** rozmawia się z tym kulturalnym artystą.
-- Bardzo **przyjemnie** się na to patrzyło.
+[anki:tts lang=pl_PL]wspólnie[/anki:tts]
 
-Części na milion: 34
+**Synonimy**: razem, wraz, naraz
+
+- **Wspólnie** szukamy rozwiązań wewnętrznych trudności.
+- Wyszliśmy **wspólnie** na plażę, aby zrobić zdjęcia.
+- Zróbmy coś **wspólnie**, dobrze?
+- Decyzje podejmuję **wspólnie** z rodzicami.
+- **Wspólnie** zobaczyli występ artystyczny, który się bardzo podobał.
+
+Części na milion: 69
 ~~~
 
 !type: Basic
@@ -2415,11 +2683,16 @@ Części na milion: 34
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_wyjątkowo_ru
-!front: исключительно, изредка (ADV)
+!front:
+исключительно, изредка
+
+~~wyłącznie~~, ~~gdzieniegdzie~~
 !back:
 wyjątkowo
 
 [anki:tts lang=pl_PL]wyjątkowo[/anki:tts]
+
+**Synonimy**: wyłącznie, gdzieniegdzie
 
 - Już teraz jednak zapowiada się na **wyjątkowo** problematycznego oponenta.
 - To coś innego niż zwykle, dzięki czemu jest jeszcze bardziej **wyjątkowo**.
@@ -2435,7 +2708,7 @@ Części na milion: 68
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_bezpiecznie_ru
-!front: безопасно (ADV)
+!front: безопасно
 !back:
 bezpiecznie, bezpieczniej, najbezpieczniej
 
@@ -2455,11 +2728,16 @@ Części na milion: 66
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_ogólnie_ru
-!front: в основном, вообще, в целом (ADV)
+!front:
+в основном, вообще, в целом
+
+~~wcale~~
 !back:
 ogólnie, ogólniej, najogólniej
 
 [anki:tts lang=pl_PL]ogólnie, ogólniej, najogólniej[/anki:tts]
+
+**Synonimy**: wcale
 
 - Wtedy często łamane są **ogólnie** przyjęte normy postępowania.
 - **Ogólnie** o podróżach i turystyce.
@@ -2475,7 +2753,7 @@ Części na milion: 63
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_regularnie_ru
-!front: регулярно (ADV)
+!front: регулярно
 !back:
 regularnie, regularniej, najregularniej
 
@@ -2495,7 +2773,7 @@ Części na milion: 61
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_darmo_ru
-!front: даром, зря, напрасно (ADV)
+!front: даром, зря, напрасно
 !back:
 darmo
 
@@ -2515,7 +2793,7 @@ Części na milion: 60
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_prawidłowo_ru
-!front: правильно (ADV)
+!front: правильно
 !back:
 prawidłowo, prawidłowiej, najprawidłowiej
 
@@ -2535,7 +2813,7 @@ Części na milion: 59
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_krótko_ru
-!front: коротко (ADV)
+!front: коротко
 !back:
 krótko, krócej, najkrócej
 
@@ -2554,12 +2832,17 @@ Części na milion: 59
 !deck: Polski::Słowa::Przysłówki::Pos-101-200
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
-!id: slowo_przysłówek_nowo_niedawno_ru
-!front: недавно (ADV)
+!id: slowo_przysłówek_nowo_ru
+!front:
+недавно
+
+~~niedawno~~
 !back:
-1. nowo
+nowo
 
 [anki:tts lang=pl_PL]nowo[/anki:tts]
+
+**Synonimy**: niedawno
 
 - Pozwolilibyście zoperować swoje **nowo** narodzone dziecko bez znieczulenia?
 - O nazwach **nowo** zakładanych kolonii decydowali ich mieszkańcy.
@@ -2568,20 +2851,6 @@ Części na milion: 59
 - Na szczęście dla miasta karawany zaczęły płynąć na **nowo**.
 
 Części na milion: 58
-
----
-
-2. niedawno
-
-[anki:tts lang=pl_PL]niedawno[/anki:tts]
-
-- Czytałem **niedawno** o pewnej sławnej aktorce, która umarła w samotności.
-- Pomysł pojawił się **niedawno**.
-- Relatywnie **niedawno** jednak zajęła się nim nauka.
-- **Niedawno** rozmawiałam z kobietą, która zamierza rozstać się z mężem.
-- Przeciwnie, **niedawno** się zaręczyli, a obecnie trwają przygotowania do ślubu.
-
-Części na milion: 51
 ~~~
 
 !type: Basic
@@ -2589,7 +2858,7 @@ Części na milion: 51
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_powyżej_ru
-!front: выше, превыше (ADV)
+!front: выше, превыше
 !back:
 powyżej
 
@@ -2609,7 +2878,7 @@ Części na milion: 57
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_niezależnie_ru
-!front: независимо (ADV)
+!front: независимо
 !back:
 niezależnie
 
@@ -2629,7 +2898,7 @@ Części na milion: 57
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_automatycznie_ru
-!front: automatycznie (ADV)
+!front: automatycznie
 !back:
 automatycznie
 
@@ -2649,11 +2918,16 @@ Części na milion: 56
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_wyraźnie_ru
-!front: несомненно, чётко, отчётливо, разборчиво (ADV)
+!front:
+несомненно, чётко, отчётливо, разборчиво
+
+~~niewątpliwie~~
 !back:
 wyraźnie, wyraźniej, najwyraźniej
 
 [anki:tts lang=pl_PL]wyraźnie, wyraźniej, najwyraźniej[/anki:tts]
+
+**Synonimy**: niewątpliwie
 
 - Obserwując psa z góry lub z boku możemy zaobserwować **wyraźnie** zaznaczoną talię.
 - Trzeba jednak **wyraźnie** podkreślić rozróżnienie na prywatne i indywidualne.
@@ -2669,11 +2943,16 @@ Części na milion: 56
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_nigdzie_ru
-!front: нигде, никуда (ADV)
+!front:
+нигде, никуда
+
+~~donikąd~~
 !back:
 nigdzie
 
 [anki:tts lang=pl_PL]nigdzie[/anki:tts]
+
+**Synonimy**: donikąd
 
 - Opinie umieszczane na stronie nie są **nigdzie** przekazywane.
 - Chciałabym ją kupić, lecz **nigdzie** nie można jej dostać.
@@ -2689,7 +2968,7 @@ Części na milion: 56
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_aktualnie_ru
-!front: aktualnie (ADV)
+!front: aktualnie
 !back:
 aktualnie, aktualniej, najaktualniej
 
@@ -2709,7 +2988,7 @@ Części na milion: 55
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_delikatnie_ru
-!front: delikatnie (ADV)
+!front: delikatnie
 !back:
 delikatnie, delikatniej, najdelikatniej
 
@@ -2729,11 +3008,16 @@ Części na milion: 55
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_ostatecznie_ru
-!front: окончательно (ADV)
+!front:
+окончательно
+
+~~całkiem~~
 !back:
 ostatecznie
 
 [anki:tts lang=pl_PL]ostatecznie[/anki:tts]
+
+**Synonimy**: całkiem
 
 - **Ostatecznie** pozostaje nam więc nakaz chwili.
 - Czy ta sprawa **ostatecznie** została pogrzebana?
@@ -2749,11 +3033,16 @@ Części na milion: 55
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_gorąco_ru
-!front: жарко, жара (ADV)
+!front:
+жарко, жара
+
+~~upał~~
 !back:
 gorąco, goręcej, najgoręcej
 
 [anki:tts lang=pl_PL]gorąco, goręcej, najgoręcej[/anki:tts]
+
+**Synonimy**: upał
 
 - Zdejmował koszulę tylko wtedy, gdy było bardzo **gorąco**.
 - Ale jeśli lubisz nurkować głębiej, **gorąco** polecamy tę wycieczkę.
@@ -2769,7 +3058,7 @@ Części na milion: 54
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_nieźle_ru
-!front: неплохо (ADV)
+!front: неплохо
 !back:
 nieźle
 
@@ -2788,12 +3077,42 @@ Części na milion: 54
 !deck: Polski::Słowa::Przysłówki::Pos-101-200
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
+!id: slowo_przysłówek_stale_ru
+!front:
+постоянно
+
+~~ciągle~~
+!back:
+stale, stalej, najstalej
+
+[anki:tts lang=pl_PL]stale, stalej, najstalej[/anki:tts]
+
+**Synonimy**: ciągle
+
+- Nasze ciało **stale** wymienia komórki.
+- To właśnie dzięki nim możemy **stale** urozmaicać nasze miksy.
+- Jego osiągnięcia są **stale** monitorowane.
+- Kolejka kotów czekających na naszą pomoc **stale** się wydłuża.
+- Będą więc służyć przez długie lata, **stale** ciesząc wzrok właścicieli.
+
+Części na milion: 54
+~~~
+
+!type: Basic
+!deck: Polski::Słowa::Przysłówki::Pos-101-200
+!tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
+
 !id: slowo_przysłówek_ręcznie_ru
-!front: вручную (ADV)
+!front:
+вручную
+
+~~odręcznie~~
 !back:
 ręcznie
 
 [anki:tts lang=pl_PL]ręcznie[/anki:tts]
+
+**Synonimy**: odręcznie
 
 - Protokół należy wydrukować i wypełnić **ręcznie**.
 - Kosze transportowe stosuje się najczęściej tam, gdzie towary są transportowane wcześniej **ręcznie**.
@@ -2809,7 +3128,7 @@ Części na milion: 54
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_bieżąco_ru
-!front: bieżąco (ADV)
+!front: bieżąco
 !back:
 bieżąco
 
@@ -2829,7 +3148,7 @@ Części na milion: 52
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_głęboko_ru
-!front: głęboko (ADV)
+!front: głęboko
 !back:
 głęboko, głębiej, najgłębiej
 
@@ -2848,12 +3167,42 @@ Części na milion: 52
 !deck: Polski::Słowa::Przysłówki::Pos-101-200
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
+!id: slowo_przysłówek_niedawno_ru
+!front:
+недавно
+
+~~nowo~~
+!back:
+niedawno
+
+[anki:tts lang=pl_PL]niedawno[/anki:tts]
+
+**Synonimy**: nowo
+
+- Czytałem **niedawno** o pewnej sławnej aktorce, która umarła w samotności.
+- Pomysł pojawił się **niedawno**.
+- Relatywnie **niedawno** jednak zajęła się nim nauka.
+- **Niedawno** rozmawiałam z kobietą, która zamierza rozstać się z mężem.
+- Przeciwnie, **niedawno** się zaręczyli, a obecnie trwają przygotowania do ślubu.
+
+Części na milion: 51
+~~~
+
+!type: Basic
+!deck: Polski::Słowa::Przysłówki::Pos-101-200
+!tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
+
 !id: slowo_przysłówek_dokąd_ru
-!front: куда (ADV)
+!front:
+куда
+
+~~gdzie~~, ~~którędy~~
 !back:
 dokąd
 
 [anki:tts lang=pl_PL]dokąd[/anki:tts]
+
+**Synonimy**: gdzie, którędy
 
 - Czy wiemy, **dokąd** idziemy?
 - Mówiąc po chłopsku, powiedziano, **dokąd** mamy pójść.
@@ -2869,11 +3218,16 @@ Części na milion: 51
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_absolutnie_ru
-!front: абсолютно (ADV)
+!front:
+абсолютно
+
+~~bezwzględnie~~
 !back:
 absolutnie, absolutniej, najabsolutniej
 
 [anki:tts lang=pl_PL]absolutnie, absolutniej, najabsolutniej[/anki:tts]
+
+**Synonimy**: bezwzględnie
 
 - Pod względem polityki jesteśmy **absolutnie** zgodni.
 - **Absolutnie** genialne zastosowanie dźwięku w filmie.
@@ -2889,11 +3243,16 @@ Części na milion: 45
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_zimno_ru
-!front: холодно, холод (ADV)
+!front:
+холодно, холод
+
+~~chłód~~
 !back:
 zimno, zimniej, najzimniej
 
 [anki:tts lang=pl_PL]zimno, zimniej, najzimniej[/anki:tts]
+
+**Synonimy**: chłód
 
 - Jest trochę **zimno** i zaraz zacznie padać.
 - **Zimno**, deszcz padał, głodny byłem.
@@ -2909,7 +3268,7 @@ Części na milion: 45
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_wspaniale_ru
-!front: великолепно (ADV)
+!front: великолепно
 !back:
 wspaniale, wspanialej, najwspanialej
 
@@ -2929,7 +3288,7 @@ Części na milion: 43
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_normalnie_ru
-!front: normalnie (ADV)
+!front: normalnie
 !back:
 normalnie, normalniej, najnormalniej
 
@@ -2949,7 +3308,7 @@ Części na milion: 43
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_wprost_ru
-!front: спроста (ADV)
+!front: спроста
 !back:
 wprost
 
@@ -2969,7 +3328,7 @@ Części na milion: 43
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_początkowo_ru
-!front: изначально (ADV)
+!front: изначально
 !back:
 początkowo
 
@@ -2989,7 +3348,7 @@ Części na milion: 42
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_naturalnie_ru
-!front: натурально (ADV)
+!front: натурально
 !back:
 naturalnie, naturalniej, najnaturalniej
 
@@ -3009,11 +3368,16 @@ Części na milion: 41
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_nawzajem_ru
-!front: взаимно, друг друга (ADV)
+!front:
+взаимно, друг друга
+
+~~wzajemnie~~
 !back:
 nawzajem
 
 [anki:tts lang=pl_PL]nawzajem[/anki:tts]
+
+**Synonimy**: wzajemnie
 
 - Każdy miał swoją rolę i uzupełniał się **nawzajem**.
 - Wiatr był tak głośny, że nie słyszeliśmy się **nawzajem**!
@@ -3029,7 +3393,7 @@ Części na milion: 40
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_żywo_ru
-!front: żywo (ADV)
+!front: żywo
 !back:
 żywo, żywiej, najżywiej
 
@@ -3049,7 +3413,7 @@ Części na milion: 40
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_dziennie_ru
-!front: dziennie (ADV)
+!front: dziennie
 !back:
 dziennie
 
@@ -3069,7 +3433,7 @@ Części na milion: 40
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_indziej_ru
-!front: indziej (ADV)
+!front: indziej
 !back:
 indziej
 
@@ -3089,7 +3453,7 @@ Części na milion: 40
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_odkąd_ru
-!front: odkąd (ADV)
+!front: odkąd
 !back:
 odkąd
 
@@ -3109,7 +3473,7 @@ Części na milion: 40
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_pozytywnie_ru
-!front: pozytywnie (ADV)
+!front: pozytywnie
 !back:
 pozytywnie, pozytywniej, najpozytywniej
 
@@ -3129,7 +3493,7 @@ Części na milion: 39
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_tanio_ru
-!front: дёшево (ADV)
+!front: дёшево
 !back:
 tanio, taniej, najtaniej
 
@@ -3148,8 +3512,33 @@ Części na milion: 38
 !deck: Polski::Słowa::Przysłówki::Pos-101-200
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
+!id: slowo_przysłówek_prędko_ru
+!front:
+быстро
+
+~~szybko~~
+!back:
+prędko, prędzej, najprędzej
+
+[anki:tts lang=pl_PL]prędko, prędzej, najprędzej[/anki:tts]
+
+**Synonimy**: szybko
+
+- Mam nadzieję, że **prędzej** niż później nasze udoskonalenia wystarczą, aby zniwelować stratę.
+- **Prędzej** się pozabijamy niż cokolwiek zbudujemy.
+- Nie należy zbyt **prędko** składać broni.
+- **Prędzej** czy później każde dziecko musi się nauczyć liczyć.
+- **Prędzej** czy później ją zaakceptuje.
+
+Części na milion: 38
+~~~
+
+!type: Basic
+!deck: Polski::Słowa::Przysłówki::Pos-101-200
+!tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
+
 !id: slowo_przysłówek_niezbyt_ru
-!front: не слишком (ADV)
+!front: не слишком
 !back:
 niezbyt
 
@@ -3168,12 +3557,17 @@ Części na milion: 38
 !deck: Polski::Słowa::Przysłówki::Pos-101-200
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
-!id: slowo_przysłówek_dotąd_dotychczas_ru
-!front: до сих пор, пока что (ADV)
+!id: slowo_przysłówek_dotąd_ru
+!front:
+до сих пор, пока что
+
+~~dotychczas~~
 !back:
-1. dotąd
+dotąd
 
 [anki:tts lang=pl_PL]dotąd[/anki:tts]
+
+**Synonimy**: dotychczas
 
 - Jak **dotąd** takie potraktowanie tematu nie było chyba normą?
 - Pojawia się też w rodzinach, które jej **dotąd** nie kultywowały.
@@ -3182,20 +3576,6 @@ Części na milion: 38
 - Oba podmioty nie zajmowały się **dotąd** kwestiami polityki międzynarodowej.
 
 Części na milion: 37
-
----
-
-2. dotychczas
-
-[anki:tts lang=pl_PL]dotychczas[/anki:tts]
-
-- Dziecko zna mało wyrazów zapisanych pismem, bo **dotychczas** posługiwało się wyłącznie mową.
-- Na czym polega jego istota, **dotychczas** nie wyjaśniono.
-- Nim się zorientujesz, będziecie ze sobą znacznie bliżej niż **dotychczas**.
-- **Dotychczas** zarejestrowano dziesięć komitetów.
-- **Dotychczas** nie napotkaliśmy na żadne problemy, z którymi nie moglibyśmy sobie poradzić.
-
-Części na milion: 27
 ~~~
 
 !type: Basic
@@ -3203,7 +3583,7 @@ Części na milion: 27
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_poprawnie_ru
-!front: корректно (ADV)
+!front: корректно
 !back:
 poprawnie, poprawniej, najpoprawniej
 
@@ -3223,7 +3603,7 @@ Części na milion: 37
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_wygodnie_ru
-!front: удобно (ADV)
+!front: удобно
 !back:
 wygodnie, wygodniej, najwygodniej
 
@@ -3243,11 +3623,16 @@ Części na milion: 36
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_cicho_ru
-!front: тихо (ADV)
+!front:
+тихо
+
+~~spokój~~
 !back:
 cicho, ciszej, najciszej
 
 [anki:tts lang=pl_PL]cicho, ciszej, najciszej[/anki:tts]
+
+**Synonimy**: spokój
 
 - A tu tymczasem coś jakby za **cicho**.
 - Kto chce się czytać lub pracować **cicho** zajmuje się wystarczająco dużo miejsca.
@@ -3263,7 +3648,7 @@ Części na milion: 36
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_nisko_ru
-!front: низко (ADV)
+!front: низко
 !back:
 nisko, niżej, najniżej
 
@@ -3283,7 +3668,7 @@ Części na milion: 36
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_ciekawie_ru
-!front: интересно (ADV)
+!front: интересно
 !back:
 ciekawie, ciekawiej, najciekawiej
 
@@ -3303,11 +3688,16 @@ Części na milion: 35
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_kompletnie_ru
-!front: комплектно, полностью (ADV)
+!front:
+комплектно, полностью
+
+~~zupełnie~~, ~~doskonale~~, ~~doszczętnie~~
 !back:
 kompletnie, kompletniej, najkompletniej
 
 [anki:tts lang=pl_PL]kompletnie, kompletniej, najkompletniej[/anki:tts]
+
+**Synonimy**: zupełnie, doskonale, doszczętnie
 
 - Pojawił się nowy właściciel, który **kompletnie** się na tym nie znał.
 - Niektóre regiony są **kompletnie** sparaliżowane.
@@ -3323,7 +3713,7 @@ Części na milion: 35
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_niesamowicie_ru
-!front: niesamowicie (ADV)
+!front: niesamowicie
 !back:
 niesamowicie, niesamowiciej, najniesamowiciej
 
@@ -3343,7 +3733,7 @@ Części na milion: 35
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_szeroko_ru
-!front: в ширина, вширь, широко (ADV)
+!front: в ширина, вширь, широко
 !back:
 szeroko, szerzej, najszerzej
 
@@ -3363,7 +3753,7 @@ Części na milion: 35
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_niebawem_ru
-!front: niebawem (ADV)
+!front: niebawem
 !back:
 niebawem
 
@@ -3382,8 +3772,33 @@ Części na milion: 35
 !deck: Polski::Słowa::Przysłówki::Pos-101-200
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
+!id: slowo_przysłówek_przyjemnie_ru
+!front:
+приятно
+
+~~miło~~, ~~ładnie~~
+!back:
+przyjemnie, przyjemniej, najprzyjemniej
+
+[anki:tts lang=pl_PL]przyjemnie, przyjemniej, najprzyjemniej[/anki:tts]
+
+**Synonimy**: miło, ładnie
+
+- Może i historia jest dość przewidywalna, jednak czyta się ją bardzo **przyjemnie**.
+- Niemniej jednak **przyjemnie** nawilżał.
+- Tu także jest bardzo **przyjemnie**.
+- **Przyjemnie** rozmawia się z tym kulturalnym artystą.
+- Bardzo **przyjemnie** się na to patrzyło.
+
+Części na milion: 34
+~~~
+
+!type: Basic
+!deck: Polski::Słowa::Przysłówki::Pos-101-200
+!tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
+
 !id: slowo_przysłówek_wielokrotnie_ru
-!front: многократно (ADV)
+!front: многократно
 !back:
 wielokrotnie
 
@@ -3403,7 +3818,7 @@ Części na milion: 34
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_sprawnie_ru
-!front: sprawnie (ADV)
+!front: sprawnie
 !back:
 sprawnie, sprawniej, najsprawniej
 
@@ -3423,11 +3838,16 @@ Części na milion: 33
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_uważnie_ru
-!front: внимательно (ADV)
+!front:
+внимательно
+
+~~ostrożnie~~
 !back:
 uważnie, uważniej, najuważniej
 
 [anki:tts lang=pl_PL]uważnie, uważniej, najuważniej[/anki:tts]
+
+**Synonimy**: ostrożnie
 
 - **Uważnie** czytałam strona po stronie.
 - Należy **uważnie** sprawdzać ceny.
@@ -3443,7 +3863,7 @@ Części na milion: 33
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_jasno_ru
-!front: ясно (ADV)
+!front: ясно
 !back:
 jasno, jaśniej, najjaśniej
 
@@ -3463,7 +3883,7 @@ Części na milion: 33
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_dosłownie_ru
-!front: буквально, дословно (ADV)
+!front: буквально, дословно
 !back:
 dosłownie, dosłowniej, najdosłowniej
 
@@ -3483,7 +3903,7 @@ Części na milion: 32
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_troszkę_ru
-!front: troszkę (ADV)
+!front: troszkę
 !back:
 troszkę
 
@@ -3503,7 +3923,7 @@ Części na milion: 32
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_stopniowo_ru
-!front: постепенно (ADV)
+!front: постепенно
 !back:
 stopniowo
 
@@ -3523,7 +3943,7 @@ Części na milion: 31
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_głośno_ru
-!front: громко (ADV)
+!front: громко
 !back:
 głośno, głośniej, najgłośniej
 
@@ -3543,11 +3963,16 @@ Części na milion: 31
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_ledwo_ru
-!front: едва, как только, едва не, только, еле (ADV)
+!front:
+едва, как только, едва не, только, еле
+
+~~ledwie~~
 !back:
 ledwo
 
 [anki:tts lang=pl_PL]ledwo[/anki:tts]
+
+**Synonimy**: ledwie
 
 - **Ledwo** się zmusił, by zerknąć nieznajomej w oczy.
 - Karetka na sygnale **ledwo** zdążyła mnie dowieźć.
@@ -3563,11 +3988,16 @@ Części na milion: 31
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_niewątpliwie_ru
-!front: несомненно, непременно (ADV)
+!front:
+несомненно, непременно
+
+~~koniecznie~~, ~~wyraźnie~~
 !back:
 niewątpliwie, niewątpliwiej, najniewątpliwiej
 
 [anki:tts lang=pl_PL]niewątpliwie, niewątpliwiej, najniewątpliwiej[/anki:tts]
+
+**Synonimy**: koniecznie, wyraźnie
 
 - Są to **niewątpliwie** dobre praktyki.
 - Niniejszy podręcznik **niewątpliwie** może stanowić cenne źródło odniesienia.
@@ -3583,7 +4013,7 @@ Części na milion: 30
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_zwyczajnie_ru
-!front: zwyczajnie (ADV)
+!front: zwyczajnie
 !back:
 zwyczajnie, zwyczajniej, najzwyczajniej
 
@@ -3603,7 +4033,7 @@ Części na milion: 30
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_starannie_ru
-!front: аккуратно (ADV)
+!front: аккуратно
 !back:
 starannie, staranniej, najstaranniej
 
@@ -3623,7 +4053,7 @@ Części na milion: 29
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_ściśle_ru
-!front: ściśle (ADV)
+!front: ściśle
 !back:
 ściśle, ściślej, najściślej
 
@@ -3643,7 +4073,7 @@ Części na milion: 29
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_częściowo_ru
-!front: частично (ADV)
+!front: частично
 !back:
 częściowo
 
@@ -3663,7 +4093,7 @@ Części na milion: 29
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_nieustannie_ru
-!front: непрерывно, неустанно (ADV)
+!front: непрерывно, неустанно
 !back:
 nieustannie
 
@@ -3683,7 +4113,7 @@ Części na milion: 29
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_swobodnie_ru
-!front: swobodnie (ADV)
+!front: swobodnie
 !back:
 swobodnie, swobodniej, najswobodniej
 
@@ -3703,11 +4133,16 @@ Części na milion: 29
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_mile_ru
-!front: мило (ADV)
+!front:
+мило
+
+~~miło~~
 !back:
 mile, milej, najmilej
 
 [anki:tts lang=pl_PL]mile, milej, najmilej[/anki:tts]
+
+**Synonimy**: miło
 
 - Nadal był **mile** widziany?
 - Na pewno **mile** cię zaskoczy wiadomość, że nasz statek miał nieszczęśliwy wypadek.
@@ -3723,11 +4158,16 @@ Części na milion: 28
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_powszechnie_ru
-!front: повсеместно (ADV)
+!front:
+повсеместно
+
+~~wszędzie~~
 !back:
 powszechnie, powszechniej, najpowszechniej
 
 [anki:tts lang=pl_PL]powszechnie, powszechniej, najpowszechniej[/anki:tts]
+
+**Synonimy**: wszędzie
 
 - Metodyka ta jest obecnie **powszechnie** stosowana.
 - Odbiornik satelitarny jest urządzeniem **powszechnie** stosowanym w praktyce geodezyjnej.
@@ -3743,7 +4183,7 @@ Części na milion: 28
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_stamtąd_ru
-!front: оттуда (ADV)
+!front: оттуда
 !back:
 stamtąd
 
@@ -3763,7 +4203,7 @@ Części na milion: 28
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_dziwnie_ru
-!front: странно (ADV)
+!front: странно
 !back:
 dziwnie, dziwniej, najdziwniej
 
@@ -3783,11 +4223,16 @@ Części na milion: 28
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_niezwłocznie_ru
-!front: немедленно, тотчас (ADV)
+!front:
+немедленно, тотчас
+
+~~natychmiast~~
 !back:
 niezwłocznie
 
 [anki:tts lang=pl_PL]niezwłocznie[/anki:tts]
+
+**Synonimy**: natychmiast
 
 - Wywieszenie kopii protokołu głosowania winno nastąpić **niezwłocznie** po sporządzeniu protokołu.
 - Sami chcieli, **niezwłocznie** to **niezwłocznie**.
@@ -3803,7 +4248,7 @@ Części na milion: 28
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_cholernie_ru
-!front: чертовски (ADV)
+!front: чертовски
 !back:
 cholernie
 
@@ -3822,8 +4267,33 @@ Części na milion: 27
 !deck: Polski::Słowa::Przysłówki::Pos-101-200
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
+!id: slowo_przysłówek_dotychczas_ru
+!front:
+до сих пор, пока что
+
+~~dotąd~~
+!back:
+dotychczas
+
+[anki:tts lang=pl_PL]dotychczas[/anki:tts]
+
+**Synonimy**: dotąd
+
+- Dziecko zna mało wyrazów zapisanych pismem, bo **dotychczas** posługiwało się wyłącznie mową.
+- Na czym polega jego istota, **dotychczas** nie wyjaśniono.
+- Nim się zorientujesz, będziecie ze sobą znacznie bliżej niż **dotychczas**.
+- **Dotychczas** zarejestrowano dziesięć komitetów.
+- **Dotychczas** nie napotkaliśmy na żadne problemy, z którymi nie moglibyśmy sobie poradzić.
+
+Części na milion: 27
+~~~
+
+!type: Basic
+!deck: Polski::Słowa::Przysłówki::Pos-101-200
+!tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
+
 !id: slowo_przysłówek_jakże_ru
-!front: jakże (ADV)
+!front: jakże
 !back:
 jakże
 
@@ -3843,11 +4313,16 @@ Części na milion: 27
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_ostrożnie_ru
-!front: внимательно, осторожно (ADV)
+!front:
+внимательно, осторожно
+
+~~lekko~~, ~~uważnie~~
 !back:
 ostrożnie, ostrożniej, najostrożniej
 
 [anki:tts lang=pl_PL]ostrożnie, ostrożniej, najostrożniej[/anki:tts]
+
+**Synonimy**: lekko, uważnie
 
 - Dla nich musisz **ostrożnie** wybrać miejsce, aby później nie chciał tego zmienić.
 - Sprawdzajcie **ostrożnie** czy jest miękka.
@@ -3863,7 +4338,7 @@ Części na milion: 27
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_stosunkowo_ru
-!front: относительно (ADV)
+!front: относительно
 !back:
 stosunkowo
 
@@ -3883,11 +4358,16 @@ Części na milion: 26
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_wzajemnie_ru
-!front: взаимно, и вам того же (ADV)
+!front:
+взаимно, и вам того же
+
+~~nawzajem~~
 !back:
 wzajemnie
 
 [anki:tts lang=pl_PL]wzajemnie[/anki:tts]
+
+**Synonimy**: nawzajem
 
 - Przyjaciele i matki mogą się **wzajemnie** odwiedzać.
 - Do siebie **wzajemnie** nie miauczą.
@@ -3903,7 +4383,7 @@ Części na milion: 26
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_niekoniecznie_ru
-!front: необязательно (ADV)
+!front: необязательно
 !back:
 niekoniecznie
 
@@ -3923,7 +4403,7 @@ Części na milion: 26
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_telefonicznie_ru
-!front: telefonicznie (ADV)
+!front: telefonicznie
 !back:
 telefonicznie
 
@@ -3943,11 +4423,16 @@ Części na milion: 26
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_ewentualnie_ru
-!front: вероятно, возможно, или, либо (ADV)
+!front:
+вероятно, возможно, или, либо
+
+~~możliwie~~, ~~można~~
 !back:
 ewentualnie
 
 [anki:tts lang=pl_PL]ewentualnie[/anki:tts]
+
+**Synonimy**: możliwie, można
 
 - **Ewentualnie** kupi się nowego.
 - Gdzie mogę szukać **ewentualnie** pomocy i wsparcia?
@@ -3963,7 +4448,7 @@ Części na milion: 25
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_śmiało_ru
-!front: отважно, смело (ADV)
+!front: отважно, смело
 !back:
 śmiało, śmielej, najśmielej
 
@@ -3983,7 +4468,7 @@ Części na milion: 25
 !tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
 
 !id: slowo_przysłówek_znakomicie_ru
-!front: znakomicie (ADV)
+!front: znakomicie
 !back:
 znakomicie, znakomiciej, najznakomiciej
 
@@ -3996,158 +4481,4 @@ znakomicie, znakomiciej, najznakomiciej
 - Patrząc na odbiór w zachodnich mediach, wyszło to **znakomicie**.
 
 Części na milion: 24
-~~~
-
-!type: Basic
-!deck: Polski::Słowa::Przysłówki::Pos-101-200
-!tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
-
-!id: slowo_przysłówek_tradycyjnie_ru
-!front: традиционно (ADV)
-!back:
-tradycyjnie
-
-[anki:tts lang=pl_PL]tradycyjnie[/anki:tts]
-
-- Rozgrywki **tradycyjnie** rozpoczęły się i zakończyły wspólną modlitwą.
-- Zabierając głos, **tradycyjnie** podzielił swoje wystąpienie na dwie części.
-- Wśród najpopularniejszych towarów występują **tradycyjnie** złoto, srebro, ropa, pszenica, kukurydza lub cukier.
-- Po tym terminie powrócimy **tradycyjnie** do spotkań wtorkowych.
-- Możemy to robić **tradycyjnie** w garnkach, albo kupić specjalne urządzenie.
-
-Części na milion: 24
-~~~
-
-!type: Basic
-!deck: Polski::Słowa::Przysłówki::Pos-101-200
-!tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
-
-!id: slowo_przysłówek_profesjonalnie_ru
-!front: profesjonalnie (ADV)
-!back:
-profesjonalnie, profesjonalniej, najprofesjonalniej
-
-[anki:tts lang=pl_PL]profesjonalnie, profesjonalniej, najprofesjonalniej[/anki:tts]
-
-- Mogą wziąć w nim udział wszyscy twórcy nie zajmujący się fotografią **profesjonalnie**.
-- Wszystkie posiłki są przygotowywane w **profesjonalnie** wyposażonej kuchni.
-- Uważamy, że w dzisiejszych czasach powinniśmy to robić bardziej **profesjonalnie**.
-- Zacząć **profesjonalnie** promować to, co mamy najlepsze i na tym zarabiać.
-- Trenerka prowadziła szkolenie bardzo **profesjonalnie**.
-
-Części na milion: 23
-~~~
-
-!type: Basic
-!deck: Polski::Słowa::Przysłówki::Pos-101-200
-!tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
-
-!id: slowo_przysłówek_niekiedy_sporadycznie_ru
-!front: иногда (ADV)
-!back:
-1. niekiedy
-
-[anki:tts lang=pl_PL]niekiedy[/anki:tts]
-
-- Trwa to **niekiedy** nawet przez osiem miesięcy!
-- **Niekiedy** są również w niektórych supermarketach.
-- Dobroć można **niekiedy** znaleźć w środku piekła.
-- **Niekiedy** noszą nazwę swoich autorów.
-- Gaz wykorzystuje się również **niekiedy** do klimatyzacji.
-
-Części na milion: 23
-
----
-
-2. sporadycznie, sporadyczniej, najsporadyczniej
-
-[anki:tts lang=pl_PL]sporadycznie, sporadyczniej, najsporadyczniej[/anki:tts]
-
-- Wcześniej chodziłem z nim **sporadycznie**.
-- Jeśli nie ustawisz wysokich celów, produkt będzie **sporadycznie** używany.
-- Na początku dotknięta chorobą osoba gra tylko **sporadycznie**.
-- Przyjaźniłem się **sporadycznie** z ludźmi, którzy później zostali gangsterami.
-- **Sporadycznie** pojawić mogą się omdlenia.
-
-Części na milion: 7
-~~~
-
-!type: Basic
-!deck: Polski::Słowa::Przysłówki::Pos-101-200
-!tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
-
-!id: slowo_przysłówek_maksymalnie_ru
-!front: максимально (ADV)
-!back:
-maksymalnie
-
-[anki:tts lang=pl_PL]maksymalnie[/anki:tts]
-
-- Zwłaszcza obecnie, kiedy firmy kosmetyczne starają się **maksymalnie** ograniczać użycie chemikaliów.
-- Ale trzeba **maksymalnie** ograniczyć błędy.
-- Dane kolokwium można poprawiać **maksymalnie** dwa razy.
-- Busik zabiera **maksymalnie** dziewięciu pasażerów.
-- **Maksymalnie** cztery takie konsultacje w tygodniu.
-
-Części na milion: 22
-~~~
-
-!type: Basic
-!deck: Polski::Słowa::Przysłówki::Pos-101-200
-!tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
-
-!id: slowo_przysłówek_gdziekolwiek_ru
-!front: где-либо, где-нибудь, куда-нибудь (ADV)
-!back:
-gdziekolwiek
-
-[anki:tts lang=pl_PL]gdziekolwiek[/anki:tts]
-
-- **Gdziekolwiek** zaczniesz kopać, zawsze znajdziesz bezcenną i świeżą mądrość.
-- Mam nadzieje, ze **gdziekolwiek** teraz pracuje, spełnia swoje aspiracje.
-- **Gdziekolwiek** jesteście, podejmujcie działania służebne w duchu współpracy i jedności.
-- Upraszczamy i usprawniamy **gdziekolwiek** się da.
-- **Gdziekolwiek** sięgnęłam wzrokiem, napotykałam wspomnienia z przeszłości.
-
-Części na milion: 21
-~~~
-
-!type: Basic
-!deck: Polski::Słowa::Przysłówki::Pos-101-200
-!tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
-
-!id: slowo_przysłówek_słabo_ru
-!front: слабо (ADV)
-!back:
-słabo, słabiej, najsłabiej
-
-[anki:tts lang=pl_PL]słabo, słabiej, najsłabiej[/anki:tts]
-
-- Trudno było by przegrać, kiedy od kilku miesięcy grają tak **słabo**.
-- Pozostałe zboża wyglądały już raczej **słabo**.
-- Gdy pada deszcz, są **słabo** widoczni nawet z bliska.
-- Jeździ **słabo**, ale o niebo lepiej niż na początku sezonu.
-- Mimo to szampon nadal **słabo** się pienił.
-
-Części na milion: 21
-~~~
-
-!type: Basic
-!deck: Polski::Słowa::Przysłówki::Pos-101-200
-!tags: Polski Słowo Przysłówek Pos-1-200 Pos-101-200
-
-!id: slowo_przysłówek_oficjalnie_ru
-!front: официально (ADV)
-!back:
-oficjalnie, oficjalniej, najoficjalniej
-
-[anki:tts lang=pl_PL]oficjalnie, oficjalniej, najoficjalniej[/anki:tts]
-
-- Śledztwo w sprawie strzelaniny **oficjalnie** zostało zamknięte.
-- **Oficjalnie** nic się nie zdarzyło.
-- Choć **oficjalnie** to produkt krajowy.
-- Głosowanie uznajemy za **oficjalnie** otwarte.
-- **Oficjalnie** w celu lepszego sportretowania przeciętnej chińskiej rodziny.
-
-Części na milion: 21
 ~~~

@@ -2,7 +2,7 @@ import { newNote, printNoteNodes } from "@notatki/core";
 import { writeFile } from "node:fs/promises";
 import { Blacklist } from "./lib/blacklist.js";
 import { readCsvFile } from "./lib/csv.js";
-import { Dict } from "./lib/dict.js";
+import { Dictionary } from "./lib/dictionary.js";
 import { pathTo } from "./lib/io.js";
 import { Morpholog } from "./lib/morpholog.js";
 import { PhraseIndex } from "./lib/phrase-index.js";
@@ -10,7 +10,7 @@ import { capitalize } from "./lib/text.js";
 import { Phrase } from "./lib/word.js";
 import { Xext, Xpos } from "./lib/xtags.js";
 
-const dict = await Dict.load();
+const dictionary = await Dictionary.load();
 
 const morpholog = await Morpholog.load();
 
@@ -21,38 +21,48 @@ await rzeczowniki();
 await przymiotniki();
 await przysłówki();
 
-async function readFreq(path) {
-  const map = new Map();
+async function loadFrequencyDictionary(path) {
   const list = [];
   for (const [lemma, pos, ppm] of await readCsvFile(path)) {
-    const { translations } = dict.get(pos, lemma) ?? { translations: [lemma] };
-    const key = translations.join("|");
-    const entry = map.get(key);
-    if (entry == null) {
-      const entry = { lemmas: [{ lemma, ppm: Number(ppm) }], pos, translations };
-      map.set(key, entry);
-      list.push(entry);
-    } else {
-      entry.lemmas.push({ lemma, ppm: Number(ppm) });
-    }
+    const {
+      senses, //
+      synonyms,
+      antonyms,
+      tags,
+    } = dictionary.get(pos, lemma) ?? {
+      pos,
+      lemma,
+      senses: [lemma],
+      synonyms: [],
+      antonyms: [],
+      tags: [],
+    };
+    list.push({
+      lemma,
+      pos,
+      senses,
+      synonyms,
+      antonyms,
+      tags,
+      ppm,
+    });
   }
   return list;
 }
 
 async function czasowniki() {
-  const freq = await readFreq(pathTo("corpus/freq-verb.csv"));
+  const list = await loadFrequencyDictionary(pathTo("corpus/freq-verb.csv"));
   const notes = [];
   const seq = [100, 200, 300, 500, 800, 1300];
   let start = 0;
   for (const end of seq) {
-    for (const entry of freq.slice(start, end)) {
-      const id = entry.lemmas.map(({ lemma }) => lemma).join("_");
+    for (const entry of list.slice(start, end)) {
       notes.push(
         newNote()
           .type("Basic")
           .deck(`Polski::Słowa::Czasowniki::Pos-${start + 1}-${end}`)
           .tags(`Polski Słowo Czasownik Pos-1-${end} Pos-${start + 1}-${end}`)
-          .id(`slowo_czasownik_${id}_ru`)
+          .id(`slowo_czasownik_${entry.lemma}_ru`)
           .field("front", makeFront(entry))
           .field("back", makeBack(entry))
           .make(),
@@ -66,19 +76,18 @@ async function czasowniki() {
 }
 
 async function rzeczowniki() {
-  const freq = await readFreq(pathTo("corpus/freq-noun.csv"));
+  const list = await loadFrequencyDictionary(pathTo("corpus/freq-noun.csv"));
   const notes = [];
   const seq = [100, 200, 300, 500, 800, 1300];
   let start = 0;
   for (const end of seq) {
-    for (const entry of freq.slice(start, end)) {
-      const id = entry.lemmas.map(({ lemma }) => lemma).join("_");
+    for (const entry of list.slice(start, end)) {
       notes.push(
         newNote()
           .type("Basic")
           .deck(`Polski::Słowa::Rzeczowniki::Pos-${start + 1}-${end}`)
           .tags(`Polski Słowo Rzeczownik Pos-1-${end} Pos-${start + 1}-${end}`)
-          .id(`slowo_rzeczownik_${id}_ru`)
+          .id(`slowo_rzeczownik_${entry.lemma}_ru`)
           .field("front", makeFront(entry))
           .field("back", makeBack(entry))
           .make(),
@@ -92,19 +101,18 @@ async function rzeczowniki() {
 }
 
 async function przymiotniki() {
-  const freq = await readFreq(pathTo("corpus/freq-adj.csv"));
+  const list = await loadFrequencyDictionary(pathTo("corpus/freq-adj.csv"));
   const notes = [];
   const seq = [100, 200, 300, 500, 800];
   let start = 0;
   for (const end of seq) {
-    for (const entry of freq.slice(start, end)) {
-      const id = entry.lemmas.map(({ lemma }) => lemma).join("_");
+    for (const entry of list.slice(start, end)) {
       notes.push(
         newNote()
           .type("Basic")
           .deck(`Polski::Słowa::Przymiotniki::Pos-${start + 1}-${end}`)
           .tags(`Polski Słowo Przymiotnik Pos-1-${end} Pos-${start + 1}-${end}`)
-          .id(`slowo_przymiotnik_${id}_ru`)
+          .id(`slowo_przymiotnik_${entry.lemma}_ru`)
           .field("front", makeFront(entry))
           .field("back", makeBack(entry))
           .make(),
@@ -118,19 +126,18 @@ async function przymiotniki() {
 }
 
 async function przysłówki() {
-  const freq = await readFreq(pathTo("corpus/freq-adv.csv"));
+  const list = await loadFrequencyDictionary(pathTo("corpus/freq-adv.csv"));
   const notes = [];
   const seq = [100, 200];
   let start = 0;
   for (const end of seq) {
-    for (const entry of freq.slice(start, end)) {
-      const id = entry.lemmas.map(({ lemma }) => lemma).join("_");
+    for (const entry of list.slice(start, end)) {
       notes.push(
         newNote()
           .type("Basic")
           .deck(`Polski::Słowa::Przysłówki::Pos-${start + 1}-${end}`)
           .tags(`Polski Słowo Przysłówek Pos-1-${end} Pos-${start + 1}-${end}`)
-          .id(`slowo_przysłówek_${id}_ru`)
+          .id(`slowo_przysłówek_${entry.lemma}_ru`)
           .field("front", makeFront(entry))
           .field("back", makeBack(entry))
           .make(),
@@ -143,62 +150,72 @@ async function przysłówki() {
   await writeFile(path, printNoteNodes(notes));
 }
 
-function makeFront({ lemmas, pos, translations }) {
-  return `${[...translations].join(", ")} (${pos})`;
+function makeFront({ lemma, pos, senses, synonyms, antonyms, tags, ppm }) {
+  const lines = [];
+  lines.push(`${[...senses].join(", ")}`);
+  if (synonyms.length > 0) {
+    lines.push(``);
+    lines.push(synonyms.map((synonym) => `~~${synonym}~~`).join(", "));
+  }
+  return lines.join("\n");
 }
 
-function makeBack({ lemmas, pos, translations }) {
-  const lines = [];
-  let index = 0;
-  for (const { lemma, ppm } of lemmas) {
-    let title = [lemma];
-    const addWords = (words) => {
-      for (const word of words) {
-        if (!title.includes(word.form)) {
-          title.push(word.form);
-        }
+function makeBack({ lemma, pos, senses, synonyms, antonyms, tags, ppm }) {
+  let title = [lemma];
+  const addWords = (words) => {
+    for (const word of words) {
+      if (!title.includes(word.form)) {
+        title.push(word.form);
       }
-    };
-    if (pos === "VERB") {
-      // spotkać -> spotkanie | ger:sg:nom.acc:n:perf:aff
-      // addWords(morpholog.findByLemma(lemma, Xpos.ger, Xext.sg | Xext.nom | Xext.aff));
     }
-    if (pos === "NOUN") {
-      // posiadać -> posiadanie | ger:sg:nom.acc:n:perf:aff
-      addWords(morpholog.findByLemma(lemma, Xpos.ger, Xext.sg | Xext.nom | Xext.aff));
-    }
-    if (pos === "ADJ") {
-      const xlemma = Xext.sg | Xext.nom | Xext.m1 | Xext.m2 | Xext.m3;
-      // dobry -> lepszy | adj:sg:nom.voc:m1.m2.m3:com
-      addWords(morpholog.findByLemma(lemma, Xpos.adj, xlemma | Xext.com));
-      // dobry -> najlepszy | adj:sg:nom.voc:m1.m2.m3:sup
-      addWords(morpholog.findByLemma(lemma, Xpos.adj, xlemma | Xext.sup));
-      // dotyczyć -> dotyczący | pact:sg:nom.voc:m1.m2.m3:imperf:aff
-      addWords(morpholog.findByLemma(lemma, Xpos.pact, xlemma | Xext.imperf | Xext.aff));
-      // stosować -> stosowany | ppas:sg:nom.voc:m1.m2.m3:imperf:aff
-      addWords(morpholog.findByLemma(lemma, Xpos.ppas, xlemma | Xext.imperf | Xext.aff));
-      // podać -> podany | ppas:sg:nom.voc:m1.m2.m3:perf:aff
-      addWords(morpholog.findByLemma(lemma, Xpos.ppas, xlemma | Xext.perf | Xext.aff));
-    }
-    if (pos === "ADV") {
-      // szybko -> szybciej | adv:com
-      addWords(morpholog.findByLemma(lemma, Xpos.adv, Xext.com));
-      // szybko -> najszybciej | adv:sup
-      addWords(morpholog.findByLemma(lemma, Xpos.adv, Xext.sup));
-    }
-    if (index > 0) {
-      lines.push("\n---\n");
-    }
-    const prefix = lemmas.length > 1 ? `${index + 1}. ` : ``;
-    lines.push(
-      `${prefix}${title.join(", ")}\n\n` + //
-        `[anki:tts lang=pl_PL]${title.join(", ")}[/anki:tts]\n\n` +
-        `${makeExamples(lemma, pos)}\n\n` +
-        `Części na milion: ${ppm}`,
-    );
-    index += 1;
+  };
+  if (pos === "VERB") {
+    // spotkać -> spotkanie | ger:sg:nom.acc:n:perf:aff
+    // addWords(morpholog.findByLemma(lemma, Xpos.ger, Xext.sg | Xext.nom | Xext.aff));
   }
-
+  if (pos === "NOUN") {
+    // posiadać -> posiadanie | ger:sg:nom.acc:n:perf:aff
+    addWords(morpholog.findByLemma(lemma, Xpos.ger, Xext.sg | Xext.nom | Xext.aff));
+  }
+  if (pos === "ADJ") {
+    const xlemma = Xext.sg | Xext.nom | Xext.m1 | Xext.m2 | Xext.m3;
+    // dobry -> lepszy | adj:sg:nom.voc:m1.m2.m3:com
+    addWords(morpholog.findByLemma(lemma, Xpos.adj, xlemma | Xext.com));
+    // dobry -> najlepszy | adj:sg:nom.voc:m1.m2.m3:sup
+    addWords(morpholog.findByLemma(lemma, Xpos.adj, xlemma | Xext.sup));
+    // dotyczyć -> dotyczący | pact:sg:nom.voc:m1.m2.m3:imperf:aff
+    addWords(morpholog.findByLemma(lemma, Xpos.pact, xlemma | Xext.imperf | Xext.aff));
+    // stosować -> stosowany | ppas:sg:nom.voc:m1.m2.m3:imperf:aff
+    addWords(morpholog.findByLemma(lemma, Xpos.ppas, xlemma | Xext.imperf | Xext.aff));
+    // podać -> podany | ppas:sg:nom.voc:m1.m2.m3:perf:aff
+    addWords(morpholog.findByLemma(lemma, Xpos.ppas, xlemma | Xext.perf | Xext.aff));
+  }
+  if (pos === "ADV") {
+    // szybko -> szybciej | adv:com
+    addWords(morpholog.findByLemma(lemma, Xpos.adv, Xext.com));
+    // szybko -> najszybciej | adv:sup
+    addWords(morpholog.findByLemma(lemma, Xpos.adv, Xext.sup));
+  }
+  const lines = [];
+  lines.push(`${title.join(", ")}`);
+  lines.push(``);
+  lines.push(`[anki:tts lang=pl_PL]${title.join(", ")}[/anki:tts]`);
+  if (synonyms.length > 0) {
+    lines.push(``);
+    lines.push(`**Synonimy**: ${synonyms.join(", ")}`);
+  }
+  if (antonyms.length > 0) {
+    lines.push(``);
+    lines.push(`**Antonimy:**: ${antonyms.join(", ")}`);
+  }
+  if (tags.length > 0) {
+    lines.push(``);
+    lines.push(`**Grupy:**: ${tags.join(", ")}`);
+  }
+  lines.push(``);
+  lines.push(...makeExamples(lemma, pos));
+  lines.push(``);
+  lines.push(`Części na milion: ${ppm}`);
   return lines.join("\n");
 }
 
@@ -207,14 +224,15 @@ function makeExamples(lemma, pos, count = 5, unique = pos === "VERB" || pos === 
   const phrases = index.getPhrases(pos, lemma);
   const seen = new Set();
   for (const words of phrases) {
-    if (examples.length >= count) {
+    if (examples.length < count) {
+      if (!unique || isUnique(words)) {
+        examples.push(`- ${printPhrase(words, lemma)}`);
+      }
+    } else {
       break;
     }
-    if (!unique || isUnique(words)) {
-      examples.push(printPhrase(words, lemma));
-    }
   }
-  return examples.map((phrase) => `- ${phrase}`).join("\n");
+  return examples;
 
   function isUnique(words) {
     for (const word of words) {
