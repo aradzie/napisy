@@ -46,7 +46,7 @@ Dopełniacz (*kogo? czego?*)
   for (const [verb, verbTail] of words) {
     for (const [adj, adjTail] of verbTail) {
       for (const noun of adjTail) {
-        for (const V of morpholog.query(verb, Xpos.imperf | Xpos.fin, Xext.pri)) {
+        for (const V of morpholog.query(verb, Xpos.fin, Xext.imperf | Xext.pri)) {
           const verbDecl = V.xext & Xext.number;
           const Nnom = morpholog.one(noun, Xpos.subst, verbDecl | Xext.nom);
           const Ngen = morpholog.one(noun, Xpos.subst, verbDecl | Xext.gen);
@@ -83,7 +83,7 @@ Celownik (*komu? czemu?*)
   for (const [verb, verbTail] of words) {
     for (const [adj, adjTail] of verbTail) {
       for (const noun of adjTail) {
-        for (const V of morpholog.query(verb, Xpos.imperf | Xpos.fin, Xext.pri)) {
+        for (const V of morpholog.query(verb, Xpos.fin, Xext.imperf | Xext.pri)) {
           const verbDecl = V.xext & Xext.number;
           const Nnom = morpholog.one(noun, Xpos.subst, verbDecl | Xext.nom);
           const Ndat = morpholog.one(noun, Xpos.subst, verbDecl | Xext.dat);
@@ -123,7 +123,7 @@ Biernik (*kogo? co?*)
   for (const [verb, verbTail] of words) {
     for (const [adj, adjTail] of verbTail) {
       for (const noun of adjTail) {
-        for (const V of morpholog.query(verb, Xpos.imperf | Xpos.fin, Xext.pri)) {
+        for (const V of morpholog.query(verb, Xpos.fin, Xext.imperf | Xext.pri)) {
           const verbDecl = V.xext & Xext.number;
           const Nnom = morpholog.one(noun, Xpos.subst, verbDecl | Xext.nom);
           const Nacc = morpholog.one(noun, Xpos.subst, verbDecl | Xext.acc);
@@ -160,7 +160,7 @@ Narzędnik (*z kim? z czym?*)
   for (const [verb, verbTail] of words) {
     for (const [adj, adjTail] of verbTail) {
       for (const noun of adjTail) {
-        for (const V of morpholog.query(stem(verb), Xpos.imperf | Xpos.fin, Xext.pri)) {
+        for (const V of morpholog.query(stem(verb), Xpos.fin, Xext.imperf | Xext.pri)) {
           const verbDecl = V.xext & Xext.number;
           const Nnom = morpholog.one(noun, Xpos.subst, verbDecl | Xext.nom);
           const Ninst = morpholog.one(noun, Xpos.subst, verbDecl | Xext.inst);
@@ -198,7 +198,7 @@ Miejscownik (*o kim? o czym?*)
   for (const [verb, verbTail] of words) {
     for (const [adj, adjTail] of verbTail) {
       for (const noun of adjTail) {
-        for (const V of morpholog.query(stem(verb), Xpos.imperf | Xpos.fin, Xext.pri)) {
+        for (const V of morpholog.query(stem(verb), Xpos.fin, Xext.imperf | Xext.pri)) {
           const verbDecl = V.xext & Xext.number;
           const Nnom = morpholog.one(noun, Xpos.subst, verbDecl | Xext.nom);
           const Nloc = morpholog.one(noun, Xpos.subst, verbDecl | Xext.loc);

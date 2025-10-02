@@ -16,8 +16,8 @@ const morpholog = await Morpholog.load();
 
 const index = await PhraseIndex.load(await Blacklist.load());
 
-await rzeczowniki();
 await czasowniki();
+await rzeczowniki();
 await przymiotniki();
 await przysłówki();
 
@@ -153,49 +153,30 @@ function makeBack({ lemmas, pos, translations }) {
   for (const { lemma, ppm } of lemmas) {
     let title = [lemma];
     if (pos === "ADJ") {
+      const xlemma = Xext.sg | Xext.m1 | Xext.m2 | Xext.m3 | Xext.nom;
       let found;
       // dobry -> lepszy | adj:sg:nom.voc:m1.m2.m3:com
-      found = morpholog.find(
-        lemma, //
-        Xpos.adj,
-        Xext.sg | Xext.m1 | Xext.m2 | Xext.m3 | Xext.nom | Xext.com,
-      );
+      found = morpholog.find(lemma, Xpos.adj, xlemma | Xext.com);
       if (found.length === 1) {
         title.push(found[0].form);
       }
       // dobry -> najlepszy | adj:sg:nom.voc:m1.m2.m3:sup
-      found = morpholog.find(
-        lemma, //
-        Xpos.adj,
-        Xext.sg | Xext.m1 | Xext.m2 | Xext.m3 | Xext.nom | Xext.sup,
-      );
+      found = morpholog.find(lemma, Xpos.adj, xlemma | Xext.sup);
       if (found.length === 1) {
         title.push(found[0].form);
       }
       // dotyczyć -> dotyczący | pact:sg:nom.voc:m1.m2.m3:imperf:aff
-      found = morpholog.find(
-        lemma, //
-        Xpos.pact | Xpos.imperf,
-        Xext.sg | Xext.m1 | Xext.m2 | Xext.m3 | Xext.nom | Xext.aff,
-      );
+      found = morpholog.find(lemma, Xpos.pact, xlemma | Xext.imperf | Xext.aff);
       if (found.length === 1) {
         title.push(found[0].form);
       }
       // stosować -> stosowany | ppas:sg:nom.voc:m1.m2.m3:imperf:aff
-      found = morpholog.find(
-        lemma, //
-        Xpos.ppas | Xpos.imperf,
-        Xext.sg | Xext.m1 | Xext.m2 | Xext.m3 | Xext.nom | Xext.aff,
-      );
+      found = morpholog.find(lemma, Xpos.ppas, xlemma | Xext.imperf | Xext.aff);
       if (found.length === 1) {
         title.push(found[0].form);
       }
       // podać -> podany | ppas:sg:nom.voc:m1.m2.m3:perf:aff
-      found = morpholog.find(
-        lemma, //
-        Xpos.ppas | Xpos.perf,
-        Xext.sg | Xext.m1 | Xext.m2 | Xext.m3 | Xext.nom | Xext.aff,
-      );
+      found = morpholog.find(lemma, Xpos.ppas, xlemma | Xext.perf | Xext.aff);
       if (found.length === 1) {
         title.push(found[0].form);
       }
