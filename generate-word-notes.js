@@ -181,6 +181,19 @@ function makeBack({ lemmas, pos, translations }) {
         title.push(found[0].form);
       }
     }
+    if (pos === "ADV") {
+      let found;
+      // szybko -> szybciej | adv:com
+      found = morpholog.find(lemma, Xpos.adv, Xext.com);
+      if (found.length === 1) {
+        title.push(found[0].form);
+      }
+      // szybko -> najszybciej | adv:sup
+      found = morpholog.find(lemma, Xpos.adv, Xext.sup);
+      if (found.length === 1) {
+        title.push(found[0].form);
+      }
+    }
     if (index > 0) {
       lines.push("\n---\n");
     }

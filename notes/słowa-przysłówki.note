@@ -45,9 +45,9 @@ Części na milion: 4098
 !id: slowo_przysłówek_bardzo_ru
 !front: очень, весьма (ADV)
 !back:
-bardzo
+bardzo, bardziej, najbardziej
 
-[anki:tts lang=pl_PL]bardzo[/anki:tts]
+[anki:tts lang=pl_PL]bardzo, bardziej, najbardziej[/anki:tts]
 
 - Jednym z **najbardziej** powszechnych zawodów jest zawód fryzjera.
 - Ubezpieczenia są postrzegane jako jeden z **najbardziej** stabilnych biznesów.
@@ -65,9 +65,9 @@ Części na milion: 3859
 !id: slowo_przysłówek_dobrze_ru
 !front: хорошо, ладно (ADV)
 !back:
-dobrze
+dobrze, lepiej, najlepiej
 
-[anki:tts lang=pl_PL]dobrze[/anki:tts]
+[anki:tts lang=pl_PL]dobrze, lepiej, najlepiej[/anki:tts]
 
 - **Lepiej** jest używać kompaktowych mebli do rozładunku przestrzeni.
 - Każdy mężczyzna stara się **dobrze** przygotować na tę chwilę.
@@ -285,9 +285,9 @@ Części na milion: 846
 !id: slowo_przysłówek_często_ru
 !front: часто (ADV)
 !back:
-często
+często, częściej, najczęściej
 
-[anki:tts lang=pl_PL]często[/anki:tts]
+[anki:tts lang=pl_PL]często, częściej, najczęściej[/anki:tts]
 
 - Nie jeżdżę zbyt **często** za granicę.
 - W ich wyniku **często** dochodzi o omyłkowych ostrzałów moździerzowych tureckiego terytorium.
@@ -359,9 +359,9 @@ Części na milion: 697
 !id: slowo_przysłówek_szybko_prędko_ru
 !front: быстро (ADV)
 !back:
-1. szybko
+1. szybko, szybciej, najszybciej
 
-[anki:tts lang=pl_PL]szybko[/anki:tts]
+[anki:tts lang=pl_PL]szybko, szybciej, najszybciej[/anki:tts]
 
 - Mogą oni napisać maila i stosunkowo **szybko** otrzymać odpowiedź.
 - W momencie otwarcia opakowania żywność **szybko** traci swoją świeżość i wartości odżywcze.
@@ -373,9 +373,9 @@ Części na milion: 621
 
 ---
 
-2. prędko
+2. prędko, prędzej, najprędzej
 
-[anki:tts lang=pl_PL]prędko[/anki:tts]
+[anki:tts lang=pl_PL]prędko, prędzej, najprędzej[/anki:tts]
 
 - Mam nadzieję, że **prędzej** niż później nasze udoskonalenia wystarczą, aby zniwelować stratę.
 - **Prędzej** się pozabijamy niż cokolwiek zbudujemy.
@@ -453,9 +453,9 @@ Części na milion: 562
 !id: slowo_przysłówek_długo_ru
 !front: длинно, долго (ADV)
 !back:
-długo
+długo, dłużej, najdłużej
 
-[anki:tts lang=pl_PL]długo[/anki:tts]
+[anki:tts lang=pl_PL]długo, dłużej, najdłużej[/anki:tts]
 
 - Ponadto spowalniają opróżnianie żołądka, aby utrzymać go **dłużej**.
 - Gdzie my mieszkamy, wstyd i hańba, jak **długo** jeszcze to potrwa.
@@ -473,9 +473,9 @@ Części na milion: 441
 !id: slowo_przysłówek_daleko_ru
 !front: далеко (ADV)
 !back:
-daleko
+daleko, dalej, najdalej
 
-[anki:tts lang=pl_PL]daleko[/anki:tts]
+[anki:tts lang=pl_PL]daleko, dalej, najdalej[/anki:tts]
 
 - Na szczęście dobrnęliśmy do jej końca i **dalej** w dół.
 - **Dalej** do tych, które już niestety mamy dołączają kolejne.
@@ -513,9 +513,9 @@ Części na milion: 413
 !id: slowo_przysłówek_pewno_ru
 !front: обязательно, точно (ADV)
 !back:
-pewno
+pewno, pewniej, najpewniej
 
-[anki:tts lang=pl_PL]pewno[/anki:tts]
+[anki:tts lang=pl_PL]pewno, pewniej, najpewniej[/anki:tts]
 
 - A na **pewno** dobry początek produktywnego dnia.
 - Na **pewno** wybierzemy wtedy to, co jest najmożniejsze dla naszych pieniędzy.
@@ -553,9 +553,9 @@ Części na milion: 394
 !id: slowo_przysłówek_wcześnie_ru
 !front: рано, скоро (ADV)
 !back:
-wcześnie
+wcześnie, wcześniej, najwcześniej
 
-[anki:tts lang=pl_PL]wcześnie[/anki:tts]
+[anki:tts lang=pl_PL]wcześnie, wcześniej, najwcześniej[/anki:tts]
 
 - My mieliśmy okazję przyjrzeć się jej **wcześniej**.
 - Potem nie graliśmy już tak, jak **wcześniej**.
@@ -573,9 +573,9 @@ Części na milion: 379
 !id: slowo_przysłówek_mało_ru
 !front: мало, немного (ADV)
 !back:
-mało
+mało, mniej, najmniej
 
-[anki:tts lang=pl_PL]mało[/anki:tts]
+[anki:tts lang=pl_PL]mało, mniej, najmniej[/anki:tts]
 
 - Fakty są na ogół znacznie **mniej** sensacyjne niż fikcja.
 - Płuca u dziecka rozwijają się **mniej** więcej do ósmego roku życia.
@@ -593,9 +593,9 @@ Części na milion: 375
 !id: slowo_przysłówek_późno_ru
 !front: поздно (ADV)
 !back:
-późno
+późno, później, najpóźniej
 
-[anki:tts lang=pl_PL]późno[/anki:tts]
+[anki:tts lang=pl_PL]późno, później, najpóźniej[/anki:tts]
 
 - Pominęłam wiele rzeczy, z czasem bardziej świadomie zostawiając je sobie na **później**.
 - Dla nich musisz ostrożnie wybrać miejsce, aby **później** nie chciał tego zmienić.
@@ -707,9 +707,9 @@ Części na milion: 302
 !id: slowo_przysłówek_łatwo_ru
 !front: легко, просто (ADV)
 !back:
-łatwo
+łatwo, łatwiej, najłatwiej
 
-[anki:tts lang=pl_PL]łatwo[/anki:tts]
+[anki:tts lang=pl_PL]łatwo, łatwiej, najłatwiej[/anki:tts]
 
 - Po prostu można lepiej zobaczyć, a więc są **łatwiej** niż równomiernie.
 - To dość **łatwo** odróżnić.
@@ -767,9 +767,9 @@ Części na milion: 247
 !id: slowo_przysłówek_trudno_ru
 !front: трудно (ADV)
 !back:
-trudno
+trudno, trudniej, najtrudniej
 
-[anki:tts lang=pl_PL]trudno[/anki:tts]
+[anki:tts lang=pl_PL]trudno, trudniej, najtrudniej[/anki:tts]
 
 - **Trudno** jednak cokolwiek mu zarzucać.
 - Tu i w lecie jest czasami **trudno** dotrzeć w pewne miejsca.
@@ -807,9 +807,9 @@ Części na milion: 232
 !id: slowo_przysłówek_źle_ru
 !front: плохо (ADV)
 !back:
-źle
+źle, gorzej, najgorzej
 
-[anki:tts lang=pl_PL]źle[/anki:tts]
+[anki:tts lang=pl_PL]źle, gorzej, najgorzej[/anki:tts]
 
 - Jednak z książkami nie jest tak **źle**.
 - **Gorzej**, kiedy nie czeka nikt.
@@ -847,9 +847,9 @@ Części na milion: 227
 !id: slowo_przysłówek_serdecznie_ru
 !front: сердечно (ADV)
 !back:
-serdecznie
+serdecznie, serdeczniej, najserdeczniej
 
-[anki:tts lang=pl_PL]serdecznie[/anki:tts]
+[anki:tts lang=pl_PL]serdecznie, serdeczniej, najserdeczniej[/anki:tts]
 
 - Jeżeli chcecie pokazać swoje konstrukcje, to bardzo **serdecznie** zapraszamy.
 - Drodzy bracia, **serdecznie** wam dziękuję za ochotne i wielkoduszne przybycie tutaj.
@@ -907,9 +907,9 @@ Części na milion: 212
 !id: slowo_przysłówek_zupełnie_ru
 !front: полностью, совсем (ADV)
 !back:
-zupełnie
+zupełnie, zupełniej, najzupełniej
 
-[anki:tts lang=pl_PL]zupełnie[/anki:tts]
+[anki:tts lang=pl_PL]zupełnie, zupełniej, najzupełniej[/anki:tts]
 
 - Ich pytania będą **zupełnie** inne.
 - Ale to nie tak, prawda wygląda **zupełnie** inaczej.
@@ -927,9 +927,9 @@ Części na milion: 212
 !id: slowo_przysłówek_rano_ru
 !front: утром, утро (ADV)
 !back:
-rano
+rano, raniej, najraniej
 
-[anki:tts lang=pl_PL]rano[/anki:tts]
+[anki:tts lang=pl_PL]rano, raniej, najraniej[/anki:tts]
 
 - **Rano** możemy ruszyć dalej.
 - Zaś **rano**, jako pierwsi rozgrywali mecz.
@@ -1021,9 +1021,9 @@ Części na milion: 189
 
 ---
 
-2. stale
+2. stale, stalej, najstalej
 
-[anki:tts lang=pl_PL]stale[/anki:tts]
+[anki:tts lang=pl_PL]stale, stalej, najstalej[/anki:tts]
 
 - Nasze ciało **stale** wymienia komórki.
 - To właśnie dzięki nim możemy **stale** urozmaicać nasze miksy.
@@ -1081,9 +1081,9 @@ Części na milion: 184
 !id: slowo_przysłówek_zwykle_ru
 !front: обычно, обыкновенно (ADV)
 !back:
-zwykle
+zwykle, zwyklej, najzwyklej
 
-[anki:tts lang=pl_PL]zwykle[/anki:tts]
+[anki:tts lang=pl_PL]zwykle, zwyklej, najzwyklej[/anki:tts]
 
 - **Zwykle** powierzchnia silnie błyszcząca.
 - **Zwykle** jest usuwany przed wyjazdem do domu.
@@ -1101,9 +1101,9 @@ Części na milion: 180
 !id: slowo_przysłówek_całkowicie_ru
 !front: совсем, целиком (ADV)
 !back:
-całkowicie
+całkowicie, całkowiciej, najcałkowiciej
 
-[anki:tts lang=pl_PL]całkowicie[/anki:tts]
+[anki:tts lang=pl_PL]całkowicie, całkowiciej, najcałkowiciej[/anki:tts]
 
 - W naszych warunkach są **całkowicie** wytrzymałe na mrozy.
 - Ciężko nam stwierdzić, czy je **całkowicie** wyeliminuje.
@@ -1161,9 +1161,9 @@ Części na milion: 177
 !id: slowo_przysłówek_blisko_ru
 !front: близко (ADV)
 !back:
-blisko
+blisko, bliżej, najbliżej
 
-[anki:tts lang=pl_PL]blisko[/anki:tts]
+[anki:tts lang=pl_PL]blisko, bliżej, najbliżej[/anki:tts]
 
 - A może chcesz poznać to miasto **bliżej**?
 - Nigdy dość **blisko**, by porozmawiać, a co dopiero dotknąć.
@@ -1181,9 +1181,9 @@ Części na milion: 177
 !id: slowo_przysłówek_chętnie_ru
 !front: охотно, с желанием (ADV)
 !back:
-chętnie
+chętnie, chętniej, najchętniej
 
-[anki:tts lang=pl_PL]chętnie[/anki:tts]
+[anki:tts lang=pl_PL]chętnie, chętniej, najchętniej[/anki:tts]
 
 - **Chętnie** służymy pomocą w doborze oprogramowania.
 - **Chętnie** czytałbym częściej wasze teksty.
@@ -1201,9 +1201,9 @@ Części na milion: 176
 !id: slowo_przysłówek_świetnie_wyśmienicie_ru
 !front: отлично (ADV)
 !back:
-1. świetnie
+1. świetnie, świetniej, najświetniej
 
-[anki:tts lang=pl_PL]świetnie[/anki:tts]
+[anki:tts lang=pl_PL]świetnie, świetniej, najświetniej[/anki:tts]
 
 - **Świetnie** wygląda zarówno włożona do spodni, jak i wyciągnięta na wierzch.
 - I tylko **świetnie** wyszkolony pedagog jest w stanie naprawdę motywować dzieci.
@@ -1215,9 +1215,9 @@ Części na milion: 175
 
 ---
 
-2. wyśmienicie
+2. wyśmienicie, wyśmieniciej, najwyśmieniciej
 
-[anki:tts lang=pl_PL]wyśmienicie[/anki:tts]
+[anki:tts lang=pl_PL]wyśmienicie, wyśmieniciej, najwyśmieniciej[/anki:tts]
 
 - Całość **wyśmienicie** się prezentuje i będzie stanowić idealny prezent dla każdego dziecka.
 - Wszyscy bawili się **wyśmienicie**, doceniając walory sztuki.
@@ -1255,9 +1255,9 @@ Części na milion: 171
 !id: slowo_przysłówek_mocno_ru
 !front: сильно, мощно (ADV)
 !back:
-mocno
+mocno, mocniej, najmocniej
 
-[anki:tts lang=pl_PL]mocno[/anki:tts]
+[anki:tts lang=pl_PL]mocno, mocniej, najmocniej[/anki:tts]
 
 - Argumenty moim zdaniem słabe i **mocno** naciągnięte.
 - Wtedy będziemy **mocniej** się mobilizować.
@@ -1295,9 +1295,9 @@ Części na milion: 159
 !id: slowo_przysłówek_znacznie_ru
 !front: гораздо (ADV)
 !back:
-znacznie
+znacznie, znaczniej, najznaczniej
 
-[anki:tts lang=pl_PL]znacznie[/anki:tts]
+[anki:tts lang=pl_PL]znacznie, znaczniej, najznaczniej[/anki:tts]
 
 - Może mieć jednak **znacznie** krótszą żywotność przy intensywnej eksploatacji.
 - Fakty są na ogół **znacznie** mniej sensacyjne niż fikcja.
@@ -1375,9 +1375,9 @@ Części na milion: 158
 !id: slowo_przysłówek_wyłącznie_ru
 !front: исключительно (ADV)
 !back:
-wyłącznie
+wyłącznie, wyłączniej, najwyłączniej
 
-[anki:tts lang=pl_PL]wyłącznie[/anki:tts]
+[anki:tts lang=pl_PL]wyłącznie, wyłączniej, najwyłączniej[/anki:tts]
 
 - Dziecko zna mało wyrazów zapisanych pismem, bo dotychczas posługiwało się **wyłącznie** mową.
 - Dopuszczalne są **wyłącznie** naturalne cukry pochodzące z owoców.
@@ -1475,9 +1475,9 @@ Części na milion: 146
 !id: slowo_przysłówek_zgodnie_ru
 !front: согласно (ADV)
 !back:
-zgodnie
+zgodnie, zgodniej, najzgodniej
 
-[anki:tts lang=pl_PL]zgodnie[/anki:tts]
+[anki:tts lang=pl_PL]zgodnie, zgodniej, najzgodniej[/anki:tts]
 
 - Dalej postępuj **zgodnie** z instrukcjami i zapłać za tę usługę.
 - W dużej ilości osolonej wody gotujemy makaron, **zgodnie** z instrukcją na opakowaniu.
@@ -1495,9 +1495,9 @@ Części na milion: 146
 !id: slowo_przysłówek_ciężko_ru
 !front: тяжело, трудно (ADV)
 !back:
-ciężko
+ciężko, ciężej, najciężej
 
-[anki:tts lang=pl_PL]ciężko[/anki:tts]
+[anki:tts lang=pl_PL]ciężko, ciężej, najciężej[/anki:tts]
 
 - **Ciężko** nam stwierdzić, czy je całkowicie wyeliminuje.
 - **Ciężko** mi ocenić tą książkę, bo to nie książka, jakie zazwyczaj czytam.
@@ -1575,9 +1575,9 @@ Części na milion: 137
 !id: slowo_przysłówek_niezwykle_ru
 !front: необычайно (ADV)
 !back:
-niezwykle
+niezwykle, niezwyklej, najniezwyklej
 
-[anki:tts lang=pl_PL]niezwykle[/anki:tts]
+[anki:tts lang=pl_PL]niezwykle, niezwyklej, najniezwyklej[/anki:tts]
 
 - Jest to **niezwykle** istotne ze względu na wasze dzieci.
 - Truskawki są **niezwykle** delikatnymi owocami.
@@ -1655,9 +1655,9 @@ Części na milion: 124
 !id: slowo_przysłówek_podobnie_ru
 !front: похоже (ADV)
 !back:
-podobnie
+podobnie, podobniej, najpodobniej
 
-[anki:tts lang=pl_PL]podobnie[/anki:tts]
+[anki:tts lang=pl_PL]podobnie, podobniej, najpodobniej[/anki:tts]
 
 - **Podobnie**, jak i radość z ponownego spotkania.
 - Wolność bez odpowiedzialności rodzi anarchię, **podobnie** jak odpowiedzialność bez wolności tyranię.
@@ -1675,9 +1675,9 @@ Części na milion: 123
 !id: slowo_przysłówek_doskonale_ru
 !front: отлично, полностью (ADV)
 !back:
-doskonale
+doskonale, doskonalej, najdoskonalej
 
-[anki:tts lang=pl_PL]doskonale[/anki:tts]
+[anki:tts lang=pl_PL]doskonale, doskonalej, najdoskonalej[/anki:tts]
 
 - Rozumiałam je **doskonale** i łączyłam się z nimi w bólu.
 - **Doskonale** odzwierciedlało profil czasopisma.
@@ -1695,9 +1695,9 @@ Części na milion: 120
 !id: slowo_przysłówek_wysoko_ru
 !front: высоко (ADV)
 !back:
-wysoko
+wysoko, wyżej, najwyżej
 
-[anki:tts lang=pl_PL]wysoko[/anki:tts]
+[anki:tts lang=pl_PL]wysoko, wyżej, najwyżej[/anki:tts]
 
 - Podnosi ją **wyżej**, żeby wszyscy mogli zobaczyć.
 - Wpływ tego czynnika jest ponad wszelką wątpliwość wśród większości **wysoko** wykwalifikowanych onkologów.
@@ -1775,9 +1775,9 @@ Części na milion: 114
 !id: slowo_przysłówek_dawno_ru
 !front: давно (ADV)
 !back:
-dawno
+dawno, dawniej, najdawniej
 
-[anki:tts lang=pl_PL]dawno[/anki:tts]
+[anki:tts lang=pl_PL]dawno, dawniej, najdawniej[/anki:tts]
 
 - **Dawniej** tylko królowie i wielmoże obdarowywali podarunkami swoich dworzan.
 - A podobno **dawniej** ludzie to jadali.
@@ -1815,9 +1815,9 @@ Części na milion: 108
 !id: slowo_przysłówek_idealnie_ru
 !front: идеально (ADV)
 !back:
-idealnie
+idealnie, idealniej, najidealniej
 
-[anki:tts lang=pl_PL]idealnie[/anki:tts]
+[anki:tts lang=pl_PL]idealnie, idealniej, najidealniej[/anki:tts]
 
 - Nie da się go zrobić **idealnie**.
 - **Idealnie** osłodzą każdy rodzaj koktajlu.
@@ -1835,9 +1835,9 @@ Części na milion: 107
 !id: slowo_przysłówek_nagle_ru
 !front: вдруг, внезапно, неожиданно (ADV)
 !back:
-nagle
+nagle, naglej, najnaglej
 
-[anki:tts lang=pl_PL]nagle[/anki:tts]
+[anki:tts lang=pl_PL]nagle, naglej, najnaglej[/anki:tts]
 
 - Piłkarze **nagle** powiedzieli dość.
 - **Nagle** kierowca zatrzymuje się i wskazuje mi jezioro.
@@ -1875,9 +1875,9 @@ Części na milion: 106
 !id: slowo_przysłówek_miło_ru
 !front: приятно, мило (ADV)
 !back:
-miło
+miło, milej, najmilej
 
-[anki:tts lang=pl_PL]miło[/anki:tts]
+[anki:tts lang=pl_PL]miło, milej, najmilej[/anki:tts]
 
 - Również **miło** nam, że do zespołu redakcyjnego dołączają nowe osoby.
 - **Miło** spędziliśmy czas i naprawdę wypoczęliśmy.
@@ -1895,9 +1895,9 @@ Części na milion: 104
 !id: slowo_przysłówek_pięknie_ru
 !front: красиво (ADV)
 !back:
-pięknie
+pięknie, piękniej, najpiękniej
 
-[anki:tts lang=pl_PL]pięknie[/anki:tts]
+[anki:tts lang=pl_PL]pięknie, piękniej, najpiękniej[/anki:tts]
 
 - Zobacz, jak szybko i **pięknie** można zapakować prezenty!
 - Ich prace są **pięknie** wyeksponowane dla otoczenia środowiska szkolnego.
@@ -1915,9 +1915,9 @@ Części na milion: 102
 !id: slowo_przysłówek_spokojnie_ru
 !front: спокойно (ADV)
 !back:
-spokojnie
+spokojnie, spokojniej, najspokojniej
 
-[anki:tts lang=pl_PL]spokojnie[/anki:tts]
+[anki:tts lang=pl_PL]spokojnie, spokojniej, najspokojniej[/anki:tts]
 
 - **Spokojnie**, wraz z wiekiem wszystko się zmieni.
 - Nas zapewniła, że referendum przebiega **spokojnie**, bez ekscesów.
@@ -1955,9 +1955,9 @@ Części na milion: 99
 !id: slowo_przysłówek_bezpośrednio_ru
 !front: непосредственно (ADV)
 !back:
-bezpośrednio
+bezpośrednio, bezpośredniej, najbezpośredniej
 
-[anki:tts lang=pl_PL]bezpośrednio[/anki:tts]
+[anki:tts lang=pl_PL]bezpośrednio, bezpośredniej, najbezpośredniej[/anki:tts]
 
 - Do nieruchomości prowadzi wjazd **bezpośrednio** z ulicy.
 - Administracja sieciowa obiecuje możliwość organizacji sprzedaży internetowej **bezpośrednio** w sieci.
@@ -1975,9 +1975,9 @@ Części na milion: 95
 !id: slowo_przysłówek_fajnie_ru
 !front: здорово (ADV)
 !back:
-fajnie
+fajnie, fajniej, najfajniej
 
-[anki:tts lang=pl_PL]fajnie[/anki:tts]
+[anki:tts lang=pl_PL]fajnie, fajniej, najfajniej[/anki:tts]
 
 - Och, jak **fajnie** że masz premierę książki w urodziny.
 - Byłoby **fajnie**, gdyby cała leciała w tunelu.
@@ -1995,9 +1995,9 @@ Części na milion: 94
 !id: slowo_przysłówek_równie_ru
 !front: одинаково, равно (ADV)
 !back:
-równie
+równie, równiej, najrówniej
 
-[anki:tts lang=pl_PL]równie[/anki:tts]
+[anki:tts lang=pl_PL]równie, równiej, najrówniej[/anki:tts]
 
 - Co więcej, **równie** często u osób rodzących samodzielnie lub przez cesarskie cięcie.
 - **Równie** istotną rolę odgrywa czyszczenie stajni oraz dbanie o higienę koni.
@@ -2035,9 +2035,9 @@ Części na milion: 87
 !id: slowo_przysłówek_skutecznie_ru
 !front: эффективно (ADV)
 !back:
-skutecznie
+skutecznie, skuteczniej, najskuteczniej
 
-[anki:tts lang=pl_PL]skutecznie[/anki:tts]
+[anki:tts lang=pl_PL]skutecznie, skuteczniej, najskuteczniej[/anki:tts]
 
 - Dzięki temu zyskamy pewność, że skóra jest **skutecznie** oczyszczona.
 - Substancja pomoże szybko i **skutecznie** oczyścić zatoki nosowe ze śluzu i bakterii.
@@ -2075,9 +2075,9 @@ Części na milion: 86
 !id: slowo_przysłówek_przykro_ru
 !front: досадно (ADV)
 !back:
-przykro
+przykro, przykrzej, najprzykrzej
 
-[anki:tts lang=pl_PL]przykro[/anki:tts]
+[anki:tts lang=pl_PL]przykro, przykrzej, najprzykrzej[/anki:tts]
 
 - Bardzo mi **przykro**, nie da się zrobić jedwabnej torebki ze świńskiego ucha.
 - Powiedziała, że jest jej wtedy bardzo **przykro**.
@@ -2095,9 +2095,9 @@ Części na milion: 86
 !id: slowo_przysłówek_lekko_ru
 !front: легко, осторожно, слегка (ADV)
 !back:
-lekko
+lekko, lżej, najlżej
 
-[anki:tts lang=pl_PL]lekko[/anki:tts]
+[anki:tts lang=pl_PL]lekko, lżej, najlżej[/anki:tts]
 
 - Muszę przyznać, że do drugiej części serii podchodziłam **lekko** sceptycznie.
 - Meble wyglądają bardzo **lekko**.
@@ -2129,9 +2129,9 @@ Części na milion: 83
 
 ---
 
-2. dostatecznie
+2. dostatecznie, dostateczniej, najdostateczniej
 
-[anki:tts lang=pl_PL]dostatecznie[/anki:tts]
+[anki:tts lang=pl_PL]dostatecznie, dostateczniej, najdostateczniej[/anki:tts]
 
 - To już **dostatecznie** długi okres czasu uprawniający do dokonania oceny.
 - Odkąd przyszłam, jest **dostatecznie** ciepło.
@@ -2169,9 +2169,9 @@ Części na milion: 83
 !id: slowo_przysłówek_prosto_ru
 !front: просто (ADV)
 !back:
-prosto
+prosto, prościej, najprościej
 
-[anki:tts lang=pl_PL]prosto[/anki:tts]
+[anki:tts lang=pl_PL]prosto, prościej, najprościej[/anki:tts]
 
 - Na lewo, prawo czy **prosto**?
 - Czy **prosto** jest zdecydować się na zabawkę dla najmłodszych?
@@ -2189,9 +2189,9 @@ Części na milion: 81
 !id: slowo_przysłówek_poważnie_ru
 !front: серьёзно (ADV)
 !back:
-poważnie
+poważnie, poważniej, najpoważniej
 
-[anki:tts lang=pl_PL]poważnie[/anki:tts]
+[anki:tts lang=pl_PL]poważnie, poważniej, najpoważniej[/anki:tts]
 
 - Było jakby mroczniej, **poważniej**.
 - Bierzemy zdrowia dzieci bardzo **poważnie**!
@@ -2209,9 +2209,9 @@ Części na milion: 81
 !id: slowo_przysłówek_rzadko_ru
 !front: редко (ADV)
 !back:
-rzadko
+rzadko, rzadziej, najrzadziej
 
-[anki:tts lang=pl_PL]rzadko[/anki:tts]
+[anki:tts lang=pl_PL]rzadko, rzadziej, najrzadziej[/anki:tts]
 
 - Zwłaszcza, jeśli się **rzadko** wklejacie i ma służyć tylko do sytuacji awaryjnych.
 - **Rzadko** w nim bywała.
@@ -2229,9 +2229,9 @@ Części na milion: 79
 !id: slowo_przysłówek_szczerze_ru
 !front: искренне, откровенно (ADV)
 !back:
-szczerze
+szczerze, szczerzej, najszczerzej
 
-[anki:tts lang=pl_PL]szczerze[/anki:tts]
+[anki:tts lang=pl_PL]szczerze, szczerzej, najszczerzej[/anki:tts]
 
 - Starsi wywiązujący się ze swej powinności **szczerze** starają się usługiwać innym.
 - Ale **szczerze** mówiąc, nie bardzo rozumiem twoje rachunki.
@@ -2249,9 +2249,9 @@ Części na milion: 77
 !id: slowo_przysłówek_odpowiednio_ru
 !front: соответственно (ADV)
 !back:
-odpowiednio
+odpowiednio, odpowiedniej, najodpowiedniej
 
-[anki:tts lang=pl_PL]odpowiednio[/anki:tts]
+[anki:tts lang=pl_PL]odpowiednio, odpowiedniej, najodpowiedniej[/anki:tts]
 
 - Do świąt jak wiadomo należy się **odpowiednio** przygotować.
 - Wielkość krokietów **odpowiednio** dobrana do wielkości szczęki i zębów.
@@ -2269,9 +2269,9 @@ Części na milion: 76
 !id: slowo_przysłówek_strasznie_okropnie_ru
 !front: страшно, ужасно (ADV)
 !back:
-1. strasznie
+1. strasznie, straszniej, najstraszniej
 
-[anki:tts lang=pl_PL]strasznie[/anki:tts]
+[anki:tts lang=pl_PL]strasznie, straszniej, najstraszniej[/anki:tts]
 
 - **Strasznie** wypowiadać to słowo, ale wypowiedzieć je muszę.
 - Co musiało wyglądać nieco **strasznie** niż sympatycznie.
@@ -2283,9 +2283,9 @@ Części na milion: 74
 
 ---
 
-2. okropnie
+2. okropnie, okropniej, najokropniej
 
-[anki:tts lang=pl_PL]okropnie[/anki:tts]
+[anki:tts lang=pl_PL]okropnie, okropniej, najokropniej[/anki:tts]
 
 - Kręgosłup i plecy **okropnie** mnie bolą od dźwigania ciężkiej torby z listami.
 - Chcę jeszcze tylko napisać, że **okropnie** się wstydzę.
@@ -2323,9 +2323,9 @@ Części na milion: 73
 !id: slowo_przysłówek_koniecznie_ru
 !front: непременно, обязательно (ADV)
 !back:
-koniecznie
+koniecznie, konieczniej, najkonieczniej
 
-[anki:tts lang=pl_PL]koniecznie[/anki:tts]
+[anki:tts lang=pl_PL]koniecznie, konieczniej, najkonieczniej[/anki:tts]
 
 - Kiedy maluch się uspokoi, **koniecznie** zapytaj o powód złości.
 - A, **koniecznie** zabierzcie ze sobą lornetkę.
@@ -2343,9 +2343,9 @@ Części na milion: 71
 !id: slowo_przysłówek_samodzielnie_ru
 !front: самостоятельно (ADV)
 !back:
-samodzielnie
+samodzielnie, samodzielniej, najsamodzielniej
 
-[anki:tts lang=pl_PL]samodzielnie[/anki:tts]
+[anki:tts lang=pl_PL]samodzielnie, samodzielniej, najsamodzielniej[/anki:tts]
 
 - Co więcej, równie często u osób rodzących **samodzielnie** lub przez cesarskie cięcie.
 - I naprawdę proszę się **samodzielnie** badać.
@@ -2383,9 +2383,9 @@ Części na milion: 69
 !id: slowo_przysłówek_ładnie_przyjemnie_ru
 !front: приятно (ADV)
 !back:
-1. ładnie
+1. ładnie, ładniej, najładniej
 
-[anki:tts lang=pl_PL]ładnie[/anki:tts]
+[anki:tts lang=pl_PL]ładnie, ładniej, najładniej[/anki:tts]
 
 - Wiem, że ta torebka będzie **ładnie** wyglądać przez lata.
 - Jest pięknie, **ładnie**, ale co z ich przeszłością?
@@ -2397,9 +2397,9 @@ Części na milion: 69
 
 ---
 
-2. przyjemnie
+2. przyjemnie, przyjemniej, najprzyjemniej
 
-[anki:tts lang=pl_PL]przyjemnie[/anki:tts]
+[anki:tts lang=pl_PL]przyjemnie, przyjemniej, najprzyjemniej[/anki:tts]
 
 - Może i historia jest dość przewidywalna, jednak czyta się ją bardzo **przyjemnie**.
 - Niemniej jednak **przyjemnie** nawilżał.
@@ -2437,9 +2437,9 @@ Części na milion: 68
 !id: slowo_przysłówek_bezpiecznie_ru
 !front: безопасно (ADV)
 !back:
-bezpiecznie
+bezpiecznie, bezpieczniej, najbezpieczniej
 
-[anki:tts lang=pl_PL]bezpiecznie[/anki:tts]
+[anki:tts lang=pl_PL]bezpiecznie, bezpieczniej, najbezpieczniej[/anki:tts]
 
 - Aby **bezpiecznie** były też przewożone ładunki.
 - Żeby **bezpiecznie** go przetestować.
@@ -2457,9 +2457,9 @@ Części na milion: 66
 !id: slowo_przysłówek_ogólnie_ru
 !front: в основном, вообще, в целом (ADV)
 !back:
-ogólnie
+ogólnie, ogólniej, najogólniej
 
-[anki:tts lang=pl_PL]ogólnie[/anki:tts]
+[anki:tts lang=pl_PL]ogólnie, ogólniej, najogólniej[/anki:tts]
 
 - Wtedy często łamane są **ogólnie** przyjęte normy postępowania.
 - **Ogólnie** o podróżach i turystyce.
@@ -2477,9 +2477,9 @@ Części na milion: 63
 !id: slowo_przysłówek_regularnie_ru
 !front: регулярно (ADV)
 !back:
-regularnie
+regularnie, regularniej, najregularniej
 
-[anki:tts lang=pl_PL]regularnie[/anki:tts]
+[anki:tts lang=pl_PL]regularnie, regularniej, najregularniej[/anki:tts]
 
 - Warto zauważyć, że to te kraje **regularnie** objęte są konfliktami zbrojnymi.
 - **Regularnie** czytam wszystkie informacje o sprawach miasta, znam jego bolączki i radości.
@@ -2517,9 +2517,9 @@ Części na milion: 60
 !id: slowo_przysłówek_prawidłowo_ru
 !front: правильно (ADV)
 !back:
-prawidłowo
+prawidłowo, prawidłowiej, najprawidłowiej
 
-[anki:tts lang=pl_PL]prawidłowo[/anki:tts]
+[anki:tts lang=pl_PL]prawidłowo, prawidłowiej, najprawidłowiej[/anki:tts]
 
 - Jak **prawidłowo** przewozić dziecko w aucie?
 - Takie dziecko nie rozwija się **prawidłowo**.
@@ -2537,9 +2537,9 @@ Części na milion: 59
 !id: slowo_przysłówek_krótko_ru
 !front: коротко (ADV)
 !back:
-krótko
+krótko, krócej, najkrócej
 
-[anki:tts lang=pl_PL]krótko[/anki:tts]
+[anki:tts lang=pl_PL]krótko, krócej, najkrócej[/anki:tts]
 
 - Naprawdę planowałam to **krócej** napisać.
 - Teraz już **krótko**, bo nie chce was zadręczać żmudnym tekstem.
@@ -2651,9 +2651,9 @@ Części na milion: 56
 !id: slowo_przysłówek_wyraźnie_ru
 !front: несомненно, чётко, отчётливо, разборчиво (ADV)
 !back:
-wyraźnie
+wyraźnie, wyraźniej, najwyraźniej
 
-[anki:tts lang=pl_PL]wyraźnie[/anki:tts]
+[anki:tts lang=pl_PL]wyraźnie, wyraźniej, najwyraźniej[/anki:tts]
 
 - Obserwując psa z góry lub z boku możemy zaobserwować **wyraźnie** zaznaczoną talię.
 - Trzeba jednak **wyraźnie** podkreślić rozróżnienie na prywatne i indywidualne.
@@ -2691,9 +2691,9 @@ Części na milion: 56
 !id: slowo_przysłówek_aktualnie_ru
 !front: aktualnie (ADV)
 !back:
-aktualnie
+aktualnie, aktualniej, najaktualniej
 
-[anki:tts lang=pl_PL]aktualnie[/anki:tts]
+[anki:tts lang=pl_PL]aktualnie, aktualniej, najaktualniej[/anki:tts]
 
 - **Aktualnie** trwa nabór nowych młodych tenisistów.
 - Ale czy w tej szkole, w jakiej **aktualnie** pracujemy?
@@ -2711,9 +2711,9 @@ Części na milion: 55
 !id: slowo_przysłówek_delikatnie_ru
 !front: delikatnie (ADV)
 !back:
-delikatnie
+delikatnie, delikatniej, najdelikatniej
 
-[anki:tts lang=pl_PL]delikatnie[/anki:tts]
+[anki:tts lang=pl_PL]delikatnie, delikatniej, najdelikatniej[/anki:tts]
 
 - **Delikatnie** wbił palce w jej ciało.
 - **Delikatnie** po kawałku odrywam mapę od smoły.
@@ -2751,9 +2751,9 @@ Części na milion: 55
 !id: slowo_przysłówek_gorąco_ru
 !front: жарко, жара (ADV)
 !back:
-gorąco
+gorąco, goręcej, najgoręcej
 
-[anki:tts lang=pl_PL]gorąco[/anki:tts]
+[anki:tts lang=pl_PL]gorąco, goręcej, najgoręcej[/anki:tts]
 
 - Zdejmował koszulę tylko wtedy, gdy było bardzo **gorąco**.
 - Ale jeśli lubisz nurkować głębiej, **gorąco** polecamy tę wycieczkę.
@@ -2831,9 +2831,9 @@ Części na milion: 52
 !id: slowo_przysłówek_głęboko_ru
 !front: głęboko (ADV)
 !back:
-głęboko
+głęboko, głębiej, najgłębiej
 
-[anki:tts lang=pl_PL]głęboko[/anki:tts]
+[anki:tts lang=pl_PL]głęboko, głębiej, najgłębiej[/anki:tts]
 
 - Ale jeśli lubisz nurkować **głębiej**, gorąco polecamy tę wycieczkę.
 - Patrzyłeś mi w oczy i **głębiej** w serce.
@@ -2871,9 +2871,9 @@ Części na milion: 51
 !id: slowo_przysłówek_absolutnie_ru
 !front: абсолютно (ADV)
 !back:
-absolutnie
+absolutnie, absolutniej, najabsolutniej
 
-[anki:tts lang=pl_PL]absolutnie[/anki:tts]
+[anki:tts lang=pl_PL]absolutnie, absolutniej, najabsolutniej[/anki:tts]
 
 - Pod względem polityki jesteśmy **absolutnie** zgodni.
 - **Absolutnie** genialne zastosowanie dźwięku w filmie.
@@ -2891,9 +2891,9 @@ Części na milion: 45
 !id: slowo_przysłówek_zimno_ru
 !front: холодно, холод (ADV)
 !back:
-zimno
+zimno, zimniej, najzimniej
 
-[anki:tts lang=pl_PL]zimno[/anki:tts]
+[anki:tts lang=pl_PL]zimno, zimniej, najzimniej[/anki:tts]
 
 - Jest trochę **zimno** i zaraz zacznie padać.
 - **Zimno**, deszcz padał, głodny byłem.
@@ -2911,9 +2911,9 @@ Części na milion: 45
 !id: slowo_przysłówek_wspaniale_ru
 !front: великолепно (ADV)
 !back:
-wspaniale
+wspaniale, wspanialej, najwspanialej
 
-[anki:tts lang=pl_PL]wspaniale[/anki:tts]
+[anki:tts lang=pl_PL]wspaniale, wspanialej, najwspanialej[/anki:tts]
 
 - Wasze życie rodzinne powinno się **wspaniale** układać.
 - Było **wspaniale** dopóki nie powiedziała mu, że jest w ciąży.
@@ -2931,9 +2931,9 @@ Części na milion: 43
 !id: slowo_przysłówek_normalnie_ru
 !front: normalnie (ADV)
 !back:
-normalnie
+normalnie, normalniej, najnormalniej
 
-[anki:tts lang=pl_PL]normalnie[/anki:tts]
+[anki:tts lang=pl_PL]normalnie, normalniej, najnormalniej[/anki:tts]
 
 - Aby ludzkie serce mogło **normalnie** uderzać.
 - Spróbuj przez parę dni wstawać wcześniej niż **normalnie**.
@@ -2991,9 +2991,9 @@ Części na milion: 42
 !id: slowo_przysłówek_naturalnie_ru
 !front: натурально (ADV)
 !back:
-naturalnie
+naturalnie, naturalniej, najnaturalniej
 
-[anki:tts lang=pl_PL]naturalnie[/anki:tts]
+[anki:tts lang=pl_PL]naturalnie, naturalniej, najnaturalniej[/anki:tts]
 
 - Ma elegancką składnię, którą czyta się **naturalnie** i jest łatwa w zapisie.
 - To **naturalnie** występujące światło ma wiele powierzchni odbijających światło.
@@ -3031,9 +3031,9 @@ Części na milion: 40
 !id: slowo_przysłówek_żywo_ru
 !front: żywo (ADV)
 !back:
-żywo
+żywo, żywiej, najżywiej
 
-[anki:tts lang=pl_PL]żywo[/anki:tts]
+[anki:tts lang=pl_PL]żywo, żywiej, najżywiej[/anki:tts]
 
 - Zagrać można tu również w gry w trybie na **żywo**.
 - Czyli to koncert na **żywo** czy nie koncert?
@@ -3111,9 +3111,9 @@ Części na milion: 40
 !id: slowo_przysłówek_pozytywnie_ru
 !front: pozytywnie (ADV)
 !back:
-pozytywnie
+pozytywnie, pozytywniej, najpozytywniej
 
-[anki:tts lang=pl_PL]pozytywnie[/anki:tts]
+[anki:tts lang=pl_PL]pozytywnie, pozytywniej, najpozytywniej[/anki:tts]
 
 - Dodatkowo zarówno piperyna jak i pozostałe składniki bardzo **pozytywnie** wpływają na zdrowie.
 - Każde pytanie, odpowiedź i komentarz można ocenić **pozytywnie** lub negatywnie.
@@ -3131,9 +3131,9 @@ Części na milion: 39
 !id: slowo_przysłówek_tanio_ru
 !front: дёшево (ADV)
 !back:
-tanio
+tanio, taniej, najtaniej
 
-[anki:tts lang=pl_PL]tanio[/anki:tts]
+[anki:tts lang=pl_PL]tanio, taniej, najtaniej[/anki:tts]
 
 - Klienci niesłusznie myślą, że jak jest obniżka, to jest **tanio**.
 - Zarezerwowałem bilet w dobrym terminie, **tanio**.
@@ -3205,9 +3205,9 @@ Części na milion: 27
 !id: slowo_przysłówek_poprawnie_ru
 !front: корректно (ADV)
 !back:
-poprawnie
+poprawnie, poprawniej, najpoprawniej
 
-[anki:tts lang=pl_PL]poprawnie[/anki:tts]
+[anki:tts lang=pl_PL]poprawnie, poprawniej, najpoprawniej[/anki:tts]
 
 - Pomogą ci działać **poprawnie**, pomogą ci przetrwać negatywne emocje.
 - Zadbaj o to, by twarz była **poprawnie** oświetlona.
@@ -3225,9 +3225,9 @@ Części na milion: 37
 !id: slowo_przysłówek_wygodnie_ru
 !front: удобно (ADV)
 !back:
-wygodnie
+wygodnie, wygodniej, najwygodniej
 
-[anki:tts lang=pl_PL]wygodnie[/anki:tts]
+[anki:tts lang=pl_PL]wygodnie, wygodniej, najwygodniej[/anki:tts]
 
 - Usiądź **wygodnie** i odpręż się jak możesz najgłębiej.
 - Dodatkowo możesz tego dokonać, siedząc **wygodnie** w swoim domu.
@@ -3245,9 +3245,9 @@ Części na milion: 36
 !id: slowo_przysłówek_cicho_ru
 !front: тихо (ADV)
 !back:
-cicho
+cicho, ciszej, najciszej
 
-[anki:tts lang=pl_PL]cicho[/anki:tts]
+[anki:tts lang=pl_PL]cicho, ciszej, najciszej[/anki:tts]
 
 - A tu tymczasem coś jakby za **cicho**.
 - Kto chce się czytać lub pracować **cicho** zajmuje się wystarczająco dużo miejsca.
@@ -3265,9 +3265,9 @@ Części na milion: 36
 !id: slowo_przysłówek_nisko_ru
 !front: низко (ADV)
 !back:
-nisko
+nisko, niżej, najniżej
 
-[anki:tts lang=pl_PL]nisko[/anki:tts]
+[anki:tts lang=pl_PL]nisko, niżej, najniżej[/anki:tts]
 
 - Jak się okazuje sama sprzedaż paliw jest **nisko** marżowa.
 - Nie za **nisko**, ale tak, że wygodnie było umyć ręce.
@@ -3285,9 +3285,9 @@ Części na milion: 36
 !id: slowo_przysłówek_ciekawie_ru
 !front: интересно (ADV)
 !back:
-ciekawie
+ciekawie, ciekawiej, najciekawiej
 
-[anki:tts lang=pl_PL]ciekawie[/anki:tts]
+[anki:tts lang=pl_PL]ciekawie, ciekawiej, najciekawiej[/anki:tts]
 
 - **Ciekawie** rozegrane i klejące się ze sobą.
 - **Ciekawie** było także na trybunach.
@@ -3305,9 +3305,9 @@ Części na milion: 35
 !id: slowo_przysłówek_kompletnie_ru
 !front: комплектно, полностью (ADV)
 !back:
-kompletnie
+kompletnie, kompletniej, najkompletniej
 
-[anki:tts lang=pl_PL]kompletnie[/anki:tts]
+[anki:tts lang=pl_PL]kompletnie, kompletniej, najkompletniej[/anki:tts]
 
 - Pojawił się nowy właściciel, który **kompletnie** się na tym nie znał.
 - Niektóre regiony są **kompletnie** sparaliżowane.
@@ -3325,9 +3325,9 @@ Części na milion: 35
 !id: slowo_przysłówek_niesamowicie_ru
 !front: niesamowicie (ADV)
 !back:
-niesamowicie
+niesamowicie, niesamowiciej, najniesamowiciej
 
-[anki:tts lang=pl_PL]niesamowicie[/anki:tts]
+[anki:tts lang=pl_PL]niesamowicie, niesamowiciej, najniesamowiciej[/anki:tts]
 
 - Książki pozbawione słów **niesamowicie** pobudzają wyobraźnię.
 - To **niesamowicie** miły gest, za który jesteśmy bardzo wdzięczni.
@@ -3345,9 +3345,9 @@ Części na milion: 35
 !id: slowo_przysłówek_szeroko_ru
 !front: в ширина, вширь, широко (ADV)
 !back:
-szeroko
+szeroko, szerzej, najszerzej
 
-[anki:tts lang=pl_PL]szeroko[/anki:tts]
+[anki:tts lang=pl_PL]szeroko, szerzej, najszerzej[/anki:tts]
 
 - Pisze niewiele, lecz każda jego praca jest **szeroko** dyskutowana.
 - Przynajmniej w stosunku do **szeroko** rozumianej wykształconej elity.
@@ -3405,9 +3405,9 @@ Części na milion: 34
 !id: slowo_przysłówek_sprawnie_ru
 !front: sprawnie (ADV)
 !back:
-sprawnie
+sprawnie, sprawniej, najsprawniej
 
-[anki:tts lang=pl_PL]sprawnie[/anki:tts]
+[anki:tts lang=pl_PL]sprawnie, sprawniej, najsprawniej[/anki:tts]
 
 - Ludzki organizm nie będzie **sprawnie** pracować bez wody.
 - Telefon działa szybko i **sprawnie** w większości sytuacji.
@@ -3425,9 +3425,9 @@ Części na milion: 33
 !id: slowo_przysłówek_uważnie_ru
 !front: внимательно (ADV)
 !back:
-uważnie
+uważnie, uważniej, najuważniej
 
-[anki:tts lang=pl_PL]uważnie[/anki:tts]
+[anki:tts lang=pl_PL]uważnie, uważniej, najuważniej[/anki:tts]
 
 - **Uważnie** czytałam strona po stronie.
 - Należy **uważnie** sprawdzać ceny.
@@ -3445,9 +3445,9 @@ Części na milion: 33
 !id: slowo_przysłówek_jasno_ru
 !front: ясно (ADV)
 !back:
-jasno
+jasno, jaśniej, najjaśniej
 
-[anki:tts lang=pl_PL]jasno[/anki:tts]
+[anki:tts lang=pl_PL]jasno, jaśniej, najjaśniej[/anki:tts]
 
 - Wydaje mi się, że napisałem **jasno**.
 - Tak **jasno**, jak potrafiłem.
@@ -3465,9 +3465,9 @@ Części na milion: 33
 !id: slowo_przysłówek_dosłownie_ru
 !front: буквально, дословно (ADV)
 !back:
-dosłownie
+dosłownie, dosłowniej, najdosłowniej
 
-[anki:tts lang=pl_PL]dosłownie[/anki:tts]
+[anki:tts lang=pl_PL]dosłownie, dosłowniej, najdosłowniej[/anki:tts]
 
 - Miał piękny głos, którego brzmienie **dosłownie** ją hipnotyzowało.
 - No żartuję nie do końca, ale tak metaforycznie bardziej niż **dosłownie**.
@@ -3525,9 +3525,9 @@ Części na milion: 31
 !id: slowo_przysłówek_głośno_ru
 !front: громко (ADV)
 !back:
-głośno
+głośno, głośniej, najgłośniej
 
-[anki:tts lang=pl_PL]głośno[/anki:tts]
+[anki:tts lang=pl_PL]głośno, głośniej, najgłośniej[/anki:tts]
 
 - O tym nagraniu już zdążyło zrobić się **głośno**.
 - Na przykład, jesteś w życiu mówić **głośno**.
@@ -3565,9 +3565,9 @@ Części na milion: 31
 !id: slowo_przysłówek_niewątpliwie_ru
 !front: несомненно, непременно (ADV)
 !back:
-niewątpliwie
+niewątpliwie, niewątpliwiej, najniewątpliwiej
 
-[anki:tts lang=pl_PL]niewątpliwie[/anki:tts]
+[anki:tts lang=pl_PL]niewątpliwie, niewątpliwiej, najniewątpliwiej[/anki:tts]
 
 - Są to **niewątpliwie** dobre praktyki.
 - Niniejszy podręcznik **niewątpliwie** może stanowić cenne źródło odniesienia.
@@ -3585,9 +3585,9 @@ Części na milion: 30
 !id: slowo_przysłówek_zwyczajnie_ru
 !front: zwyczajnie (ADV)
 !back:
-zwyczajnie
+zwyczajnie, zwyczajniej, najzwyczajniej
 
-[anki:tts lang=pl_PL]zwyczajnie[/anki:tts]
+[anki:tts lang=pl_PL]zwyczajnie, zwyczajniej, najzwyczajniej[/anki:tts]
 
 - Niestety takie podejście **zwyczajnie** nie działa.
 - Oprócz tego, że jest **zwyczajnie** interesująca, zmusza do pewnych przemyśleń.
@@ -3605,9 +3605,9 @@ Części na milion: 30
 !id: slowo_przysłówek_starannie_ru
 !front: аккуратно (ADV)
 !back:
-starannie
+starannie, staranniej, najstaranniej
 
-[anki:tts lang=pl_PL]starannie[/anki:tts]
+[anki:tts lang=pl_PL]starannie, staranniej, najstaranniej[/anki:tts]
 
 - Następnie dokładnie i **starannie** oczyszczony.
 - Ale bądźcie gotowi wyjaśnić to bardzo **starannie** przyszłym pracodawcom.
@@ -3625,9 +3625,9 @@ Części na milion: 29
 !id: slowo_przysłówek_ściśle_ru
 !front: ściśle (ADV)
 !back:
-ściśle
+ściśle, ściślej, najściślej
 
-[anki:tts lang=pl_PL]ściśle[/anki:tts]
+[anki:tts lang=pl_PL]ściśle, ściślej, najściślej[/anki:tts]
 
 - Jego rodzina była **ściśle** związana ze sztuką.
 - Zarówno pedagog jak i psycholog **ściśle** współpracują z nauczycielami i wychowawcami.
@@ -3685,9 +3685,9 @@ Części na milion: 29
 !id: slowo_przysłówek_swobodnie_ru
 !front: swobodnie (ADV)
 !back:
-swobodnie
+swobodnie, swobodniej, najswobodniej
 
-[anki:tts lang=pl_PL]swobodnie[/anki:tts]
+[anki:tts lang=pl_PL]swobodnie, swobodniej, najswobodniej[/anki:tts]
 
 - Brakuje tylko świętych krów, **swobodnie** spacerujących po drogach.
 - Rozmowa powinna toczyć się **swobodnie**.
@@ -3705,9 +3705,9 @@ Części na milion: 29
 !id: slowo_przysłówek_mile_ru
 !front: мило (ADV)
 !back:
-mile
+mile, milej, najmilej
 
-[anki:tts lang=pl_PL]mile[/anki:tts]
+[anki:tts lang=pl_PL]mile, milej, najmilej[/anki:tts]
 
 - Nadal był **mile** widziany?
 - Na pewno **mile** cię zaskoczy wiadomość, że nasz statek miał nieszczęśliwy wypadek.
@@ -3725,9 +3725,9 @@ Części na milion: 28
 !id: slowo_przysłówek_powszechnie_ru
 !front: повсеместно (ADV)
 !back:
-powszechnie
+powszechnie, powszechniej, najpowszechniej
 
-[anki:tts lang=pl_PL]powszechnie[/anki:tts]
+[anki:tts lang=pl_PL]powszechnie, powszechniej, najpowszechniej[/anki:tts]
 
 - Metodyka ta jest obecnie **powszechnie** stosowana.
 - Odbiornik satelitarny jest urządzeniem **powszechnie** stosowanym w praktyce geodezyjnej.
@@ -3765,9 +3765,9 @@ Części na milion: 28
 !id: slowo_przysłówek_dziwnie_ru
 !front: странно (ADV)
 !back:
-dziwnie
+dziwnie, dziwniej, najdziwniej
 
-[anki:tts lang=pl_PL]dziwnie[/anki:tts]
+[anki:tts lang=pl_PL]dziwnie, dziwniej, najdziwniej[/anki:tts]
 
 - Światło **dziwnie** się rozprasza.
 - Pokój wydawał się **dziwnie** opuszczony i cichy.
@@ -3845,9 +3845,9 @@ Części na milion: 27
 !id: slowo_przysłówek_ostrożnie_ru
 !front: внимательно, осторожно (ADV)
 !back:
-ostrożnie
+ostrożnie, ostrożniej, najostrożniej
 
-[anki:tts lang=pl_PL]ostrożnie[/anki:tts]
+[anki:tts lang=pl_PL]ostrożnie, ostrożniej, najostrożniej[/anki:tts]
 
 - Dla nich musisz **ostrożnie** wybrać miejsce, aby później nie chciał tego zmienić.
 - Sprawdzajcie **ostrożnie** czy jest miękka.
@@ -3965,9 +3965,9 @@ Części na milion: 25
 !id: slowo_przysłówek_śmiało_ru
 !front: отважно, смело (ADV)
 !back:
-śmiało
+śmiało, śmielej, najśmielej
 
-[anki:tts lang=pl_PL]śmiało[/anki:tts]
+[anki:tts lang=pl_PL]śmiało, śmielej, najśmielej[/anki:tts]
 
 - Można **śmiało** powiedzieć, że zaczynaliśmy prawie od zera.
 - Ale teraz mogę **śmiało** powiedzieć że żałuję.
@@ -3985,9 +3985,9 @@ Części na milion: 25
 !id: slowo_przysłówek_znakomicie_ru
 !front: znakomicie (ADV)
 !back:
-znakomicie
+znakomicie, znakomiciej, najznakomiciej
 
-[anki:tts lang=pl_PL]znakomicie[/anki:tts]
+[anki:tts lang=pl_PL]znakomicie, znakomiciej, najznakomiciej[/anki:tts]
 
 - Uczniowie byli **znakomicie** przygotowani.
 - Wszystkie dzieci bawiły się **znakomicie**!
@@ -4025,9 +4025,9 @@ Części na milion: 24
 !id: slowo_przysłówek_profesjonalnie_ru
 !front: profesjonalnie (ADV)
 !back:
-profesjonalnie
+profesjonalnie, profesjonalniej, najprofesjonalniej
 
-[anki:tts lang=pl_PL]profesjonalnie[/anki:tts]
+[anki:tts lang=pl_PL]profesjonalnie, profesjonalniej, najprofesjonalniej[/anki:tts]
 
 - Mogą wziąć w nim udział wszyscy twórcy nie zajmujący się fotografią **profesjonalnie**.
 - Wszystkie posiłki są przygotowywane w **profesjonalnie** wyposażonej kuchni.
@@ -4059,9 +4059,9 @@ Części na milion: 23
 
 ---
 
-2. sporadycznie
+2. sporadycznie, sporadyczniej, najsporadyczniej
 
-[anki:tts lang=pl_PL]sporadycznie[/anki:tts]
+[anki:tts lang=pl_PL]sporadycznie, sporadyczniej, najsporadyczniej[/anki:tts]
 
 - Wcześniej chodziłem z nim **sporadycznie**.
 - Jeśli nie ustawisz wysokich celów, produkt będzie **sporadycznie** używany.
@@ -4119,9 +4119,9 @@ Części na milion: 21
 !id: slowo_przysłówek_słabo_ru
 !front: слабо (ADV)
 !back:
-słabo
+słabo, słabiej, najsłabiej
 
-[anki:tts lang=pl_PL]słabo[/anki:tts]
+[anki:tts lang=pl_PL]słabo, słabiej, najsłabiej[/anki:tts]
 
 - Trudno było by przegrać, kiedy od kilku miesięcy grają tak **słabo**.
 - Pozostałe zboża wyglądały już raczej **słabo**.
@@ -4139,9 +4139,9 @@ Części na milion: 21
 !id: slowo_przysłówek_oficjalnie_ru
 !front: официально (ADV)
 !back:
-oficjalnie
+oficjalnie, oficjalniej, najoficjalniej
 
-[anki:tts lang=pl_PL]oficjalnie[/anki:tts]
+[anki:tts lang=pl_PL]oficjalnie, oficjalniej, najoficjalniej[/anki:tts]
 
 - Śledztwo w sprawie strzelaniny **oficjalnie** zostało zamknięte.
 - **Oficjalnie** nic się nie zdarzyło.
