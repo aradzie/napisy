@@ -152,63 +152,39 @@ function makeBack({ lemmas, pos, translations }) {
   let index = 0;
   for (const { lemma, ppm } of lemmas) {
     let title = [lemma];
-    if (pos === "VERB") {
-      let found;
-      // spotkać -> spotkanie | ger:sg:nom.acc:n:perf:aff
-      found = morpholog.findByLemma(lemma, Xpos.ger, Xext.sg | Xext.nom | Xext.aff);
-      if (found.length === 1) {
-        title.push(found[0].form);
+    const addWords = (words) => {
+      for (const word of words) {
+        if (!title.includes(word.form)) {
+          title.push(word.form);
+        }
       }
+    };
+    if (pos === "VERB") {
+      // spotkać -> spotkanie | ger:sg:nom.acc:n:perf:aff
+      // addWords(morpholog.findByLemma(lemma, Xpos.ger, Xext.sg | Xext.nom | Xext.aff));
     }
     if (pos === "NOUN") {
-      let found;
-      // spotkanie | ger:sg:nom.acc:n:perf:aff -> spotkać
-      found = morpholog.findByForm(lemma, Xpos.ger, Xext.sg | Xext.nom | Xext.aff);
-      if (found.length === 1) {
-        title.push(found[0].lemma);
-      }
+      // posiadać -> posiadanie | ger:sg:nom.acc:n:perf:aff
+      addWords(morpholog.findByLemma(lemma, Xpos.ger, Xext.sg | Xext.nom | Xext.aff));
     }
     if (pos === "ADJ") {
-      const xlemma = Xext.sg | Xext.m1 | Xext.m2 | Xext.m3 | Xext.nom;
-      let found;
+      const xlemma = Xext.sg | Xext.nom | Xext.m1 | Xext.m2 | Xext.m3;
       // dobry -> lepszy | adj:sg:nom.voc:m1.m2.m3:com
-      found = morpholog.findByLemma(lemma, Xpos.adj, xlemma | Xext.com);
-      if (found.length === 1) {
-        title.push(found[0].form);
-      }
+      addWords(morpholog.findByLemma(lemma, Xpos.adj, xlemma | Xext.com));
       // dobry -> najlepszy | adj:sg:nom.voc:m1.m2.m3:sup
-      found = morpholog.findByLemma(lemma, Xpos.adj, xlemma | Xext.sup);
-      if (found.length === 1) {
-        title.push(found[0].form);
-      }
+      addWords(morpholog.findByLemma(lemma, Xpos.adj, xlemma | Xext.sup));
       // dotyczyć -> dotyczący | pact:sg:nom.voc:m1.m2.m3:imperf:aff
-      found = morpholog.findByLemma(lemma, Xpos.pact, xlemma | Xext.imperf | Xext.aff);
-      if (found.length === 1) {
-        title.push(found[0].form);
-      }
+      addWords(morpholog.findByLemma(lemma, Xpos.pact, xlemma | Xext.imperf | Xext.aff));
       // stosować -> stosowany | ppas:sg:nom.voc:m1.m2.m3:imperf:aff
-      found = morpholog.findByLemma(lemma, Xpos.ppas, xlemma | Xext.imperf | Xext.aff);
-      if (found.length === 1) {
-        title.push(found[0].form);
-      }
+      addWords(morpholog.findByLemma(lemma, Xpos.ppas, xlemma | Xext.imperf | Xext.aff));
       // podać -> podany | ppas:sg:nom.voc:m1.m2.m3:perf:aff
-      found = morpholog.findByLemma(lemma, Xpos.ppas, xlemma | Xext.perf | Xext.aff);
-      if (found.length === 1) {
-        title.push(found[0].form);
-      }
+      addWords(morpholog.findByLemma(lemma, Xpos.ppas, xlemma | Xext.perf | Xext.aff));
     }
     if (pos === "ADV") {
-      let found;
       // szybko -> szybciej | adv:com
-      found = morpholog.findByLemma(lemma, Xpos.adv, Xext.com);
-      if (found.length === 1) {
-        title.push(found[0].form);
-      }
+      addWords(morpholog.findByLemma(lemma, Xpos.adv, Xext.com));
       // szybko -> najszybciej | adv:sup
-      found = morpholog.findByLemma(lemma, Xpos.adv, Xext.sup);
-      if (found.length === 1) {
-        title.push(found[0].form);
-      }
+      addWords(morpholog.findByLemma(lemma, Xpos.adv, Xext.sup));
     }
     if (index > 0) {
       lines.push("\n---\n");
@@ -231,16 +207,16 @@ function makeExamples(lemma, pos, count = 5, unique = pos === "VERB" || pos === 
   const phrases = index.getPhrases(pos, lemma);
   const seen = new Set();
   for (const words of phrases) {
-    if (!unique || isNew(words)) {
-      examples.push(printPhrase(words, lemma));
-    }
     if (examples.length >= count) {
       break;
+    }
+    if (!unique || isUnique(words)) {
+      examples.push(printPhrase(words, lemma));
     }
   }
   return examples.map((phrase) => `- ${phrase}`).join("\n");
 
-  function isNew(words) {
+  function isUnique(words) {
     for (const word of words) {
       if (word.lemma === lemma) {
         if (seen.has(word.form)) {
