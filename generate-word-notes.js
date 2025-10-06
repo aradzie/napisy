@@ -16,10 +16,36 @@ const morpholog = await Morpholog.load();
 
 const index = await PhraseIndex.load(await Blacklist.load());
 
-await czasowniki();
-await rzeczowniki();
-await przymiotniki();
-await przysłówki();
+const all = await loadFrequencyDictionary(pathTo("corpus/freq.csv"));
+const list = all.filter(
+  (entry) =>
+    entry.pos === "VERB" || //
+    entry.pos === "NOUN" ||
+    entry.pos === "ADJ" ||
+    entry.pos === "ADV",
+);
+const notes = [];
+const seq = [100, 200, 300, 500, 800, 1300, 2100, 3400, 5500];
+let start = 0;
+for (const end of seq) {
+  for (const entry of list.slice(start, end)) {
+    const pn = posName(entry.pos);
+    notes.push(
+      newNote()
+        .type("Basic")
+        .deck(`Polski::Słowa::Pos-${num(start + 1)}-${num(end)}`)
+        .tags(`Polski Słowo ${pn} Pos-1-${end} Pos-${start + 1}-${end}`)
+        .id(`slowo_${pn.toLocaleLowerCase("pl")}_${entry.lemma}_ru`)
+        .field("front", makeFront(entry))
+        .field("back", makeBack(entry))
+        .make(),
+    );
+  }
+  start = end;
+}
+const path = pathTo(`notes/słowa.note`);
+console.log(`Generated ${notes.length} note(s) to file "${path}"`);
+await writeFile(path, printNoteNodes(notes));
 
 async function loadFrequencyDictionary(path) {
   const list = [];
@@ -50,106 +76,6 @@ async function loadFrequencyDictionary(path) {
   return list;
 }
 
-async function czasowniki() {
-  const list = await loadFrequencyDictionary(pathTo("corpus/freq-verb.csv"));
-  const notes = [];
-  const seq = [100, 200, 300, 500, 800, 1300];
-  let start = 0;
-  for (const end of seq) {
-    for (const entry of list.slice(start, end)) {
-      notes.push(
-        newNote()
-          .type("Basic")
-          .deck(`Polski::Słowa::Czasowniki::Pos-${start + 1}-${end}`)
-          .tags(`Polski Słowo Czasownik Pos-1-${end} Pos-${start + 1}-${end}`)
-          .id(`slowo_czasownik_${entry.lemma}_ru`)
-          .field("front", makeFront(entry))
-          .field("back", makeBack(entry))
-          .make(),
-      );
-    }
-    start = end;
-  }
-  const path = pathTo(`notes/słowa-czasowniki.note`);
-  console.log(`Generated ${notes.length} note(s) to file "${path}"`);
-  await writeFile(path, printNoteNodes(notes));
-}
-
-async function rzeczowniki() {
-  const list = await loadFrequencyDictionary(pathTo("corpus/freq-noun.csv"));
-  const notes = [];
-  const seq = [100, 200, 300, 500, 800, 1300];
-  let start = 0;
-  for (const end of seq) {
-    for (const entry of list.slice(start, end)) {
-      notes.push(
-        newNote()
-          .type("Basic")
-          .deck(`Polski::Słowa::Rzeczowniki::Pos-${start + 1}-${end}`)
-          .tags(`Polski Słowo Rzeczownik Pos-1-${end} Pos-${start + 1}-${end}`)
-          .id(`slowo_rzeczownik_${entry.lemma}_ru`)
-          .field("front", makeFront(entry))
-          .field("back", makeBack(entry))
-          .make(),
-      );
-    }
-    start = end;
-  }
-  const path = pathTo(`notes/słowa-rzeczowniki.note`);
-  console.log(`Generated ${notes.length} note(s) to file "${path}"`);
-  await writeFile(path, printNoteNodes(notes));
-}
-
-async function przymiotniki() {
-  const list = await loadFrequencyDictionary(pathTo("corpus/freq-adj.csv"));
-  const notes = [];
-  const seq = [100, 200, 300, 500, 800];
-  let start = 0;
-  for (const end of seq) {
-    for (const entry of list.slice(start, end)) {
-      notes.push(
-        newNote()
-          .type("Basic")
-          .deck(`Polski::Słowa::Przymiotniki::Pos-${start + 1}-${end}`)
-          .tags(`Polski Słowo Przymiotnik Pos-1-${end} Pos-${start + 1}-${end}`)
-          .id(`slowo_przymiotnik_${entry.lemma}_ru`)
-          .field("front", makeFront(entry))
-          .field("back", makeBack(entry))
-          .make(),
-      );
-    }
-    start = end;
-  }
-  const path = pathTo(`notes/słowa-przymiotniki.note`);
-  console.log(`Generated ${notes.length} note(s) to file "${path}"`);
-  await writeFile(path, printNoteNodes(notes));
-}
-
-async function przysłówki() {
-  const list = await loadFrequencyDictionary(pathTo("corpus/freq-adv.csv"));
-  const notes = [];
-  const seq = [100, 200];
-  let start = 0;
-  for (const end of seq) {
-    for (const entry of list.slice(start, end)) {
-      notes.push(
-        newNote()
-          .type("Basic")
-          .deck(`Polski::Słowa::Przysłówki::Pos-${start + 1}-${end}`)
-          .tags(`Polski Słowo Przysłówek Pos-1-${end} Pos-${start + 1}-${end}`)
-          .id(`slowo_przysłówek_${entry.lemma}_ru`)
-          .field("front", makeFront(entry))
-          .field("back", makeBack(entry))
-          .make(),
-      );
-    }
-    start = end;
-  }
-  const path = pathTo(`notes/słowa-przysłówki.note`);
-  console.log(`Generated ${notes.length} note(s) to file "${path}"`);
-  await writeFile(path, printNoteNodes(notes));
-}
-
 function makeFront({ lemma, pos, senses, synonyms, antonyms, tags, ppm }) {
   const lines = [];
   lines.push(`${[...senses].join(", ")}`);
@@ -157,6 +83,8 @@ function makeFront({ lemma, pos, senses, synonyms, antonyms, tags, ppm }) {
     lines.push(``);
     lines.push(synonyms.map((synonym) => `~~${synonym}~~`).join(", "));
   }
+  lines.push(``);
+  lines.push(`*${posName(pos)}*`);
   return lines.join("\n");
 }
 
@@ -265,4 +193,22 @@ function printPhrase(words, lemma) {
     }
   }
   return phrase.print();
+}
+
+function posName(pos) {
+  switch (pos) {
+    case "VERB":
+      return "Czasownik";
+    case "NOUN":
+      return "Rzeczownik";
+    case "ADJ":
+      return "Przymiotnik";
+    case "ADV":
+      return "Przysłówek";
+  }
+  return "?";
+}
+
+function num(v) {
+  return String(v).padStart(4, "0");
 }
