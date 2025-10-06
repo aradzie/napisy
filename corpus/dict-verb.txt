@@ -1,61 +1,61 @@
 mieć|VERB|иметь
 móc|VERB|мочь
-chcieć|VERB|хотеть, захотеть
-wiedzieć|VERB|знать, ведать
+chcieć|VERB|хотеть
+wiedzieć|VERB|знать
 musieć|VERB|должен, нужно
 można|VERB|возможно, можно
 zrobić|VERB|сделать
-powiedzieć|VERB|сказать
-mówić|VERB|говорить, рассказывать, разговаривать, обсуждаться
+powiedzieć|VERB|сказать, рассказать
+mówić|VERB|говорить, рассказывать
 znaleźć|VERB|найти, обнаружить
 robić|VERB|делать, становиться
-myśleć|VERB|думать, мыслить, размышлять, полагать, задумываться, сосредотачиваться, собираться, обдумать
+myśleć|VERB|думать, мыслить
 powinien|VERB|должен
-widzieć|VERB|видеть, зрить
-prosić|VERB|звать, приглашать, просить
-należeć|VERB|нужно, следует, принадлежать
+widzieć|VERB|видеть
+prosić|VERB|просить, приглашать
+należeć|VERB|принадлежать, нужно, следует
 dać|VERB|дать, получиться, удаться
-wyglądać|VERB|выглядеть, выглядывать, дожидаться, ожидать, поджидать
-stać|VERB|иметь достаточно деньги, располагать достаточный количество деньги, работать, стоять
-zobaczyć|VERB|посмотреть, увидеть, увидеть себя, увидеться
+wyglądać|VERB|выглядеть
+stać|VERB|стоять, становиться
+zobaczyć|VERB|увидеть
 chodzić|VERB|ходить
 trzeba|VERB|надо, необходимо, нужно
 zacząć|VERB|начать
-wykonać|VERB|изготовить
-potrzebować|VERB|нуждаться, нужно
-warto|VERB|стоит
+wykonać|VERB|выполнить, изготовить
+potrzebować|VERB|требовать, нуждаться
+warto|VERB|стоит (сделать что-то)
 wybrać|VERB|выбрать
-znać|VERB|знать, знакомый, знать друг друг, знать себя, знаться, уметь
-zapraszać|VERB|приглашать, звать
-iść|VERB|бежать, идти, проходить, течь, выходить, получаться, работать, функционировать, ходить
+znać|VERB|знать
+zapraszać|VERB|приглашать
+iść|VERB|идти, ходить
 czuć|VERB|чувствовать
-prowadzić|VERB|вести, приводить, проводить, провожать, управлять, рулить, лидировать, первенствовать, вести себя, провожаться
+prowadzić|VERB|вести, провожать, управлять
 pomóc|VERB|помочь
-lubić|VERB|нравиться, любить
+lubić|VERB|любить
 sprawdzić|VERB|проверить
 pamiętać|VERB|помнить
 czekać|VERB|ждать
 szukać|VERB|искать
-pracować|VERB|работать, трудиться, подвизаться
+pracować|VERB|работать
 istnieć|VERB|существовать
 przygotować|VERB|приготовить
-znajdować|VERB|находить, находиться
+znajdować|VERB|находить
 zmienić|VERB|изменить, сменить
 używać|VERB|использовать, пользоваться
 wrócić|VERB|вернуться
 żyć|VERB|жить
-pójść|VERB|пойти, поступить
-wziąć|VERB|взять, использовать, взяться
+pójść|VERB|пойти
+wziąć|VERB|взять
 dziękować|VERB|благодарить
-wydawać|VERB|выдавать, предавать, давать сдача, издавать, выпускать на свет, расходовать, тратить, казаться
+wydawać|VERB|выдавать, тратить (деньги), издавать (книги), казаться
 przyjść|VERB|прийти
-dostać|VERB|получить, достоять
-dawać|VERB|давать, гнать
-wyjść|VERB|выйти, выходить
+dostać|VERB|получить, достать
+dawać|VERB|давать
+wyjść|VERB|выйти
 uważać|VERB|беречься, быть осторожный, быть внимательный, внимать, сосредоточиваться, полагать, считать, признавать, уважать
 pisać|VERB|писать, писаться
 kochać|VERB|любить
-brać|VERB|брать, давай, принимать, браться
+brać|VERB|брать
 kupić|VERB|купить
 udać|VERB|
 pozwolić|VERB|разрешить
@@ -63,251 +63,250 @@ korzystać|VERB|использовать, пользоваться
 potrafić|VERB|мочь, уметь
 zabić|VERB|убить
 napisać|VERB|написать
-czytać|VERB|читать, прочитать
-próbować|VERB|пробовать, репетировать
+czytać|VERB|читать
+próbować|VERB|пробовать
 tworzyć|VERB|создавать, творить
-wykonywać|VERB|изготавливать
-dowiedzieć|VERB|
-zaczynać|VERB|начинать, стать, начинаться
+wykonywać|VERB|выполнять, исполнять, изготавливать
+dowiedzieć|VERB|выяснить, узнать
+zaczynać|VERB|начинать
 słyszeć|VERB|слышать
-trzymać|VERB|держать, хранить, разводить, трудоустраивать, держаться
-dodać|VERB|плюс, добавить
+trzymać|VERB|держать
+dodać|VERB|добавить
 użyć|VERB|воспользоваться
-jeść|VERB|есть, кушать
+jeść|VERB|есть
 otrzymać|VERB|получить, одержать
-poznać|VERB|познакомить, познакомиться, познать, распознать, узнать, познаться
+poznać|VERB|познать, узнать, познакомиться
 rozumieć|VERB|понимать
-cieszyć|VERB|радовать, веселить, тешить, радоваться
+cieszyć|VERB|радовать, веселить
 wykorzystać|VERB|использовать
-zapewniać|VERB|гарантировать, уверять
+zapewniać|VERB|уверять
 pomagać|VERB|помогать
 zabrać|VERB|забрать
 stworzyć|VERB|создать, сотворить
 trwać|VERB|длиться, продолжаться
 oferować|VERB|предлагать
 pozwalać|VERB|позволять, разрешать
-znaczyć|VERB|значить, иметь значение, обозначать, означать, клеймить, маркировать, метить, оставлять знак, назначать, наметить, определять, указывать, устанавливать
+znaczyć|VERB|значить, определять, указывать
 oznaczać|VERB|означать
-wystarczyć|VERB|хватить
-uzyskać|VERB|добыть, достичь, завладеть, заполучить
+wystarczyć|VERB|хватить, достаточно
+uzyskać|VERB|получить, добыть, достичь
 wierzyć|VERB|верить
-polecać|VERB|вверять, поручать, приказывать, рекомендовать
-pojawić|VERB|
+polecać|VERB|рекомендовать, советовать
+pojawić|VERB|появиться
 zależeć|VERB|зависеть
-uczyć|VERB|учить, учиться
-dziać|VERB|вязать, случаться
-skończyć|VERB|закончить, окончить, кончить, закончиться, исчерпаться, кончиться, оборваться, прерваться, окончиться
-sądzić|VERB|судить, думать, судиться
+uczyć|VERB|учить
+dziać|VERB|происходить, случаться
+skończyć|VERB|закончить, окончить
+sądzić|VERB|судить, думать
 rozmawiać|VERB|беседовать, разговаривать
 zostawić|VERB|оставить
-podobać|VERB|
+podobać|VERB|нравиться
 spotkać|VERB|встретить, встретиться
-zająć|VERB|занять
-bać|VERB|
-liczyć|VERB|включать, учитывать, насчитывать, рассчитывать, считать, надеяться, считаться
-otworzyć|VERB|открыть, отворить
-zajmować|VERB|занимать, вспыхивать, загораться, заниматься
-zapomnieć|VERB|забыть, забывать
-starać|VERB|
-zmieniać|VERB|заменять, сменять, менять, изменять, превращать, заменяться, сменяться, изменяться, меняться, разменивать
+zająć|VERB|занять (время)
+bać|VERB|бояться
+liczyć|VERB|считать, учитывать
+otworzyć|VERB|открыть
+zajmować|VERB|занимать
+zapomnieć|VERB|забыть
+starać|VERB|стараться, пытаться
+zmieniać|VERB|менять, изменять, превращать
 słuchać|VERB|слушать
-nauczyć|VERB|
-wracać|VERB|возвращаться, опоминаться, приходить в себя, приходить в сознание
-spróbować|VERB|
+nauczyć|VERB|научить, изучать
+wracać|VERB|возвращаться
+spróbować|VERB|пробовать, пытаться
 stracić|VERB|потерять
 przeczytać|VERB|прочитать
-pokazać|VERB|показать, показаться
+pokazać|VERB|показать
 przejść|VERB|перейти
 wejść|VERB|войти
-widać|VERB|
-rozpocząć|VERB|начать, начаться
+widać|VERB|видеть, смотреть
+rozpocząć|VERB|начинаться, стартовать
 przepraszać|VERB|извиняться, просить прощения
-skorzystać|VERB|
+skorzystać|VERB|воспользоваться, употребить
 osiągnąć|VERB|добиться, достичь
-patrzeć|VERB|смотреть, глядеть
+patrzeć|VERB|смотреть
 zrozumieć|VERB|понять
-okazać|VERB|
-stanowić|VERB|составлять, являться
-składać|VERB|собирать, складывать
+okazać|VERB|оказать, выразить, проявить
+stanowić|VERB|составлять, представлять
+składać|VERB|составлять, собирать, складывать
 siedzieć|VERB|сидеть
-wybierać|VERB|выбирать, избирать
+wybierać|VERB|выбирать
 wykorzystywać|VERB|использовать, пользоваться
 pomyśleć|VERB|подумать
-zastanawiać|VERB|озадачивать, размышлять
+zastanawiać|VERB|задумываться, удивляться, размышлять
 nosić|VERB|носить
 przestać|VERB|перестать
-zatrzymać|VERB|
-wychodzić|VERB|выходить, глядеть
+zatrzymać|VERB|задержать, остановить
+wychodzić|VERB|выходить
 walczyć|VERB|бороться, воевать
-kupować|VERB|покупать, купить, одобрять
+kupować|VERB|покупать
 połączyć|VERB|соединить
-stawać|VERB|останавливаться, случаться, случиться, становиться
+stawać|VERB|вставать, становиться
 służyć|VERB|служить
-życzyć|VERB|желать, пожелать
-zwrócić|VERB|вернуть, возвратить, выблевать, направить, обратить, направиться, обратиться, повернуться, окупиться
-zdobyć|VERB|приобрести
-zachęcać|VERB|побуждать, поощрять
-chronić|VERB|защищать, беречь, караулить
-pojawiać|VERB|
-trafić|VERB|попасть
+życzyć|VERB|желать
+zwrócić|VERB|вернуть, возвратить
+zdobyć|VERB|приобрести, получить, добиться
+zachęcać|VERB|побуждать, поощрять, приглашать
+chronić|VERB|защищать, беречь
+pojawiać|VERB|появляться, возникать
+trafić|VERB|попасть, бить
 dojść|VERB|дойти
-jechać|VERB|ехать, нести, скользить
-nadawać|VERB|вещать, транслировать, отправлять, придавать, раздавать, годиться, подходить, соответствовать
+jechać|VERB|ехать
+nadawać|VERB|придавать, отправлять, раздавать, годиться, подходить
 pytać|VERB|спрашивать
-zadzwonić|VERB|зазвенеть, зазвонить, позвонить
-dbać|VERB|ухаживать, дбать
-sprawiać|VERB|сделать, совершить, справить, устроить, причинять
+zadzwonić|VERB|зазвонить, позвонить
+dbać|VERB|беречь, заботить
+sprawiać|VERB|причинять, доставлять (поблемы)
 planować|VERB|планировать
-założyć|VERB|вложить, заложить, подложить, положить, основать, заплатить, одеть, надеть, предположить, принять
+założyć|VERB|заложить, основать
 przynieść|VERB|принести
 dodawać|VERB|добавлять
 mieszkać|VERB|жить, проживать
-podjąć|VERB|поднять, подобрать, принять в гости
-sprawdzać|VERB|проверять, исполняться, проверяться
-zachować|VERB|
+podjąć|VERB|принять, предпринять
+sprawdzać|VERB|проверять
+zachować|VERB|сохранять
 zauważyć|VERB|заметить
 brakować|VERB|недоставать
 martwić|VERB|беспокоить, беспокоиться
-oto|VERB|вот
-prezentować|VERB|
-spojrzeć|VERB|взглянуть, посмотреть
+prezentować|VERB|представлять, преподносить
+spojrzeć|VERB|смотреть, посмотреть
 pozostawać|VERB|оставаться
 odejść|VERB|уйти
-poczuć|VERB|
-pasować|VERB|пасовать, подгонять, подходить, соответствовать, возводить, превозмогать, сражаться
+poczuć|VERB|почувствовать, ощутить
+pasować|VERB|подходить, соответствовать
 zdecydować|VERB|решить
-zgłosić|VERB|
+zgłosić|VERB|заявить, сообщить
 przyjmować|VERB|принимать
-przychodzić|VERB|даваться, наступить, приходить
-spędzić|VERB|провести
+przychodzić|VERB|приходить, наступить, даваться
+spędzić|VERB|проводить, тратить (время)
 bawić|VERB|забавлять, занимать
 porozmawiać|VERB|поговорить
 wchodzić|VERB|входить
 uwielbiać|VERB|обожать
-wysłać|VERB|
+wysłać|VERB|отправить, посылать
 powodować|VERB|возбуждать, создавать
-sprawić|VERB|
-umieć|VERB|уметь, знать
-odpowiadać|VERB|отвечать, соответствовать, подходить
+sprawić|VERB|причинить, сделать
+umieć|VERB|уметь
+odpowiadać|VERB|соответствовать, подходить
 zniszczyć|VERB|разрушить, уничтожить
-przeprowadzić|VERB|провести, переехать, переселиться
-płacić|VERB|платить, заплатить
+przeprowadzić|VERB|проводить (операцию, испытания)
+płacić|VERB|платить
 wygrać|VERB|выиграть
 przeżyć|VERB|пережить, прожить
 odpowiedzieć|VERB|ответить
-przedstawić|VERB|
+przedstawić|VERB|представить, подать, изложить
 pozostać|VERB|остаться
-wiadomo|VERB|ведомо, известно
-wypełnić|VERB|
-spodziewać|VERB|
-kończyć|VERB|бросать, заканчивать, кончать
-powstać|VERB|
+wiadomo|VERB|известно
+wypełnić|VERB|выполнить (обязанности, долг)
+spodziewać|VERB|рассчитывать, ожидать
+kończyć|VERB|окончить
+powstać|VERB|восстать, произойти, возникнуть
 usłyszeć|VERB|услышать
-traktować|VERB|
+traktować|VERB|трактовать, относиться
 czynić|VERB|делать, чинить
 łączyć|VERB|связывать, объединять, соединять, совмещать, сочетать
 zapłacić|VERB|заплатить
 podzielić|VERB|разделить
 zamierzać|VERB|намереваться
 uwierzyć|VERB|поверить
-budować|VERB|строить, быть построенным из, составлять
-dołączyć|VERB|присоединить, присоединиться
+budować|VERB|строить, составлять
+dołączyć|VERB|присоединить
 umrzeć|VERB|умереть
-dotrzeć|VERB|добраться
-zorganizować|VERB|
+dotrzeć|VERB|добраться, достигнуть
+zorganizować|VERB|организовать, устроить
 gwarantować|VERB|гарантировать
-odbywać|VERB|участвовать, случаться
-zachowywać|VERB|беречь, сохранять, хранить, оберегать, вести себя
-podejmować|VERB|подбирать, поднимать, принимать в гости, угощать, взяться
-przedstawiać|VERB|демонстрировать, представлять, изображать, представляться
+odbywać|VERB|происходить, случаться
+zachowywać|VERB|беречь, сохранять, вести себя
+podejmować|VERB|поднимать (вопрос), принимать (приглашение), предпринимать (действия)
+przedstawiać|VERB|представлять, преподносить, изображать
 decydować|VERB|решать
-pokazywać|VERB|показывать, показываться
-wydać|VERB|выдать
+pokazywać|VERB|показывать
+wydać|VERB|выдать, потратить (деньги)
 witać|VERB|приветствовать, здороваться
-zadbać|VERB|
+zadbać|VERB|заботиться
 opisać|VERB|описать
-postanowić|VERB|
+postanowić|VERB|постановить, решить
 gratulować|VERB|поздравлять
 udawać|VERB|изображать, удаваться
 poprosić|VERB|попросить
 przypominać|VERB|вспоминать, напоминать
-zdawać|VERB|сдавать, казаться, полагаться
-poradzić|VERB|посоветовать, сладить, справиться, пособить
-odbyć|VERB|
+zdawać|VERB|сдавать, казаться
+poradzić|VERB|посоветовать, справиться
+odbyć|VERB|совершить, случиться, отбыть
 wspierać|VERB|поддерживать
-postawić|VERB|возвести, поставить, установить, навострить, представить, предпринять, сделать, предъявить, проставиться, сделать расклад, воспротивиться, выделываться, хорохориться, отстроиться
-pragnąć|VERB|жаждать, желать, хотеть
+postawić|VERB|установить, предъявить
+pragnąć|VERB|желать, хотеть
 przekonać|VERB|убедить
-uznać|VERB|признать
-zwracać|VERB|
-różnić|VERB|
-załatwić|VERB|
+uznać|VERB|признать (удачным), считать (успешным)
+zwracać|VERB|возвращать, обращать (внимание)
+różnić|VERB|отличать, изменять
+załatwić|VERB|решить (проблему), устроить
 złapać|VERB|поймать
-poprawić|VERB|
-przygotowywać|VERB|подготавливать, приготавливать, подготавливаться, приготавливаться, готовить
+poprawić|VERB|исправить, улучшить
+przygotowywać|VERB|подготавливать, готовить
 zjeść|VERB|съесть
 tracić|VERB|терять
-interesować|VERB|интересовать, интересоваться
-wynikać|VERB|следовать, вытекать
+interesować|VERB|интересовать
+wynikać|VERB|следовать (из чего-то), вытекать (из чего-то)
 umożliwiać|VERB|делать возможным
-gotować|VERB|варить, готовить, кипятить, кипеть
-radzić|VERB|советовать, советоваться, справляться
-pojechać|VERB|поехать, пойти
+gotować|VERB|готовить (еду)
+radzić|VERB|советовать, рекомендовать
+pojechać|VERB|поехать
 brzmieć|VERB|звучать
-zniknąć|VERB|згинуть, исчезнуть, пропасть
-spełnić|VERB|
-stawiać|VERB|делать ставка, ставить, строить, сооружать, угощать, держать себя вызывающе, дерзить, перечить, хорохориться, прибывать, являться
+zniknąć|VERB|исчезнуть, пропасть
+spełnić|VERB|выполнить (желание)
+stawiać|VERB|ставить, сооружать
 umieścić|VERB|поместить, разместить
-leżeć|VERB|лежать, сидеть
-spełniać|VERB|
+leżeć|VERB|лежать
+spełniać|VERB|исполнять (желание)
 kliknąć|VERB|кликнуть
 potwierdzić|VERB|подтвердить
-zginąć|VERB|погибнуть, сгинуть, исчезнуть
+zginąć|VERB|погибнуть, сгинуть
 przechowywać|VERB|беречь, хранить, прятать, укрывать
-skontaktować|VERB|
+skontaktować|VERB|связаться, контактировать
 sprzedać|VERB|продать
-przekazać|VERB|передать
-zdarzać|VERB|случаться
-zgadzać|VERB|угождать, соглашаться
-położyć|VERB|положить, класть
-badać|VERB|исследовать
+przekazać|VERB|передать, сообщить
+zdarzać|VERB|происходить, случаться
+zgadzać|VERB|соглашаться, угождать
+położyć|VERB|положить
+badać|VERB|исследовать, изучать, осматривать
 odnaleźć|VERB|найти
 obserwować|VERB|наблюдать
-pobrać|VERB|взять, скачать, жениться
+pobrać|VERB|взять, скачать (из интернета)
 kosztować|VERB|стоить
-spowodować|VERB|повлечь, спровоцировать, создать
-obejmować|VERB|обнимать
+spowodować|VERB|повлечь, спровоцировать
+obejmować|VERB|обнимать, охватывать, содержать, заключать
 zbierać|VERB|собирать
-unikać|VERB|избегать
-pochodzić|VERB|происходить, произойти, походить
+unikać|VERB|избегать, уклоняться
+pochodzić|VERB|происходить, походить
 wyjaśnić|VERB|объяснить, обнаружить
 dzwonić|VERB|звенеть, звонить
-kazać|VERB|велеть, наказывать, приказывать, указывать, проповедовать
+kazać|VERB|приказывать, указывать
 proponować|VERB|предлагать
 wspomnieć|VERB|вспомнить, упомянуть
-dzielić|VERB|делить, разделять, делиться
-jeździć|VERB|ездить, кататься, скакать
+dzielić|VERB|делить, разделять
+jeździć|VERB|ездить, кататься
 palić|VERB|жечь, курить
-przyjechać|VERB|прибыть, приехать
+przyjechać|VERB|приехать, прибыть
 uciec|VERB|сбежать, убежать
 wskazywać|VERB|указывать
 woleć|VERB|предпочитать
-uratować|VERB|спасти, уратовать
-wolno|VERB|медленно
-świadczyć|VERB|давать свидетельский показание, показывать, свидетельствовать, обслуживать, оказывать
-zakładać|VERB|надевать, основывать, учреждать, платить, предполагать, принимать, исходить, предпосылать, биться об заклад, держать пари, спорить
-mieszać|VERB|мешать, смешивать
+uratować|VERB|спасти, сохранить
+wolno|VERB|можно, разрешено
+świadczyć|VERB|свидетельствовать, показывать
+zakładać|VERB|основывать, надевать, спорить
+mieszać|VERB|смешивать
 twierdzić|VERB|утверждать
 otrzymywać|VERB|получать
-powstawać|VERB|возникать, появляться, восставать, вставать
-pozbyć|VERB|
+powstawać|VERB|возникать, появляться, восставать
+pozbyć|VERB|избавиться
 spotykać|VERB|встречать, встречаться
-uniknąć|VERB|
-bronić|VERB|защищать, защитить, защищаться
-wpaść|VERB|
-posłuchać|VERB|
+uniknąć|VERB|избегать, уклониться
+bronić|VERB|защищать, охранять
+wpaść|VERB|падать, попасться, попасть
+posłuchać|VERB|послушать
 odebrać|VERB|забрать
-okazywać|VERB|
+okazywać|VERB|оказывать, проявлять (чуства)
 zmniejszyć|VERB|уменьшить
 przynosić|VERB|приносить, причинять
 cierpieć|VERB|страдать, терпеть

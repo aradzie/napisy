@@ -15,7 +15,7 @@ drugi|ADJ|второй
 własny|ADJ|собственный
 różny|ADJ|разный
 ostatni|ADJ|последний
-piękny|ADJ|красивый, прекрасный, хороший
+piękny|ADJ|красивый, прекрасный
 wielki|ADJ|большой, великий
 zły|ADJ|злой, плохой, сердитый, неподходящий
 ciekawy|ADJ|интересный
@@ -25,7 +25,7 @@ stary|ADJ|старый
 młody|ADJ|молодой, юный
 odpowiedni|ADJ|соответствующий
 pełny|ADJ|полный
-długi|ADJ|длинный, долгий, далёкий
+długi|ADJ|долгий, длинный
 wymagać|ADJ|требовать
 prawdziwy|ADJ|правдивый, настоящий, подлинный
 dostępny|ADJ|доступный
@@ -63,7 +63,7 @@ podobny|ADJ|подобный, похожий
 podstawowy|ADJ|основной, базовый
 zamknąć|ADJ|закрыть, заткнуться
 specjalny|ADJ|специальный
-dobra|ADJ|ладно
+dobra|ADJ|хорошо, ладно
 pozostały|ADJ|остальной
 trzeci|ADJ|третий
 niski|ADJ|низкий
@@ -84,21 +84,21 @@ oglądać|ADJ|смотреть, осматривать, видеть
 finansowy|ADJ|финансовый
 wyjątkowy|ADJ|исключительный
 ustalić|ADJ|определить, установить
-właściwy|ADJ|подходящий, верный, правильный
+właściwy|ADJ|подходящий, верный, правильный, свой
 publiczny|ADJ|публичный, общественный
-nazywać|ADJ|звать, называть, зваться
+nazywać|ADJ|звать, называть
 poszukiwać|ADJ|разыскивать
 ludzki|ADJ|человеческий, человечный
 istotny|ADJ|истинный, существенный
 skuteczny|ADJ|эффективный
 wygodny|ADJ|удобный
-poważny|ADJ|серьёзный, почтенный
+poważny|ADJ|серьёзный, важный
 obecny|ADJ|теперешний, текущий (срок), присутствующий
-stały|ADJ|неизменный
+stały|ADJ|постоянный, неизменный
 szeroki|ADJ|широкий
-oddać|ADJ|отдать
+oddać|ADJ|отдать, возвращать
 zwiększyć|ADJ|увеличить
-konieczny|ADJ|необходимый
+konieczny|ADJ|необходимый, обязательный
 osobisty|ADJ|личный, персональный
 fajny|ADJ|классный, хороший
 dorosły|ADJ|взрослый
