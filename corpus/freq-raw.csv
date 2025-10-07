@@ -1,8 +1,8 @@
 w,w,ADP,24207
 nie,nie,PART,22796
 się,się,PRON,21924
-i,i,CCONJ,21469
-na,na,ADP,19411
+i,i,CCONJ,21470
+na,na,ADP,19412
 to,ten,DET,17250
 z,z,ADP,15937
 jest,być,AUX,12773
@@ -36,7 +36,7 @@ będzie,być,VERB,2076
 go,on,PRON,2008
 ze,z,ADP,1892
 przez,przez,ADP,1889
-też,też,PART,1866
+też,też,PART,1867
 mam,mieć,VERB,1722
 ja,ja,PRON,1716
 sobie,siebie,PRON,1712
@@ -122,7 +122,7 @@ trzeba,trzeba,VERB,757
 chcesz,chcieć,VERB,750
 być,być,AUX,748
 swoje,swój,DET,748
-jako,jako,SCONJ,737
+jako,jako,SCONJ,738
 mają,mieć,VERB,736
 właśnie,właśnie,PART,734
 czasu,czas,NOUN,734
@@ -208,7 +208,7 @@ cały,cały,ADJ,452
 niej,on,PRON,451
 możliwość,możliwość,NOUN,450
 prawda,prawda,NOUN,446
-tę,ten,DET,444
+tę,ten,DET,445
 nikt,nikt,PRON,442
 którzy,który,DET,439
 czasie,czas,NOUN,438
@@ -238,7 +238,7 @@ razie,raz,NOUN,402
 miejscu,miejsce,NOUN,399
 znaleźć,znaleźć,VERB,399
 myślę,myśleć,VERB,398
-dwóch,dwa,NUM,396
+dwóch,dwa,NUM,397
 potem,potem,ADV,394
 dzisiaj,dzisiaj,NOUN,391
 pierwszy,pierwszy,ADJ,386
@@ -378,8 +378,8 @@ zależy,zależeć,VERB,250
 pomysł,pomysł,NOUN,249
 wystarczy,wystarczyć,VERB,249
 raczej,raczej,PART,248
-mniej,mniej,DET,247
-udział,udział,NOUN,247
+mniej,mniej,DET,248
+udział,udział,NOUN,248
 skąd,skąd,ADV,247
 pomocy,pomoc,NOUN,247
 innego,inny,ADJ,246
@@ -1025,9 +1025,9 @@ dodatkowe,dodatkowy,ADJ,99
 materiały,materiał,NOUN,99
 metody,metoda,NOUN,99
 osobą,osoba,NOUN,99
-krok,krok,NOUN,98
-ofertę,oferta,NOUN,98
-wsparcie,wsparcie,NOUN,98
+krok,krok,NOUN,99
+ofertę,oferta,NOUN,99
+wsparcie,wsparcie,NOUN,99
 chciała,chcieć,VERB,98
 faktycznie,faktycznie,PART,98
 mąż,mąż,NOUN,98
@@ -18182,7 +18182,6 @@ specjalizacji,specjalizacja,NOUN,5
 specjalności,specjalność,NOUN,5
 specyfikę,specyfika,NOUN,5
 spełniające,spełniać,ADJ,5
-spermy,sperma,NOUN,5
 spędzisz,spędzić,VERB,5
 spędź,spędzić,VERB,5
 spiesz,spać,VERB,5
@@ -20660,7 +20659,6 @@ otwierasz,otwierać,VERB,4
 otworzyłam,otworzyć,VERB,4
 otworzyły,otworzyć,VERB,4
 otworzysz,otworzyć,VERB,4
-owa,owa,DET,4
 owocnej,owocny,ADJ,4
 owocowy,owocowy,ADJ,4
 ozdobić,ozdobić,VERB,4
@@ -21215,7 +21213,6 @@ trzęsienie,trzęsienie,NOUN,4
 trzydziestu,trzydzieści,NUM,4
 trzysta,trzysta,NUM,4
 tuzin,tuzina,NOUN,4
-twa,twa,DET,4
 twórczy,twórczy,ADJ,4
 tygrysa,tygrys,NOUN,4
 tyłach,tył,NOUN,4

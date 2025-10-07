@@ -1,6 +1,6 @@
 się|PRON|-ся -сь, себя
-on|PRON|он, оный
-ja|PRON|я, аз
+on|PRON|он
+ja|PRON|я
 co|PRON|что
 ty|PRON|ты
 my|PRON|мы
@@ -10,16 +10,13 @@ coś|PRON|что-нибудь, что-то
 kto|PRON|кто
 nic|PRON|ничто, ничего
 ktoś|PRON|кто-нибудь, кто-то
-wy|PRON|вы, Вы
-wszyscy|PRON|весь
+wy|PRON|вы
+wszyscy|PRON|все
 nikt|PRON|никто
 cóż|PRON|ну что ж
-tata|PRON|папа
-cokolwiek|PRON|что-нибудь
+cokolwiek|PRON|что-нибудь, что-либо
 ktokolwiek|PRON|кто-нибудь, кто-либо
-któż|PRON|
-kimkolwiek|PRON|
-tamto|PRON|
-mię|PRON|
-wszy|PRON|
-te|PRON|
+któż|PRON|кто
+kimkolwiek|PRON|кем-нибудь
+tamto|PRON|то
+te|PRON|те

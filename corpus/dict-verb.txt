@@ -3,7 +3,7 @@ móc|VERB|мочь
 chcieć|VERB|хотеть
 wiedzieć|VERB|знать
 musieć|VERB|должен, нужно
-można|VERB|возможно, можно
+można|VERB|можно
 zrobić|VERB|сделать
 powiedzieć|VERB|сказать, рассказать
 mówić|VERB|говорить, рассказывать
@@ -366,7 +366,7 @@ obiecać|VERB|пообещать
 towarzyszyć|VERB|сопровождать
 śmiać|VERB|
 boleć|VERB|болеть
-opowiadać|VERB|рассказывать, рассказать
+opowiadać|VERB|рассказывать
 powieść|VERB|повесть, роман
 zasługiwać|VERB|заслуживать
 zrealizować|VERB|

@@ -32,12 +32,14 @@ for (const end of seq) {
     const pn = posName(entry.pos);
     notes.push(
       newNote()
-        .type("Basic")
+        .type("Word")
         .deck(`Polski::Słowa::Pos-${num(start + 1)}-${num(end)}`)
         .tags(`Polski Słowo ${pn} Pos-1-${end} Pos-${start + 1}-${end}`)
         .id(`slowo_${pn.toLocaleLowerCase("pl")}_${entry.lemma}_ru`)
-        .field("front", makeFront(entry))
-        .field("back", makeBack(entry))
+        .field("Front", makeFront(entry))
+        .field("Back", makeBack(entry))
+        .field("POS", pn)
+        .field("PPM", String(entry.ppm).padStart(6, "0"))
         .make(),
     );
   }
@@ -142,8 +144,6 @@ function makeBack({ lemma, pos, senses, synonyms, antonyms, tags, ppm }) {
   }
   lines.push(``);
   lines.push(...makeExamples(lemma, pos));
-  lines.push(``);
-  lines.push(`Części na milion: ${ppm}`);
   return lines.join("\n");
 }
 

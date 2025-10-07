@@ -64,7 +64,7 @@ tym|ADV|тем
 jakoś|ADV|как-то, почему-то
 nieco|ADV|немножко, слегка, чуть
 wyłącznie|ADV|исключительно
-całkiem|ADV|весьма, вовсе, вполне, окончательно, совершенно, совсем
+całkiem|ADV|совсем, окончательно, совершенно
 ponownie|ADV|снова, опять
 zazwyczaj|ADV|обычно
 dodatkowo|ADV|дополнительно
@@ -195,7 +195,7 @@ stosunkowo|ADV|относительно
 wzajemnie|ADV|взаимно, и вам того же
 niekoniecznie|ADV|необязательно
 telefonicznie|ADV|
-ewentualnie|ADV|вероятно, возможно, или, либо
+ewentualnie|ADV|допустимо, вероятно
 śmiało|ADV|отважно, смело
 znakomicie|ADV|
 tradycyjnie|ADV|традиционно
@@ -249,7 +249,7 @@ dwukrotnie|ADV|дважды, двукратно
 łącznie|ADV|всего
 ostro|ADV|остро
 psychicznie|ADV|психически
-silnie|ADV|мощно, сильно, очень
+silnie|ADV|сильно, мощно
 niezmiernie|ADV|крайне
 głupio|ADV|
 zbytnio|ADV|чересчур

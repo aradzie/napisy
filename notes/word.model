@@ -1,0 +1,23 @@
+model Word
+
+id 535129
+
+field Front
+field Back
+field POS
+field PPM
+
+card Card 1
+
+front
+{{Front}}
+~~~
+
+back
+{{FrontSide}}
+<hr>
+{{Back}}
+~~~
+
+styling
+~~~

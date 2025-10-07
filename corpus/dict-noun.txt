@@ -1846,7 +1846,7 @@ częstotliwość|NOUN|частота, Частота
 dotacja|NOUN|дотация
 elastyczność|NOUN|гибкость, эластичность, упругость
 guma|NOUN|жвачка, жевательная резинка, жевачка, резина
-królik|NOUN|кролик, кроль
+królik|NOUN|кролик
 kulka|NOUN|
 lipiec|NOUN|июль
 odczucie|NOUN|ощущение
@@ -1855,14 +1855,14 @@ plotka|NOUN|сплетня, сплетни
 próg|NOUN|порог
 przywódca|NOUN|лидер, предводитель, вождь
 sterownik|NOUN|
-upadek|NOUN|падение, спад, упадок
+upadek|NOUN|упадок, спад
 wentylacja|NOUN|
 wschód|NOUN|восток, восход
 wyróżnienie|NOUN|
 wytrzymałość|NOUN|выносливость, устойчивость
-zwyczaj|NOUN|обычай, привычка
-ankieta|NOUN|анкета, опрос
-cywilizacja|NOUN|цивилизация, культура
+zwyczaj|NOUN|привычка, обычай
+ankieta|NOUN|анкета
+cywilizacja|NOUN|цивилизация
 debata|NOUN|дебаты
 instruktor|NOUN|инструктор
 młodość|NOUN|юность, молодость
@@ -1927,9 +1927,9 @@ przesłanie|NOUN|
 przewóz|NOUN|
 refleksja|NOUN|
 rejon|NOUN|район
-rytuał|NOUN|обряд, ритуал
+rytuał|NOUN|ритуал, обряд
 skrzynka|NOUN|почтовый ящик, ящик
-tłumacz|NOUN|переводчик, толмач
+tłumacz|NOUN|переводчик
 ulotka|NOUN|листовка
 wojownik|NOUN|воин
 zniszczenie|NOUN|разрушение, уничтожение
@@ -1937,17 +1937,16 @@ bal|NOUN|бал, брус
 blizna|NOUN|шрам, рубец
 egzemplarz|NOUN|экземпляр
 ekonomia|NOUN|экономика, экономия
-garderoba|NOUN|гардероб, гримёрная, уборная
-hodowla|NOUN|выращивание, разведение, культура
+garderoba|NOUN|гардероб
+hodowla|NOUN|выращивание, разведение
 jama|NOUN|яма
 lud|NOUN|люд, народ
-minus|NOUN|
 papryka|NOUN|горький острый перец, перец, сладкий перец
-podrażnienie|NOUN|
+podrażnienie|NOUN|раздражение
 profilaktyka|NOUN|профилактика
 przeziębienie|NOUN|простуда
 przywitać|NOUN|приветствовать
-rata|NOUN|
+rata|NOUN|рассрочка, взнос
 skrócić|NOUN|укоротить
 specyfikacja|NOUN|
 taksówka|NOUN|такси
@@ -1955,82 +1954,81 @@ twórczość|NOUN|творчество
 wygrana|NOUN|победа
 wyszukiwarka|NOUN|поисковик
 wyznaczać|NOUN|назначать
-ziarno|NOUN|зернистость, зерно
-bawełna|NOUN|хлопок, хлопчатник, хлопчатобумажный ткань
+ziarno|NOUN|зерно
+bawełna|NOUN|хлопок, хлопчатник
 bramka|NOUN|ворота
-ilustracja|NOUN|
-koszmar|NOUN|кошмар, кошемар
-książę|NOUN|герцог, князь, принц, княжич
-księżyc|NOUN|луна, месяц, спутник
+ilustracja|NOUN|иллюстрация
+koszmar|NOUN|кошмар
+książę|NOUN|князь, принц
+księżyc|NOUN|луна, месяц
 minerał|NOUN|минерал
 monitor|NOUN|монитор, компьютерный экран
 mysz|NOUN|мышь
-niewolnik|NOUN|раб
-powiadomienie|NOUN|
+niewolnik|NOUN|невольник, раб
+powiadomienie|NOUN|уведомление
 rekord|NOUN|рекорд
 staż|NOUN|стаж
 tarcza|NOUN|щит
-wydawnictwo|NOUN|издание, публикация, издательство
-zagadka|NOUN|загадка, головоломка
-zarobek|NOUN|доход, прибыль, заработок
+wydawnictwo|NOUN|издательство, издание, публикация
+zagadka|NOUN|загадка
+zarobek|NOUN|заработок, доход, прибыль
 zawieszenie|NOUN|подвеска
 zwolennik|NOUN|последователь, сторонник
 bałagan|NOUN|беспорядок
 ceremonia|NOUN|церемония
-ciekawostka|NOUN|
-dziennik|NOUN|дневник, ежедневник, журнал, судовой журнал
+ciekawostka|NOUN|диковина
+dziennik|NOUN|дневник, журнал
 figura|NOUN|фигура
 flaga|NOUN|флаг, знамя
-gorączka|NOUN|лихорадка, жар
-kolumna|NOUN|колонка, колонна, столбец, столб
+gorączka|NOUN|лихорадка
+kolumna|NOUN|колонна, столбец
 kombinacja|NOUN|сочетание
 korzeń|NOUN|корень
 menedżer|NOUN|менеджер
 napad|NOUN|атака, нападение
-nastawienie|NOUN|
+nastawienie|NOUN|отношение
 niepełnosprawność|NOUN|инвалидность
 niepokój|NOUN|беспокойство, волнение, тревога
 oskarżenie|NOUN|обвинение
-pióro|NOUN|лопасть, перо, ручка
-pojedynek|NOUN|дуэль, поединок
-pracownia|NOUN|лаборатория, мастерская
-raj|NOUN|рай, эдем
+pióro|NOUN|перо, лопасть
+pojedynek|NOUN|поединок
+pracownia|NOUN|мастерская
+raj|NOUN|рай
 romans|NOUN|роман
-schronisko|NOUN|приют, схрон, укрытие, турбаза, туристский база
+schronisko|NOUN|приют, укрытие
 sponsor|NOUN|спонсор
 styczeń|NOUN|январь
 wykaz|NOUN|список, перечень
-wysyłka|NOUN|
+wysyłka|NOUN|посылка
 zamawiający|NOUN|
 żarówka|NOUN|лампочка, лампа
 beton|NOUN|бетон
 budownictwo|NOUN|строительство
-chłodzić|NOUN|
+chłodzić|NOUN|охладить
 dbałość|NOUN|заботливость, старательность, тщательность
-duma|NOUN|гордость, дума
+duma|NOUN|гордость, высокомерие
 elegancja|NOUN|элегантность
-implant|NOUN|
 kaloria|NOUN|калория
 klawiatura|NOUN|клавиатура
 klinika|NOUN|клиника
 przeczucie|NOUN|предчувствие
-rejs|NOUN|круиз
-róż|NOUN|
+rejs|NOUN|рейс
+róż|NOUN|роза
 szablon|NOUN|трафарет, шаблон
 śpiew|NOUN|пение
-trądzik|NOUN|
+trądzik|NOUN|прыщ
 truskawka|NOUN|клубника, земляника
 wszechświat|NOUN|вселенная, космос
 zakwaterować|NOUN|
 akcent|NOUN|акцент, ударение
-alarm|NOUN|сигнал бедствия, тревога
+alarm|NOUN|сигнал бедствия, сигнализация
 architekt|NOUN|архитектор
 detektyw|NOUN|детектив
 diament|NOUN|алмаз, бриллиант
 dworzec|NOUN|вокзал
 dwór|NOUN|двор
 dziesiątka|NOUN|десятка
-ewidencja|NOUN|
+ewidencja|NOUN|учет, запись
 fundacja|NOUN|фонд
 garnitur|NOUN|костюм
 gniazda|NOUN|
@@ -2039,12 +2037,12 @@ kilogram|NOUN|килограмм
 komiks|NOUN|комикс
 luty|NOUN|февраль
 modernizacja|NOUN|модернизация
-modyfikacja|NOUN|
+modyfikacja|NOUN|модификация
 ogon|NOUN|хвост
 ogrodzenie|NOUN|изгородь, ограда
-pianka|NOUN|
+pianka|NOUN|пенка
 pocałunek|NOUN|поцелуй
-popołudnie|NOUN|день, вторая половина дня
+popołudnie|NOUN|время после полудня, вторая половина дня
 promień|NOUN|луч, радиус
 przewoźnik|NOUN|перевозчик
 rolnictwo|NOUN|сельское хозяйство, земледелие
@@ -2855,7 +2853,7 @@ przeszczep|NOUN|пересадка
 przeżycie|NOUN|
 puder|NOUN|пудра
 pustka|NOUN|пустота
-robak|NOUN|глист, червь, насекомое, червяк
+robak|NOUN|червяк
 rozważanie|NOUN|
 rzecznik|NOUN|
 sauna|NOUN|сауна
@@ -3830,13 +3828,12 @@ rozmieścić|NOUN|
 rozpalić|NOUN|
 rozpowszechniać|NOUN|
 rurek|NOUN|
-rzec|NOUN|изрекать, изречь, сказать
+rzec|NOUN|изрекать, изречь
 satelita|NOUN|спутник, сателлит
 sąsiadka|NOUN|соседка
 serwetka|NOUN|салфетка
 smakołyk|NOUN|
 solidarność|NOUN|солидарность
-sperma|NOUN|сперма, семя
 sprzeczność|NOUN|противоречие
 studniówka|NOUN|
 subskrypcja|NOUN|
@@ -9259,7 +9256,7 @@ serwa|NOUN|
 sezonowość|NOUN|
 sędzio|NOUN|
 sęk|NOUN|сук
-siemię|NOUN|семя
+siemię|NOUN|семена
 sińca|NOUN|
 skarbówka|NOUN|
 składnica|NOUN|

@@ -214,6 +214,7 @@ op
 or
 os
 oś
+owa
 oz
 oż
 ód
@@ -260,6 +261,7 @@ sr
 st
 str
 su
+swa
 ś
 śp
 śr
@@ -277,6 +279,7 @@ tm
 tot
 tr
 tss
+twa
 tzn
 tzw
 ud

@@ -1,15 +1,15 @@
-w,ADP,24641
-nie,PART,22672
+w,ADP,24642
+nie,PART,22673
 się,PRON,21925
-i,CCONJ,21469
-na,ADP,19411
-z,ADP,17756
+i,CCONJ,21470
+na,ADP,19412
+z,ADP,17757
 on,PRON,15610
 do,ADP,12498
 ten,DET,10926
 że,SCONJ,9720
-ja,PRON,7470
-co,PRON,7445
+ja,PRON,7471
+co,PRON,7446
 o,ADP,6650
 który,DET,5021
 a,CCONJ,4895
@@ -36,7 +36,7 @@ by,SCONJ,2083
 coś,PRON,1983
 przez,ADP,1918
 wszystek,DET,1916
-też,PART,1866
+też,PART,1867
 twój,DET,1788
 jeszcze,PART,1671
 oraz,CCONJ,1651
@@ -66,7 +66,7 @@ niż,SCONJ,786
 żaden,DET,785
 chyba,PART,772
 wy,PRON,760
-jako,SCONJ,737
+jako,SCONJ,738
 właśnie,PART,734
 u,ADP,706
 dzięki,ADP,694
@@ -273,8 +273,6 @@ baba,PROPN,4
 ileż,DET,4
 kreta,PROPN,4
 niechaj,SCONJ,4
-owa,DET,4
-twa,DET,4
 synowa,PROPN,4
 tarczyca,PROPN,4
 wszakże,PART,4
@@ -516,7 +514,6 @@ siemka,PROPN,1
 snooker,PROPN,1
 sola,PROPN,1
 starek,PROPN,1
-swa,DET,1
 swap,PROPN,1
 szejk,PROPN,1
 szmaciarz,PROPN,1

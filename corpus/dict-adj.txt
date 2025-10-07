@@ -17,7 +17,7 @@ różny|ADJ|разный
 ostatni|ADJ|последний
 piękny|ADJ|красивый, прекрасный
 wielki|ADJ|большой, великий
-zły|ADJ|злой, плохой, сердитый, неподходящий
+zły|ADJ|злой, плохой, сердитый
 ciekawy|ADJ|интересный
 dotyczyć|ADJ|касаться, относиться
 stosować|ADJ|применять
@@ -55,7 +55,7 @@ daleki|ADJ|далёкий, дальний
 zdrowy|ADJ|здоровый
 krótki|ADJ|короткий, краткий
 ogromny|ADJ|огромный
-doskonały|ADJ|совершенный, отличный
+doskonały|ADJ|совершенный, безупречный
 miły|ADJ|милый, приятный
 złożyć|ADJ|сложить
 przeznaczyć|ADJ|выделить, предназначить
@@ -106,7 +106,7 @@ profesjonalny|ADJ|профессиональный
 ciężki|ADJ|тяжёлый, тяжкий
 techniczny|ADJ|технический
 społeczny|ADJ|общественный, публичный
-prywatny|ADJ|личный, частный, приватный
+prywatny|ADJ|приватный, личный, частный
 czysty|ADJ|чистый
 zadowolony|ADJ|удовлетворённый, довольный
 konkretny|ADJ|конкретный
@@ -116,7 +116,7 @@ ulubiony|ADJ|любимый, излюбленный
 zwykły|ADJ|обыкновенный, обычный
 oczekiwać|ADJ|ожидать, ждать
 dany|ADJ|данный
-kierować|ADJ|руководить, управлять, водить
+kierować|ADJ|руководить, управлять
 zainteresować|ADJ|заинтересовать
 pozytywny|ADJ|позитивный, положительный
 rosnąć|ADJ|расти, всходить
@@ -129,10 +129,10 @@ fizyczny|ADJ|физический
 angielski|ADJ|английский
 codzienny|ADJ|ежедневный, повседневный
 powyższy|ADJ|вышеуказанный, вышеупомянутый
-prawny|ADJ|законный, юридический
+prawny|ADJ|законный, правовой
 zewnętrzny|ADJ|внешний, наружный
 zielony|ADJ|зелёный
-rodzinny|ADJ|родной, семейный
+rodzinny|ADJ|семейный, родной
 wewnętrzny|ADJ|внутренний
 bogaty|ADJ|богатый
 głupi|ADJ|глупый, дурацкий
@@ -140,56 +140,56 @@ poprzedni|ADJ|предыдущий, прошлый
 sportowy|ADJ|спортивный
 poszczególny|ADJ|отдельный, каждый
 lekki|ADJ|лёгкий
-świeży|ADJ|свежий, недавний
-medyczny|ADJ|медицинский, врачебный
+świeży|ADJ|свежий
+medyczny|ADJ|медицинский
 elektryczny|ADJ|электрический
 znany|ADJ|известный, знаменитый
-delikatny|ADJ|лёгкий, щепетильный, тонкий
-szczególny|ADJ|особенный, особый
-oryginalny|ADJ|оригинальный, своеобразный
+delikatny|ADJ|деликатный
+szczególny|ADJ|особенный, детальный
+oryginalny|ADJ|оригинальный
 wczesny|ADJ|ранний, предварительный
 widoczny|ADJ|видимый, заметный
-sprzedawać|ADJ|продавать, продать, продаваться
+sprzedawać|ADJ|продавать
 normalny|ADJ|нормальный
 ukryć|ADJ|укрыть
-zawrzeć|ADJ|вскипеть, закипеть
+zawrzeć|ADJ|закипеть, вскипеть
 lokalny|ADJ|локальный, местный
 szczegółowy|ADJ|подробный, детальный
 bezpłatny|ADJ|бесплатный
-atrakcyjny|ADJ|интересный, привлекательный, симпатичный
-mocny|ADJ|крепкий
+atrakcyjny|ADJ|интересный, привлекательный
+mocny|ADJ|сильный, крепкий
 słaby|ADJ|слабый
 zapisać|ADJ|записать
 praktyczny|ADJ|практический
 lewy|ADJ|левый
 gospodarczy|ADJ|хозяйственный, экономический
 popularny|ADJ|популярный
-wyposażyć|ADJ|оборудовать
+wyposażyć|ADJ|оборудовать, снарядить
 niebezpieczny|ADJ|опасный
 średni|ADJ|средний
 niesamowity|ADJ|необычайный, поразительный
-dawny|ADJ|давний, древний
-osobowy|ADJ|личный, легковой, пассажирский
+dawny|ADJ|давний, прежний
+osobowy|ADJ|личный, персональный
 przyjemny|ADJ|приятный
 prawidłowy|ADJ|правильный
-zalecać|ADJ|рекомендовать, ухаживать
+zalecać|ADJ|рекомендовать, советовать
 poświęcić|ADJ|посветить, уделить
 usuwać|ADJ|удалять, отступать, отходить
 elektroniczny|ADJ|электронный
 kontrolować|ADJ|контролировать
 aktywny|ADJ|активный
-złoty|ADJ|золотистый, золотой, злотый
-dowolny|ADJ|каждый, любой, произвольный
+złoty|ADJ|золотой, злотый
+dowolny|ADJ|любой, произвольный, какой угодно
 słodki|ADJ|сладкий
 zbudować|ADJ|построить
 aktualny|ADJ|актуальный
 dokładny|ADJ|точный
 wyciągnąć|ADJ|вытянуть
 drobny|ADJ|мелкий
-prawy|ADJ|лицевой, правый
+prawy|ADJ|правый
 otwarty|ADJ|открытый
 poniższy|ADJ|нижеследующий, следующий
-ciemny|ADJ|смуглый, тёмный, чёрный, невежественный
+ciemny|ADJ|тёмный
 elegancki|ADJ|элегантный
 udany|ADJ|удачный, успешный
 obcy|ADJ|чужой, посторонний, иностранный
@@ -199,16 +199,16 @@ wyłączyć|ADJ|выключить
 drewniany|ADJ|деревянный
 tradycyjny|ADJ|традиционный
 zaplanować|ADJ|запланировать
-polityczny|ADJ|политический, политичный
+polityczny|ADJ|политический
 użytkować|ADJ|употреблять, использовать
 niezły|ADJ|неплохой
-rzucić|ADJ|бросить, метнуть
+rzucić|ADJ|бросить, кидать, забросить
 tani|ADJ|дешёвый
 dobrać|ADJ|подобрать, выбирать
 gorący|ADJ|горячий
 niezwykły|ADJ|необычный, необыкновенный
 interesujący|ADJ|интересный, привлекательный
-pański|ADJ|панский, ваш, твой
+pański|ADJ|панский, ваш
 miękki|ADJ|мягкий
 handlowy|ADJ|торговый
 współczesny|ADJ|современный
@@ -221,13 +221,13 @@ kolorowy|ADJ|разноцветный, цветной
 cudowny|ADJ|чудесный, замечательный
 odpowiedzialny|ADJ|ответственный
 zimowy|ADJ|зимний
-liczny|ADJ|многий, многочисленный
+liczny|ADJ|многочисленный
 międzynarodowy|ADJ|международный
 miejski|ADJ|городской
 sztuczny|ADJ|искусственный, неестественный
 biznesowy|ADJ|коммерческий
-budowlany|ADJ|строительный, строитель
-drogi|ADJ|дорогой, родной
+budowlany|ADJ|строительный
+drogi|ADJ|дорогой
 słoneczny|ADJ|солнечный
 muzyczny|ADJ|музыкальный
 zimny|ADJ|холодный
@@ -245,32 +245,30 @@ mądry|ADJ|мудрый, умный
 spokojny|ADJ|спокойный
 niebieski|ADJ|синий, голубой
 ostry|ADJ|острый
-wodny|ADJ|водяной
-zakupić|ADJ|
+wodny|ADJ|водный, водяной
+zakupić|ADJ|закупить
 zebrać|ADJ|собрать
 kompleksowy|ADJ|комплексный, сложный
 martwy|ADJ|мёртвый
 męski|ADJ|мужской, мужественный
 wytrzymać|ADJ|выдержать, стерпеть
 spadać|ADJ|падать, убывать, понижаться, ослабевать
-straszny|ADJ|ужасный, страшный
+straszny|ADJ|страшный
 zabawny|ADJ|забавный, смешной
 intensywny|ADJ|интенсивный
 przekazywać|ADJ|передавать
 cenny|ADJ|ценный
 ekologiczny|ADJ|экологический
-europejski|ADJ|европейский
 pusty|ADJ|пустой
 skomplikowany|ADJ|сложный
-chętny|ADJ|склонный, доброволец
-spory|ADJ|существенный
+chętny|ADJ|склонный, желающий
+spory|ADJ|значительный, существенный
 reklamowy|ADJ|рекламный
 telefoniczny|ADJ|телефонный
 samochodowy|ADJ|автомобильный
 dziecięcy|ADJ|детский
 elastyczny|ADJ|гибкий, эластичный
 niemożliwy|ADJ|невозможный
-francuski|ADJ|французский, французский язык
 naukowy|ADJ|научный
 ustawić|ADJ|установить, расставить
 bezpośredni|ADJ|непосредственный, прямой
@@ -287,388 +285,381 @@ korzystny|ADJ|выгодный, полезный
 oczyścić|ADJ|очистить, вычистить
 smaczny|ADJ|вкусный
 ślubny|ADJ|брачный
-wdzięczny|ADJ|благодарный, грациозный, изящный
-letni|ADJ|летний, комнатный температура
+wdzięczny|ADJ|благодарный, признательный
+letni|ADJ|летний
 oczywisty|ADJ|очевидный
-ciągły|ADJ|непрерывный, беспрерывный, постоянный, неустанный, продолжительный
+ciągły|ADJ|непрерывный, беспрерывный, постоянный, продолжительный
 niniejszy|ADJ|данный, настоящий
-obniżyć|ADJ|уменьшить, упростить, уценить
+obniżyć|ADJ|понизить, снизить
 komputerowy|ADJ|компьютерный
 późny|ADJ|поздний
 zagraniczny|ADJ|зарубежный, заграничный
 rodzić|ADJ|порождать, рожать
-przyjazny|ADJ|дружелюбный, дружеский, дружественный
-uzależnić|ADJ|
+przyjazny|ADJ|дружелюбный, дружеский
+uzależnić|ADJ|подчинить
 dumny|ADJ|гордый
 objąć|ADJ|обнять
 podatkowy|ADJ|налоговый
 świadomy|ADJ|сознательный
-zgłaszać|ADJ|отвечать
-pokroić|ADJ|разрезать
+zgłaszać|ADJ|сообщить, объявлять
+pokroić|ADJ|разрезать, нарезать
 zmusić|ADJ|вынудить, заставить
 cyfrowy|ADJ|цифровой
-udowodnić|ADJ|доказать, подтверждать
+udowodnić|ADJ|доказать, подтвердить
 zeszły|ADJ|прошлый
 żółty|ADJ|жёлтый
 cichy|ADJ|тихий
-ostateczny|ADJ|окончательный, последний, конечный
+ostateczny|ADJ|окончательный, конечный
 przewidzieć|ADJ|предусмотреть
 negatywny|ADJ|негативный, отрицательный
 przebywać|ADJ|пребывать
 przemysłowy|ADJ|промышленный, индустриальный
 drogowy|ADJ|дорожный
 oficjalny|ADJ|официальный
-regularny|ADJ|регулярный, постоянный
-śliczny|ADJ|прекрасный
+regularny|ADJ|регулярный, обычный (регулярный)
+śliczny|ADJ|прекрасный, восхитительный
 godny|ADJ|достойный
 uniwersalny|ADJ|универсальный
-artystyczny|ADJ|артистический, художественный, артистичный
+artystyczny|ADJ|артистический, художественный
 energetyczny|ADJ|энергетический
 graficzny|ADJ|графический
-odporny|ADJ|закалённый, выносливый, стойкий, упорный, отпорный, устойчивый
+odporny|ADJ|устойчивый, отпорный, выносливый
 zaprezentować|ADJ|представить
 historyczny|ADJ|исторический
 bankowy|ADJ|банковский
 podwójny|ADJ|двойной
-uwolnić|ADJ|освободить, выпустить, уволить
+uwolnić|ADJ|уволить, освободить, избавить
 częsty|ADJ|частый
-zaawansowany|ADJ|
+zaawansowany|ADJ|передовой, продвинутый, расширенный
 znaczny|ADJ|значительный, заметный
 kompletny|ADJ|комплектный
-kontaktowy|ADJ|
-morski|ADJ|морской, цвет морской волны
-fantastyczny|ADJ|фантастический, фантастичный
+kontaktowy|ADJ|контактный
+morski|ADJ|морской
+fantastyczny|ADJ|фантастический
 kredytowy|ADJ|кредитный
 maksymalny|ADJ|максимальный
-monitorować|ADJ|
+monitorować|ADJ|наблюдать
 nocny|ADJ|ночной
 święty|ADJ|святой
 włoski|ADJ|итальянский, италиянский
 fałszywy|ADJ|ложный, фальшивый
-mobilny|ADJ|
+mobilny|ADJ|мобильный
 twardy|ADJ|твёрдый
 zastąpić|ADJ|заменить, заместить
 bieżący|ADJ|текущий
 niezależny|ADJ|независимый
-przeciwny|ADJ|встречный, противоположный, не согласный, против, противный, напротив, совсем другой
+przeciwny|ADJ|противоположный, встречный
 samodzielny|ADJ|самостоятельный
-przesłać|ADJ|
+przesłać|ADJ|послать, отправить
 wywoływać|ADJ|вызывать
 życiowy|ADJ|жизненный
 ewentualny|ADJ|возможный, предполагаемый
 metalowy|ADJ|металлический
-pojedynczy|ADJ|одиночный, отдельный, единичный, частный
+pojedynczy|ADJ|одиночный, отдельный, единичный
 powtórzyć|ADJ|повторить
-wyświetlać|ADJ|
+wyświetlać|ADJ|отображать
 chemiczny|ADJ|химический
 końcowy|ADJ|концевой
-sprzyjać|ADJ|благоволить, способствовать
-szalony|ADJ|безумный, сумасшедший, сумасбродный, шальной, экстравагантный
+sprzyjać|ADJ|способствовать, содействовать
+szalony|ADJ|безумный, сумасшедший
 gruby|ADJ|толстый
 magiczny|ADJ|магический, волшебный
-zamknięty|ADJ|закрытый, замкнутый
+zamknięty|ADJ|замкнутый, закрытый
 gładki|ADJ|гладкий
-informacyjny|ADJ|информационный, справочный
-obowiązkowy|ADJ|добросовестный, обязательный
+informacyjny|ADJ|информационный
+obowiązkowy|ADJ|обязательный, добросовестный
 wyznaczyć|ADJ|назначить
-automatyczny|ADJ|автоматический, автоматичный
-inteligentny|ADJ|умный, интеллигентный
-smutny|ADJ|грустный, печальный, тоскливый
-solidny|ADJ|
+automatyczny|ADJ|автоматический
+inteligentny|ADJ|интеллигентный
+smutny|ADJ|грустный, печальный
+solidny|ADJ|солидный, крепкий
 szary|ADJ|серый
-zainteresowany|ADJ|
+zainteresowany|ADJ|заинтересованный
 edukacyjny|ADJ|образовательный
 efektywny|ADJ|эффективный
 ekonomiczny|ADJ|экономический, экономный
 funkcjonalny|ADJ|функциональный
-lekarski|ADJ|врачебный, лечебный, медицинский
+lekarski|ADJ|врачебный
 niepełnosprawny|ADJ|инвалид
 pomocny|ADJ|полезный
-samotny|ADJ|одинокий, одиночный, соло
+samotny|ADJ|одинокий, одиночный
 standardowy|ADJ|стандартный
 światowy|ADJ|мировой, всемирный
 realny|ADJ|реальный
-nieważny|ADJ|
-zaznaczyć|ADJ|
-zdobywać|ADJ|получать, набираться
-charakterystyczny|ADJ|характеристический, своеобразный, характерный
-doświadczyć|ADJ|
+nieważny|ADJ|неважный, незначительный
+zaznaczyć|ADJ|обозначать, пометить
+zdobywać|ADJ|получать, захватывать, доставать
+charakterystyczny|ADJ|характеристический, характерный
+doświadczyć|ADJ|испытать
 miejscowy|ADJ|местный
-ranny|ADJ|раненый, ранний, раненный
-wojskowy|ADJ|военный, армейский, воинский
+ranny|ADJ|ранний, раненый
+wojskowy|ADJ|военный, воинский
 zdrowotny|ADJ|здоровый
-cholerny|ADJ|
+cholerny|ADJ|проклятый
 krajowy|ADJ|краевой
 potencjalny|ADJ|потенциальный
 stabilny|ADJ|стабильный
 były|ADJ|бывший
 turystyczny|ADJ|туристический
-zasilać|ADJ|
+zasilać|ADJ|питать, наполнять, поддерживать
 damski|ADJ|дамский
 językowy|ADJ|языковой
 rzeczywisty|ADJ|действительный
-kojarzyć|ADJ|ассоциироваться
+kojarzyć|ADJ|узнавать, ассоциировать
 modny|ADJ|модный
 potężny|ADJ|мощный, могучий
 biedny|ADJ|бедный
 minimalny|ADJ|минимальный
-popełniać|ADJ|
+popełniać|ADJ|совершать, допускать
 przepiękny|ADJ|прекрасный
-zamieścić|ADJ|
-podejrzany|ADJ|подозрительный, подозреваемый
-powszechny|ADJ|общий, совместный
+zamieścić|ADJ|поместить
+podejrzany|ADJ|подозреваемый, подозрительный
+powszechny|ADJ|распространённый, повсеместный
 dzienny|ADJ|дневной
 komfortowy|ADJ|комфортабельный, комфортный
-rozszerzyć|ADJ|расширить, расшириться
+rozszerzyć|ADJ|расширить
 wykluczyć|ADJ|исключить
 firmowy|ADJ|фирменный
 równy|ADJ|равный, ровный, плоский
 specjalistyczny|ADJ|специальный
-sprawny|ADJ|
+sprawny|ADJ|исправный, рабочий (исправный)
 inwestycyjny|ADJ|инвестиционный
-produkcyjny|ADJ|
+produkcyjny|ADJ|производственный, продуктивный
 filmowy|ADJ|фильмовый
 kuchenny|ADJ|кухонный
-ochronny|ADJ|предохранительный
-znakomity|ADJ|великолепный, отличный, превосходный, весомый, значительный, выдающийся, замечательный, знаменитый, известный
-optymalny|ADJ|
+ochronny|ADJ|защитный
+znakomity|ADJ|знаменитый, известный
+optymalny|ADJ|оптимальный
 rowerowy|ADJ|велосипедный
 śmieszny|ADJ|смешной
 typowy|ADJ|типичный
-narazić|ADJ|
-przesyłać|ADJ|
-szczery|ADJ|искренний, щирый
-ubiegły|ADJ|
-wycofać|ADJ|
+narazić|ADJ|подвергнуть, подставить
+przesyłać|ADJ|посылать, отправлять
+szczery|ADJ|искренний
+ubiegły|ADJ|прошедший, предыдущий
+wycofać|ADJ|отменять, отступать, брать назад
 nieznany|ADJ|неизвестный
-osobny|ADJ|
-przekonany|ADJ|
+osobny|ADJ|отдельный
+przekonany|ADJ|убежденный
 wartościowy|ADJ|ценный
 papierowy|ADJ|бумажный
-surowy|ADJ|суровый, сырой, жестокий, строгий
-uroczy|ADJ|обаятельный, очаровательный
+surowy|ADJ|сырой, суровый, строгий
+uroczy|ADJ|милый, обаятельный, очаровательный
 zbędny|ADJ|лишний
 chłodny|ADJ|прохладный
 nawilżać|ADJ|увлажнять
-smażyć|ADJ|жарить, жариться
-udostępniać|ADJ|делать доступный
+smażyć|ADJ|жарить
+udostępniać|ADJ|предоставить
 cienki|ADJ|тонкий
-odchudzać|ADJ|
-reprezentować|ADJ|
-zabezpieczać|ADJ|
+odchudzać|ADJ|худеть
+reprezentować|ADJ|представлять
+zabezpieczać|ADJ|обезопасить
 zdolny|ADJ|способный
 duchowy|ADJ|духовный
 estetyczny|ADJ|эстетический
 fotograficzny|ADJ|фотографический
 psychiczny|ADJ|психический, душевнобольной, сумасшедший
 wieloletni|ADJ|многолетний, долголетний
-znaczący|ADJ|существенный
-centralny|ADJ|главный, основной, центральный
+znaczący|ADJ|значительный, существенный
+centralny|ADJ|центральный
 emocjonalny|ADJ|эмоциональный
 nietypowy|ADJ|нетипичный
-posterunkowy|ADJ|
+posterunkowy|ADJ|полицейский
 roboczy|ADJ|пробный, рабочий
 tylny|ADJ|задний
 dolny|ADJ|нижний, низкий
 narodowy|ADJ|народный, национальный
 piąty|ADJ|пятый
 wstępny|ADJ|вступительный, предварительный
-wyraźny|ADJ|отчётливый, чёткий, ясный
-innowacyjny|ADJ|
+wyraźny|ADJ|явный, ясный, отчётливый, чёткий
+innowacyjny|ADJ|инновационный
 kosmetyczny|ADJ|косметический
 postrzegać|ADJ|воспринимать
 umieszczać|ADJ|помещать, размещать, располагать
 unikalny|ADJ|уникальный
-wirtualny|ADJ|
-wystarczający|ADJ|достаточный
-komórkowy|ADJ|
-spożywczy|ADJ|продовольственный, съестной
-szkodliwy|ADJ|вредный, вредоносный, шкодливый
+wystarczający|ADJ|достаточный, удовлетворительный
+komórkowy|ADJ|клеточный, сотовый
+spożywczy|ADJ|продовольственный
+szkodliwy|ADJ|вредный, вредоносный
 tajemniczy|ADJ|таинственный
-wakacyjny|ADJ|каникулярный
-ponieść|ADJ|
+wakacyjny|ADJ|отпускной
+ponieść|ADJ|понести, потерпеть
 zwać|ADJ|звать
 kobiecy|ADJ|женский, женственный
-nerwowy|ADJ|слабонервный
+nerwowy|ADJ|нервозный, нервный
 niepowtarzalny|ADJ|неповторимый
-niewinny|ADJ|безвредный, безобидный, невинный, невиновный, безвинный
+niewinny|ADJ|невинный, невиновный, безвредный, безобидный
 winny|ADJ|винный, виновный, должный
 zabronić|ADJ|запретить
-zagrozić|ADJ|
+zagrozić|ADJ|грозить
 brązowy|ADJ|бронзовый, коричневый
 mechaniczny|ADJ|машинальный, механический
-rozsądny|ADJ|разумный
-załączyć|ADJ|
-męczyć|ADJ|мучить, мучиться
-społecznościowy|ADJ|
-zerwać|ADJ|отрывать
+rozsądny|ADJ|рассудительный, разумный
+załączyć|ADJ|приложить ,приобщить
+męczyć|ADJ|мучить, утомлять
+społecznościowy|ADJ|общественный
+zerwać|ADJ|порвать, сорвать
 cywilny|ADJ|гражданский, цивильный
-czynny|ADJ|деятельный
+czynny|ADJ|действенный
 globalny|ADJ|глобальный
 organizacyjny|ADJ|организационный
-ponowny|ADJ|
+ponowny|ADJ|повторный
 przedni|ADJ|передний, передовой
 psychologiczny|ADJ|психологический
-winien|ADJ|
+winien|ADJ|виноватый, виновный
 kokosowy|ADJ|кокосовый
-oznaczyć|ADJ|
-plastikowy|ADJ|пластиковый, пластмассовый
-promocyjny|ADJ|
-przemyśleć|ADJ|
+oznaczyć|ADJ|обозначить, пометить
+plastikowy|ADJ|пластиковый
+promocyjny|ADJ|рекламный
+przemyśleć|ADJ|передумать, обдумать
 różowy|ADJ|розовый
 zmęczony|ADJ|усталый, утомлённый, уставший
 autorski|ADJ|авторский
 chiński|ADJ|китайский
 jesienny|ADJ|осенний
 odważny|ADJ|отважный, смелый, храбрый, бесстрашный
-kiepski|ADJ|плохой, худой
+kiepski|ADJ|плохой
 łamać|ADJ|ломать, нарушать
 nudny|ADJ|скучный
-odłożyć|ADJ|отложить, перенести, положить, осесть, отложиться
+odłożyć|ADJ|отложить, перенести
 przystosować|ADJ|приспособить
-rewelacyjny|ADJ|
+rewelacyjny|ADJ|сенсационный, небывалый
 srebrny|ADJ|серебристый, серебряный
 szkoleniowy|ADJ|учебный
-zapisywać|ADJ|вносить в список, записывать, завещать, прописывать
-biurowy|ADJ|конторский
-dotychczasowy|ADJ|
-inspirować|ADJ|
+zapisywać|ADJ|записывать, завещать
+biurowy|ADJ|офисный
+dotychczasowy|ADJ|прошлый
+inspirować|ADJ|вдохновлять
 dziki|ADJ|дикий
 genialny|ADJ|гениальный
-mailowy|ADJ|
 nadmierny|ADJ|чрезмерный, избыточный
 państwowy|ADJ|государственный
-brudny|ADJ|грязный, запачканый, пошлый
+brudny|ADJ|грязный
 dala|ADJ|
 drukować|ADJ|печатать
 kulturalny|ADJ|культурный
 mieszkalny|ADJ|жилой
 mokry|ADJ|мокрый, сырой
-różnorodny|ADJ|
-ścigać|ADJ|
+różnorodny|ADJ|разнородный
+ścigać|ADJ|преследовать
 informatyczny|ADJ|информатический
 lotniczy|ADJ|авиационный
 okropny|ADJ|ужасный, чудовищный
-rzadki|ADJ|жидкий, редкий
-nagrodzić|ADJ|
-religijny|ADJ|религиозный, набожный
-skrzywdzić|ADJ|
-tegoroczny|ADJ|
-japoński|ADJ|японский, японский язык
-niezawodny|ADJ|надёжный
-odżywczy|ADJ|
-operacyjny|ADJ|
+rzadki|ADJ|редкий, жидкий
+nagrodzić|ADJ|наградить
+religijny|ADJ|религиозный
+skrzywdzić|ADJ|обидеть
+tegoroczny|ADJ|этого года
+niezawodny|ADJ|надёжный, безотказный
+odżywczy|ADJ|питательный
+operacyjny|ADJ|операционный
 piersiowy|ADJ|грудной
-studiować|ADJ|в университете, учиться в вуз, изучать, всматриваться, разглядывать, учиться
+studiować|ADJ|изучать, учиться
 szklany|ADJ|стеклянный
 wyborczy|ADJ|избирательный
 bolesny|ADJ|болезненный
-denerwować|ADJ|раздражать, раздражаться, бесить
+denerwować|ADJ|раздражать, бесить
 długotrwały|ADJ|длительный, продолжительный
-fachowy|ADJ|
+fachowy|ADJ|профессиональный
 pijany|ADJ|пьяный
 plastyczny|ADJ|пластичный
 przywieźć|ADJ|привезти
 sądowy|ADJ|судебный
 wzajemny|ADJ|взаимный, обоюдный
-zależny|ADJ|зависимый, обусловленный, подчинённый
-zawiesić|ADJ|
+zależny|ADJ|зависимый, подчинённый
+zawiesić|ADJ|повесить
 głodny|ADJ|голодный
 romantyczny|ADJ|романтический, романтичный
 kreatywny|ADJ|креативный
-niewłaściwy|ADJ|неподходящий, неуместный
-oszukać|ADJ|
+niewłaściwy|ADJ|неуместный, неподходящий
+oszukać|ADJ|обмануть
 płaski|ADJ|плоский
-pobić|ADJ|
+pobić|ADJ|побить
 regionalny|ADJ|региональный
-zaoferować|ADJ|
-zróżnicować|ADJ|
+zaoferować|ADJ|предложить
+zróżnicować|ADJ|разнообразить
 niepotrzebny|ADJ|ненужный
 początkowy|ADJ|начальный
-precyzyjny|ADJ|
-jednorazowy|ADJ|единовременный, одноразовый, разовый
-kosmiczny|ADJ|космический, вселенский
-królewski|ADJ|королевский, царский
-marketingowy|ADJ|маркетинговый
+precyzyjny|ADJ|точный, аккуратный
+jednorazowy|ADJ|одноразовый
+kosmiczny|ADJ|космический
+królewski|ADJ|королевский
 nieprzyjemny|ADJ|неприятный
 ogrodowy|ADJ|садовый
-przykładowy|ADJ|
-tłusty|ADJ|жирный, толстый
-udostępnić|ADJ|
+przykładowy|ADJ|образцовый
+tłusty|ADJ|толстый
+udostępnić|ADJ|облегчать
 wiosenny|ADJ|весенний
 wybudować|ADJ|построить
 wydajny|ADJ|эффективный
-zmarły|ADJ|мёртвый, умерший, покойник
-leczniczy|ADJ|целебный, лечебный, лекарственный, врачебный, целительный
+zmarły|ADJ|мёртвый, умерший
+leczniczy|ADJ|лечебный, лекарственный
 logiczny|ADJ|логический, логичный
-natychmiastowy|ADJ|мгновенный, немедленный
+natychmiastowy|ADJ|немедленный, мгновенный
 nierdzewny|ADJ|нержавеющий
 pokarmowy|ADJ|пищевой
-rozbić|ADJ|
-specyficzny|ADJ|специфический, особый, характерный
-wykwalifikować|ADJ|
-zamordować|ADJ|
+rozbić|ADJ|разбить, сокрушить
+specyficzny|ADJ|специфический
+zamordować|ADJ|убить
 administracyjny|ADJ|административный
-dynamiczny|ADJ|динамический, динамичный
+dynamiczny|ADJ|динамичный
 groźny|ADJ|грозный
 radosny|ADJ|радостный
-transportowy|ADJ|
-ustny|ADJ|устный, вербальный
+ustny|ADJ|устный
 nagły|ADJ|внезапный, неожиданный
 organiczny|ADJ|органический
 poprawny|ADJ|правильный
-powiązać|ADJ|
-przetestować|ADJ|
+powiązać|ADJ|перевязать, связать
+przetestować|ADJ|протестировать
 skórzany|ADJ|кожаный, кожевенный
 stalowy|ADJ|стальной
-konkurencyjny|ADJ|
+konkurencyjny|ADJ|конкурентоспособный
 ozdobny|ADJ|декоративный
-pomarańczowy|ADJ|апельсиновый, апельсинный, оранжевый
+pomarańczowy|ADJ|оранжевый
 ręczny|ADJ|ручной, рукодельный
-zachwycać|ADJ|восхищать, восторгать, восторгаться, восхищаться
+zachwycać|ADJ|восторгаться, восхищаться
 twórczy|ADJ|творческий
-uboczny|ADJ|второстепенный, побочный
+uboczny|ADJ|побочный, второстепенный
 grupowy|ADJ|групповой
 identyczny|ADJ|идентичный
-księgowy|ADJ|бухгалтерский, бухгалтер
-nielegalny|ADJ|незаконный, нелегальный, беззаконный
-polubić|ADJ|
+księgowy|ADJ|бухгалтер, бухгалтерский
+nielegalny|ADJ|нелегальный, незаконный
+polubić|ADJ|полюбить
 suszyć|ADJ|сушить
-śmiertelny|ADJ|смертельный, смертный
-unijny|ADJ|
+śmiertelny|ADJ|смертельный
+unijny|ADJ|союзный
 wąski|ADJ|узкий
-wilgotny|ADJ|влажный, мокрый
+wilgotny|ADJ|мокрый, влажный
 boczny|ADJ|боковой, побочный
-nożny|ADJ|
-skazać|ADJ|
+nożny|ADJ|ножной
+skazać|ADJ|приговорить, осудить
 szósty|ADJ|шестой
 uwzględniać|ADJ|учитывать
 zwyczajny|ADJ|обычный, простой, ординарный
 agresywny|ADJ|агрессивный
-brytyjski|ADJ|британский
-łagodny|ADJ|кроткий, мягкий, нераздражительный, спокойный, тихий, некрепкий, неострый
+łagodny|ADJ|спокойный, тихий, некрепкий, мягкий
 utracić|ADJ|утратить
 wczorajszy|ADJ|вчерашний
-wesoły|ADJ|весёлый, жизнерадостный
+wesoły|ADJ|весёлый
 gazowy|ADJ|газовый
-krytyczny|ADJ|
-mieszkaniowy|ADJ|
-mocować|ADJ|
-olbrzymi|ADJ|
-omawiać|ADJ|
+krytyczny|ADJ|критический
+mieszkaniowy|ADJ|жилищный
+mocować|ADJ|прикреплять, закреплять
+olbrzymi|ADJ|огромный, громадный
+omawiać|ADJ|обсуждать, оговаривать
 pisemny|ADJ|письменный
-płynny|ADJ|жидкий, плавный
+płynny|ADJ|плавный, жидкий
 policyjny|ADJ|полицейский
-przejrzysty|ADJ|понятный, прозрачный
-przerażający|ADJ|
-spłacić|ADJ|
+przejrzysty|ADJ|прозрачный, понятный
+przerażający|ADJ|ужасный, устрашающий, пугающий
+spłacić|ADJ|расплатиться
 technologiczny|ADJ|технологический
-urodzinowy|ADJ|
-załatwiać|ADJ|
-genetyczny|ADJ|генетический, генетски
+urodzinowy|ADJ|ко дню рождения
+załatwiać|ADJ|улаживать, решать
+genetyczny|ADJ|генетический
 komunikacyjny|ADJ|коммуникационный
 laserowy|ADJ|лазерный
-płatny|ADJ|
+płatny|ADJ|платный
 stylowy|ADJ|стильный
 badawczy|ADJ|исследовательский, пристальный
 biologiczny|ADJ|биологический
@@ -678,144 +669,138 @@ pieszy|ADJ|пешеход
 tajny|ADJ|тайный
 weselny|ADJ|свадебный
 zaskakiwać|ADJ|заставать врасплох, удивлять
-bezdomny|ADJ|бездомный, бомж, БОМЖ, бродяга
+bezdomny|ADJ|бездомный
 kontrolny|ADJ|контрольный
 masowy|ADJ|массовый
 pilny|ADJ|прилежный, старательный, усердный, срочный, неотложный
-pomalować|ADJ|
-porządny|ADJ|аккуратный, мощный, порядочный, солидный
+pomalować|ADJ|покрасить
+porządny|ADJ|порядочный, солидный
 roślinny|ADJ|растительный
-słuszny|ADJ|годный, достойный, справедливый, законный, обоснованный, меткий, точный, правильный
-stosowny|ADJ|подходящий, адекватный, оптимальный, уместный
-unosić|ADJ|
-alternatywny|ADJ|
-dekoracyjny|ADJ|декораторский, декорационный
+słuszny|ADJ|правильный, точный, годный, достойный, справедливый, обоснованный
+stosowny|ADJ|подходящий, уместный, соответствующий
+unosić|ADJ|уносить
+alternatywny|ADJ|альтернативный
+dekoracyjny|ADJ|декорационный
 karny|ADJ|уголовный
-malutki|ADJ|
-następujący|ADJ|
-parkingowy|ADJ|
-projektowy|ADJ|
+malutki|ADJ|крошечный
+następujący|ADJ|наступающий
+projektowy|ADJ|проектный
 wiarygodny|ADJ|достоверный, заслуживающий доверия
 wieczny|ADJ|вечный
 efektowny|ADJ|эффектный
 kulinarny|ADJ|кулинарный
 oddzielny|ADJ|отдельный
 przystępny|ADJ|доступный, доходчивый
-rozbudować|ADJ|
-zasadniczy|ADJ|основной, принципиальный
+rozbudować|ADJ|расширить, разработать
+zasadniczy|ADJ|основной, существенный, принципиальный
 żywieniowy|ADJ|питательный
 ambitny|ADJ|амбициозный
 awaryjny|ADJ|аварийный
-dedykować|ADJ|
+dedykować|ADJ|посвящать
 długoterminowy|ADJ|долгосрочный
-hiszpański|ADJ|испанский, шпанский, испанский язык
-nastawić|ADJ|
+nastawić|ADJ|установить
 ograniczony|ADJ|ограниченный
-pieniężny|ADJ|денежный, монетарный, финансовый
+pieniężny|ADJ|денежный
 poranny|ADJ|утренний
-prasowy|ADJ|
-rozegrać|ADJ|
-rozstrzygnąć|ADJ|
-wiekowy|ADJ|
+rozegrać|ADJ|разыграть
+rozstrzygnąć|ADJ|разрешить, рассудить
+wiekowy|ADJ|вековой
 wizualny|ADJ|зрительный
 zachodni|ADJ|западный
 mineralny|ADJ|минеральный
 moralny|ADJ|моральный
-niezapomniany|ADJ|незабвенный, незабываемый
-odmienny|ADJ|склоняемый, отличный, разный
+niezapomniany|ADJ|незабываемый
+odmienny|ADJ|отличный, разный
 początkujący|ADJ|начинающий
 pocztowy|ADJ|почтовый
-radiowy|ADJ|радио-
 rozgrzać|ADJ|разогреть, согреть
-rozpatrywać|ADJ|рассматривать
-sieciowy|ADJ|
-stacjonarny|ADJ|
+rozpatrywać|ADJ|рассматривать, расследовать
+sieciowy|ADJ|сетевой
+stacjonarny|ADJ|стационарный, неподвижный
 telewizyjny|ADJ|телевизионный
 błędny|ADJ|ошибочный
 boski|ADJ|божественный, божий
-docelowy|ADJ|
-jednorodzinny|ADJ|
-kosztowny|ADJ|
+docelowy|ADJ|целевой
+kosztowny|ADJ|дорогой, ценный
 materialny|ADJ|материальный
 obywatelski|ADJ|гражданский
-pozyskiwać|ADJ|
+pozyskiwać|ADJ|получать
 rolniczy|ADJ|аграрный, сельский
-sporządzić|ADJ|оформить, составить
-sympatyczny|ADJ|симпатический, симпатичный
+sporządzić|ADJ|подготовить. оформить, составить
+sympatyczny|ADJ|симпатичный
 szlachetny|ADJ|благородный, правый
-ścisły|ADJ|точный
+ścisły|ADJ|точный, тесный
 ubezpieczeniowy|ADJ|страховой
 czekoladowy|ADJ|шоколадный
 górski|ADJ|горный
 hipoteczny|ADJ|ипотечный
 kolejowy|ADJ|железнодорожный
 tłuszczowy|ADJ|жировой
-uczciwy|ADJ|честный, порядочный, щирый
+uczciwy|ADJ|честный, порядочный
 użyteczny|ADJ|полезный
-zdobić|ADJ|
-zlokalizować|ADJ|
+zdobić|ADJ|украсить
+zlokalizować|ADJ|локализовать, обнаружить
 aluminiowy|ADJ|алюминиевый
 krytykować|ADJ|критиковать
 małżeński|ADJ|супружеский
 oddechowy|ADJ|дыхательный
-strategiczny|ADJ|
-ukochać|ADJ|
-wliczyć|ADJ|
-zapalny|ADJ|
+strategiczny|ADJ|стратегический
+ukochać|ADJ|полюбить
+wliczyć|ADJ|включить, зачислить
+zapalny|ADJ|огнеопасный
 zobowiązać|ADJ|обязать
-dogodny|ADJ|подходящий
+dogodny|ADJ|подходящий, удобный
 doświadczony|ADJ|опытный
-konferencyjny|ADJ|
 kulturowy|ADJ|культурный
 legalny|ADJ|легальный
 merytoryczny|ADJ|существенный
-mieszany|ADJ|
-określony|ADJ|
-roczny|ADJ|годовалый, однолетний, годовой
+mieszany|ADJ|смешанный
+określony|ADJ|определённый
+roczny|ADJ|ежегодный, годовой
 rzetelny|ADJ|добросовестный, надёжный
-tragiczny|ADJ|трагедийный, трагический, трагичный
+tragiczny|ADJ|трагический, трагичный
 wieczorny|ADJ|вечерний
 wojenny|ADJ|военный
-wskazany|ADJ|
+wskazany|ADJ|указанный
 wychowawczy|ADJ|воспитательный
 aktualizować|ADJ|обновлять, актуализировать
 atmosferyczny|ADJ|атмосферический
-bezprzewodowy|ADJ|беспроводной, беспроводный
-dozwolić|ADJ|
-formalny|ADJ|
+bezprzewodowy|ADJ|беспроводной
+dozwolić|ADJ|разрешить
+formalny|ADJ|формальный
 głośny|ADJ|громкий
 klimatyczny|ADJ|климатический
-rozczarować|ADJ|
-towarzyski|ADJ|общительный, коммуникабельный, товарищеский
+rozczarować|ADJ|разочаровать
+towarzyski|ADJ|товарищеский
 uzbroić|ADJ|
-zobowiązywać|ADJ|обязывать
+zobowiązywać|ADJ|обязывавооружитьть
 grecki|ADJ|греческий
 hamować|ADJ|тормозить
 komercyjny|ADJ|коммерческий
-magnetyczny|ADJ|магнитный, привлекательный, магнетический
+magnetyczny|ADJ|магнитный
 nieszczęśliwy|ADJ|несчастный, несчастливый
 pamiątkowy|ADJ|памятный
-perfekcyjny|ADJ|
+perfekcyjny|ADJ|совершенный, идеальный
 podsumować|ADJ|суммировать
 rynkowy|ADJ|рыночный
-skraść|ADJ|
+skraść|ADJ|украсть
 tematyczny|ADJ|тематический
-terapeutyczny|ADJ|терапевтический, лечебный
-toksyczny|ADJ|токсический, токсичный
+terapeutyczny|ADJ|терапевтический
+toksyczny|ADJ|токсичный
 treningowy|ADJ|тренинговый, тренировочный
-użytkowy|ADJ|
-wzbogacić|ADJ|
+użytkowy|ADJ|полезный, прикладной
+wzbogacić|ADJ|обогатить
 zdecydowany|ADJ|решительный
 dopuszczalny|ADJ|допустимый
 leśny|ADJ|лесной
-magazynowy|ADJ|
+magazynowy|ADJ|складской
 miesięczny|ADJ|месячный
-okolicznościowy|ADJ|
+okolicznościowy|ADJ|случайный, эпизодический
 przestronny|ADJ|просторный
 rolny|ADJ|аграрный, сельскохозяйственный, земельный
-starożytny|ADJ|античный, древний
+starożytny|ADJ|древний
 tymczasowy|ADJ|временный
-ująć|ADJ|
+ująć|ADJ|схватить
 zakazać|ADJ|запретить
 zapasowy|ADJ|запасной
 hormonalny|ADJ|гормональный
@@ -825,28 +810,28 @@ oskarżyć|ADJ|обвинить
 południowy|ADJ|южный
 poszerzać|ADJ|расширять
 prawdopodobny|ADJ|вероятный, правдоподобный
-ruchowy|ADJ|
+ruchowy|ADJ|двигательный
 skromny|ADJ|скромный
-sztywny|ADJ|жёсткий
-usługowy|ADJ|
-wbudować|ADJ|
-wciągać|ADJ|
+sztywny|ADJ|жёсткий, негибкий
+usługowy|ADJ|обслуживающий
+wbudować|ADJ|встроить
+wciągać|ADJ|поднимать
 zastępować|ADJ|заменять, замещать
 zdalny|ADJ|удалённый, дистанционный
-jednolity|ADJ|единообразный, однородный
-odbić|ADJ|
+jednolity|ADJ|однородный, сплошной
+odbić|ADJ|отразить, отбить
 otoczyć|ADJ|окружить
 owocowy|ADJ|фруктовый
-przeciętny|ADJ|обычный, простой, средний, типичный
+przeciętny|ADJ|обычный, типичный
 serdeczny|ADJ|сердечный
-socjalny|ADJ|
+socjalny|ADJ|социальный
 wiejski|ADJ|сельский
-wybitny|ADJ|выдающийся, крупный
+wybitny|ADJ|выдающийся
 zlikwidować|ADJ|ликвидировать
 złośliwy|ADJ|злобный, язвительный
-zwrotny|ADJ|
+zwrotny|ADJ|возвратный
 akademicki|ADJ|академический
-brzydki|ADJ|плохой, скверный, уродливый, некрасивый
+brzydki|ADJ|уродливый, некрасивый
 dydaktyczny|ADJ|дидактический
 marny|ADJ|крохотный, ничтожный, плохой
 obowiązujący|ADJ|
@@ -917,7 +902,7 @@ ostrożny|ADJ|осторожный, осмотрительный
 podwyższyć|ADJ|
 podziemny|ADJ|подземный, подпольный
 przesunąć|ADJ|передвинуть
-rozmaity|ADJ|разнообразный, разный
+rozmaity|ADJ|разнообразный, всевозможный, разный
 ryzykowny|ADJ|рискованный
 samorządowy|ADJ|
 wypracować|ADJ|
@@ -2610,14 +2595,11 @@ licowy|ADJ|
 limfatyczny|ADJ|лимфатический
 linowy|ADJ|канатный
 liturgiczny|ADJ|литургический
-londyński|ADJ|лондонский
-lubuski|ADJ|
-łódzki|ADJ|лодзинский
 menedżerski|ADJ|менеджерский
 mglisty|ADJ|туманный
 mierzalny|ADJ|измеримый
 miesiączkowy|ADJ|менструальный
-młodociany|ADJ|
+młodociany|ADJ|молодой
 muszkatołowy|ADJ|
 naczyniowy|ADJ|сосудистый
 nadwrażliwy|ADJ|
@@ -3137,7 +3119,6 @@ staroświecki|ADJ|старозаветный, старосветский
 strzelecki|ADJ|
 stylistyczny|ADJ|стилистический
 swędzić|ADJ|зудеть, чесаться
-syberyjski|ADJ|сибирский
 symetryczny|ADJ|симметрический, симметричный
 sypki|ADJ|
 szyjny|ADJ|

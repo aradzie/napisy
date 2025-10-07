@@ -1,16 +1,16 @@
-w,ADP,24641
-nie,PART,22672
+w,ADP,24642
+nie,PART,22673
 się,PRON,21925
-i,CCONJ,21469
-na,ADP,19411
-z,ADP,17756
+i,CCONJ,21470
+na,ADP,19412
+z,ADP,17757
 on,PRON,15610
 do,ADP,12498
 ten,DET,10926
 mieć,VERB,9746
 że,SCONJ,9720
-ja,PRON,7470
-co,PRON,7445
+ja,PRON,7471
+co,PRON,7446
 jak,ADV,7366
 o,ADP,6650
 móc,VERB,6257
@@ -53,7 +53,7 @@ przez,ADP,1918
 wszystek,DET,1916
 zrobić,VERB,1896
 dobrze,ADV,1895
-też,PART,1866
+też,PART,1867
 sam,ADJ,1808
 twój,DET,1788
 praca,NOUN,1776
@@ -144,7 +144,7 @@ możliwość,NOUN,758
 trzeba,VERB,757
 własny,ADJ,750
 zacząć,VERB,745
-jako,SCONJ,737
+jako,SCONJ,738
 właśnie,PART,734
 wykonać,VERB,728
 książka,NOUN,726
@@ -172,7 +172,7 @@ działać,NOUN,662
 woda,NOUN,652
 podczas,ADP,651
 iść,VERB,646
-posiadać,NOUN,641
+posiadać,NOUN,642
 droga,NOUN,635
 czuć,VERB,634
 prowadzić,VERB,633
@@ -280,7 +280,7 @@ grupa,NOUN,400
 kraj,NOUN,399
 miesiąc,NOUN,398
 kupić,VERB,397
-dostępny,ADJ,396
+dostępny,ADJ,397
 udać,VERB,396
 udział,NOUN,396
 wybór,NOUN,396
@@ -404,8 +404,8 @@ trwać,VERB,298
 oferować,VERB,297
 błąd,NOUN,296
 uczeń,NOUN,296
-dodatkowy,ADJ,295
-łatwo,ADV,295
+dodatkowy,ADJ,296
+łatwo,ADV,296
 dokładnie,PART,295
 trudny,ADJ,294
 zdrowie,NOUN,294
@@ -1327,10 +1327,10 @@ obawiać,VERB,99
 organizator,NOUN,99
 waga,NOUN,99
 wyciągnąć,ADJ,99
-oczekiwanie,NOUN,98
-przód,NOUN,98
-restauracja,NOUN,98
-ruszać,VERB,98
+oczekiwanie,NOUN,99
+przód,NOUN,99
+restauracja,NOUN,99
+ruszać,VERB,99
 faktycznie,PART,98
 ochota,NOUN,98
 odzyskać,VERB,98
@@ -7602,7 +7602,6 @@ słynąć,VERB,8
 smakołyk,NOUN,8
 smakowy,ADJ,8
 solidarność,NOUN,8
-sperma,NOUN,8
 spierać,VERB,8
 sprzeczność,NOUN,8
 stanowczo,ADV,8
@@ -11075,7 +11074,6 @@ osad,NOUN,4
 osolić,ADJ,4
 ostrzał,NOUN,4
 oszczędnościowy,ADJ,4
-owa,DET,4
 ósemka,NOUN,4
 paluch,NOUN,4
 pamiątek,NOUN,4
@@ -11269,7 +11267,6 @@ trybunał,NOUN,4
 trzeźwość,NOUN,4
 trzęsienie,NOUN,4
 tunik,NOUN,4
-twa,DET,4
 twór,NOUN,4
 uaktualnić,NOUN,4
 ubolewać,VERB,4
@@ -25663,7 +25660,6 @@ susła,NOUN,1
 susz,NOUN,1
 suterena,NOUN,1
 sutkowy,ADJ,1
-swa,DET,1
 swap,PROPN,1
 swoistość,NOUN,1
 swojsko,ADV,1
