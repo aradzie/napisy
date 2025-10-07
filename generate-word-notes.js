@@ -16,7 +16,7 @@ const morpholog = await Morpholog.load();
 
 const index = await PhraseIndex.load(await Blacklist.load());
 
-const all = await loadFrequencyDictionary(pathTo("corpus/freq.csv"));
+const all = await loadFrequencyDictionary(pathTo("corpus/freq-all.csv"));
 const list = all.filter(
   (entry) =>
     entry.pos === "VERB" || //
@@ -99,26 +99,12 @@ function makeBack({ lemma, pos, senses, synonyms, antonyms, tags, ppm }) {
       }
     }
   };
-  if (pos === "VERB") {
-    // spotkać -> spotkanie | ger:sg:nom.acc:n:perf:aff
-    // addWords(morpholog.find(lemma, Xpos.ger, Xext.sg | Xext.nom | Xext.aff));
-  }
-  if (pos === "NOUN") {
-    // posiadać -> posiadanie | ger:sg:nom.acc:n:perf:aff
-    addWords(morpholog.find(lemma, Xpos.ger, Xext.sg | Xext.nom | Xext.aff));
-  }
   if (pos === "ADJ") {
     const xlemma = Xext.sg | Xext.nom | Xext.m1 | Xext.m2 | Xext.m3;
     // dobry -> lepszy | adj:sg:nom.voc:m1.m2.m3:com
     addWords(morpholog.find(lemma, Xpos.adj, xlemma | Xext.com));
     // dobry -> najlepszy | adj:sg:nom.voc:m1.m2.m3:sup
     addWords(morpholog.find(lemma, Xpos.adj, xlemma | Xext.sup));
-    // dotyczyć -> dotyczący | pact:sg:nom.voc:m1.m2.m3:imperf:aff
-    addWords(morpholog.find(lemma, Xpos.pact, xlemma | Xext.imperf | Xext.aff));
-    // stosować -> stosowany | ppas:sg:nom.voc:m1.m2.m3:imperf:aff
-    addWords(morpholog.find(lemma, Xpos.ppas, xlemma | Xext.imperf | Xext.aff));
-    // podać -> podany | ppas:sg:nom.voc:m1.m2.m3:perf:aff
-    addWords(morpholog.find(lemma, Xpos.ppas, xlemma | Xext.perf | Xext.aff));
   }
   if (pos === "ADV") {
     // szybko -> szybciej | adv:com
