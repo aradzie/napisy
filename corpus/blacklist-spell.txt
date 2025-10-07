@@ -20,8 +20,10 @@ az
 ą
 b
 ba
+babo
 bdb
 be
+ber
 bhp
 bi
 bibl
@@ -47,6 +49,7 @@ ce
 cę
 cf
 chrz
+chrzt
 ck
 ckm
 cl
@@ -91,8 +94,10 @@ facto
 fag
 fai
 fe
+fez
 ff
 fi
+fiz
 fm
 fo
 ft
@@ -162,6 +167,8 @@ kpk
 kpr
 kpt
 krk
+krz
+kuk
 kw
 l
 la
@@ -174,6 +181,7 @@ lu
 ł
 m
 maa
+mat
 mą
 mbps
 md
@@ -195,6 +203,7 @@ n
 nb
 nd
 nieee
+nita
 np
 nr
 nu
@@ -267,6 +276,7 @@ swa
 śr
 św
 t
+taaak
 takk
 tc
 teks
@@ -280,6 +290,7 @@ tot
 tr
 tss
 twa
+tyko
 tzn
 tzw
 ud

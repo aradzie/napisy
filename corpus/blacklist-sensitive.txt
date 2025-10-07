@@ -27,6 +27,8 @@ biblij*
 biblio
 bibliom
 biskup*
+bolszewic*
+bolszewik*
 burdel*
 chińszczy*
 chryst*
@@ -53,6 +55,7 @@ faszyz*
 gay*
 gaza
 gej*
+gestap*
 gułag*
 heroin*
 hidżab*
@@ -63,7 +66,9 @@ incest*
 islam*
 izrael*
 jezu*
+judaist*
 judaiz*
+judasz*
 kastrac*
 katoli*
 katyń*

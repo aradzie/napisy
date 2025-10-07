@@ -2,12 +2,15 @@ import { Blacklist } from "../lib/blacklist.js";
 import { writeCsvFile } from "../lib/csv.js";
 import { findFiles, pathTo, readLines } from "../lib/io.js";
 import { Lemmata } from "../lib/lemmata.js";
+import { Morpholog } from "../lib/morpholog.js";
 import { collator } from "../lib/text.js";
+import { Xext, Xpos } from "../lib/xtags.js";
+
+const morpholog = await Morpholog.load();
 
 const blacklist = await Blacklist.load();
 
-const lemmaDict = new Map();
-const formDict = new Map();
+const dict = new Map();
 
 for await (const path of findFiles("corpus", "corpus*-lemmata.txt")) {
   console.log(`Reading a lemmata file "${path}"`);
@@ -16,29 +19,29 @@ for await (const path of findFiles("corpus", "corpus*-lemmata.txt")) {
   }
 }
 
-const lemmas = stats([...lemmaDict.values()]).filter(({ ppm }) => ppm >= 1);
-await dumpLemmas(
-  lemmas.filter(({ pos }) => pos !== "NUM" && pos !== "AUX"),
-  pathTo("corpus/freq.csv"),
+const list = stats([...dict.values()]).filter(({ ppm }) => ppm >= 3);
+await dump(
+  list.filter(({ pos }) => pos !== "NUM" && pos !== "AUX"),
+  pathTo("corpus/freq-all.csv"),
 );
-await dumpLemmas(
-  lemmas.filter(({ pos }) => pos === "ADJ"),
+await dump(
+  list.filter(({ pos }) => pos === "ADJ"),
   pathTo("corpus/freq-adj.csv"),
 );
-await dumpLemmas(
-  lemmas.filter(({ pos }) => pos === "ADV"),
+await dump(
+  list.filter(({ pos }) => pos === "ADV"),
   pathTo("corpus/freq-adv.csv"),
 );
-await dumpLemmas(
-  lemmas.filter(({ pos }) => pos === "NOUN"),
+await dump(
+  list.filter(({ pos }) => pos === "NOUN"),
   pathTo("corpus/freq-noun.csv"),
 );
-await dumpLemmas(
-  lemmas.filter(({ pos }) => pos === "VERB"),
+await dump(
+  list.filter(({ pos }) => pos === "VERB"),
   pathTo("corpus/freq-verb.csv"),
 );
-await dumpLemmas(
-  lemmas.filter(
+await dump(
+  list.filter(
     ({ pos }) =>
       pos !== "ADJ" && //
       pos !== "ADV" &&
@@ -47,59 +50,84 @@ await dumpLemmas(
       pos !== "NUM" &&
       pos !== "VERB",
   ),
-  pathTo("corpus/freq-etc.csv"),
+  pathTo("corpus/freq-etc-all.csv"),
 );
-await dumpLemmas(
-  lemmas.filter(({ pos }) => pos === "ADP"),
+await dump(
+  list.filter(({ pos }) => pos === "ADP"),
   pathTo("corpus/freq-etc-adp.csv"),
 );
-await dumpLemmas(
-  lemmas.filter(({ pos }) => pos === "CONJ" || pos === "CCONJ" || pos === "SCONJ"),
+await dump(
+  list.filter(
+    ({ pos }) =>
+      pos === "CONJ" || //
+      pos === "CCONJ" ||
+      pos === "SCONJ",
+  ),
   pathTo("corpus/freq-etc-conj.csv"),
 );
-await dumpLemmas(
-  lemmas.filter(({ pos }) => pos === "DET"),
+await dump(
+  list.filter(({ pos }) => pos === "DET"),
   pathTo("corpus/freq-etc-det.csv"),
 );
-await dumpLemmas(
-  lemmas.filter(({ pos }) => pos === "PART"),
+await dump(
+  list.filter(({ pos }) => pos === "PART"),
   pathTo("corpus/freq-etc-part.csv"),
 );
-await dumpLemmas(
-  lemmas.filter(({ pos }) => pos === "PRON"),
+await dump(
+  list.filter(({ pos }) => pos === "PRON"),
   pathTo("corpus/freq-etc-pron.csv"),
 );
-
-const forms = stats([...formDict.values()]).filter(({ ppm }) => ppm >= 3);
-await dumpForms(forms, pathTo("corpus/freq-raw.csv"));
 
 function parsePhrase(line) {
   for (const word of Lemmata.parseLine(line)) {
     let { lemma, form, pos } = word;
 
-    lemma = canonical(lemma);
-    form = canonical(form);
-
     if (blacklist.bad(lemma) || blacklist.bad(form)) {
       continue;
     }
 
-    let lemmaItem = lemmaDict.get(lemma);
-    if (lemmaItem == null) {
-      lemmaDict.set(lemma, (lemmaItem = { lemma, pos, count: 0, ppm: 0 }));
-    }
-    lemmaItem.count += 1;
+    let verb = null;
 
-    let formItem = formDict.get(form);
-    if (formItem == null) {
-      formDict.set(form, (formItem = { form, lemma, pos, count: 0, ppm: 0 }));
+    switch (pos) {
+      case "NOUN": {
+        if (lemma === "postać") {
+          break;
+        }
+        // projektować -> projektowanie | ger:sg:nom.acc:n:imperf:aff
+        const result = morpholog.find(lemma, Xpos.ger, Xext.sg | Xext.nom | Xext.aff);
+        if (result.length > 0) {
+          verb = lemma;
+          lemma = result[0].form;
+        }
+        break;
+      }
+      case "ADJ": {
+        let result;
+        // stosować -> stosowany | ppas:sg:nom.voc:m1.m2.m3:imperf:aff
+        result = morpholog.find(lemma, Xpos.ppas, Xext.sg | Xext.nom | Xext.m1 | Xext.m2 | Xext.m3 | Xext.aff);
+        if (result.length > 0) {
+          verb = lemma;
+          lemma = result[0].form;
+          break;
+        }
+        // dotyczyć -> dotyczący | pact:sg:nom.voc:m1.m2.m3:imperf:aff
+        result = morpholog.find(lemma, Xpos.pact, Xext.sg | Xext.nom | Xext.m1 | Xext.m2 | Xext.m3 | Xext.aff);
+        if (result.length > 0) {
+          verb = lemma;
+          lemma = result[0].form;
+          break;
+        }
+        break;
+      }
     }
-    formItem.count += 1;
+
+    const key = `${pos}:${lemma}`;
+    let entry = dict.get(key);
+    if (entry == null) {
+      dict.set(key, (entry = { lemma, pos, count: 0, ppm: 0, verb }));
+    }
+    entry.count += 1;
   }
-}
-
-function canonical(word) {
-  return word;
 }
 
 function stats(items) {
@@ -113,18 +141,10 @@ function stats(items) {
   return items;
 }
 
-async function dumpLemmas(items, path) {
-  const rows = [...items]
+async function dump(list, path) {
+  const rows = [...list]
     .sort((a, b) => b.count - a.count || collator.compare(a.lemma, b.lemma))
-    .map(({ lemma, pos, ppm }) => [lemma, pos, ppm]);
-  console.log(`Writing ${rows.length} lines to file "${path}"`);
-  await writeCsvFile(path, rows);
-}
-
-async function dumpForms(items, path) {
-  const rows = [...items]
-    .sort((a, b) => b.count - a.count || collator.compare(a.form, b.form))
-    .map(({ form, lemma, pos, ppm }) => [form, lemma, pos, ppm]);
+    .map(({ lemma, pos, ppm, verb }) => (verb ? [lemma, pos, ppm, verb] : [lemma, pos, ppm]));
   console.log(`Writing ${rows.length} lines to file "${path}"`);
   await writeCsvFile(path, rows);
 }

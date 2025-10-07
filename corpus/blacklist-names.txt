@@ -36,6 +36,7 @@ hond*
 hulk*
 hyunda*
 iljuszyn*
+jeep
 kentuck*
 kepler*
 mackenz*

@@ -8,6 +8,19 @@ function checkLine(line) {
   if (line.length < 15) {
     return false;
   }
+  let i;
+  i = line.indexOf(".");
+  if (i !== -1 && i < line.length - 1) {
+    return false;
+  }
+  i = line.indexOf("!");
+  if (i !== -1 && i < line.length - 1) {
+    return false;
+  }
+  i = line.indexOf("?");
+  if (i !== -1 && i < line.length - 1) {
+    return false;
+  }
   const words = line.split(/[- .,!?]+/g).filter(Boolean);
   if (
     words.length < 3 ||

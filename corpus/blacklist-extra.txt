@@ -3,7 +3,12 @@ billboard*
 billing*
 design*
 dolar*
+dossier
+eksces
+emulator
 facto
+font
+gametofit
 ketchup*
 mozzarel*
 priori

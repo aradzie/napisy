@@ -352,6 +352,8 @@ band
 bang
 banging
 banks
+banner
+banners
 barbara
 bare
 barely
@@ -386,6 +388,8 @@ bay
 beach
 beagle
 beam
+beanie
+beanies
 beans
 bear
 beard
@@ -828,6 +832,7 @@ check
 checked
 checking
 checks
+cheddar
 cheek
 cheer
 cheering
@@ -1487,6 +1492,7 @@ dumb
 dummy
 dump
 dumped
+dumping
 duncan
 dunno
 during
@@ -1966,6 +1972,8 @@ gave
 gay
 gear
 gee
+gender
+genders
 gene
 generally
 generals
@@ -2036,6 +2044,8 @@ goose
 gordon
 gorgeous
 gosh
+gospel
+gospels
 gossip
 gotcha
 gotta
@@ -2531,6 +2541,8 @@ josh
 journalist
 journey
 joy
+joystick
+joysticks
 juan
 judge
 judges
@@ -2677,6 +2689,8 @@ lawyer
 lawyers
 lay
 laying
+layout
+layouts
 lazy
 lead
 leader
@@ -3719,6 +3733,7 @@ range
 ranger
 rangers
 rank
+ranking
 ransom
 rap
 rape

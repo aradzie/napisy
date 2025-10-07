@@ -101,30 +101,30 @@ function makeBack({ lemma, pos, senses, synonyms, antonyms, tags, ppm }) {
   };
   if (pos === "VERB") {
     // spotkać -> spotkanie | ger:sg:nom.acc:n:perf:aff
-    // addWords(morpholog.findByLemma(lemma, Xpos.ger, Xext.sg | Xext.nom | Xext.aff));
+    // addWords(morpholog.find(lemma, Xpos.ger, Xext.sg | Xext.nom | Xext.aff));
   }
   if (pos === "NOUN") {
     // posiadać -> posiadanie | ger:sg:nom.acc:n:perf:aff
-    addWords(morpholog.findByLemma(lemma, Xpos.ger, Xext.sg | Xext.nom | Xext.aff));
+    addWords(morpholog.find(lemma, Xpos.ger, Xext.sg | Xext.nom | Xext.aff));
   }
   if (pos === "ADJ") {
     const xlemma = Xext.sg | Xext.nom | Xext.m1 | Xext.m2 | Xext.m3;
     // dobry -> lepszy | adj:sg:nom.voc:m1.m2.m3:com
-    addWords(morpholog.findByLemma(lemma, Xpos.adj, xlemma | Xext.com));
+    addWords(morpholog.find(lemma, Xpos.adj, xlemma | Xext.com));
     // dobry -> najlepszy | adj:sg:nom.voc:m1.m2.m3:sup
-    addWords(morpholog.findByLemma(lemma, Xpos.adj, xlemma | Xext.sup));
+    addWords(morpholog.find(lemma, Xpos.adj, xlemma | Xext.sup));
     // dotyczyć -> dotyczący | pact:sg:nom.voc:m1.m2.m3:imperf:aff
-    addWords(morpholog.findByLemma(lemma, Xpos.pact, xlemma | Xext.imperf | Xext.aff));
+    addWords(morpholog.find(lemma, Xpos.pact, xlemma | Xext.imperf | Xext.aff));
     // stosować -> stosowany | ppas:sg:nom.voc:m1.m2.m3:imperf:aff
-    addWords(morpholog.findByLemma(lemma, Xpos.ppas, xlemma | Xext.imperf | Xext.aff));
+    addWords(morpholog.find(lemma, Xpos.ppas, xlemma | Xext.imperf | Xext.aff));
     // podać -> podany | ppas:sg:nom.voc:m1.m2.m3:perf:aff
-    addWords(morpholog.findByLemma(lemma, Xpos.ppas, xlemma | Xext.perf | Xext.aff));
+    addWords(morpholog.find(lemma, Xpos.ppas, xlemma | Xext.perf | Xext.aff));
   }
   if (pos === "ADV") {
     // szybko -> szybciej | adv:com
-    addWords(morpholog.findByLemma(lemma, Xpos.adv, Xext.com));
+    addWords(morpholog.find(lemma, Xpos.adv, Xext.com));
     // szybko -> najszybciej | adv:sup
-    addWords(morpholog.findByLemma(lemma, Xpos.adv, Xext.sup));
+    addWords(morpholog.find(lemma, Xpos.adv, Xext.sup));
   }
   const lines = [];
   lines.push(`${title.join(", ")}`);
