@@ -2,6 +2,7 @@ abrakadabr*
 billboard*
 billing*
 bing
+blog
 bootleg
 capella
 carpe
@@ -36,6 +37,7 @@ sacrum
 sanctus
 sanepid*
 sannjasini
+serwer
 shui
 strit
 supermen*

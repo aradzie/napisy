@@ -29,6 +29,9 @@ const seq = [100, 200, 300, 500, 800, 1300, 2100, 3400, 5500];
 let start = 0;
 for (const end of seq) {
   for (const entry of list.slice(start, end)) {
+    if (entry.senses.includes("-")) {
+      continue;
+    }
     const pn = posName(entry.pos);
     notes.push(
       newNote()

@@ -26,7 +26,7 @@ jak|ADV|как ;;; jak
 czy|PART|
 bardzo|ADV|очень, весьма ;;; wysoce
 chcieć|VERB|хотеть ;;; pragnąć
-za|ADP|за ;;; za, poza
+za|ADP|за ;;; za
 swój|DET|свой ;;; właściwy
 mój|DET|мой
 nasz|DET|наш
@@ -64,16 +64,16 @@ jeszcze|PART|ещё
 oraz|CCONJ|или ;;; lub, albo
 rok|NOUN|год
 miejsce|NOUN|место
-tu|ADV|здесь, тут, сюда ;;; tutaj, tędy
+tu|ADV|здесь, тут, сюда ;;; tutaj
 życie|NOUN|жизнь ;;; żywot
 może|PART|может
 teraz|ADV|теперь, сейчас ;;; obecnie, zaraz
-więc|SCONJ|
+więc|SCONJ|поэтому ;;; więc, dlatego, stąd
 nowy|ADJ|новый
 powiedzieć|VERB|сказать, рассказать ;;; opowiedzieć
 dzień|NOUN|день ;;; doba
 cały|ADJ|целый, весь
-wiele|DET|много ;;; sporo
+wiele|DET|много ;;; sporo, wiele
 osoba|NOUN|особа, лицо (человек) ;;; osobistość
 żeby|SCONJ|чтобы ;;; aby
 duży|ADJ|большой, крупный ;;; wielki
@@ -83,14 +83,14 @@ kiedy|ADV|когда ;;; gdy, gdyby
 również|PART|также ;;; także
 pierwszy|ADJ|первый
 mówić|VERB|говорить, рассказывать ;;; opowiadać
-przed|ADP|перед ;;; przód
+przed|ADP|перед ;;; wobec, przód
 myśleć|VERB|думать, мыслить ;;; sądzić
-bo|SCONJ|потому что ;;; dlatego, ponieważ
+bo|SCONJ|потому что ;;; dlatego, ponieważ, iż
 powinien|VERB|должен ;;; musieć
 znaleźć|VERB|найти, обнаружить ;;; odnaleźć, wyjaśnić, odkryć, wykazać, ujawnić, wykryć
 kto|PRON|кто ;;; któż
 dom|NOUN|дом
-robić|VERB|делать, становиться ;;; czynić, stać, stawać
+robić|VERB|делать, становиться ;;; czynić, stać, zostać, stawać
 bez|ADP|без
 pan|NOUN|пан, господин
 nic|PRON|ничто, ничего
@@ -116,15 +116,15 @@ gdzie|ADV|где, куда ;;; którędy, dokąd
 należeć|VERB|принадлежать, нужно, следует ;;; musieć, trzeba
 także|PART|также ;;; również
 dać|VERB|дать, получиться, удаться
-prosty|ADJ|простой, прямой, ровный ;;; łatwy, zwyczajny, bezpośredni, równy
+prosty|ADJ|простой, прямой, ровный ;;; łatwy, lekki, zwyczajny, bezpośredni, równy
 mały|ADJ|маленький, малый ;;; maleńki
 świat|NOUN|мир, свет ;;; pokój, światło
 wyglądać|VERB|выглядеть
 czy|CCONJ|
 pod|ADP|пож
-tutaj|ADV|здесь, сюда ;;; tu, tędy
+tutaj|ADV|здесь, сюда ;;; tu
 koniec|NOUN|конец, край (конец) ;;; kres
-rzecz|NOUN|вещь, предмет, тема ;;; przedmiot, zawartość, temat, skórka
+rzecz|NOUN|вещь, предмет ;;; przedmiot, zawartość
 sprawa|NOUN|дело ;;; czynność, interes, dzieło
 problem|NOUN|проблема
 kobieta|NOUN|женщина
@@ -133,7 +133,7 @@ informacja|NOUN|информация
 firma|NOUN|фирма ;;; przedsiębiorstwo
 naprawdę|PART|
 produkt|NOUN|продукт ;;; wyrób
-stać|VERB|стоять, становиться ;;; robić, stawać
+stać|VERB|стоять, становиться ;;; robić, zostać, stawać
 zdjęcie|NOUN|снимок, фотография ;;; fotografia
 zobaczyć|VERB|увидеть
 kolejny|ADJ|следующий, очередной ;;; następny, przyszły, poniższy
@@ -151,7 +151,7 @@ zacząć|VERB|начать
 chodzić|VERB|ходить ;;; iść
 jako|SCONJ|
 książka|NOUN|книга ;;; księga
-temat|NOUN|тема ;;; rzecz, skórka
+temat|NOUN|тема
 część|NOUN|часть, деталь ;;; kawałek, jednostka, element, szczegół, detal
 pomoc|NOUN|помощь ;;; ratunek
 właśnie|PART|
@@ -161,7 +161,7 @@ zmiana|NOUN|изменение, перемена ;;; przemiana
 cena|NOUN|цена, стоимость ;;; wartość
 warto|VERB|стоит (сделать что-то)
 potrzebować|VERB|требовать, нуждаться ;;; żądać, wymagać
-dlatego|ADV|потому что, поэтому ;;; bo, ponieważ, stąd
+dlatego|ADV|потому что, поэтому ;;; więc, stąd, bo, ponieważ, iż
 zapraszać|VERB|приглашать ;;; prosić, zachęcać
 prawda|NOUN|правда, истина ;;; racja
 nikt|PRON|никто
@@ -171,7 +171,7 @@ woda|NOUN|вода
 podczas|ADP|во время
 dzięki|ADP|благодаря
 wszyscy|PRON|все ;;; wszyscy
-iść|VERB|идти, ходить ;;; chodzić, padać, toczyć, uchodzić
+iść|VERB|идти, ходить ;;; chodzić, toczyć, uchodzić
 czuć|VERB|чувствовать
 droga|NOUN|дорога, путь ;;; tor, szlak
 różny|ADJ|разный ;;; inny, odmienny, rozmaity
@@ -205,8 +205,8 @@ projekt|NOUN|проект
 wielki|ADJ|большой, великий ;;; duży
 zły|ADJ|злой, плохой, сердитый ;;; kiepski, marny
 posiadać|VERB|
-ile|DET|
-oczywiście|PART|
+ile|DET|сколько ;;; kilka, ile
+oczywiście|PART|естественно, разуметься
 sytuacja|NOUN|ситуация
 trochę|ADV|немного ;;; mało, trochę, niewiele
 wybrać|VERB|выбрать
@@ -217,9 +217,9 @@ jakość|NOUN|качество
 pracować|VERB|работать
 i|PART|и ;;; i, coraz
 albo|CCONJ|или ;;; oraz, lub
-działać|VERB|
+działać|VERB|действовать ;;; postępować
 szukać|VERB|искать
-dużo|DET|
+dużo|DET|очень (много)
 dane|NOUN|данные
 sprawdzić|VERB|проверить
 działanie|NOUN|действие ;;; czynność, aktywność, czyn
@@ -249,7 +249,7 @@ historia|NOUN|история ;;; opowieść, dzieje
 żyć|VERB|жить ;;; mieszkać
 istnieć|VERB|существовать
 przyjść|VERB|прийти
-rozwiązanie|NOUN|решение, разгадка ;;; decyzja
+rozwiązanie|NOUN|решение, разгадка ;;; decyzja, ustalenie
 długo|ADV|длинно, долго
 pomysł|NOUN|идея, мысль ;;; myśl, idea
 gdyby|SCONJ|когда, если ;;; jeśli, gdy, jeżeli, kiedy
@@ -267,16 +267,16 @@ pełny|ADJ|полный ;;; całkowity, absolutny, puszysty, zupełny, otyły
 pewno|ADV|обязательно, точно ;;; koniecznie, dokładnie
 zbyt|ADV|слишком
 długi|ADJ|долгий, длинный
-niestety|PART|
+niestety|PART|к сожалению
 mężczyzna|NOUN|мужчина
-oba|DET|
+oba|DET|оба
 prawdziwy|ADJ|правдивый, настоящий, подлинный ;;; trafny, niniejszy, autentyczny
-niektóry|DET|
+niektóry|DET|некоторый
 kraj|NOUN|страна, сторона ;;; strona, bok, państwo, kraina
 grupa|NOUN|группа
 miesiąc|NOUN|месяц ;;; księżyc
 wybór|NOUN|выбор
-udać|VERB|
+udać|VERB|притвориться
 udział|NOUN|участие ;;; uczestnictwo, współudział
 dostępny|ADJ|доступный ;;; przystępny
 program|NOUN|программа
@@ -302,12 +302,12 @@ brać|VERB|брать
 poziom|NOUN|уровень
 próbować|VERB|пробовать ;;; spróbować, smakować
 późno|ADV|поздно
-przyjaciel|NOUN|друг, приятель ;;; kolega, druh, kumpel
-dzisiaj|ADV|
+przyjaciel|NOUN|друг, приятель ;;; druh, kumpel
+dzisiaj|ADV|сегодня ;;; dziś, dzisiaj
 włos|NOUN|волос
-za|PART|за ;;; za, poza
-poza|ADP|за ;;; za
-zostać|VERB|
+za|PART|за ;;; za
+poza|ADP|кроме ;;; oprócz
+zostać|VERB|остаться, становиться ;;; robić, stać, stawać, pozostać
 kochać|VERB|любить ;;; lubić
 dowiedzieć|VERB|выяснить, узнать ;;; poznać
 możliwy|ADJ|возможный ;;; ewentualny
@@ -317,7 +317,7 @@ mieszkanie|NOUN|квартира, жилище ;;; apartament
 urządzenie|NOUN|устройство, приспособление ;;; przyrząd, przystosowanie
 większość|NOUN|большинство
 forma|NOUN|форма ;;; postać, kształt, mundur, uniform
-potrzeba|NOUN|нужда
+potrzeba|NOUN|нужда ;;; potrzeba
 zabić|VERB|убить
 czyli|CCONJ|
 efekt|NOUN|эффект
@@ -333,7 +333,7 @@ szczęście|NOUN|счастье ;;; powodzenie
 lista|NOUN|список, перечень ;;; rejestr, wykaz, spis
 choroba|NOUN|болезнь
 zakres|NOUN|область, диапазон, разнообразие ;;; branża, dziedzina, zasięg, dzielnica, sfera, obręb, obwód, wachlarz, różnorodność
-odpowiedź|NOUN|ответ ;;; odpowiedzialność
+odpowiedź|NOUN|ответ
 pisać|VERB|писать, писаться ;;; sikać
 przecież|PART|
 pewnie|PART|
@@ -355,7 +355,7 @@ używać|VERB|использовать, пользоваться ;;; korzystać,
 warunki|NOUN|условия, обстоятельства
 wasz|DET|
 świetny|ADJ|отличный, прекрасный ;;; piękny, wspaniały, śliczny, przepiękny, ładny, odmienny, wyśmienity, wyborny
-decyzja|NOUN|решение ;;; rozwiązanie
+decyzja|NOUN|решение ;;; rozwiązanie, ustalenie
 poznać|VERB|познать, узнать, познакомиться ;;; dowiedzieć
 telefon|NOUN|телефон
 pracownik|NOUN|работник ;;; robotnik
@@ -379,11 +379,11 @@ kiedyś|ADV|когда-нибудь, когда-то
 tyle|DET|столько ;;; tyle
 zabawa|NOUN|игра, забава ;;; gra
 dość|PART|хватит
-ponieważ|SCONJ|потому что ;;; bo, dlatego
+ponieważ|SCONJ|потому что ;;; bo, dlatego, iż
 punkt|NOUN|точка, пункт ;;; kropka
 twarz|NOUN|лицо ;;; oblicze
 napisać|VERB|написать
-między|ADP|между
+między|ADP|между ;;; pomiędzy
 wciąż|ADV|всё ещё
 jak|CCONJ|как ;;; jak
 zespół|NOUN|ансамбль, команда ;;; drużyna, komenda
@@ -423,7 +423,7 @@ dotyczący|ADJ|касательный, относящийся
 oznaczać|VERB|означать
 sukces|NOUN|успех ;;; powodzenie, pomyślność
 okres|NOUN|период, срок ;;; termin
-skończyć|VERB|закончить, окончить ;;; kończyć
+skończyć|VERB|закончить, окончить ;;; kończyć, dokonać
 zamówienie|NOUN|заказ
 podobać|VERB|нравиться
 sądzić|VERB|судить, думать ;;; myśleć, osądzać
@@ -435,7 +435,7 @@ umowa|NOUN|договор ;;; układ, kontrakt
 wszelki|DET|
 zakup|NOUN|покупка, закуп ;;; kupno
 facet|NOUN|парень ;;; chłopak, młodzieniec
-bać|VERB|бояться
+bać|VERB|бояться ;;; obawiać
 sprzedaż|NOUN|продажа
 zostawić|VERB|оставить ;;; zatrzymywać
 rozmawiać|VERB|беседовать, разговаривать
@@ -457,7 +457,7 @@ współpraca|NOUN|сотрудничество
 drzwi|NOUN|дверь
 nauczyć|VERB|научить, изучать ;;; badać
 krew|NOUN|кровь
-starać|VERB|стараться, пытаться ;;; spróbować
+starać|VERB|стараться, пытаться ;;; postarać, spróbować
 wolny|ADJ|медленный, свободный ;;; powolny, luźny, swobodny
 mało|ADV|мало, немного ;;; trochę, niewiele
 podstawa|NOUN|база, основа, основание ;;; baza, trzon, założenie, grunt
@@ -471,7 +471,7 @@ bliski|ADJ|близкий ;;; bliski
 dopiero|PART|только сейчас
 zapomnieć|VERB|забыть
 konkurs|NOUN|конкурс
-sprzęt|NOUN|оборудование, снаряжение
+sprzęt|NOUN|оборудование, снаряжение ;;; wyposażenie
 przepis|NOUN|предписание, приказ, рецепт ;;; rozkaz, zarządzenie
 teren|NOUN|территория ;;; obszar, obręb, terytorium
 bezpieczny|ADJ|безопасный
@@ -492,10 +492,10 @@ wiek|NOUN|век, возраст ;;; epoka, stulecie
 biały|ADJ|белый
 żona|NOUN|жена ;;; małżonka
 pacjent|NOUN|пациент
-polecać|VERB|рекомендовать, советовать ;;; radzić, rekomendować
+polecać|VERB|рекомендовать, советовать ;;; radzić, rekomendować, zalecać
 jedynie|PART|только, всего лишь ;;; tylko, ledwo
 lek|NOUN|лек, лекарство, медикамент ;;; lekarstwo
-łatwy|ADJ|лёгкий, простой ;;; prosty, zwyczajny, lekki
+łatwy|ADJ|лёгкий, простой ;;; prosty, lekki, zwyczajny
 słuchać|VERB|слушать
 zajmować|VERB|занимать ;;; bawić, pożyczać
 kwestia|NOUN|вопрос ;;; pytanie, zagadnienie
@@ -520,12 +520,12 @@ przepraszać|VERB|извиняться, просить прощения
 chłopiec|NOUN|мальчик ;;; chłopak
 inaczej|ADV|иначе
 ruch|NOUN|движение, ход ;;; przebieg, tok, posunięcie
-oferować|VERB|предлагать ;;; proponować
+oferować|VERB|предлагать ;;; proponować, zalecać
 zawierać|VERB|
-prawie|PART|почти, примерно ;;; omal
+prawie|PART|почти, примерно ;;; niemal, omal
 syn|NOUN|сын
 krótki|ADJ|короткий, краткий
-wniosek|NOUN|вывод, следствие, заявление, предложение ;;; oferta, zdanie, propozycja, sugestia, podaż, skutek, konsekwencja, śledztwo, dochodzenie, reklama, podanie, oświadczenie
+wniosek|NOUN|вывод, следствие, заявление, предложение ;;; oferta, zdanie, propozycja, sugestia, podaż, skutek, konsekwencja, śledztwo, dochodzenie, reklama, zgłoszenie, podanie, oświadczenie
 stosować|VERB|применять, использовать ;;; używać, korzystać, wykorzystać, wykorzystywać, zużywać
 wydarzenie|NOUN|событие, происшествие ;;; wypadek, zdarzenie, zajście
 artykuł|NOUN|статья, товар ;;; hasło, towar
@@ -596,7 +596,7 @@ produkcja|NOUN|продукция, производство ;;; wyrób, postępo
 przeznaczony|ADJ|предназначенный
 reszta|NOUN|остаток, остальной часть, сдача ;;; resztka, pozostałość, oddanie
 szczęśliwy|ADJ|счастливый
-podać|VERB|подать, передать ;;; przedstawić, przekazać
+podać|VERB|подать, передать ;;; złożyć, przedstawić, przekazać
 funkcja|NOUN|функция ;;; czynność
 jedzenie|NOUN|еда, пища ;;; posiłek, potrawa, pożywienie, strawa, pokarm
 przynajmniej|PART|
@@ -612,7 +612,7 @@ przygotowanie|NOUN|подготовка, приготовление
 wejść|VERB|войти ;;; wstąpić
 klasa|NOUN|класс
 narzędzie|NOUN|инструмент, орудие ;;; instrument
-stawać|VERB|вставать, становиться ;;; robić, stać, wstawać
+stawać|VERB|вставать, становиться ;;; robić, stać, zostać, wstawać
 walczyć|VERB|бороться, воевать
 obraz|NOUN|образ, картина ;;; postać, tryb
 życzyć|VERB|желать ;;; pragnąć
@@ -633,7 +633,7 @@ chłopak|NOUN|мальчик, парень ;;; facet, młodzieniec, chłopiec
 zestaw|NOUN|набор ;;; skład, zbiór
 gdzieś|ADV|где-то, где-нибудь ;;; gdziekolwiek
 postać|NOUN|образ, персонаж, фигура, форма ;;; forma, kształt, mundur, uniform, obraz, tryb, sylwetka, figura, osobistość
-stąd|ADV|отсюда, поэтому ;;; dlatego, odtąd
+stąd|ADV|отсюда, поэтому ;;; więc, dlatego, odtąd
 wybierać|VERB|выбирать
 akcja|NOUN|акция
 domowy|ADJ|домашний
@@ -651,7 +651,7 @@ silny|ADJ|сильный ;;; mocny
 właściwie|PART|собственно, действительно, на самом деле ;;; rzeczywiście, istotnie
 wychodzić|VERB|выходить
 zachowanie|NOUN|поведение ;;; postępowanie
-zwrócić|VERB|вернуть, возвратить
+zwrócić|VERB|вернуть, возвратить ;;; oddać
 córka|NOUN|дочь, дочка
 minuta|NOUN|минута ;;; chwila
 niezbędny|ADJ|необходимый ;;; konieczny, wymagany
@@ -678,7 +678,7 @@ trochę|DET|немного, слегка ;;; trochę, mało, niewiele, nieco, le
 spać|VERB|спать
 zadzwonić|VERB|зазвонить, позвонить
 całkowicie|ADV|совсем, целиком ;;; zupełnie, całkiem, wcale
-wśród|ADP|среди
+wśród|ADP|среди ;;; pomiędzy
 wykonać|VERB|выполнить, изготовить
 sen|NOUN|мечта, сон ;;; marzenie
 zwykle|ADV|обычно, обыкновенно ;;; zazwyczaj
@@ -809,7 +809,7 @@ kierunek|NOUN|направление, течение ;;; prąd, przebieg, nurt
 szpital|NOUN|больница, госпиталь
 tata|NOUN|
 natomiast|CCONJ|
-ocena|NOUN|отметка, оценка ;;; stopień, nota, szacunek
+ocena|NOUN|отметка, оценка ;;; nota, szacunek
 porozmawiać|VERB|поговорить
 zdecydowanie|PART|
 dany|ADJ|данный ;;; podany, niniejszy
@@ -834,7 +834,7 @@ test|NOUN|тест
 uwielbiać|VERB|обожать
 zakończenie|NOUN|завершение, окончание ;;; końcówka
 odpowiedzieć|VERB|ответить ;;; odpisać
-opłata|NOUN|плата, оплата ;;; zapłata
+opłata|NOUN|плата, оплата ;;; zapłata, płatność
 mecz|NOUN|матч
 pić|VERB|пить
 założyć|VERB|заложить, основать
@@ -851,7 +851,7 @@ otworzyć|VERB|открыть ;;; odkryć, wykazać
 składać|VERB|составлять, собирать, складывать ;;; stanowić, budować, układać, wynosić, zbierać, gromadzić
 spokój|NOUN|спокойствие, безмятежность, гармония, равновесие, спокой, спокойность, тишина, бесстрастие, покой, тихо ;;; pokój, komnata, harmonia, równowaga, cisza, cicho
 sprawdzać|VERB|проверять
-użycie|NOUN|использование, применение ;;; zastosowanie
+użycie|NOUN|использование, применение ;;; zastosowanie, korzystanie, użytkowanie
 poprzez|ADP|
 rozmiar|NOUN|размер ;;; wymiar
 stosowanie|NOUN|
@@ -892,7 +892,7 @@ wizyta|NOUN|визит
 pamięć|NOUN|память
 prowadzony|ADJ|проведенный, ведомый
 mózg|NOUN|головастик, ум, мозг, головной мозг ;;; umysł, rozum, rdzeń, szpik
-pozostać|VERB|остаться
+pozostać|VERB|остаться ;;; zostać
 wakacje|NOUN|каникулы, отпуск ;;; urlop, wczasy
 aż|SCONJ|аж ;;; aż
 formularz|NOUN|формуляр
@@ -905,7 +905,7 @@ ciężko|ADV|тяжело, трудно ;;; trudno
 prowadzenie|NOUN|
 rano|ADV|утром, утро ;;; ranek, poranek
 zawodowy|ADJ|профессиональный, квалифицированный ;;; profesjonalny, fachowy
-kończyć|VERB|окончить ;;; skończyć
+kończyć|VERB|окончить ;;; skończyć, dokonać
 pomieszczenie|NOUN|помещение ;;; lokal
 zamierzać|VERB|намереваться
 zainteresowanie|NOUN|интерес, заинтересованность ;;; zaciekawienie
@@ -922,7 +922,7 @@ tamten|DET|
 niewielki|ADJ|небольшой ;;; nieduży
 umrzeć|VERB|умереть
 wyzwanie|NOUN|вызов, испытание ;;; wezwanie, próba, egzamin
-znak|NOUN|знак, марка, клеймо, метка, указатель, признак, примета, сигнал, след, знамя, крест ;;; hasło, symbol, znaczek, wskaźnik, strzałka, cecha, właściwość, oznaka, symptom, sygnał, ślad, trop, flaga, sztandar, krzyż
+znak|NOUN|знак, марка, клеймо, метка, указатель, признак, примета, сигнал, след, знамя, крест ;;; hasło, symbol, znaczek, wskaźnik, strzałka, objaw, cecha, właściwość, oznaka, symptom, sygnał, ślad, trop, flaga, sztandar, krzyż
 klub|NOUN|клуб
 ulica|NOUN|улица
 widok|NOUN|вид, взор ;;; rodzaj, gatunek
@@ -930,7 +930,7 @@ wkrótce|ADV|скоро, вскоре ;;; wcześnie, niedługo
 wygrać|VERB|выиграть ;;; zyskać
 fizyczny|ADJ|физический ;;; fizjologiczny
 kwiat|NOUN|цвет, цветок, цветы ;;; kolor, barwa
-reklama|NOUN|реклама, анонс, заявление, извещение, объявление ;;; wniosek, podanie, oświadczenie, zawiadomienie, ogłoszenie, zapowiedź, obwieszczenie
+reklama|NOUN|реклама, анонс, заявление, извещение, объявление ;;; wniosek, zgłoszenie, podanie, oświadczenie, zawiadomienie, ogłoszenie, zapowiedź, obwieszczenie
 dotrzeć|VERB|добраться, достигнуть
 zainteresowany|ADJ|заинтересованный
 codzienny|ADJ|ежедневный, повседневный ;;; powszedni
@@ -941,17 +941,17 @@ samo|ADV|
 treść|NOUN|содержание, содержимое, суть ;;; utrzymanie, zawartość, istota, sedno
 dół|NOUN|низ, яма ;;; spód, jama
 praktyka|NOUN|практика
-wzrost|NOUN|рост, высота, увеличение ;;; wysokość
+wzrost|NOUN|возрастание, увеличение, прирост
 angielski|ADJ|английский
 emocja|NOUN|эмоция
 prawny|ADJ|законный, правовой
-stopień|NOUN|градус, отметка, степень, ступень ступенька, ступень ;;; ocena, nota, potęga, szczebel
+stopień|NOUN|степень, ступень ;;; potęga, szczebel
 niezwykle|ADV|необычайно
-oddać|VERB|
+oddać|VERB|отдать, вернуть ;;; zwrócić
 zewnętrzny|ADJ|внешний, наружный
 zielony|ADJ|зелёный ;;; zieleń, niedojrzały
 rodzinny|ADJ|семейный, родной ;;; rodzimy, ojczysty
-rząd|NOUN|порядок, отряд, правительство, правление, ряд, шеренга ;;; porządek, tryb, obyczaj, oddział, szereg
+rząd|NOUN|ряд, порядок, правительство, правление ;;; porządek, tryb, obyczaj, szereg
 zapłacić|VERB|заплатить
 ogród|NOUN|сад, огород
 podawać|VERB|подавать, указывать ;;; znaczyć, kazać, wskazywać, zaznaczać
@@ -963,22 +963,22 @@ zachowywać|VERB|беречь, сохранять, вести себя ;;; dbać
 kawałek|NOUN|кусок, часть ;;; część, jednostka, kostka, kęs
 mebel|NOUN|мебель
 odbywać|VERB|происходить, случаться ;;; dziać, zdarzać, pochodzić, toczyć, zachodzić
-odpowiedzialność|NOUN|ответственность, ответ ;;; odpowiedź
+odpowiedzialność|NOUN|ответственность
 stanowisko|NOUN|должность ;;; urząd, posada
 ubranie|NOUN|одежда ;;; odzież, szata
 wczoraj|ADV|вчера
 witać|VERB|приветствовать, здороваться ;;; pozdrawiać
-cukier|NOUN|сахар, углевод ;;; węglowodan
+cukier|NOUN|сахар
 gratulować|VERB|поздравлять
-kolega|NOUN|коллега, друг, приятель, одноклассник ;;; przyjaciel, druh, kumpel, koleżanka
-kot|NOUN|кошка, кот, дух ;;; rak, kotka, duch
+kolega|NOUN|коллега ;;; koleżanka
+kot|NOUN|кот
 postanowić|VERB|постановить, решить ;;; zdecydować
 tytuł|NOUN|повод, цель, титул, заглавие ;;; cel, powód
 wyjście|NOUN|выход ;;; wchodzenie
 opieka|NOUN|забота, опека ;;; troska, zmartwienie
-szkoda|VERB|
+szkoda|VERB|ущерб*
 natura|NOUN|натура, природа ;;; charakter, przyroda
-obszar|NOUN|территория, площадь, зона, пространство, район, домен ;;; teren, obręb, terytorium, przestrzeń, powierzchnia, plac, strefa, dzielnica, rejon, domena
+obszar|NOUN|территория, площадь, пространство, сфера ;;; teren, obręb, terytorium, przestrzeń, powierzchnia, plac, dziedzina, sfera
 partner|NOUN|партнёр, компаньон
 zewnątrz|ADV|снаружи
 bogaty|ADJ|богатый ;;; bogacz, zamożny
@@ -994,10 +994,10 @@ sportowy|ADJ|спортивный
 poprzedni|ADJ|предыдущий, прошлый ;;; ubiegły, zeszły, dotychczasowy, miniony, przeszły
 poradzić|VERB|посоветовать, справиться ;;; podołać
 prezentować|VERB|представлять, преподносить ;;; stanowić, przedstawiać, wystawiać
-rozwijać|VERB|
-lekki|ADJ|лёгкий ;;; łatwy
-tworzenie|NOUN|
-udawać|VERB|изображать, удаваться ;;; przedstawiać, wyobrażać
+rozwijać|VERB|развивать
+lekki|ADJ|лёгкий, простой ;;; prosty, łatwy, zwyczajny
+tworzenie|NOUN|создание, воплощение, созидание ;;; stworzenie, twór
+udawać|VERB|изображать, подражать ;;; przedstawiać, wyobrażać, naśladować
 wymiana|NOUN|обмен
 zdawać|VERB|сдавать, казаться ;;; wydawać, uchodzić
 poszczególny|ADJ|отдельный, каждый ;;; każdy, pojedynczy, osobny, oddzielny, odrębny
@@ -1010,16 +1010,16 @@ nazwisko|NOUN|фамилия ;;; godność
 przekonać|VERB|убедить
 studia|NOUN|учёба ;;; nauka
 zgoda|NOUN|согласие, согласный ;;; układ, porozumienie, zgodność, zgodny
-dokonać|VERB|
+dokonać|VERB|окончить, совершить ;;; skończyć, kończyć, odbyć, popełnić, uczynić
 elektryczny|ADJ|электрический
 nieruchomość|NOUN|недвижимость
 operacja|NOUN|операция ;;; zabieg
 powierzchnia|NOUN|плоскость, поверхность, площадь ;;; obszar, plac, płaszczyzna
-próba|NOUN|испытание, проба, проверка, попытка, репетиция, искус ;;; wyzwanie, egzamin, sprawdzenie, sprawdzian
+próba|NOUN|испытание, проба, проверка, попытка ;;; wyzwanie, egzamin, sprawdzenie
 określony|ADJ|определённый ;;; pewny
 posiłek|NOUN|еда ;;; jedzenie, potrawa, pożywienie, strawa
 ryba|NOUN|рыба
-transport|NOUN|транспорт, перевозка, транспортировка
+transport|NOUN|транспорт
 poprosić|VERB|попросить
 temperatura|NOUN|температура
 delikatny|ADJ|деликатный
@@ -1028,15 +1028,15 @@ pragnąć|VERB|желать, хотеть ;;; chcieć, życzyć
 promocja|NOUN|
 bohater|NOUN|герой
 poczucie|NOUN|чувство ;;; uczucie, zmysł, przytomność
-złożyć|VERB|
+złożyć|VERB|положить, подать, составить ;;; podać, przedstawić, położyć
 głównie|PART|
 medyczny|ADJ|медицинский
-pomiędzy|ADP|
+pomiędzy|ADP|среди, между ;;; między, wśród
 szczególny|ADJ|особенный, детальный ;;; osobliwy, szczegółowy
 atmosfera|NOUN|атмосфера
 interesować|VERB|интересовать ;;; ciekawić
-objaw|NOUN|
-odbyć|VERB|совершить, случиться, отбыть ;;; popełnić, uczynić, zdarzyć
+objaw|NOUN|проявление, признак ;;; znak, cecha, właściwość, oznaka, symptom, wyraz, przejaw
+odbyć|VERB|совершить, случиться, отбыть ;;; dokonać, popełnić, uczynić, zdarzyć
 tysiąc|NOUN|тысяча
 podobnie|ADV|похоже
 polityka|NOUN|политика
@@ -1049,12 +1049,12 @@ pokazywać|VERB|показывать ;;; świadczyć, objawiać
 przeżyć|VERB|пережить, прожить ;;; doznać
 różnić|VERB|отличать, изменять ;;; zmieniać, zdradzać, wyróżniać
 branża|NOUN|область, отрасль, сфера деятельность ;;; zakres, dziedzina, zasięg, dzielnica, sfera, obręb, obwód, gałąź
-łączyć|VERB|связывать, объединять, соединять, совмещать, сочетать
+łączyć|VERB|связывать, объединять, соединять, совмещать, сочетать ;;; wiązać
 skutek|NOUN|последствие, следствие, результат ;;; wynik, konsekwencja, rezultat, plon, wniosek, śledztwo, dochodzenie, następstwo
 sukienka|NOUN|платье ;;; suknia
 ubezpieczenie|NOUN|защита, страховка, прикрытие, страхование ;;; ochrona, obrona, osłona
-członek|NOUN|член, конечность, пенис
-rosnąć|VERB|
+członek|NOUN|член, конечность
+rosnąć|VERB|расти ;;; chować
 spędzić|VERB|проводить, тратить (время) ;;; spędzać, przeprowadzać, toczyć, instalować
 cokolwiek|PRON|что-нибудь, что-либо ;;; coś
 ogień|NOUN|огонь, пламя ;;; płomień
@@ -1062,7 +1062,7 @@ przypominać|VERB|вспоминать, напоминать ;;; wspominać
 dostawa|NOUN|доставка, поставка
 kategoria|NOUN|категория
 mięso|NOUN|мясо
-oprócz|ADP|
+oprócz|ADP|помимо, кроме ;;; poza
 pojechać|VERB|поехать
 widoczny|ADJ|видимый, заметный ;;; znaczny
 dopóki|SCONJ|
@@ -1072,8 +1072,8 @@ zapoznanie|NOUN|введение ;;; wstęp, wprowadzenie
 zjeść|VERB|съесть
 doskonale|ADV|отлично, полностью ;;; zupełnie, kompletnie, doszczętnie, świetnie, wyśmienicie
 linia|NOUN|линия, маршрут ;;; przebieg, szlak
-podjąć|VERB|принять, предпринять
-radzić|VERB|советовать, рекомендовать ;;; polecać, rekomendować
+podjąć|VERB|принять, предпринять ;;; przyjąć
+radzić|VERB|советовать, рекомендовать ;;; polecać, rekomendować, zalecać
 tracić|VERB|терять ;;; gubić
 zamknięty|ADJ|замкнутый, закрытый
 brzmieć|VERB|звучать
@@ -1082,7 +1082,7 @@ niebo|NOUN|небо
 papier|NOUN|бумага ;;; pismo
 wysoko|ADV|высоко
 zadbać|VERB|заботиться ;;; szanować
-zamknąć|VERB|
+zamknąć|VERB|закрыть
 centrum|NOUN|центр, середина ;;; środek, ośrodek
 normalny|ADJ|нормальный
 przeszłość|NOUN|прошлое
@@ -1100,7 +1100,7 @@ płyta|NOUN|диск, плита ;;; dysk, kuchenka, blacha
 podejście|NOUN|подход ;;; postawa
 stopa|NOUN|ступня, стопа, нога, фут ;;; noga
 zgadzać|VERB|соглашаться, угождать
-cecha|NOUN|признак, свойство, черта ;;; znak, właściwość, oznaka, symptom, własność, atrybut, kreska
+cecha|NOUN|признак, свойство, черта ;;; znak, objaw, właściwość, oznaka, symptom, własność, atrybut, kreska
 pole|NOUN|поле ;;; boisko, margines
 rower|NOUN|велосипед
 wiara|NOUN|вера, убеждение ;;; religia, przekonanie
@@ -1117,7 +1117,6 @@ silnik|NOUN|мотор, двигатель ;;; motor
 wysłać|VERB|отправить, посылать ;;; wysyłać
 zapewnić|VERB|
 bezpłatny|ADJ|бесплатный ;;; darmowy
-blog|NOUN|блог
 codziennie|ADV|каждый день
 obiad|NOUN|обед ;;; kolacja
 znajomy|NOUN|знакомый, знакомец, знание ;;; wiedza, znajomość
@@ -1131,7 +1130,7 @@ bowiem|SCONJ|
 przyjęcie|NOUN|принятие, прием ;;; akceptacja
 skontaktować|VERB|связаться, контактировать ;;; nawiązywać
 słaby|ADJ|слабый
-wobec|ADP|
+wobec|ADP|перед, в отношении (к чему то  ) ;;; przed, przód
 zawód|NOUN|профессия ;;; profesja
 zniknąć|VERB|исчезнуть, пропасть
 dusza|NOUN|душа ;;; duch
@@ -1142,7 +1141,7 @@ przedstawiać|VERB|представлять, преподносить, изоб�
 tył|NOUN|зад, тыл
 galeria|NOUN|галерея, галёрка
 lekcja|NOUN|урок
-niemal|PART|
+niemal|PART|почти, чуть не ;;; prawie, omal
 osobiście|ADV|лично
 zawodnik|NOUN|игрок, спортсмен ;;; gracz, sportowiec
 atak|NOUN|атака, нападение, припадок, приступ ;;; napad, inwazja
@@ -1162,22 +1161,22 @@ montaż|NOUN|монтаж, сборка, установка
 wpis|NOUN|
 dziewczynka|NOUN|девочка ;;; dziewczyna
 gospodarczy|ADJ|хозяйственный, экономический ;;; ekonomiczny
-kasa|NOUN|
+kasa|NOUN|касса, бабло ;;; forsa
 dyskusja|NOUN|дискуссия, обсуждение
 technika|NOUN|техника
 wybory|NOUN|выборы
 złapać|VERB|поймать
-koń|NOUN|конь, козёл, лошадь ;;; skoczek, konik, rumak, palant
+koń|NOUN|конь, лошадь ;;; skoczek, konik, rumak
 niebezpieczny|ADJ|опасный
-przyjąć|VERB|
+przyjąć|VERB|принять, пустить ;;; podjąć
 wykorzystanie|NOUN|
 dzieciak|NOUN|
 poprawić|VERB|исправить, улучшить
 regulamin|NOUN|
 salon|NOUN|гостиная
 gwarantować|VERB|гарантировать
-ramy|NOUN|
-wysokość|NOUN|высота ;;; wzrost
+ramy|NOUN|рамы
+wysokość|NOUN|высота
 życzenie|NOUN|желание, пожелание ;;; ochota, chęć, wola, pragnienie
 niesamowity|ADJ|необычайный, поразительный ;;; nietuzinkowy
 popularny|ADJ|популярный ;;; wzięty
@@ -1194,7 +1193,7 @@ jednostka|NOUN|единица, часть, личность ;;; część, kawał
 korzyść|NOUN|польза, выгода ;;; zysk, pożytek
 młodzież|NOUN|молодёжь
 super|ADJ|
-usunąć|VERB|
+usunąć|VERB|удалять, исключить, устранять
 wówczas|ADV|в то время как, тогда ;;; wtedy
 wykorzystywać|VERB|использовать, пользоваться ;;; używać, korzystać, stosować, wykorzystać, zużywać, posługiwać
 idealnie|ADV|идеально
@@ -1217,13 +1216,13 @@ tajemnica|NOUN|секрет, тайна ;;; sekret
 elektroniczny|ADJ|электронный
 gwarancja|NOUN|гарантия
 kamień|NOUN|камень, накипь ;;; osad, szumowina
-korzystanie|NOUN|
+korzystanie|NOUN|использование ;;; użycie, użytkowanie
 krem|NOUN|крем, мазь ;;; pasta, maść, smar
 postępowanie|NOUN|процесс, производство, судопроизводство судебный процедура, поведение ;;; proces, przebieg, produkcja, wyrób, nominacja, zachowanie
 przyjmować|VERB|принимать ;;; uznawać
 ślub|NOUN|клятва, присяга, свадьба ;;; przysięga, wesele
 zamiar|NOUN|намерение
-duch|NOUN|дух, душа, привидение, фантом, призрак ;;; kot, dusza, zjawa
+duch|NOUN|дух, душа, привидение, фантом, призрак ;;; dusza, zjawa
 kwota|NOUN|количество, сумма ;;; ilość, liczba, suma
 podany|ADJ|данный ;;; dany, niniejszy
 podzielić|VERB|разделить
@@ -1232,14 +1231,14 @@ aktywny|ADJ|активный
 miło|ADV|приятно, мило ;;; ładnie, przyjemnie, mile
 sesja|NOUN|сессия
 traktować|VERB|трактовать, относиться ;;; dotyczyć
-wreszcie|PART|
+wreszcie|PART|наконец, в конце концов
 załatwić|VERB|решить (проблему), устроить ;;; zorganizować, urządzić
 spółka|NOUN|общество ;;; społeczeństwo, towarzystwo, stowarzyszenie
 sprzedać|VERB|продать
 umysł|NOUN|ум ;;; mózg, rozum
-więc|PART|
+więc|PART|поэтому ;;; więc, dlatego, stąd
 kazać|VERB|приказывать, указывать ;;; znaczyć, podawać, wskazywać, zaznaczać
-niewiele|DET|
+niewiele|DET|немного ;;; trochę, mało, niewiele
 słodki|ADJ|сладкий
 twierdzić|VERB|утверждать ;;; stwierdzać
 wróg|NOUN|враг ;;; nieprzyjaciel
@@ -1254,8 +1253,8 @@ gracz|NOUN|игрок ;;; zawodnik
 pierś|NOUN|грудь, филе ;;; biust
 student|NOUN|студент
 suma|NOUN|сумма ;;; kwota
-tyle|ADV|
-iż|SCONJ|
+tyle|ADV|столько ;;; tyle
+iż|SCONJ|потому что ;;; bo, dlatego, ponieważ
 ograniczenie|NOUN|ограничение, ограниченность
 pięknie|ADV|красиво
 podatek|NOUN|налог
@@ -1265,7 +1264,7 @@ stawiać|VERB|ставить, сооружать ;;; wystawiać
 unikać|VERB|избегать, уклоняться ;;; uniknąć, uchodzić
 dokładny|ADJ|точный ;;; precyzyjny, słuszny, ścisły
 spokojnie|ADV|спокойно
-wokół|ADP|
+wokół|ADP|вокруг
 morze|NOUN|море
 piosenka|NOUN|песня, песенка ;;; pieśń
 pochodzić|VERB|происходить, походить ;;; dziać, odbywać, zdarzać, toczyć, zachodzić
@@ -1277,24 +1276,24 @@ mleko|NOUN|молоко
 naprawa|NOUN|ремонт ;;; remont
 lewy|ADJ|левый ;;; lewicowy
 organizator|NOUN|организатор
-obawiać|VERB|
+obawiać|VERB|бояться, сомневаться ;;; bać, wątpić, wahać
 obserwować|VERB|наблюдать
 odnaleźć|VERB|найти ;;; znaleźć
-przód|NOUN|перед ;;; przed
+przód|NOUN|перед ;;; przed, wobec
 restauracja|NOUN|реставрация, ресторан ;;; odbudowa
 wyjaśnić|VERB|объяснить, обнаружить ;;; znaleźć, odkryć, wykazać, ujawnić, wykryć
-bycie|NOUN|
+bycie|NOUN|существование, бытие ;;; egzystencja, byt
 ochota|NOUN|желание, аппетит, жажда, охота ;;; życzenie, chęć, wola, pragnienie, apetyt, żądza, polowanie
 plik|NOUN|пачка, файл ;;; paczka, zbiór, koszulka
 waga|NOUN|вес, важность, значение, значимость, тяжесть, весы ;;; znaczenie, wartość, wymowa, ciężar, ważność
 wejście|NOUN|вход ;;; wstęp, wchodzenie
-zgłoszenie|NOUN|
+zgłoszenie|NOUN|заявление, оповещение ;;; wniosek, reklama, podanie, oświadczenie
 posłuchać|VERB|послушать
 poszukiwanie|NOUN|поиск, розыск
 uratować|VERB|спасти, сохранить ;;; ocalić, wybawić
 wspomnienie|NOUN|воспоминание
 zdolność|NOUN|способность ;;; umiejętność
-zwrot|NOUN|возврат, возвращение, возмещение, компенсация, выражение, фигура речи, оборот речи, обращение, поворот, разворот ;;; powrót, odszkodowanie, wynagrodzenie, wyraz, wyrażenie, krążenie, obieg, zakręt
+zwrot|NOUN|поворот, разворот, возврат, возвращение, возмещение, компенсация, выражение, фигура речи, оборот речи, обращение ;;; powrót, zakręt, odszkodowanie, wynagrodzenie, wyraz, wyrażenie, krążenie, obieg
 herbata|NOUN|чай
 okazywać|VERB|оказывать, проявлять (чуства) ;;; wywierać
 przedsiębiorstwo|NOUN|предприятие, компания, фирма ;;; firma, zakład, przedsięwzięcie
@@ -1306,7 +1305,7 @@ spełniać|VERB|исполнять (желание)
 chęć|NOUN|желание, аппетит, жажда, зуд, охота ;;; życzenie, ochota, wola, pragnienie, apetyt, żądza, polowanie, swędzenie, świąd
 kariera|NOUN|карьера
 kliknąć|VERB|кликнуть
-właściwość|NOUN|свойство, признак ;;; znak, cecha, oznaka, symptom, własność, atrybut
+właściwość|NOUN|свойство, признак ;;; znak, objaw, cecha, oznaka, symptom, własność, atrybut
 drobny|ADJ|мелкий ;;; płytki, nieistotny
 policjant|NOUN|полицейский, полисмен ;;; policyjny
 skład|NOUN|магазин, склад, набор, состав ;;; sklep, zestaw, zbiór, magazyn, obsada
@@ -1323,7 +1322,7 @@ wskazywać|VERB|указывать ;;; znaczyć, podawać, kazać, zaznaczać
 post|NOUN|пост ;;; urząd, posterunek
 przynosić|VERB|приносить, причинять ;;; sprawiać
 cóż|PRON|ну что ж
-płatność|NOUN|
+płatność|NOUN|оплата, платеж ;;; opłata, zapłata
 powiedzenie|NOUN|высказывание, поговорка ;;; wypowiedź
 udany|ADJ|удачный, успешный
 bezpośrednio|ADV|непосредственно
@@ -1334,10 +1333,10 @@ umożliwiać|VERB|делать возможным
 wielkość|NOUN|величина ;;; ilość, wartość, wymiar
 klasyczny|ADJ|классический
 mapa|NOUN|карта, мапа ;;; karta
-środki|NOUN|
+środki|NOUN|средства
 weekend|NOUN|уик-энд, выходной
 dział|NOUN|раздел, секция ;;; rozdział
-dziedzina|NOUN|область, сфера, область определения ;;; zakres, branża, zasięg, dzielnica, sfera, obręb, obwód
+dziedzina|NOUN|область, сфера, область определения ;;; zakres, branża, zasięg, dzielnica, sfera, obręb, obwód, obszar
 obcy|ADJ|чужой, посторонний, иностранный ;;; cudzy
 poczekać|VERB|подождать
 uzyskanie|NOUN|
@@ -1345,14 +1344,14 @@ wada|NOUN|недостаток, изъян ;;; brak, niedobór, niedostatek
 wynikać|VERB|следовать (из чего-то), вытекать (из чего-то)
 małżeństwo|NOUN|брак, брачный союз, супруг ;;; małżonek
 miara|NOUN|мера
-przedstawić|VERB|представить, подать, изложить ;;; podać, wykazać
+przedstawić|VERB|представить, подать, изложить ;;; podać, złożyć, wykazać
 terapia|NOUN|терапия
 warzywo|NOUN|овощ
 wymaganie|NOUN|требование ;;; wymóg, żądanie
 instytucja|NOUN|институт, учреждение ;;; instytut, urząd
 szacunek|NOUN|оценка, уважение, пиетет ;;; ocena
 świąteczny|ADJ|праздничный
-wprowadzić|VERB|
+wprowadzić|VERB|ввести, провести
 drewniany|ADJ|деревянный
 otrzymywać|VERB|получать ;;; dostawać
 tradycyjny|ADJ|традиционный
@@ -1361,14 +1360,14 @@ interes|NOUN|дело ;;; sprawa, czynność, dzieło
 piłka|NOUN|мяч
 podłoga|NOUN|пол ;;; płeć
 lokalizacja|NOUN|локализация
-przeciwko|ADP|
+przeciwko|ADP|против
 równie|ADV|одинаково, равно
 zamek|NOUN|замок, затвор, молния ;;; migawka, piorun, suwak, błyskawica
 konferencja|NOUN|конференция
 mnóstwo|NOUN|множество, масса, уйма ;;; masa, tłum, zbiór
 powodzenie|NOUN|везение, удача, успех, счастье ;;; szczęście, sukces, pomyślność
 rachunek|NOUN|счёт ;;; liczenie
-wiele|ADV|
+wiele|ADV|много ;;; wiele, sporo
 aktywność|NOUN|активность, действие ;;; działanie, czynność, czyn
 biblioteka|NOUN|библиотека
 dorosły|ADJ|взрослый
@@ -1376,16 +1375,16 @@ komfort|NOUN|комфорт
 mięsień|NOUN|мышца, мускул
 polityczny|ADJ|политический
 porada|NOUN|консультация, совет ;;; rada, konsultacja, poradnia
-postarać|VERB|
+postarać|VERB|стараться ;;; starać
 pozbyć|VERB|избавиться
 spotykać|VERB|встречать, встречаться
 uniknąć|VERB|избегать, уклониться ;;; unikać, uchodzić
-czytanie|NOUN|чтение
+czytanie|NOUN|чтение ;;; lektura
 koncert|NOUN|концерт
 niezły|ADJ|неплохой
 oprogramowanie|NOUN|программное обеспечение, ПО
 reakcja|NOUN|реакция ;;; odczyn
-ruszyć|VERB|
+ruszyć|VERB|двигать, сдвинуть, запустить ;;; pchać
 zależność|NOUN|закономерность, зависимость ;;; prawidłowość, uzależnienie, nałóg, niewola
 egzamin|NOUN|экзамен, испытание ;;; wyzwanie, próba
 kartka|NOUN|карточка, лист, страница, открытка ;;; strona, karteczka, liść, arkusz, pocztówka
@@ -1393,7 +1392,7 @@ kolacja|NOUN|ужин, обед ;;; obiad
 kolej|NOUN|железная дорога, железнодорожный транспорт, очередь ;;; kolejność, kolejka
 mieszać|VERB|смешивать
 milion|NOUN|миллион ;;; melon
-przechodzić|VERB|
+przechodzić|VERB|переходить, проходить ;;; mijać
 stres|NOUN|стресс
 złoto|NOUN|золото, аурум, злато
 gatunek|NOUN|вид, сорт, род, тип ;;; rodzaj, widok, ród, typ
@@ -1402,19 +1401,19 @@ substancja|NOUN|субстанция, вещество ;;; materia
 tani|ADJ|дешёвый
 ustawa|NOUN|закон ;;; prawo, zasada
 budować|VERB|строить, составлять ;;; stanowić, składać, układać, wynosić, wznosić, stroić
-media|NOUN|
+media|NOUN|media
 napój|NOUN|напиток ;;; picie, trunek
 niezwykły|ADJ|необычный, необыкновенный ;;; dziwny, nadzwyczajny
-prezentacja|NOUN|
+prezentacja|NOUN|презентация
 gorący|ADJ|горячий ;;; namiętny
 odkryć|VERB|открыть, обнаружить ;;; znaleźć, wyjaśnić, wykazać, ujawnić, wykryć, otworzyć
 pański|ADJ|панский, ваш
-przydać|VERB|
+przydać|VERB|придать
 sok|NOUN|сок
 sygnał|NOUN|сигнал ;;; znak, hasło
 data|NOUN|дата, число ;;; ilość, liczba
 lato|NOUN|лето
-obejrzeć|VERB|
+obejrzeć|VERB|осмотреть
 spodobać|VERB|
 zresztą|PART|
 artysta|NOUN|художник, артист ;;; malarz
@@ -1439,13 +1438,13 @@ raport|NOUN|отчёт, рапорт ;;; sprawozdanie
 darmowy|ADJ|бесплатный ;;; bezpłatny
 głęboki|ADJ|глубокий
 kolorowy|ADJ|разноцветный, цветной ;;; barwny
-proponować|VERB|предлагать ;;; oferować
+proponować|VERB|предлагать ;;; oferować, zalecać
 seria|NOUN|серия ;;; odcinek
 skutecznie|ADV|эффективно
 spacer|NOUN|прогулка
 sprzedawać|VERB|
 suchy|ADJ|сухой ;;; wytrawny
-utrzymanie|NOUN|содержание ;;; treść, zawartość
+utrzymanie|NOUN|содержание, сохранение ;;; treść, zawartość
 butelka|NOUN|бутылка
 niedługo|ADV|вскоре, скоро ;;; wcześnie, wkrótce
 wymieszać|VERB|
@@ -1457,12 +1456,12 @@ odpowiedzialny|ADJ|ответственный
 przykro|ADV|досадно
 ramię|NOUN|плечо, рука ;;; ręka, dłoń, pismo, bark
 stacja|NOUN|станция, вокзал ;;; dworzec
-zwiększyć|VERB|
+zwiększyć|VERB|увеличить, повысить
 żywy|ADJ|живой
 podejmować|VERB|поднимать (вопрос), принимать (приглашение), предпринимать (действия)
 przeprowadzić|VERB|проводить (операцию, испытания)
 ucho|NOUN|ручка, ухо, ушко ;;; rączka, długopis, gałka
-wykonywany|ADJ|
+wykonywany|ADJ|выполненный
 kara|NOUN|наказание
 liczny|ADJ|многочисленный
 opowiedzieć|VERB|рассказать ;;; powiedzieć
@@ -1472,9 +1471,9 @@ zbierać|VERB|собирать ;;; składać, gromadzić
 cierpieć|VERB|страдать, терпеть ;;; znosić
 klimat|NOUN|климат
 pudełko|NOUN|коробочка, шкатулка, коробка ;;; szkatułka, pudło
-stworzenie|NOUN|создание, существо ;;; twór, istota, sedno
+stworzenie|NOUN|создание, существо ;;; tworzenie, twór, istota, sedno
 wydać|VERB|выдать, потратить (деньги)
-wyposażenie|NOUN|
+wyposażenie|NOUN|оборудование, снаряжение ;;; sprzęt
 zimowy|ADJ|зимний
 budżet|NOUN|бюджет
 ekran|NOUN|экран
@@ -1513,7 +1512,7 @@ myślenie|NOUN|мышление, думание
 wykorzystywany|ADJ|
 zabraknąć|VERB|
 chory|ADJ|
-im|SCONJ|
+im|SCONJ|чем
 marzyć|VERB|мечтать ;;; śnić
 prąd|NOUN|направление, тенденция, ток, течение ;;; kierunek, przebieg, nurt, tendencja
 przedsiębiorca|NOUN|предприниматель, антрепренёр, подрядчик
@@ -1521,8 +1520,8 @@ torba|NOUN|сумка, пакет ;;; pakiet
 zimny|ADJ|холодный
 konsekwencja|NOUN|последовательность, следствие, результат, последствие ;;; wynik, skutek, rezultat, plon, wniosek, śledztwo, dochodzenie, ciąg, następstwo
 opuścić|VERB|
-strefa|NOUN|зона ;;; obszar
-zapisać|VERB|
+strefa|NOUN|зона
+zapisać|VERB|записать
 zapominać|VERB|забывать
 aparat|NOUN|аппарат
 ogólny|ADJ|общий ;;; wspólny
@@ -1539,9 +1538,9 @@ niedziela|NOUN|воскресенье
 piwo|NOUN|пиво
 podobno|PART|
 poprawa|NOUN|улучшение ;;; ulepszenie
-potrzeba|VERB|
+potrzeba|VERB|нужда ;;; potrzeba
 poważnie|ADV|серьёзно ;;; serio
-śmiać|VERB|
+śmiać|VERB|смеяться
 usta|NOUN|рот, уста, губа ;;; gęba, warga
 wiosna|NOUN|весна
 dobro|NOUN|добро ;;; majątek
@@ -1553,20 +1552,20 @@ pobyt|NOUN|пребывание
 przydatny|ADJ|полезный, пригодный ;;; korzystny, pomocny, użyteczny, użytkowy, pożyteczny, dobroczynny
 rzadko|ADV|редко
 zakładać|VERB|основывать, надевать, спорить ;;; opierać
-zapoznać|VERB|
+zapoznać|VERB|познакомить
 zasługiwać|VERB|заслуживать
 bieg|NOUN|бег, пролёт
 bok|NOUN|бок, сторона ;;; strona, kraj
 paznokieć|NOUN|ноготь
 powstrzymać|VERB|предотвратить, приостановить, сдержать, удержать, сдержаться
-użytkowanie|NOUN|
+użytkowanie|NOUN|использование ;;; użycie, korzystanie
 wiatr|NOUN|ветер
 lodówka|NOUN|дубак, холодина, холодрыга, холодильник
 odbiór|NOUN|получение, приём ;;; chwyt
 powtarzać|VERB|повторять, твердить, копировать ;;; naśladować, kopiować
 prezydent|NOUN|мэр, президент ;;; burmistrz
 rezultat|NOUN|результат ;;; wynik, skutek, konsekwencja, plon
-rzucić|VERB|
+rzucić|VERB|бросать, бросить ;;; rzucać, opuszczać, przestawać, porzucać, porzucić
 stwierdzić|VERB|
 telewizja|NOUN|телевидение
 warunek|NOUN|условие
@@ -1627,13 +1626,13 @@ opowiadać|VERB|рассказывать ;;; mówić
 paliwo|NOUN|топливо, горючее
 pociąg|NOUN|поезд
 danie|NOUN|блюдо ;;; potrawa, półmisek
-położyć|VERB|положить
+położyć|VERB|положить ;;; złożyć
 preparat|NOUN|
 strasznie|ADV|страшно, ужасно ;;; okropnie
 trener|NOUN|тренер
 umierać|VERB|умирать
 założenie|NOUN|основание, положение, предположение ;;; podstawa, grunt, postawa, podejrzenie, przypuszczenie
-podanie|NOUN|заявление, подача, предание ;;; wniosek, reklama, oświadczenie
+podanie|NOUN|заявление, подача, предание ;;; wniosek, reklama, zgłoszenie, oświadczenie
 przekazać|VERB|передать, сообщить ;;; podać, zgłosić
 straszny|ADJ|страшный ;;; straszliwy
 tuż|PART|
@@ -1696,9 +1695,9 @@ moda|NOUN|мода
 nos|NOUN|нос ;;; czoło
 publikacja|NOUN|публикация, издание ;;; wydawnictwo, wydanie
 pusty|ADJ|пустой
-ustalenie|NOUN|
+ustalenie|NOUN|договоренность, решение ;;; rozwiązanie, decyzja
 utrata|NOUN|потеря, утрата ;;; strata
-wiązać|VERB|
+wiązać|VERB|вязать, связывать ;;; łączyć
 żołnierz|NOUN|солдат, воин, жолнер ;;; wojownik
 cenny|ADJ|ценный ;;; wartościowy, kosztowny
 lecieć|VERB|лететь
@@ -1730,11 +1729,11 @@ kapitan|NOUN|капитан
 poruszać|VERB|
 telefoniczny|ADJ|телефонный
 ukrywać|VERB|прятать, укрывать, скрывать, утаивать, прятаться, скрываться, укрываться ;;; kryć, przechowywać, chować, zapadać
-zaangażowanie|NOUN|
+zaangażowanie|NOUN|вовлеченность
 zakupy|NOUN|покупки
 zostawiać|VERB|оставлять
 elastyczny|ADJ|гибкий, эластичный ;;; giętki, smukły
-lektura|NOUN|
+lektura|NOUN|чтение ;;; czytanie
 odrobina|NOUN|чуть-чуть
 przypomnieć|VERB|напомнить
 samochodowy|ADJ|автомобильный
@@ -1757,7 +1756,7 @@ zbudować|VERB|
 budzić|VERB|будить, возбуждать, побуждать, пробуждать, пробуждаться, просыпаться ;;; zachęcać, powodować, wzbudzać, podniecać
 dekoracja|NOUN|
 dziecięcy|ADJ|детский
-francuski|ADJ|
+francuski|ADJ|- ;;; dinozaura, kończyn
 określić|VERB|
 podlegać|VERB|
 utrzymywać|VERB|удерживать, содержать себя ;;; powstrzymywać
@@ -1793,7 +1792,7 @@ czwarty|ADJ|четвёртый
 mąka|NOUN|мука ;;; męka, udręka
 najwięcej|DET|
 nóż|NOUN|нож
-oddział|NOUN|отделение, отряд ;;; rząd, drużyna, komenda, agenda
+oddział|NOUN|отделение, отряд ;;; drużyna, komenda, agenda
 opowieść|NOUN|история ;;; historia, dzieje
 partia|NOUN|партия
 wystąpić|VERB|
@@ -1804,7 +1803,7 @@ cień|NOUN|тень
 jajko|NOUN|яйцо ;;; jajo
 kąt|NOUN|угол ;;; węgiel, róg
 pobrać|VERB|взять, скачать (из интернета) ;;; wziąć
-ponad|PART|
+ponad|PART|выше, свыше ;;; ponad, powyżej
 rozpoczęcie|NOUN|
 uderzyć|VERB|ударить
 wrażliwy|ADJ|впечатлительный, чувствительный, уязвимый ;;; dotkliwy
@@ -1833,7 +1832,7 @@ kino|NOUN|кино, киноискусство, кинотеатр
 korzystny|ADJ|выгодный, полезный ;;; przydatny, pomocny, użyteczny, użytkowy, pożyteczny, dobroczynny
 naczynie|NOUN|посуда, сосуд
 podział|NOUN|деление, распределение, фрагментация
-popełnić|VERB|допустить, совершить ;;; odbyć, uczynić
+popełnić|VERB|допустить, совершить ;;; dokonać, odbyć, uczynić
 smaczny|ADJ|вкусный ;;; pyszny, smakowity
 ślubny|ADJ|брачный
 wdzięczny|ADJ|благодарный, признательный
@@ -1858,13 +1857,12 @@ zło|NOUN|зло
 zorganizować|VERB|организовать, устроить ;;; załatwić, urządzić
 ciągły|ADJ|непрерывный, беспрерывный, постоянный, продолжительный ;;; stały, niezmienny, nieprzerwany, długotrwały
 dawka|NOUN|доза
-kłamać|VERB|
+kłamać|VERB|врать
 obiecywać|VERB|обещать ;;; zapowiadać
 oceniać|VERB|оценивать ;;; szacować
 poprawiać|VERB|исправлять
-serwer|NOUN|сервер
 smakować|VERB|пробовать, отведать ;;; próbować, spróbować
-zalecać|VERB|
+zalecać|VERB|предлагать, советовать ;;; polecać, radzić, oferować, proponować
 zapalenie|NOUN|воспаление
 zdarzyć|VERB|случиться ;;; odbyć
 złożony|ADJ|сложный, запутанный, составной ;;; trudny, kompleksowy, skomplikowany, składany
@@ -1977,7 +1975,7 @@ obudzić|VERB|
 pas|NOUN|полоса, пояс, талия, ремень ;;; stan, talia, pasek, taśma, pasmo, smuga, smycz
 perspektywa|NOUN|перспектива
 prawidłowo|ADV|правильно
-rak|NOUN|кошка, шип, рак ;;; kot, kotka
+rak|NOUN|кошка, шип, рак ;;; kotka
 regularny|ADJ|регулярный, обычный (регулярный)
 sekunda|NOUN|секунда
 stworzony|ADJ|
@@ -2092,7 +2090,7 @@ ku|ADP|
 maksymalny|ADJ|максимальный
 nocny|ADJ|ночной
 oparty|ADJ|основанный
-oświadczenie|NOUN|заявление, декларация ;;; wniosek, reklama, podanie, deklaracja
+oświadczenie|NOUN|заявление, декларация ;;; wniosek, reklama, zgłoszenie, podanie, deklaracja
 pokolenie|NOUN|колено, поколение ;;; kolano, plemię
 urodzić|VERB|родить, родиться
 wywiad|NOUN|интервью, опрос, расспрос, разведка ;;; rozpoznanie
@@ -2228,7 +2226,7 @@ filtr|NOUN|фильтр
 gładki|ADJ|гладкий
 głęboko|ADV|
 kręcić|VERB|крутиться
-padać|VERB|идти, дождить, лить, издыхать, околевать, падать, сваливаться, потерпеть поражение ;;; iść, toczyć, uchodzić, wpaść, wpadać, lać
+padać|VERB|падать, сваливаться ;;; wpaść, wpadać
 skupić|VERB|сосредоточиться
 solidny|ADJ|солидный, крепкий ;;; mocny, wytrzymały, porządny
 stylizacja|NOUN|стилизация
@@ -2245,7 +2243,7 @@ konflikt|NOUN|конфликт
 kurczak|NOUN|курятина, цыплёнок
 naród|NOUN|народ, нация ;;; tłum, lud
 połączony|ADJ|
-postępować|VERB|действовать
+postępować|VERB|действовать ;;; działać
 przechowywanie|NOUN|
 przewodnik|NOUN|вожак, гуру, гид, экскурсовод, проводник, путеводитель ;;; pilot, konduktor
 smutny|ADJ|грустный, печальный
@@ -2253,7 +2251,7 @@ sprzedawca|NOUN|продавец
 szkoda|NOUN|ущерб, вред, жаль ;;; szwank, krzywda, uszczerbek
 utwór|NOUN|произведение, сочинение ;;; dzieło, twór
 wyobrażać|VERB|изображать, воображать себе, представлять себе ;;; udawać, przedstawiać
-wyraz|NOUN|выражение, проявление, слово, лексема ;;; słowo, hasło, zwrot, wyrażenie, symptom, przejaw
+wyraz|NOUN|выражение, проявление, слово, лексема ;;; słowo, hasło, objaw, symptom, przejaw, zwrot, wyrażenie
 zakaz|NOUN|запрет
 apartament|NOUN|апартамент, квартира ;;; mieszkanie
 dokąd|ADV|куда ;;; gdzie, którędy
@@ -2286,7 +2284,7 @@ poczta|NOUN|почта ;;; korespondencja
 pomocny|ADJ|полезный ;;; przydatny, korzystny, użyteczny, użytkowy, pożyteczny, dobroczynny
 samotny|ADJ|одинокий, одиночный ;;; pojedynczy
 schemat|NOUN|схема
-uczynić|VERB|поступить, сделать, совершить, создать, сотворить, учинить ;;; zrobić, sprawić, stworzyć, wywołać, ukształtować, odbyć, popełnić
+uczynić|VERB|поступить, сделать, совершить, создать, сотворить, учинить ;;; zrobić, sprawić, stworzyć, wywołać, ukształtować, dokonać, odbyć, popełnić
 wyjątek|NOUN|исключение
 zabezpieczyć|VERB|
 załącznik|NOUN|приложение ;;; dodatek, aplikacja, aneks
@@ -2298,7 +2296,7 @@ niepełnosprawny|ADJ|инвалид ;;; inwalida
 nieść|VERB|нести
 prośba|NOUN|просьба
 realizowany|ADJ|
-rzucać|VERB|бросать, кидать, бросаться, кидаться ;;; opuszczać, przestawać, porzucać
+rzucać|VERB|бросать, кидать, бросаться, кидаться ;;; rzucić, opuszczać, przestawać, porzucać
 skierowany|ADJ|направленный
 szanować|VERB|заботиться, уважать ;;; uważać, zadbać
 szyja|NOUN|горло, шея ;;; gardło, szyjka, kark
@@ -2363,7 +2361,7 @@ wirus|NOUN|вирус
 wojskowy|ADJ|военный, воинский ;;; wojenny, militarny
 wykazać|VERB|выказать, выявить, обнаружить, открыть, показать, представить, продемонстрировать, легитимироваться ;;; znaleźć, wyjaśnić, odkryć, ujawnić, wykryć, pokazać, otworzyć, przedstawić
 wypoczynek|NOUN|отдых ;;; odpoczynek
-ile|ADV|сколько ;;; kilka
+ile|ADV|сколько ;;; kilka, ile
 koleżanka|NOUN|коллега ;;; kolega
 krajowy|ADJ|краевой
 miód|NOUN|медовуха, мёд
@@ -2572,7 +2570,7 @@ deska|NOUN|доска, кульман, мольберт, стульчак ;;; ta
 dywan|NOUN|ковёр
 grzech|NOUN|грех
 obserwacja|NOUN|наблюдение, обсервация ;;; spostrzeżenie
-powyżej|ADV|выше, превыше
+powyżej|ADV|выше, превыше ;;; ponad
 przebywać|VERB|
 przeciw|ADP|
 rabat|NOUN|скидка ;;; ulga, zniżka
@@ -2753,7 +2751,7 @@ niszczyć|VERB|уничтожать, разрушать, портить ;;; burz
 odbiorca|NOUN|адресат, абонент, реципиент, получатель ;;; adresat
 pomidor|NOUN|помидор, томат
 procent|NOUN|процент
-skrzydło|NOUN|крыло, створка, флигель ;;; błotnik, klapa
+skrzydło|NOUN|крыло, створка, флигель ;;; błotnik
 tabela|NOUN|таблица ;;; stół
 uderzenie|NOUN|удар ;;; strzał, cios, wstrząs, udar
 unikalny|ADJ|уникальный ;;; unikatowy
@@ -2879,7 +2877,7 @@ ozdoba|NOUN|украшение
 pakiet|NOUN|пакет ;;; torba
 papieros|NOUN|сигарета, папироса
 pochodzenie|NOUN|происхождение, родословная ;;; rodowód
-ponad|ADP|
+ponad|ADP|выше, свыше ;;; ponad, powyżej
 ponowny|ADJ|повторный
 poznanie|NOUN|
 prędko|ADV|быстро ;;; szybko
@@ -2941,7 +2939,7 @@ rękaw|NOUN|рукав
 samotność|NOUN|одиночество
 tańczyć|VERB|танцевать, плясать ;;; skakać
 tkwić|VERB|
-toczyć|VERB|вести, проводить, вытачивать, точить, грызть, катать, катить, переливать, вышагивать, плестись, двигаться, ехать, идти, катиться, происходить, течь ;;; iść, padać, uchodzić, prowadzić, dziać, odbywać, zdarzać, pochodzić, zachodzić, jechać, spędzić, spędzać, przeprowadzać, instalować, ruszać, płynąć, gryźć, wlec
+toczyć|VERB|вести, проводить, вытачивать, точить, грызть, катать, катить, переливать, вышагивать, плестись, двигаться, ехать, идти, катиться, происходить, течь ;;; iść, uchodzić, prowadzić, dziać, odbywać, zdarzać, pochodzić, zachodzić, jechać, spędzić, spędzać, przeprowadzać, instalować, ruszać, płynąć, gryźć, wlec
 wiedzenie|NOUN|
 wspólnota|NOUN|община, объединение, сообщество, союз, общность, подобие, сходство ;;; związek, unia, jedność, ogół, towarzystwo, społeczność, podobieństwo
 wyjaśniać|VERB|объяснять ;;; tłumaczyć
@@ -2957,20 +2955,20 @@ hałas|NOUN|шум ;;; szum
 identyfikacja|NOUN|идентификация
 kiepski|ADJ|плохой ;;; zły, marny
 kopia|NOUN|копия, копьё
-kumpel|NOUN|приятель ;;; przyjaciel, kolega
+kumpel|NOUN|приятель ;;; przyjaciel
 nakaz|NOUN|
 narząd|NOUN|орган ;;; organ
 nudny|ADJ|скучный
 odcień|NOUN|оттенок ;;; wymowa
 ognisko|NOUN|костёр, очаг ;;; palenisko
-opuszczać|VERB|опускать, пропускать, покидать, опускаться, спускаться, бросать ;;; rzucać, przestawać, porzucać, przepuszczać, zwalniać, zapadać
+opuszczać|VERB|опускать, пропускать, покидать, опускаться, спускаться, бросать ;;; rzucić, rzucać, przestawać, porzucać, przepuszczać, zwalniać, zapadać
 pielęgniarka|NOUN|медсестра ;;; siostra
 plakat|NOUN|плакат
 produkować|VERB|
 promocyjny|ADJ|рекламный ;;; reklamowy
 przepływ|NOUN|перетечка, переток, проток, проход ;;; wstęp
 przeprowadzony|ADJ|
-rura|NOUN|труба ;;; komin, klapa, trąbka
+rura|NOUN|труба ;;; komin, trąbka
 skok|NOUN|прыжок
 srebrny|ADJ|серебристый, серебряный
 szkoleniowy|ADJ|учебный
@@ -2979,7 +2977,7 @@ tez|PART|
 upominek|NOUN|сувенир ;;; pamiątka
 wydostać|VERB|
 wygodnie|ADV|удобно
-zapłata|NOUN|одплата, расплата, плата, уплата, оплата ;;; opłata
+zapłata|NOUN|одплата, расплата, плата, уплата, оплата ;;; opłata, płatność
 zgubić|VERB|потерять ;;; stracić
 złodziej|NOUN|вор, злодей ;;; złoczyńca
 zniszczenie|NOUN|разрушение, уничтожение
@@ -2999,7 +2997,7 @@ portal|NOUN|портал
 przeczytanie|NOUN|
 rewelacyjny|ADJ|сенсационный, небывалый
 rzut|NOUN|бросок ;;; strzał
-skórka|NOUN|кожица, кожура, кожурка, шкурка, скин, тема ;;; rzecz, temat, skóra
+skórka|NOUN|кожура, шкурка ;;; skóra
 stawka|NOUN|
 sterowanie|NOUN|управление ;;; zarząd
 ukochany|ADJ|любимый ;;; ulubiony
@@ -3075,7 +3073,7 @@ głosować|VERB|голосовать
 informatyczny|ADJ|информатический
 kulturalny|ADJ|культурный ;;; kulturowy, uprawny
 lotniczy|ADJ|авиационный
-mijać|VERB|обгонять, проходить ;;; wyprzedzać
+mijać|VERB|обгонять, проходить ;;; przechodzić, wyprzedzać
 niebawem|ADV|
 odcisk|NOUN|мозоль, отпечаток ;;; pęcherz
 okropny|ADJ|ужасный, чудовищный ;;; przerażający, potworny, makabryczny
@@ -3165,7 +3163,7 @@ wtorek|NOUN|вторник
 cmentarz|NOUN|кладбище
 czapka|NOUN|шапка
 czyjś|DET|
-dzielnica|NOUN|квартал, район, область ;;; zakres, branża, dziedzina, zasięg, sfera, obręb, obwód, okolica, kwartał, obszar, rejon
+dzielnica|NOUN|квартал, район, область ;;; zakres, branża, dziedzina, zasięg, sfera, obręb, obwód, okolica, kwartał, rejon
 fachowy|ADJ|профессиональный ;;; profesjonalny, zawodowy
 folia|NOUN|фольга
 fundament|NOUN|фундамент
@@ -3215,7 +3213,7 @@ straż|NOUN|
 strażak|NOUN|пожарный, пожарник
 szczególność|NOUN|
 ukończenie|NOUN|закончить*, окончить*
-wątpić|VERB|сомневаться ;;; wahać
+wątpić|VERB|сомневаться ;;; obawiać, wahać
 wisieć|VERB|висеть, торчать ;;; wystawać
 zalecenie|NOUN|рекомендация ;;; rada, polecenie, rekomendacja
 zamieszkanie|NOUN|жильё
@@ -3263,11 +3261,11 @@ medal|NOUN|медаль
 niepotrzebny|ADJ|ненужный
 olejek|NOUN|масло ;;; olej, masło
 osiągać|VERB|достигать, добиваться ;;; zabiegać
-oznaka|NOUN|обозначение, признак ;;; znak, cecha, właściwość, symptom
+oznaka|NOUN|обозначение, признак ;;; znak, objaw, cecha, właściwość, symptom
 precyzyjny|ADJ|точный, аккуратный ;;; dokładny, słuszny, ścisły
 presja|NOUN|
 przerwać|VERB|
-przestawać|VERB|переставать, бросать ;;; rzucać, opuszczać, porzucać
+przestawać|VERB|переставать, бросать ;;; rzucić, rzucać, opuszczać, porzucać
 skrzywdzić|VERB|
 tworzywo|NOUN|
 upływ|NOUN|
@@ -3317,7 +3315,7 @@ bzdura|NOUN|вздор, глупость, чушь, ерунда ;;; kłamstwo, 
 czerpać|VERB|черпать
 dobrany|ADJ|подобрать*, выбирать*
 dojazd|NOUN|
-domena|NOUN|домен, достояние ;;; obszar, mienie
+domena|NOUN|домен, достояние ;;; mienie
 druk|NOUN|печать ;;; pieczęć
 głośno|ADV|громко
 higiena|NOUN|гигиена
@@ -3404,7 +3402,7 @@ przyjeżdżać|VERB|приезжать ;;; przybywać
 przyprowadzić|VERB|
 przystąpić|VERB|
 rozkład|NOUN|разложение, раскладывание, расписание ;;; plan, agenda
-sfera|NOUN|область, сфера, шар ;;; zakres, branża, dziedzina, zasięg, dzielnica, obręb, obwód, kula, balon
+sfera|NOUN|область, сфера, шар ;;; zakres, branża, dziedzina, zasięg, dzielnica, obręb, obwód, obszar, kula, balon
 skórzany|ADJ|кожаный, кожевенный
 sprzątanie|NOUN|убирание, уборка ;;; zbiór
 stalowy|ADJ|стальной
@@ -3443,7 +3441,7 @@ pozwalany|ADJ|
 przegapić|VERB|прозевать, пропустить ;;; przepuścić
 przemiana|NOUN|перемена ;;; zmiana
 przystanek|NOUN|остановка ;;; postój
-pułapka|NOUN|западня, засада, ловушка ;;; klapa, zasadzka
+pułapka|NOUN|западня, засада, ловушка ;;; zasadzka
 regulowany|ADJ|
 ręczny|ADJ|ручной, рукодельный
 składka|NOUN|
@@ -3569,7 +3567,7 @@ zaoszczędzić|VERB|
 zieleń|NOUN|зелень, зелёный ;;; zielony, niedojrzały
 zmęczenie|NOUN|усталость, утомление
 zwiększony|ADJ|увеличить*
-zwyczajny|ADJ|обычный, простой, ординарный ;;; prosty, łatwy, zwykły, przeciętny
+zwyczajny|ADJ|обычный, простой, ординарный ;;; prosty, łatwy, lekki, zwykły, przeciętny
 agresywny|ADJ|агрессивный
 aukcja|NOUN|аукцион ;;; licytacja
 boczny|ADJ|боковой, побочный ;;; uboczny
@@ -3578,7 +3576,7 @@ choinka|NOUN|ёлка, новогодняя ёлка
 ciepło|ADV|
 czyścić|VERB|
 deser|NOUN|десерт
-forsa|NOUN|бабло
+forsa|NOUN|бабло ;;; kasa
 funkcjonariusz|NOUN|функционер
 gest|NOUN|жест
 gwarantowany|ADJ|
@@ -3731,7 +3729,7 @@ nabyć|VERB|
 nagrodzony|ADJ|наградить*
 nerka|NOUN|нерка, почка ;;; pąk
 nieobecność|NOUN|отсутствие ;;; brak
-niewiele|ADV|немного ;;; trochę, mało
+niewiele|ADV|немного ;;; trochę, mało, niewiele
 obrażenie|NOUN|
 odżywka|NOUN|кондиционер, пищевой добавка ;;; klimatyzator
 około|ADP|
@@ -3917,7 +3915,7 @@ pieniężny|ADJ|денежный
 piłkarz|NOUN|футболист
 poranny|ADJ|утренний
 poruszyć|VERB|
-powiązany|ADJ|перевязать*, связать*
+powiązany|ADJ|связный ;;; spójny
 prasowy|ADJ|
 prawdopodobnie|ADV|
 promieniowanie|NOUN|излучение
@@ -3958,14 +3956,14 @@ pożegnać|VERB|попрощаться, проститься
 przewóz|NOUN|
 radiowy|ADJ|
 refleksja|NOUN|
-rejon|NOUN|район ;;; obszar, dzielnica
-rozejrzeć|VERB|
+rejon|NOUN|район ;;; dzielnica
+rozejrzeć|VERB|осмотреться
 rozważyć|VERB|обдумать
 rytuał|NOUN|ритуал, обряд ;;; obrzęd
 skrzynka|NOUN|почтовый ящик, ящик ;;; skrzynia, szuflada
 stacjonarny|ADJ|стационарный, неподвижный ;;; ustalony, nieruchomy
 stwarzać|VERB|создавать, сотворять ;;; tworzyć, powodować
-suszony|ADJ|сушить*
+suszony|ADJ|сушеный
 szczepionka|NOUN|вакцина, прививка
 telewizyjny|ADJ|телевизионный
 tłumacz|NOUN|переводчик
@@ -4031,7 +4029,7 @@ bawełna|NOUN|хлопок, хлопчатник
 błędny|ADJ|ошибочный ;;; mylny
 bramka|NOUN|ворота ;;; brama, wrota
 chorować|VERB|
-chować|VERB|прятать, расти, хоронить ;;; ukrywać, kryć, przechowywać
+chować|VERB|прятать, расти, хоронить ;;; rosnąć, ukrywać, kryć, przechowywać
 czekoladowy|ADJ|шоколадный
 docelowy|ADJ|целевой
 docierać|VERB|добираться
@@ -4105,7 +4103,7 @@ oddechowy|ADJ|дыхательный
 ogłosić|VERB|объявить, огласить
 opiekować|VERB|
 oznaczenie|NOUN|
-pióro|NOUN|перо, лопасть ;;; klapa
+pióro|NOUN|перо, лопасть
 podrażnienie|NOUN|раздражение ;;; zdenerwowanie
 pojedynek|NOUN|поединок
 posypać|VERB|
@@ -4181,7 +4179,7 @@ dobierać|VERB|
 duma|NOUN|гордость, высокомерие ;;; pycha
 dworzec|NOUN|вокзал ;;; stacja
 dwór|NOUN|двор ;;; gospodarstwo, zagroda, dziedziniec
-dzisiaj|NOUN|сегодня ;;; dziś
+dzisiaj|NOUN|сегодня ;;; dziś, dzisiaj
 ewidencja|NOUN|учет, запись ;;; zapis, nagranie
 formalny|ADJ|формальный
 fundacja|NOUN|фонд ;;; fundusz
@@ -4258,7 +4256,7 @@ omówienie|NOUN|
 pamiątkowy|ADJ|памятный
 perfekcyjny|ADJ|совершенный, идеальный ;;; idealny, doskonały, absolutny, zupełny
 początkujący|ADJ|начинающий
-porzucić|VERB|бросить, покинуть
+porzucić|VERB|бросить, покинуть ;;; rzucić
 pościel|NOUN|постель ;;; łóżko
 przyzwyczaić|VERB|
 psycholog|NOUN|психолог
@@ -4994,7 +4992,7 @@ szerokość|NOUN|ширина, широта ;;; grubość
 średnio|ADV|
 środowiskowy|ADJ|
 świadomie|ADV|намеренно, сознательно ;;; celowo
-tędy|ADV|сюда ;;; tu, tutaj
+tędy|ADV|
 troszczyć|VERB|
 udzielanie|NOUN|
 ujawniać|VERB|выявлять, раскрывать
@@ -5283,7 +5281,7 @@ towarowy|ADJ|грузовой, товарный
 traktowanie|NOUN|
 ułatwienie|NOUN|
 uzasadnienie|NOUN|аргументация ;;; argumentacja
-wahać|VERB|колебаться, медлить, сомневаться ;;; wątpić
+wahać|VERB|колебаться, медлить, сомневаться ;;; obawiać, wątpić
 wdrażanie|NOUN|
 węzeł|NOUN|узел
 widywać|VERB|видывать
@@ -5330,7 +5328,7 @@ nawiązanie|NOUN|
 nerw|NOUN|жилка, нерв
 niemalże|PART|
 nierówny|ADJ|
-obrażać|VERB|обижать, обижаться
+obrażać|VERB|обижать, обижаться ;;; krzywdzić
 obrzęk|NOUN|отёк, эдема
 odzwierciedlać|VERB|
 ogarniać|VERB|догонять, охватывать ;;; obejmować, nachodzić, łapać, gonić, czaić
@@ -5540,7 +5538,7 @@ zastępować|VERB|
 zaszczyt|NOUN|
 zawieszka|NOUN|
 zawieszony|ADJ|повесить*
-zawór|NOUN|вентиль, клапан, заслонка ;;; klapa
+zawór|NOUN|вентиль, клапан, заслонка
 zaznaczony|ADJ|обозначать*, пометить* ;;; oznaczony
 zbytnio|ADV|чересчур
 zgłaszanie|NOUN|
@@ -5564,7 +5562,7 @@ izba|NOUN|палата, комната ;;; pokój, komnata
 kasyno|NOUN|казино, игорный дом
 kieszenie|NOUN|
 kolonia|NOUN|колония
-komin|NOUN|дымоход, труба, камин ;;; rura, klapa, trąbka, szyb
+komin|NOUN|дымоход, труба, камин ;;; rura, trąbka, szyb
 koordynacja|NOUN|координация
 korporacja|NOUN|
 kraina|NOUN|страна, край (регион) ;;; kraj, państwo
@@ -5836,7 +5834,7 @@ spódnica|NOUN|юбка
 spódniczka|NOUN|юбочка
 sprzeciw|NOUN|возражение, протест ;;; protest
 sprzedany|ADJ|
-symptom|NOUN|симптом, признак, проявление ;;; znak, cecha, właściwość, oznaka, wyraz, przejaw
+symptom|NOUN|симптом, признак, проявление ;;; znak, objaw, cecha, właściwość, oznaka, wyraz, przejaw
 systematyczny|ADJ|систематический, систематичный
 ścianka|NOUN|
 ściek|NOUN|
@@ -6647,7 +6645,7 @@ skrajny|ADJ|крайний, экстремальный ;;; ekstremalny
 skrócić|VERB|
 smycz|NOUN|поводок, ремень, ремешок на шея ;;; pas
 spójność|NOUN|
-spójny|ADJ|связный, целостный
+spójny|ADJ|связный, целостный ;;; powiązany
 sprzyjający|ADJ|способствовать*, содействовать*
 stadium|NOUN|
 surówka|NOUN|салат ;;; sałatka, sałata
@@ -6694,7 +6692,7 @@ benzynowy|ADJ|бензиновый
 beze|ADP|
 błękitny|ADJ|голубой, синий ;;; niebieski, granatowy
 bydło|NOUN|быдло, скот ;;; trzoda
-byt|NOUN|бытие ;;; egzystencja
+byt|NOUN|бытие ;;; bycie, egzystencja
 cieplny|ADJ|
 doznanie|NOUN|
 dożyć|VERB|
@@ -6703,7 +6701,7 @@ dyskryminacja|NOUN|дискриминация
 dziąseł|NOUN|
 dziedzictwo|NOUN|наследие, наследство ;;; spadek, spuścizna
 dziewiąty|ADJ|девятый
-egzystencja|NOUN|существование, бытие, экзистенция ;;; byt
+egzystencja|NOUN|существование, бытие, экзистенция ;;; bycie, byt
 enzym|NOUN|энзим, фермент
 figurka|NOUN|
 frytka|NOUN|картофель фри
@@ -6899,7 +6897,7 @@ komunista|NOUN|коммунист
 konserwant|NOUN|консервант
 konwencja|NOUN|
 kwadratowy|ADJ|квадратный, квадратичный
-lać|VERB|лить ;;; padać
+lać|VERB|лить
 lodowy|ADJ|ледовый
 lody|NOUN|мороженое, морожка ;;; lód
 logowanie|NOUN|
@@ -6974,7 +6972,7 @@ smog|NOUN|
 sojowy|ADJ|соевый
 spędzanie|NOUN|
 sporządzać|VERB|
-sprawdzian|NOUN|контрольная работа, искус ;;; próba
+sprawdzian|NOUN|контрольная работа, искус
 stanowiony|ADJ|
 stołówka|NOUN|столовая ;;; jadalnia
 stymulacja|NOUN|
@@ -7050,7 +7048,7 @@ czeski|ADJ|богемский, чешский, чешский язык
 człowieczeństwo|NOUN|
 czubek|NOUN|
 czuwać|VERB|бдеть
-dinozaura|NOUN|
+dinozaura|NOUN|- ;;; francuski, kończyn
 dokładać|VERB|
 domownik|NOUN|домовой
 dostawczy|ADJ|
@@ -7069,15 +7067,15 @@ kapitalizm|NOUN|капитализм
 kiepsko|ADV|паршиво
 kimkolwiek|PRON|кем-нибудь
 klan|NOUN|клан
-klapa|NOUN|доля, лопасть, засада, облом, труба, клапан, крышка, створка, лацкан, отворот, крах ;;; skrzydło, rura, komin, trąbka, pułapka, zasadzka, pióro, zawór, klęska, bankructwo, przykrywka, nakrętka, pokrywka
+klapa|NOUN|люк, провал, крах ;;; klęska, bankructwo, luk, właz
 klauzula|NOUN|
 kłopotliwy|ADJ|хлопотный
 kolagen|NOUN|коллаген
 konny|ADJ|конный
-kończyn|NOUN|
+kończyn|NOUN|- ;;; francuski, dinozaura
 korpus|NOUN|корпус, туловище ;;; blok, obudowa, kadłub
 krwawy|ADJ|кровавый, окровавленный
-krzywdzić|VERB|
+krzywdzić|VERB|обижать ;;; obrażać
 którykolwiek|DET|
 kwartał|NOUN|квартал ;;; okolica, dzielnica
 latarka|NOUN|фонарик
@@ -7088,15 +7086,15 @@ lojalny|ADJ|лояльный
 lotnictwo|NOUN|авиация, авиатика, аэронавтика
 macierzyński|ADJ|материнский
 mafia|NOUN|мафия
-magazynowanie|NOUN|
+magazynowanie|NOUN|хранение
 marynarz|NOUN|матрос, моряк ;;; żeglarz
 międzyludzki|ADJ|межчеловеческий
 mocowany|ADJ|прикреплять*, закреплять*
-nabijać|VERB|
-nalegać|VERB|
+nabijać|VERB|набивать
+nalegać|VERB|настаивать
 następca|NOUN|наследник, преемник ;;; potomek, spadkobierca
-naśladować|VERB|копировать, имитировать, повторять, подражать ;;; powtarzać, kopiować
-natknąć|VERB|
+naśladować|VERB|копировать, имитировать, повторять, подражать ;;; udawać, powtarzać, kopiować
+natknąć|VERB|натолкнуться
 niebanalny|ADJ|
 nieśmiały|ADJ|застенчивый, несмелый, робкий
 nieuczciwy|ADJ|нечестный
@@ -7311,7 +7309,7 @@ otwierany|ADJ|
 parafialny|ADJ|приходский, общинный
 pasywny|ADJ|пассивный, страдательный ;;; bierny
 patriotyczny|ADJ|патриотический
-pchać|VERB|толкать, двигать
+pchać|VERB|толкать, двигать ;;; ruszyć
 pędzić|VERB|гнать, нестись, варить, погонять, мчаться
 placka|NOUN|
 plon|NOUN|плод, результат, урожай, жатва, сжать хлеб ;;; wynik, skutek, konsekwencja, rezultat, owoc, płód, zbiór, żniwo
@@ -7334,7 +7332,7 @@ przeklęty|ADJ|
 przemówienie|NOUN|речь ;;; mowa, przemowa
 przepełniony|ADJ|
 przetwór|NOUN|закатка
-przykrywka|NOUN|крышка ;;; klapa, nakrętka, pokrywka
+przykrywka|NOUN|крышка ;;; nakrętka, pokrywka
 przynależność|NOUN|принадлежность ;;; tożsamość
 przypisany|ADJ|
 przystąpienie|NOUN|
@@ -7590,7 +7588,7 @@ waniliowy|ADJ|ванильный
 wątpliwy|ADJ|сомнительный ;;; niewiarygodny, dyskusyjny
 wbijać|VERB|вбивать
 wczasy|NOUN|отпуск ;;; wakacje, urlop
-węglowodan|NOUN|углевод ;;; cukier
+węglowodan|NOUN|углевод
 widłowy|ADJ|
 wiec|CCONJ|
 wierzyciel|NOUN|кредитор
@@ -7922,7 +7920,7 @@ konwersja|NOUN|
 korektor|NOUN|корректор, ручка-корректор, эквалайзер
 kort|NOUN|
 korzystnie|ADV|
-kotka|NOUN|кошка ;;; kot, rak
+kotka|NOUN|кошка ;;; rak
 króliczka|NOUN|
 lakierowany|ADJ|
 laptopa|NOUN|
@@ -8005,7 +8003,7 @@ przebierać|VERB|переодеваться
 przebywany|ADJ|пребывать*
 przeciek|NOUN|протечка, утечка ;;; odpływ
 przeciwbólowy|ADJ|болеутоляющий, противоболевой
-przejaw|NOUN|проявление ;;; wyraz, symptom
+przejaw|NOUN|проявление ;;; objaw, wyraz, symptom
 przepustka|NOUN|пропуск
 przerobić|VERB|
 przerwany|ADJ|
@@ -9071,7 +9069,7 @@ opał|NOUN|
 ortograficzny|ADJ|орфографический
 osłabiony|ADJ|
 ożywić|VERB|
-palant|NOUN|козёл ;;; koń
+palant|NOUN|козёл
 pałka|NOUN|кол, палка, рогоз ;;; kij, laska, patyk, kołek, pała
 parapet|NOUN|подоконник, подоконница
 patron|NOUN|
@@ -9199,7 +9197,7 @@ towarzyszenie|NOUN|
 truskawkowy|ADJ|
 trzykrotnie|ADV|троекратно
 tyle|CCONJ|столько ;;; tyle
-uchodzić|VERB|бежать, убегать, быть похожий на, казаться, впадать, идти, избегать, утекать ;;; iść, padać, toczyć, wydawać, zdawać, unikać, uniknąć, uciekać, biec, gonić, wpadać
+uchodzić|VERB|бежать, убегать, быть похожий на, казаться, впадать, идти, избегать, утекать ;;; iść, toczyć, wydawać, zdawać, unikać, uniknąć, uciekać, biec, gonić, wpadać
 uczony|ADJ|
 uczuciowy|ADJ|
 ukierunkowany|ADJ|
@@ -9361,7 +9359,7 @@ limuzyna|NOUN|лимузин
 lipa|NOUN|липа
 lis|NOUN|
 logik|NOUN|
-luk|NOUN|люк ;;; właz
+luk|NOUN|люк ;;; klapa, właz
 łagodzony|ADJ|
 łamany|ADJ|ломать*, нарушать*
 łyżwa|NOUN|конёк ;;; grzbiet, konik
@@ -10655,7 +10653,7 @@ nadciągać|VERB|
 nagrzewać|VERB|
 nakładany|ADJ|
 nakładka|NOUN|
-nakrętka|NOUN|гайка, крышка ;;; klapa, przykrywka, pokrywka
+nakrętka|NOUN|гайка, крышка ;;; przykrywka, pokrywka
 nalot|NOUN|бомбардировка
 namoczyć|VERB|
 napędzany|ADJ|
@@ -10761,7 +10759,7 @@ porodowy|ADJ|
 poronienie|NOUN|выкидыш, аборт
 porozumieć|VERB|
 porozumiewać|VERB|
-porzucać|VERB|бросать, покидать ;;; rzucać, opuszczać, przestawać, zwalniać
+porzucać|VERB|бросать, покидать ;;; rzucić, rzucać, opuszczać, przestawać, zwalniać
 pospieszyć|VERB|
 postrzałowy|ADJ|
 poślizg|NOUN|
@@ -11312,7 +11310,7 @@ poglądowy|ADJ|
 pogodzenie|NOUN|
 pogrążony|ADJ|
 pojęty|ADJ|
-pokrywka|NOUN|крышка ;;; klapa, przykrywka, nakrętka
+pokrywka|NOUN|крышка ;;; przykrywka, nakrętka
 pokusa|NOUN|искушение, соблазн
 poleć|VERB|
 polewa|NOUN|
@@ -11511,7 +11509,7 @@ wierzenie|NOUN|верование
 wiewiórka|NOUN|белка
 winowajca|NOUN|виновник ;;; sprawca
 władać|VERB|
-właz|NOUN|люк ;;; luk
+właz|NOUN|люк ;;; klapa, luk
 wokalny|ADJ|вокальный
 współpracujący|ADJ|
 wstecz|ADV|назад
@@ -11564,7 +11562,7 @@ zapałka|NOUN|спичка
 zapłacony|ADJ|
 zaproponowany|ADJ|
 zaradzić|VERB|
-zasadzka|NOUN|засада, подвох ;;; pułapka, klapa
+zasadzka|NOUN|засада, подвох ;;; pułapka
 zaspokojenie|NOUN|удовлетворить*
 zastrzelony|ADJ|
 zaświecić|VERB|
@@ -11676,7 +11674,7 @@ doświadczanie|NOUN|
 dowóz|NOUN|
 doznawać|VERB|
 drążek|NOUN|перекладина, турник ;;; poprzeczka
-druh|NOUN|друг ;;; przyjaciel, kolega
+druh|NOUN|друг ;;; przyjaciel
 drzemać|VERB|дремать
 durnie|NOUN|
 dynamika|NOUN|динамика
@@ -12150,7 +12148,7 @@ trybunał|NOUN|
 trzeźwość|NOUN|
 trzęsienie|NOUN|
 tunik|NOUN|
-twór|NOUN|образование, организация, формация, формирование, произведение, творение, создание, существо, тварь ;;; organizacja, stworzenie, istota, sedno, dzieło, utwór, wykształcenie, oświata
+twór|NOUN|образование, организация, формация, формирование, произведение, творение, создание, существо, тварь ;;; organizacja, tworzenie, stworzenie, istota, sedno, dzieło, utwór, wykształcenie, oświata
 uciekinier|NOUN|беглец ;;; zbieg
 uderzany|ADJ|
 uiścić|VERB|
@@ -12682,7 +12680,7 @@ ogrodnictwo|NOUN|
 ogródka|NOUN|
 ogumienie|NOUN|
 okazjonalny|ADJ|окказиональный
-omal|ADV|почти ;;; prawie
+omal|ADV|почти ;;; prawie, niemal
 opałowy|ADJ|
 opłukać|VERB|
 opóźnić|VERB|
@@ -14956,7 +14954,7 @@ transportowany|ADJ|транспортировать*
 tratwa|NOUN|плот
 trawić|VERB|
 trawo|NOUN|
-trąbka|NOUN|труба ;;; rura, komin, klapa
+trąbka|NOUN|труба ;;; rura, komin
 trekking|NOUN|
 troskliwy|ADJ|заботливый
 trójgliceryd|NOUN|
@@ -15745,7 +15743,7 @@ niszczycielski|ADJ|разрушительный ;;; destrukcyjny
 niszowy|ADJ|
 nitek|NOUN|
 nosowy|ADJ|назальный, носовой
-nota|NOUN|нота, отметка, примечание ;;; ocena, stopień, nuta
+nota|NOUN|нота, отметка, примечание ;;; ocena, nuta
 nozdrze|NOUN|ноздря
 obarczać|VERB|
 obchodzony|ADJ|
