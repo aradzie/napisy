@@ -21,24 +21,12 @@ for await (const path of findFiles("corpus", "corpus*-lemmata.txt")) {
 
 const list = stats([...dict.values()]).filter(({ ppm }) => ppm >= 3);
 await dump(
-  list.filter(({ pos }) => pos !== "NUM" && pos !== "AUX"),
+  list.filter(
+    ({ pos }) =>
+      pos !== "NUM" && //
+      pos !== "AUX",
+  ),
   pathTo("corpus/freq-all.csv"),
-);
-await dump(
-  list.filter(({ pos }) => pos === "ADJ"),
-  pathTo("corpus/freq-adj.csv"),
-);
-await dump(
-  list.filter(({ pos }) => pos === "ADV"),
-  pathTo("corpus/freq-adv.csv"),
-);
-await dump(
-  list.filter(({ pos }) => pos === "NOUN"),
-  pathTo("corpus/freq-noun.csv"),
-);
-await dump(
-  list.filter(({ pos }) => pos === "VERB"),
-  pathTo("corpus/freq-verb.csv"),
 );
 await dump(
   list.filter(
@@ -50,32 +38,7 @@ await dump(
       pos !== "NUM" &&
       pos !== "VERB",
   ),
-  pathTo("corpus/freq-etc-all.csv"),
-);
-await dump(
-  list.filter(({ pos }) => pos === "ADP"),
-  pathTo("corpus/freq-etc-adp.csv"),
-);
-await dump(
-  list.filter(
-    ({ pos }) =>
-      pos === "CONJ" || //
-      pos === "CCONJ" ||
-      pos === "SCONJ",
-  ),
-  pathTo("corpus/freq-etc-conj.csv"),
-);
-await dump(
-  list.filter(({ pos }) => pos === "DET"),
-  pathTo("corpus/freq-etc-det.csv"),
-);
-await dump(
-  list.filter(({ pos }) => pos === "PART"),
-  pathTo("corpus/freq-etc-part.csv"),
-);
-await dump(
-  list.filter(({ pos }) => pos === "PRON"),
-  pathTo("corpus/freq-etc-pron.csv"),
+  pathTo("corpus/freq-etc.csv"),
 );
 
 function parsePhrase(line) {
