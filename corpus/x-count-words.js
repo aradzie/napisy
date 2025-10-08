@@ -52,6 +52,14 @@ function parsePhrase(line) {
     let verb = null;
 
     switch (pos) {
+      case "PROPN": {
+        // Proper noun, ignore.
+        continue;
+      }
+      case "INTJ": {
+        // Interjection, ignore.
+        continue;
+      }
       case "NOUN": {
         if (lemma === "postać") {
           break;

@@ -512,6 +512,7 @@ blind
 block
 blocked
 blocks
+blogger
 bloke
 blonde
 blood
@@ -1252,6 +1253,7 @@ debate
 debbie
 debt
 debts
+debugging
 decades
 deceased
 december
@@ -1295,6 +1297,7 @@ demos
 denied
 denise
 dennis
+denny
 dentist
 deny
 department
@@ -1417,6 +1420,7 @@ doing
 doll
 dollar
 dollars
+dolly
 domestic
 donald
 done
@@ -1434,6 +1438,7 @@ doubt
 doubts
 doug
 dough
+douglas
 down
 downstairs
 downtown
@@ -1926,6 +1931,7 @@ friendly
 friends
 friendship
 frightened
+frisbee
 frog
 from
 frozen
@@ -2003,6 +2009,7 @@ gifts
 gig
 giggles
 giggling
+gilbert
 gimme
 gina
 ginger
@@ -2719,6 +2726,7 @@ legs
 lemon
 lend
 length
+lenny
 leo
 leon
 leonard
@@ -4162,6 +4170,7 @@ shell
 shelter
 shepherd
 sheriff
+sherry
 shield
 shift
 shine
@@ -4285,6 +4294,7 @@ smashed
 smell
 smells
 smile
+smiley
 smiling
 smith
 smoke
@@ -4798,6 +4808,7 @@ tool
 tools
 tooth
 top
+topless
 torn
 torture
 tortured
@@ -5267,3 +5278,4 @@ zombie
 zombies
 zone
 zones
+zoom

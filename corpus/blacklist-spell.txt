@@ -10,6 +10,7 @@ akbar
 al
 am
 amb
+ami
 an
 ap
 ar
@@ -196,6 +197,7 @@ mln
 mm
 mmm
 mo
+mon
 mott
 mr
 mt
