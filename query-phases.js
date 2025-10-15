@@ -1,5 +1,6 @@
 import { pathTo, readLines } from "./lib/io.js";
-import { Phrase, Word } from "./lib/word.js";
+import { Lemmata } from "./lib/lemmata.js";
+import { Phrase } from "./lib/word.js";
 
 const lines = await Array.fromAsync(readLines(pathTo("corpus/corpus1-lemmata.txt")));
 for (const line of lines.slice(0, 10)) {
@@ -8,7 +9,7 @@ for (const line of lines.slice(0, 10)) {
 
 function parsePhrase(line) {
   const phrase = new Phrase();
-  for (const word of Word.parseWords(line)) {
+  for (const word of Lemmata.parseLine(line)) {
     const { form, pos } = word;
     switch (pos) {
       case "NOUN": {

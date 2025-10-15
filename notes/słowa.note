@@ -6,11 +6,15 @@
 !Front:
 иметь
 
+~~posiadać~~
+
 *Czasownik*
 !Back:
 mieć
 
 [anki:tts lang=pl_PL]mieć[/anki:tts]
+
+**Synonimy**: posiadać
 
 - **Mieliśmy** możliwość zwiedzenia wnętrz rezydencji.
 - Nie **ma** daty ani godziny.
@@ -102,7 +106,7 @@ tak
 !Front:
 как
 
-~~jak~~
+~~jak~~, ~~zanim~~
 
 *Przysłówek*
 !Back:
@@ -110,7 +114,7 @@ jak
 
 [anki:tts lang=pl_PL]jak[/anki:tts]
 
-**Synonimy**: jak
+**Synonimy**: jak, zanim
 
 - **Jak** wybrać taki, który spełni twoje oczekiwania?
 - **Jak** będzie z dostępem do toalet i pryszniców?
@@ -129,7 +133,7 @@ jak
 !Front:
 очень, весьма
 
-~~wysoce~~
+~~dużo~~, ~~wysoce~~
 
 *Przysłówek*
 !Back:
@@ -137,7 +141,7 @@ bardzo, bardziej, najbardziej
 
 [anki:tts lang=pl_PL]bardzo, bardziej, najbardziej[/anki:tts]
 
-**Synonimy**: wysoce
+**Synonimy**: dużo, wysoce
 
 - Jednym z **najbardziej** powszechnych zawodów jest zawód fryzjera.
 - Ubezpieczenia są postrzegane jako jeden z **najbardziej** stabilnych biznesów.
@@ -364,11 +368,15 @@ można
 !Front:
 ребёнок, дитя
 
+~~dzieciak~~
+
 *Rzeczownik*
 !Back:
 dziecko
 
 [anki:tts lang=pl_PL]dziecko[/anki:tts]
+
+**Synonimy**: dzieciak
 
 - Dzieje się to po urodzeniu **dziecka**, z powodu kaszlu i pracy fizycznej.
 - Okazuj **dziecku** swoja miłość.
@@ -437,7 +445,7 @@ dobrze, lepiej, najlepiej
 !Front:
 сделать
 
-~~sprawić~~, ~~uczynić~~
+~~sprawić~~
 
 *Czasownik*
 !Back:
@@ -445,7 +453,7 @@ zrobić
 
 [anki:tts lang=pl_PL]zrobić[/anki:tts]
 
-**Synonimy**: sprawić, uczynić
+**Synonimy**: sprawić
 
 - Powtórz, co masz **zrobić**.
 - Narysuj, **zrób** zdjęcie lub napisz.
@@ -741,11 +749,15 @@ dzień
 !Front:
 целый, весь
 
+~~wszystek~~
+
 *Przymiotnik*
 !Back:
 cały, calszy, najcalszy
 
 [anki:tts lang=pl_PL]cały, calszy, najcalszy[/anki:tts]
+
+**Synonimy**: wszystek
 
 - Niezależnie od tego, na jaką wyglądała, z **całą** pewnością groźną nie była.
 - I jest wiele muzeów rozproszonych po **całym** kraju, jest coś do zobaczenia.
@@ -949,7 +961,7 @@ powinien
 !Front:
 найти, обнаружить
 
-~~odnaleźć~~, ~~wyjaśnić~~, ~~odkryć~~, ~~wykazać~~, ~~ujawnić~~, ~~wykryć~~
+~~odnaleźć~~, ~~wyjaśnić~~, ~~odkryć~~, ~~ujawnić~~, ~~wykryć~~
 
 *Czasownik*
 !Back:
@@ -957,7 +969,7 @@ znaleźć
 
 [anki:tts lang=pl_PL]znaleźć[/anki:tts]
 
-**Synonimy**: odnaleźć, wyjaśnić, odkryć, wykazać, ujawnić, wykryć
+**Synonimy**: odnaleźć, wyjaśnić, odkryć, ujawnić, wykryć
 
 - W kabinie **znaleziono** napoczętą butelkę wódki.
 - **Znalazła** się w stanie likwidacji.
@@ -1176,7 +1188,7 @@ zawsze
 !Front:
 видеть
 
-~~widać~~, ~~dostrzegać~~
+~~dostrzegać~~
 
 *Czasownik*
 !Back:
@@ -1184,7 +1196,7 @@ widzieć
 
 [anki:tts lang=pl_PL]widzieć[/anki:tts]
 
-**Synonimy**: widać, dostrzegać
+**Synonimy**: dostrzegać
 
 - **Widział** coraz więcej płomieni wokół siebie.
 - Jeśli **widzicie** podwójnie, to nie złudzenie optyczne.
@@ -1573,11 +1585,15 @@ sprawa
 !Front:
 проблема
 
+~~kwestia~~
+
 *Rzeczownik*
 !Back:
 problem
 
 [anki:tts lang=pl_PL]problem[/anki:tts]
+
+**Synonimy**: kwestia
 
 - Jeszcze innym **problemem** są zaległości uczniów.
 - Opisano również napotkane **problemy**.
@@ -2173,7 +2189,7 @@ zmiana
 !Front:
 цена, стоимость
 
-~~wartość~~
+~~koszt~~, ~~wartość~~
 
 *Rzeczownik*
 !Back:
@@ -2181,7 +2197,7 @@ cena
 
 [anki:tts lang=pl_PL]cena[/anki:tts]
 
-**Synonimy**: wartość
+**Synonimy**: koszt, wartość
 
 - **Cena** usługi różni się w różnych regionach.
 - **Ceny** nieruchomości ustabilizowały się.
@@ -2246,7 +2262,7 @@ potrzebować
 !Front:
 потому что, поэтому
 
-~~więc~~, ~~stąd~~, ~~bo~~, ~~ponieważ~~, ~~iż~~
+~~więc~~, ~~zatem~~, ~~stąd~~, ~~bo~~, ~~ponieważ~~, ~~iż~~
 
 *Przysłówek*
 !Back:
@@ -2254,7 +2270,7 @@ dlatego
 
 [anki:tts lang=pl_PL]dlatego[/anki:tts]
 
-**Synonimy**: więc, stąd, bo, ponieważ, iż
+**Synonimy**: więc, zatem, stąd, bo, ponieważ, iż
 
 - Pewnie też **dlatego**, by nie odstawać od reszty.
 - Po prostu **dlatego**, że musisz coś robić, inaczej oszalejesz.
@@ -2781,15 +2797,11 @@ pamiętać
 !Front:
 внимание, замечание
 
-~~wzgląd~~
-
 *Rzeczownik*
 !Back:
 uwaga
 
 [anki:tts lang=pl_PL]uwaga[/anki:tts]
-
-**Synonimy**: wzgląd
 
 - Musiał użyć dzwonka by zwrócono na niego **uwagę**.
 - **Uwagi** do wersji mobilnej.
@@ -3160,13 +3172,17 @@ zły, gorszy, najgorszy
 
 !id: slowo_czasownik_posiadać_ru
 !Front:
-posiadać
+владеть, обладать, иметь
+
+~~mieć~~
 
 *Czasownik*
 !Back:
 posiadać
 
 [anki:tts lang=pl_PL]posiadać[/anki:tts]
+
+**Synonimy**: mieć
 
 - **Posiada** również kwalifikacje pedagogiczne.
 - **Posiadamy** szerokie portfolio serwisów internetowych.
@@ -3639,7 +3655,7 @@ powód
 !Front:
 рука, кисть
 
-~~dłoń~~, ~~ramię~~, ~~pismo~~, ~~grono~~, ~~pędzel~~
+~~ramię~~, ~~grono~~, ~~pędzel~~
 
 *Rzeczownik*
 !Back:
@@ -3647,7 +3663,7 @@ ręka
 
 [anki:tts lang=pl_PL]ręka[/anki:tts]
 
-**Synonimy**: dłoń, ramię, pismo, grono, pędzel
+**Synonimy**: ramię, grono, pędzel
 
 - Rozpoznawalność i prestiż twojej firmy pozostaw w dobrych **rękach**.
 - Mam na swojej liście, jak tylko wpadnie mi w **ręce** to przeczytam.
@@ -5742,7 +5758,7 @@ efekt
 
 !id: slowo_przymiotnik_wykonany_ru
 !Front:
-wykonany
+сделанный
 
 *Przymiotnik*
 !Back:
@@ -5760,13 +5776,17 @@ wykonany
 
 !id: slowo_rzeczownik_koszt_ru
 !Front:
-расходы
+цена, затраты, расходы
+
+~~cena~~
 
 *Rzeczownik*
 !Back:
 koszt
 
 [anki:tts lang=pl_PL]koszt[/anki:tts]
+
+**Synonimy**: cena
 
 - Nie liczą się dla nich **koszty**, tylko natychmiast wymagają kasy.
 - Różnica w **koszcie** jest szczególnie dostrzegalna w przypadku usług transmisji danych.
@@ -5812,7 +5832,7 @@ zaczynać
 !Front:
 вести, провожать, управлять
 
-~~toczyć~~, ~~rządzić~~
+~~toczyć~~, ~~kierować~~, ~~rządzić~~
 
 *Czasownik*
 !Back:
@@ -5820,7 +5840,7 @@ prowadzić
 
 [anki:tts lang=pl_PL]prowadzić[/anki:tts]
 
-**Synonimy**: toczyć, rządzić
+**Synonimy**: toczyć, kierować, rządzić
 
 - Do wsi **prowadzi** droga polna utwardzona.
 - Obiecałam, że będę z nimi **prowadziła** takie praktyczne zajęcia.
@@ -6239,29 +6259,6 @@ film
 
 !type: Word
 !deck: Polski::Słowa::Pos-0201-0300
-!tags: Polski Słowo Przymiotnik Pos-1-300 Pos-201-300
-
-!id: slowo_przymiotnik_internetowy_ru
-!Front:
-internetowy
-
-*Przymiotnik*
-!Back:
-internetowy
-
-[anki:tts lang=pl_PL]internetowy[/anki:tts]
-
-- Posiadamy szerokie portfolio serwisów **internetowych**.
-- Obecnie pracuje nad sklepem **internetowym**, który zostanie niedługo otwarty.
-- Strona **internetowa** zaczyna ożywać!
-- Administracja sieciowa obiecuje możliwość organizacji sprzedaży **internetowej** bezpośrednio w sieci.
-- Obecnie prezentuje również **internetowe** źródła danych przestrzennych.
-!POS: Przymiotnik
-!PPM: 000329
-~~~
-
-!type: Word
-!deck: Polski::Słowa::Pos-0201-0300
 !tags: Polski Słowo Przysłówek Pos-1-300 Pos-201-300
 
 !id: slowo_przysłówek_nadal_ru
@@ -6415,7 +6412,7 @@ kontakt
 !Front:
 использовать, пользоваться
 
-~~korzystać~~, ~~stosować~~, ~~wykorzystać~~, ~~wykorzystywać~~, ~~zużywać~~, ~~posługiwać~~
+~~korzystać~~, ~~stosować~~, ~~wykorzystać~~, ~~stosowanie~~, ~~wykorzystywać~~, ~~zużywać~~, ~~posługiwać~~
 
 *Czasownik*
 !Back:
@@ -6423,7 +6420,7 @@ używać
 
 [anki:tts lang=pl_PL]używać[/anki:tts]
 
-**Synonimy**: korzystać, stosować, wykorzystać, wykorzystywać, zużywać, posługiwać
+**Synonimy**: korzystać, stosować, wykorzystać, stosowanie, wykorzystywać, zużywać, posługiwać
 
 - Lepiej jest **używać** kompaktowych mebli do rozładunku przestrzeni.
 - **Używamy** słowa, by przeklinać, obwiniać, oskarżać, niszczyć.
@@ -7575,17 +7572,13 @@ mama
 
 !id: slowo_przysłówek_coraz_ru
 !Front:
-всё более и более, и
-
-~~i~~
+всё более и более
 
 *Przysłówek*
 !Back:
 coraz
 
 [anki:tts lang=pl_PL]coraz[/anki:tts]
-
-**Synonimy**: i
 
 - Im człowiek starszy tym niestety ryzyko jest **coraz** większe.
 - Widział **coraz** więcej płomieni wokół siebie.
@@ -8034,7 +8027,7 @@ okres
 !Front:
 закончить, окончить
 
-~~kończyć~~, ~~dokonać~~
+~~zakończyć~~, ~~kończyć~~, ~~dokonać~~
 
 *Czasownik*
 !Back:
@@ -8042,7 +8035,7 @@ skończyć
 
 [anki:tts lang=pl_PL]skończyć[/anki:tts]
 
-**Synonimy**: kończyć, dokonać
+**Synonimy**: zakończyć, kończyć, dokonać
 
 - **Skończę** pisanie książki i będzie się działo.
 - Gdy **skończyłem** ledwie wiedziałem, jak się nazywam.
@@ -8132,7 +8125,7 @@ sądzić
 
 !id: slowo_rzeczownik_zajęcia_ru
 !Front:
-досужий
+занятия
 
 *Rzeczownik*
 !Back:
@@ -8562,7 +8555,7 @@ wspólny
 !Front:
 использовать, пользоваться
 
-~~używać~~, ~~stosować~~, ~~wykorzystać~~, ~~wykorzystywać~~, ~~zużywać~~, ~~posługiwać~~
+~~używać~~, ~~stosować~~, ~~wykorzystać~~, ~~stosowanie~~, ~~wykorzystywać~~, ~~zużywać~~, ~~posługiwać~~
 
 *Czasownik*
 !Back:
@@ -8570,7 +8563,7 @@ korzystać
 
 [anki:tts lang=pl_PL]korzystać[/anki:tts]
 
-**Synonimy**: używać, stosować, wykorzystać, wykorzystywać, zużywać, posługiwać
+**Synonimy**: używać, stosować, wykorzystać, stosowanie, wykorzystywać, zużywać, posługiwać
 
 - Najlepiej tylko **korzystać** z okresu bez odsetkowego.
 - Jak **korzysta** z niego szkolny timer?
@@ -8879,7 +8872,7 @@ wolny, wolniejszy, najwolniejszy
 !Front:
 мало, немного
 
-~~trochę~~, ~~niewiele~~
+~~trochę~~, ~~niewiele~~, ~~mało~~
 
 *Przysłówek*
 !Back:
@@ -8887,7 +8880,7 @@ mało, mniej, najmniej
 
 [anki:tts lang=pl_PL]mało, mniej, najmniej[/anki:tts]
 
-**Synonimy**: trochę, niewiele
+**Synonimy**: trochę, niewiele, mało
 
 - Fakty są na ogół znacznie **mniej** sensacyjne niż fikcja.
 - Płuca u dziecka rozwijają się **mniej** więcej do ósmego roku życia.
@@ -9012,9 +9005,9 @@ liczba
 
 !id: slowo_rzeczownik_wzgląd_ru
 !Front:
-точка зрения, внимание, соображение
+взгляд, точка зрения
 
-~~uwaga~~, ~~pogląd~~
+~~opinia~~, ~~wzrok~~, ~~pogląd~~
 
 *Rzeczownik*
 !Back:
@@ -9022,7 +9015,7 @@ wzgląd
 
 [anki:tts lang=pl_PL]wzgląd[/anki:tts]
 
-**Synonimy**: uwaga, pogląd
+**Synonimy**: opinia, wzrok, pogląd
 
 - Jest to niezwykle istotne ze **względu** na wasze dzieci.
 - Pod **względem** polityki jesteśmy absolutnie zgodni.
@@ -9091,15 +9084,11 @@ uczyć
 !Front:
 близкий
 
-~~bliski~~
-
 *Przymiotnik*
 !Back:
 bliski, bliższy, najbliższy
 
 [anki:tts lang=pl_PL]bliski, bliższy, najbliższy[/anki:tts]
-
-**Synonimy**: bliski
 
 - Matka jest pierwszą, **najbliższą** i najważniejszą kobietą, nauczycielką dla córki.
 - Propozycja ta **bliższa** jest nacjonalizmowi obywatelskiemu, niż etnicznemu.
@@ -9318,7 +9307,7 @@ dokument
 !Front:
 исполнение, осуществление
 
-~~wykonawstwo~~
+~~wykonanie~~
 
 *Rzeczownik*
 !Back:
@@ -9326,7 +9315,7 @@ realizacja
 
 [anki:tts lang=pl_PL]realizacja[/anki:tts]
 
-**Synonimy**: wykonawstwo
+**Synonimy**: wykonanie
 
 - Złym rozwiązaniem dla **realizacji** usług.
 - **Realizacja** tak dużej inwestycji wymagała zatrudnienia kilkunastu tysięcy pracowników.
@@ -9795,9 +9784,9 @@ zajmować
 
 !id: slowo_rzeczownik_kwestia_ru
 !Front:
-вопрос
+проблема, вопрос
 
-~~pytanie~~, ~~zagadnienie~~
+~~problem~~, ~~pytanie~~, ~~zagadnienie~~
 
 *Rzeczownik*
 !Back:
@@ -9805,7 +9794,7 @@ kwestia
 
 [anki:tts lang=pl_PL]kwestia[/anki:tts]
 
-**Synonimy**: pytanie, zagadnienie
+**Synonimy**: problem, pytanie, zagadnienie
 
 - Osobną **kwestią** pozostawało to, że niektórzy na karę zasłużyli.
 - Nie musicie się ze mną zgadzać w tej **kwestii**.
@@ -9899,17 +9888,13 @@ wartość
 
 !id: slowo_czasownik_widać_ru
 !Front:
-видеть, смотреть
-
-~~widzieć~~, ~~dostrzegać~~, ~~patrzeć~~, ~~spojrzeć~~, ~~spoglądać~~
+видно
 
 *Czasownik*
 !Back:
 widać
 
 [anki:tts lang=pl_PL]widać[/anki:tts]
-
-**Synonimy**: widzieć, dostrzegać, patrzeć, spojrzeć, spoglądać
 
 - Jak **widać** komentarz poprzednika bardzo nawiązuje do tematu posta.
 !POS: Czasownik
@@ -10280,13 +10265,17 @@ oferować
 
 !id: slowo_czasownik_zawierać_ru
 !Front:
-zawierać
+содержать, заключать
+
+~~obejmować~~
 
 *Czasownik*
 !Back:
 zawierać
 
 [anki:tts lang=pl_PL]zawierać[/anki:tts]
+
+**Synonimy**: obejmować
 
 - Słowa nie będziesz będą wtedy **zawierać** tę obietnicę.
 - Mąka lniana znaleziona na rynku **zawiera** zmielone i wysuszone nasiona lnu.
@@ -10378,7 +10367,7 @@ wniosek
 !Front:
 применять, использовать
 
-~~używać~~, ~~korzystać~~, ~~wykorzystać~~, ~~wykorzystywać~~, ~~zużywać~~
+~~używać~~, ~~korzystać~~, ~~wykorzystać~~, ~~stosowanie~~, ~~wykorzystywać~~, ~~zużywać~~
 
 *Czasownik*
 !Back:
@@ -10386,7 +10375,7 @@ stosować
 
 [anki:tts lang=pl_PL]stosować[/anki:tts]
 
-**Synonimy**: używać, korzystać, wykorzystać, wykorzystywać, zużywać
+**Synonimy**: używać, korzystać, wykorzystać, stosowanie, wykorzystywać, zużywać
 
 - Zna i **stosuje** podstawowe zasady komunikacji.
 - Warto **stosować** oba źródła białka.
@@ -10432,7 +10421,7 @@ wydarzenie
 !Front:
 статья, товар
 
-~~hasło~~, ~~towar~~
+~~towar~~
 
 *Rzeczownik*
 !Back:
@@ -10440,7 +10429,7 @@ artykuł
 
 [anki:tts lang=pl_PL]artykuł[/anki:tts]
 
-**Synonimy**: hasło, towar
+**Synonimy**: towar
 
 - Ileż można odświeżać **artykuł**?
 - W tym **artykule** dowiesz się, jak połączyć tapetę w projekt jednego pokoju.
@@ -10565,7 +10554,7 @@ wypadek
 
 !id: slowo_przysłówek_poniżej_ru
 !Front:
-poniżej
+ниже, внизу
 
 *Przysłówek*
 !Back:
@@ -10952,7 +10941,7 @@ mąż
 !Front:
 смотреть
 
-~~widać~~, ~~spojrzeć~~, ~~spoglądać~~
+~~spojrzeć~~, ~~spoglądać~~
 
 *Czasownik*
 !Back:
@@ -10960,7 +10949,7 @@ patrzeć
 
 [anki:tts lang=pl_PL]patrzeć[/anki:tts]
 
-**Synonimy**: widać, spojrzeć, spoglądać
+**Synonimy**: spojrzeć, spoglądać
 
 - Tymczasem na energetykę trzeba **patrzeć** całościowo.
 - Na co **patrzą** się najpierw, gdy widzą dziewczynę po raz pierwszy?
@@ -12109,7 +12098,7 @@ funkcja
 !Front:
 еда, пища
 
-~~posiłek~~, ~~potrawa~~, ~~pożywienie~~, ~~strawa~~, ~~pokarm~~
+~~posiłek~~, ~~potrawa~~, ~~pożywienie~~, ~~strawa~~
 
 *Rzeczownik*
 !Back:
@@ -12117,7 +12106,7 @@ jedzenie
 
 [anki:tts lang=pl_PL]jedzenie[/anki:tts]
 
-**Synonimy**: posiłek, potrawa, pożywienie, strawa, pokarm
+**Synonimy**: posiłek, potrawa, pożywienie, strawa
 
 - Przed **jedzeniem** pies musi chodzić.
 - **Jedzenie** paskudne i monotonne.
@@ -12133,13 +12122,17 @@ jedzenie
 
 !id: slowo_rzeczownik_wykonanie_ru
 !Front:
-wykonanie
+исполнение, выполнение
+
+~~realizacja~~
 
 *Rzeczownik*
 !Back:
 wykonanie
 
 [anki:tts lang=pl_PL]wykonanie[/anki:tts]
+
+**Synonimy**: realizacja
 
 !POS: Rzeczownik
 !PPM: 000201
@@ -12688,7 +12681,7 @@ okno
 !Front:
 уверенный, достоверный, определённый
 
-~~wiarygodny~~, ~~określony~~
+~~pewien~~, ~~określony~~, ~~wiarygodny~~
 
 *Przymiotnik*
 !Back:
@@ -12696,7 +12689,7 @@ pewny, pewniejszy, najpewniejszy
 
 [anki:tts lang=pl_PL]pewny, pewniejszy, najpewniejszy[/anki:tts]
 
-**Synonimy**: wiarygodny, określony
+**Synonimy**: pewien, określony, wiarygodny
 
 - Gdzie dokładnie się znajdowała nie jest całkiem **pewne**.
 - Potem mają nadejść burzowe chmury, ale to jeszcze nic **pewnego**.
@@ -12977,7 +12970,7 @@ postać
 !Front:
 отсюда, поэтому
 
-~~więc~~, ~~dlatego~~, ~~odtąd~~
+~~więc~~, ~~dlatego~~, ~~zatem~~, ~~odtąd~~
 
 *Przysłówek*
 !Back:
@@ -12985,7 +12978,7 @@ stąd
 
 [anki:tts lang=pl_PL]stąd[/anki:tts]
 
-**Synonimy**: więc, dlatego, odtąd
+**Synonimy**: więc, dlatego, zatem, odtąd
 
 - **Stąd** odgrywa on najważniejszą rolę w procesie projektowania nowych modeli.
 - **Stąd** też tak ważny jest wybór producenta.
@@ -13630,11 +13623,15 @@ nagroda
 !Front:
 сначала, сперва, в первую очередь
 
+~~głównie~~
+
 *Przysłówek*
 !Back:
 najpierw
 
 [anki:tts lang=pl_PL]najpierw[/anki:tts]
+
+**Synonimy**: głównie
 
 - **Najpierw** zastanówmy się na sferą moralną.
 - Prawdopodobnie powinien **najpierw** zapytać?
@@ -13806,7 +13803,7 @@ dostęp
 !Front:
 мнение, взгляд
 
-~~zdanie~~, ~~pogląd~~, ~~orzeczenie~~, ~~wzrok~~, ~~spojrzenie~~
+~~zdanie~~, ~~pogląd~~, ~~orzeczenie~~, ~~wzgląd~~, ~~wzrok~~
 
 *Rzeczownik*
 !Back:
@@ -13814,7 +13811,7 @@ opinia
 
 [anki:tts lang=pl_PL]opinia[/anki:tts]
 
-**Synonimy**: zdanie, pogląd, orzeczenie, wzrok, spojrzenie
+**Synonimy**: zdanie, pogląd, orzeczenie, wzgląd, wzrok
 
 - **Opinie** umieszczane na stronie nie są nigdzie przekazywane.
 - Nie znałam **opinii** innych osób na jej temat.
@@ -14233,7 +14230,7 @@ właściwy, właściwszy, najwłaściwszy
 !Front:
 использовать
 
-~~używać~~, ~~korzystać~~, ~~stosować~~, ~~wykorzystywać~~, ~~zużywać~~
+~~używać~~, ~~korzystać~~, ~~stosować~~, ~~stosowanie~~, ~~wykorzystywać~~, ~~zużywać~~
 
 *Czasownik*
 !Back:
@@ -14241,7 +14238,7 @@ wykorzystać
 
 [anki:tts lang=pl_PL]wykorzystać[/anki:tts]
 
-**Synonimy**: używać, korzystać, stosować, wykorzystywać, zużywać
+**Synonimy**: używać, korzystać, stosować, stosowanie, wykorzystywać, zużywać
 
 - Właściwie wszystkie materiały są odpowiednie na to, by **wykorzystać** je w kuchni.
 - Na szczęście istnieje mnóstwo bezpłatnych narzędzi, które **wykorzystają** sugerowane wyszukiwania dla ciebie.
@@ -14939,13 +14936,17 @@ zastosowanie
 
 !id: slowo_przysłówek_dużo_ru
 !Front:
-dużo
+очень, много
+
+~~bardzo~~, ~~wiele~~, ~~sporo~~
 
 *Przysłówek*
 !Back:
 dużo, więcej, najwięcej
 
 [anki:tts lang=pl_PL]dużo, więcej, najwięcej[/anki:tts]
+
+**Synonimy**: bardzo, wiele, sporo
 
 - Mniej **więcej** od połowy ryczałam jak głupia.
 - Co **więcej**, równie często u osób rodzących samodzielnie lub przez cesarskie cięcie.
@@ -15374,7 +15375,7 @@ wygodny, wygodniejszy, najwygodniejszy
 !Front:
 смотреть, посмотреть
 
-~~widać~~, ~~patrzeć~~, ~~spoglądać~~, ~~popatrzeć~~
+~~patrzeć~~, ~~spoglądać~~, ~~popatrzeć~~
 
 *Czasownik*
 !Back:
@@ -15382,7 +15383,7 @@ spojrzeć
 
 [anki:tts lang=pl_PL]spojrzeć[/anki:tts]
 
-**Synonimy**: widać, patrzeć, spoglądać, popatrzeć
+**Synonimy**: patrzeć, spoglądać, popatrzeć
 
 - **Spojrzałem** na niego bez zrozumienia.
 - W niniejszym artykule **spojrzymy** na kontrowersyjne sprawy z naukowego punktu widzenia.
@@ -16163,7 +16164,7 @@ brakować
 !Front:
 создать, сотворить
 
-~~uczynić~~, ~~wywołać~~, ~~ukształtować~~
+~~wywołać~~, ~~ukształtować~~
 
 *Czasownik*
 !Back:
@@ -16171,7 +16172,7 @@ stworzyć
 
 [anki:tts lang=pl_PL]stworzyć[/anki:tts]
 
-**Synonimy**: uczynić, wywołać, ukształtować
+**Synonimy**: wywołać, ukształtować
 
 - Nasza wiedza i doświadczenie pozwoliły nam **stworzyć** niepowtarzalne i bezpieczne produkty.
 - Jaki więc **stworzono** przekaz?
@@ -16261,13 +16262,17 @@ ryzyko
 
 !id: slowo_czasownik_występować_ru
 !Front:
-występować
+выступать, проявляться
+
+~~wystawać~~, ~~objawiać~~
 
 *Czasownik*
 !Back:
 występować
 
 [anki:tts lang=pl_PL]występować[/anki:tts]
+
+**Synonimy**: wystawać, objawiać
 
 - W podanych rejonach mogą **występować** przerwy w dostawie usług.
 - **Występowałyśmy** bardzo często razem.
@@ -16998,7 +17003,7 @@ nieco
 !Front:
 причинить, сделать
 
-~~zrobić~~, ~~uczynić~~
+~~zrobić~~
 
 *Czasownik*
 !Back:
@@ -17006,7 +17011,7 @@ sprawić
 
 [anki:tts lang=pl_PL]sprawić[/anki:tts]
 
-**Synonimy**: zrobić, uczynić
+**Synonimy**: zrobić
 
 - Na pewno **sprawi**, że wasz dzień będzie ładniejszy.
 - Czy można jednak **sprawić**, by o każdej porze roku móc grillować?
@@ -17073,13 +17078,17 @@ szpital
 
 !id: slowo_rzeczownik_tata_ru
 !Front:
-tata
+папа
+
+~~tatuś~~
 
 *Rzeczownik*
 !Back:
 tata
 
 [anki:tts lang=pl_PL]tata[/anki:tts]
+
+**Synonimy**: tatuś
 
 - Osobą, która zaszczepiła we mnie miłość do sportu był **tata**.
 - Przecież nie był już zwykłym **tatą**.
@@ -17330,7 +17339,7 @@ komentarz
 
 !id: slowo_czasownik_polegać_ru
 !Front:
-polegać
+полагаться
 
 *Czasownik*
 !Back:
@@ -17355,7 +17364,7 @@ polegać
 !Front:
 приходить, наступить, даваться
 
-~~wpadać~~, ~~nadepnąć~~
+~~wpadać~~, ~~nadejść~~, ~~nadepnąć~~
 
 *Czasownik*
 !Back:
@@ -17363,7 +17372,7 @@ przychodzić
 
 [anki:tts lang=pl_PL]przychodzić[/anki:tts]
 
-**Synonimy**: wpadać, nadepnąć
+**Synonimy**: wpadać, nadejść, nadepnąć
 
 - Z pomocą **przychodzą** świadkowie.
 - Przyszłość **przychodzi** zawsze za szybko, wtedy, kiedy nie jesteśmy na nią gotowi.
@@ -17508,7 +17517,7 @@ kredyt
 !Front:
 суд, суждение
 
-~~pogląd~~, ~~orzeczenie~~
+~~orzeczenie~~
 
 *Rzeczownik*
 !Back:
@@ -17516,7 +17525,7 @@ sąd
 
 [anki:tts lang=pl_PL]sąd[/anki:tts]
 
-**Synonimy**: pogląd, orzeczenie
+**Synonimy**: orzeczenie
 
 - **Sąd** odwoławczy nie znalazł też podstaw do zmiany wysokości orzeczonych kar.
 - Dziś w poznańskim **sądzie** zakończył jeden z najgłośniejszych procesów ostatnich lat.
@@ -18000,7 +18009,7 @@ nazywać
 !Front:
 открыть
 
-~~odkryć~~, ~~wykazać~~
+~~odkryć~~
 
 *Czasownik*
 !Back:
@@ -18008,7 +18017,7 @@ otworzyć
 
 [anki:tts lang=pl_PL]otworzyć[/anki:tts]
 
-**Synonimy**: odkryć, wykazać
+**Synonimy**: odkryć
 
 - Gwałtownie **otworzył** oczy i usiadł.
 - Po wyświetleniu listy aktualizacji, kliknij aktualizację, aby **otworzyć** okno z dodatkowymi informacjami.
@@ -18102,7 +18111,7 @@ sprawdzać
 !Front:
 использование, применение
 
-~~zastosowanie~~, ~~korzystanie~~, ~~użytkowanie~~
+~~zastosowanie~~, ~~wykorzystanie~~, ~~korzystanie~~, ~~użytkowanie~~
 
 *Rzeczownik*
 !Back:
@@ -18110,7 +18119,7 @@ użycie
 
 [anki:tts lang=pl_PL]użycie[/anki:tts]
 
-**Synonimy**: zastosowanie, korzystanie, użytkowanie
+**Synonimy**: zastosowanie, wykorzystanie, korzystanie, użytkowanie
 
 - **Użycie** niektórych narzędzi może wiązać się z ograniczeniami.
 !POS: Rzeczownik
@@ -18150,13 +18159,17 @@ rozmiar
 
 !id: slowo_rzeczownik_stosowanie_ru
 !Front:
-stosowanie
+употребление, использовать
+
+~~używać~~, ~~korzystać~~, ~~stosować~~, ~~wykorzystać~~, ~~wykorzystywać~~, ~~zużywać~~
 
 *Rzeczownik*
 !Back:
 stosowanie
 
 [anki:tts lang=pl_PL]stosowanie[/anki:tts]
+
+**Synonimy**: używać, korzystać, stosować, wykorzystać, wykorzystywać, zużywać
 
 !POS: Rzeczownik
 !PPM: 000151
@@ -18465,11 +18478,15 @@ zdobyć
 !Front:
 снова, опять
 
+~~znowu~~, ~~znów~~
+
 *Przysłówek*
 !Back:
 ponownie
 
 [anki:tts lang=pl_PL]ponownie[/anki:tts]
+
+**Synonimy**: znowu, znów
 
 - Obiecaj dziecku, że przyjdzie **ponownie**.
 - Zachęciłaś mnie do obejrzenia **ponownie**.
@@ -18811,25 +18828,6 @@ odpowiadać
 - Na maile nie **odpowiada**, telefonu nie odbiera.
 - Nie **odpowiadał** na pytania, kluczył.
 - **Odpowiadasz** przede wszystkim za siebie, nie za innych.
-!POS: Czasownik
-!PPM: 000146
-~~~
-
-!type: Word
-!deck: Polski::Słowa::Pos-0501-0800
-!tags: Polski Słowo Czasownik Pos-1-800 Pos-501-800
-
-!id: slowo_czasownik_oto_ru
-!Front:
-oto
-
-*Czasownik*
-!Back:
-oto
-
-[anki:tts lang=pl_PL]oto[/anki:tts]
-
-- **Oto** książka o najdłuższym, jak do tej pory przeze mnie napotkanym, tytule.
 !POS: Czasownik
 !PPM: 000146
 ~~~
@@ -19255,13 +19253,17 @@ ciężko, ciężej, najciężej
 
 !id: slowo_rzeczownik_prowadzenie_ru
 !Front:
-prowadzenie
+провождение, лидерство
+
+~~przywództwo~~
 
 *Rzeczownik*
 !Back:
 prowadzenie
 
 [anki:tts lang=pl_PL]prowadzenie[/anki:tts]
+
+**Synonimy**: przywództwo
 
 !POS: Rzeczownik
 !PPM: 000144
@@ -19433,11 +19435,15 @@ zainteresowanie
 !Front:
 рассчитывать, ожидать
 
+~~oczekiwać~~
+
 *Czasownik*
 !Back:
 spodziewać
 
 [anki:tts lang=pl_PL]spodziewać[/anki:tts]
+
+**Synonimy**: oczekiwać
 
 - Więc **spodziewać** sprzyja kobietom, ale nie deklaracja miłości.
 - **Spodziewałem** się, że go tu zastanę.
@@ -19551,13 +19557,17 @@ instalacja
 
 !id: slowo_czasownik_oglądać_ru
 !Front:
-oglądać
+осматривать, наблюдать
+
+~~badać~~, ~~obserwować~~
 
 *Czasownik*
 !Back:
 oglądać
 
 [anki:tts lang=pl_PL]oglądać[/anki:tts]
+
+**Synonimy**: badać, obserwować
 
 - A potem **oglądamy** powidoki jego słów.
 - Dziewczyny będą się wręcz za mną **oglądały**!
@@ -19724,9 +19734,9 @@ wyzwanie
 
 !id: slowo_rzeczownik_znak_ru
 !Front:
-знак, марка, клеймо, метка, указатель, признак, примета, сигнал, след, знамя, крест
+знак, указатель, признак
 
-~~hasło~~, ~~symbol~~, ~~znaczek~~, ~~wskaźnik~~, ~~strzałka~~, ~~objaw~~, ~~cecha~~, ~~właściwość~~, ~~oznaka~~, ~~symptom~~, ~~sygnał~~, ~~ślad~~, ~~trop~~, ~~flaga~~, ~~sztandar~~, ~~krzyż~~
+~~symbol~~, ~~wskaźnik~~, ~~objaw~~, ~~cecha~~, ~~właściwość~~, ~~oznaka~~
 
 *Rzeczownik*
 !Back:
@@ -19734,7 +19744,7 @@ znak
 
 [anki:tts lang=pl_PL]znak[/anki:tts]
 
-**Synonimy**: hasło, symbol, znaczek, wskaźnik, strzałka, objaw, cecha, właściwość, oznaka, symptom, sygnał, ślad, trop, flaga, sztandar, krzyż
+**Synonimy**: symbol, wskaźnik, objaw, cecha, właściwość, oznaka
 
 - Czcimy krzyż jako **znak** zwycięstwa nad śmiercią, grzechem i ciemnością.
 - Na ulicach nie ma żadnych **znaków** świętowania?
@@ -20078,7 +20088,7 @@ powyższy
 
 !id: slowo_czasownik_przyznać_ru
 !Front:
-przyznać
+признать
 
 *Czasownik*
 !Back:
@@ -20101,7 +20111,7 @@ przyznać
 
 !id: slowo_przysłówek_samo_ru
 !Front:
-samo
+само
 
 *Przysłówek*
 !Back:
@@ -20570,7 +20580,7 @@ słońce
 !Front:
 след
 
-~~znak~~, ~~trop~~
+~~trop~~
 
 *Rzeczownik*
 !Back:
@@ -20578,7 +20588,7 @@ słońce
 
 [anki:tts lang=pl_PL]ślad[/anki:tts]
 
-**Synonimy**: znak, trop
+**Synonimy**: trop
 
 - Matka młodej bohaterki pewnego dnia znika bez **śladu**.
 - Skrupulatnie sprawdzali każdy **ślad**.
@@ -21276,13 +21286,17 @@ sala
 
 !id: slowo_rzeczownik_zarządzanie_ru
 !Front:
-zarządzanie
+руководство, управление
+
+~~zarząd~~, ~~kierownictwo~~, ~~sterowanie~~
 
 *Rzeczownik*
 !Back:
 zarządzanie
 
 [anki:tts lang=pl_PL]zarządzanie[/anki:tts]
+
+**Synonimy**: zarząd, kierownictwo, sterowanie
 
 - Rolnictwo ekologiczne jest najbardziej przyjazną środowisku formą **zarządzania** gospodarstwem.
 !POS: Rzeczownik
@@ -21313,29 +21327,6 @@ głupi, głupszy, najgłupszy
 - Dlaczego piszemy coraz **głupsze** opowiadania?
 - Napisali coś **głupiego** czy tak po prostu?
 !POS: Przymiotnik
-!PPM: 000131
-~~~
-
-!type: Word
-!deck: Polski::Słowa::Pos-0801-1300
-!tags: Polski Słowo Rzeczownik Pos-1-1300 Pos-801-1300
-
-!id: slowo_rzeczownik_marka_ru
-!Front:
-marka
-
-*Rzeczownik*
-!Back:
-marka
-
-[anki:tts lang=pl_PL]marka[/anki:tts]
-
-- Będziesz mógł realizować zlecenia dla największych **marek**!
-- Z racji ogromnego wyboru wyciskarek na rynku postanowiłam najpierw wybrać **markę**.
-- Rekomendujemy **marce** strategię obecności w blogosferze.
-- Kolejnym krokiem było zbudowanie zaufania do **marki**.
-- Rumuńska **marka** zyskała zaufanie klientów.
-!POS: Rzeczownik
 !PPM: 000131
 ~~~
 
@@ -22046,7 +22037,7 @@ próba
 !Front:
 определённый
 
-~~pewny~~
+~~pewien~~, ~~pewny~~
 
 *Przymiotnik*
 !Back:
@@ -22054,7 +22045,7 @@ określony
 
 [anki:tts lang=pl_PL]określony[/anki:tts]
 
-**Synonimy**: pewny
+**Synonimy**: pewien, pewny
 
 - Na przykład, może projekt artystyczny można wyśrodkować wokół **określonej** litery alfabetu.
 - Jednak z drugiej strony, musimy w szczególności uwzględnić **określoną** specyfikę takiej pracy.
@@ -22262,29 +22253,6 @@ pragnąć
 !deck: Polski::Słowa::Pos-0801-1300
 !tags: Polski Słowo Rzeczownik Pos-1-1300 Pos-801-1300
 
-!id: slowo_rzeczownik_promocja_ru
-!Front:
-promocja
-
-*Rzeczownik*
-!Back:
-promocja
-
-[anki:tts lang=pl_PL]promocja[/anki:tts]
-
-- Chce więc skorzystać z **promocji**, która została mu przecież zaoferowana.
-- Brak możliwości udziału w **promocjach** europejskich.
-- Celem tego cyklu jest **promocja** funduszy europejskich.
-- Czy to jedyne **promocje**?
-- Jestem za **promocją** mobilności.
-!POS: Rzeczownik
-!PPM: 000125
-~~~
-
-!type: Word
-!deck: Polski::Słowa::Pos-0801-1300
-!tags: Polski Słowo Rzeczownik Pos-1-1300 Pos-801-1300
-
 !id: slowo_rzeczownik_bohater_ru
 !Front:
 герой
@@ -22465,7 +22433,7 @@ interesować
 !Front:
 проявление, признак
 
-~~znak~~, ~~cecha~~, ~~właściwość~~, ~~oznaka~~, ~~symptom~~, ~~wyraz~~, ~~przejaw~~
+~~znak~~, ~~cecha~~, ~~właściwość~~, ~~oznaka~~, ~~wyraz~~, ~~przejaw~~
 
 *Rzeczownik*
 !Back:
@@ -22473,7 +22441,7 @@ objaw
 
 [anki:tts lang=pl_PL]objaw[/anki:tts]
 
-**Synonimy**: znak, cecha, właściwość, oznaka, symptom, wyraz, przejaw
+**Synonimy**: znak, cecha, właściwość, oznaka, wyraz, przejaw
 
 - Czy wy też macie podobne **objawy**.
 - Wszystko zależy od towarzyszących gorączce **objawów**.
@@ -23505,15 +23473,11 @@ niebo
 !Front:
 бумага
 
-~~pismo~~
-
 *Rzeczownik*
 !Back:
 papier
 
 [anki:tts lang=pl_PL]papier[/anki:tts]
-
-**Synonimy**: pismo
 
 - Weź pod uwagę trwałość **papieru**!
 - Pracownik nie tylko na **papierze**.
@@ -23697,7 +23661,7 @@ wycieczka
 
 !id: slowo_rzeczownik_opakowanie_ru
 !Front:
-opakowanie
+упаковка
 
 *Rzeczownik*
 !Back:
@@ -24002,7 +23966,7 @@ zgadzać
 !Front:
 признак, свойство, черта
 
-~~znak~~, ~~objaw~~, ~~właściwość~~, ~~oznaka~~, ~~symptom~~, ~~własność~~, ~~atrybut~~, ~~kreska~~
+~~znak~~, ~~objaw~~, ~~właściwość~~, ~~oznaka~~, ~~własność~~, ~~atrybut~~, ~~kreska~~
 
 *Rzeczownik*
 !Back:
@@ -24010,7 +23974,7 @@ cecha
 
 [anki:tts lang=pl_PL]cecha[/anki:tts]
 
-**Synonimy**: znak, objaw, właściwość, oznaka, symptom, własność, atrybut, kreska
+**Synonimy**: znak, objaw, właściwość, oznaka, własność, atrybut, kreska
 
 - Zmiany stają się dzisiaj permanentną **cechą** współczesnych organizacji.
 - Ale przyjrzyjmy się kilku **cechom** charakterystycznym tego typu związków.
@@ -24158,7 +24122,7 @@ kłopot
 
 !id: slowo_przymiotnik_przygotowany_ru
 !Front:
-przygotowany
+приготовленный, подготовленный
 
 *Przymiotnik*
 !Back:
@@ -24203,13 +24167,17 @@ specjalista
 
 !id: slowo_rzeczownik_warsztaty_ru
 !Front:
-warsztaty
+мастерские, семинар
+
+~~seminarium~~
 
 *Rzeczownik*
 !Back:
 warsztaty
 
 [anki:tts lang=pl_PL]warsztaty[/anki:tts]
+
+**Synonimy**: seminarium
 
 - Temat **warsztatów** należy ustalić wcześniej.
 - **Warsztaty** mają mieć również wymiar społeczny.
@@ -24252,13 +24220,17 @@ lokalny
 
 !id: slowo_czasownik_oczekiwać_ru
 !Front:
-oczekiwać
+ожидать, поджидать
+
+~~spodziewać~~
 
 *Czasownik*
 !Back:
 oczekiwać
 
 [anki:tts lang=pl_PL]oczekiwać[/anki:tts]
+
+**Synonimy**: spodziewać
 
 - Nie **oczekuj** więc, że efekty przyjdą w dwa tygodnie.
 - Wystraszony pobiegłem i ukryłem się między ludzi, którzy szlochali **oczekując** końca świata.
@@ -24379,7 +24351,7 @@ wysłać
 
 !id: slowo_czasownik_zapewnić_ru
 !Front:
-zapewnić
+заверить, уверить
 
 *Czasownik*
 !Back:
@@ -24610,7 +24582,7 @@ szczegółowy, szczegółowszy, najszczegółowszy
 
 !id: slowo_przymiotnik_używany_ru
 !Front:
-używany
+бывший в употреблении
 
 *Przymiotnik*
 !Back:
@@ -25126,13 +25098,17 @@ kosztować
 
 !id: slowo_czasownik_kierować_ru
 !Front:
-kierować
+руководить, управлять
+
+~~prowadzić~~, ~~rządzić~~
 
 *Czasownik*
 !Back:
 kierować
 
 [anki:tts lang=pl_PL]kierować[/anki:tts]
+
+**Synonimy**: prowadzić, rządzić
 
 - **Kieruj** się racjonalną oceną sytuacji.
 - Czym **kierować** się przy wyborze butów trekkingowych?
@@ -25199,13 +25175,17 @@ wątpliwość
 
 !id: slowo_czasownik_zakończyć_ru
 !Front:
-zakończyć
+закончить, завершить
+
+~~skończyć~~
 
 *Czasownik*
 !Back:
 zakończyć
 
 [anki:tts lang=pl_PL]zakończyć[/anki:tts]
+
+**Synonimy**: skończyć
 
 - Tylko lekarz, może jednoznacznie stwierdzić kiedy **zakończyć** leczenie.
 - Dziś w poznańskim sądzie **zakończył** jeden z najgłośniejszych procesów ostatnich lat.
@@ -25241,17 +25221,13 @@ brak
 
 !id: slowo_rzeczownik_dłoń_ru
 !Front:
-кисть руки, рука, ладонь, длань, долонь
-
-~~ręka~~, ~~ramię~~, ~~pismo~~
+ладонь
 
 *Rzeczownik*
 !Back:
 dłoń
 
 [anki:tts lang=pl_PL]dłoń[/anki:tts]
-
-**Synonimy**: ręka, ramię, pismo
 
 - Zapewniają świetne dopasowanie do każdego rodzaju **dłoni**.
 - Potem połóżcie obie **dłonie** na czakrę serca.
@@ -25367,13 +25343,17 @@ montaż
 
 !id: slowo_rzeczownik_wpis_ru
 !Front:
-wpis
+запись
+
+~~zapis~~, ~~nagranie~~, ~~ewidencja~~
 
 *Rzeczownik*
 !Back:
 wpis
 
 [anki:tts lang=pl_PL]wpis[/anki:tts]
+
+**Synonimy**: zapis, nagranie, ewidencja
 
 - W kolejnym **wpisie** powrócę do pokazywania autografów.
 - Nie rozumiem tego po co dawać **wpisy** z imionami, które są anglojęzyczne.
@@ -25640,13 +25620,17 @@ przyjąć
 
 !id: slowo_rzeczownik_wykorzystanie_ru
 !Front:
-wykorzystanie
+использование
+
+~~użycie~~, ~~korzystanie~~, ~~użytkowanie~~
 
 *Rzeczownik*
 !Back:
 wykorzystanie
 
 [anki:tts lang=pl_PL]wykorzystanie[/anki:tts]
+
+**Synonimy**: użycie, korzystanie, użytkowanie
 
 !POS: Rzeczownik
 !PPM: 000111
@@ -25658,13 +25642,17 @@ wykorzystanie
 
 !id: slowo_rzeczownik_dzieciak_ru
 !Front:
-dzieciak
+ребёнок
+
+~~dziecko~~
 
 *Rzeczownik*
 !Back:
 dzieciak
 
 [anki:tts lang=pl_PL]dzieciak[/anki:tts]
+
+**Synonimy**: dziecko
 
 - A wiecie, dlaczego kupiłam spinnery **dzieciakom**?
 - Dla **dzieciaków** jest jednak czymś więcej.
@@ -25704,13 +25692,17 @@ poprawić
 
 !id: slowo_rzeczownik_regulamin_ru
 !Front:
-regulamin
+правила, устав
+
+~~reguła~~
 
 *Rzeczownik*
 !Back:
 regulamin
 
 [anki:tts lang=pl_PL]regulamin[/anki:tts]
+
+**Synonimy**: reguła
 
 - Wszelkie wątpliwości dotyczące **regulaminu** i przebiegu konkursu rozstrzyga organizator.
 - Co powinien zawierać **regulamin** konkursu, a czego należy unikać?
@@ -26041,7 +26033,7 @@ palec
 !Front:
 приехать, прибыть
 
-~~przybyć~~
+~~nadejść~~, ~~przybyć~~
 
 *Czasownik*
 !Back:
@@ -26049,7 +26041,7 @@ przyjechać
 
 [anki:tts lang=pl_PL]przyjechać[/anki:tts]
 
-**Synonimy**: przybyć
+**Synonimy**: nadejść, przybyć
 
 - Artyści **przyjadą** już w poniedziałek.
 - Funkcjonariusze na miejsce **przyjechali** jako pierwsi.
@@ -26191,25 +26183,6 @@ młodzież
 
 !type: Word
 !deck: Polski::Słowa::Pos-0801-1300
-!tags: Polski Słowo Przymiotnik Pos-1-1300 Pos-801-1300
-
-!id: slowo_przymiotnik_super_ru
-!Front:
-super
-
-*Przymiotnik*
-!Back:
-super
-
-[anki:tts lang=pl_PL]super[/anki:tts]
-
-- Zdecydowanie miał te cechy, które powinien mieć **super** tata.
-!POS: Przymiotnik
-!PPM: 000108
-~~~
-
-!type: Word
-!deck: Polski::Słowa::Pos-0801-1300
 !tags: Polski Słowo Czasownik Pos-1-1300 Pos-801-1300
 
 !id: slowo_czasownik_usunąć_ru
@@ -26266,7 +26239,7 @@ wówczas
 !Front:
 использовать, пользоваться
 
-~~używać~~, ~~korzystać~~, ~~stosować~~, ~~wykorzystać~~, ~~zużywać~~, ~~posługiwać~~
+~~używać~~, ~~korzystać~~, ~~stosować~~, ~~wykorzystać~~, ~~stosowanie~~, ~~zużywać~~, ~~posługiwać~~
 
 *Czasownik*
 !Back:
@@ -26274,7 +26247,7 @@ wykorzystywać
 
 [anki:tts lang=pl_PL]wykorzystywać[/anki:tts]
 
-**Synonimy**: używać, korzystać, stosować, wykorzystać, zużywać, posługiwać
+**Synonimy**: używać, korzystać, stosować, wykorzystać, stosowanie, zużywać, posługiwać
 
 - Swój wolny czas i swoje doświadczenie **wykorzystują** w aktywności w różnorodnych stowarzyszeniach.
 - Jak **wykorzystujemy** energię morza?
@@ -26570,7 +26543,7 @@ nagle, naglej, najnaglej
 !Front:
 обнимать, охватывать, содержать, заключать
 
-~~przytulać~~, ~~ogarniać~~, ~~nachodzić~~
+~~zawierać~~, ~~przytulać~~, ~~ogarniać~~, ~~nachodzić~~
 
 *Czasownik*
 !Back:
@@ -26578,7 +26551,7 @@ obejmować
 
 [anki:tts lang=pl_PL]obejmować[/anki:tts]
 
-**Synonimy**: przytulać, ogarniać, nachodzić
+**Synonimy**: zawierać, przytulać, ogarniać, nachodzić
 
 - Inwestycje długoterminowe **obejmują** długoterminowe aktywa finansowe.
 - Systemem nauczania **obejmujemy** kilka tysięcy dzieci rocznie.
@@ -26624,7 +26597,7 @@ przyjemny, przyjemniejszy, najprzyjemniejszy
 !Front:
 действительно
 
-~~właściwie~~, ~~istotnie~~
+~~naprawdę~~, ~~właściwie~~, ~~istotnie~~
 
 *Przysłówek*
 !Back:
@@ -26632,7 +26605,7 @@ rzeczywiście
 
 [anki:tts lang=pl_PL]rzeczywiście[/anki:tts]
 
-**Synonimy**: właściwie, istotnie
+**Synonimy**: naprawdę, właściwie, istotnie
 
 - Czy regenerowane części **rzeczywiście** dorównują nowym?
 - Najświetniejszym podejściem będzie **rzeczywiście** woda, żyć prawdopodobnie odpowiednie napoje energetyzujące dla sportowców.
@@ -26801,7 +26774,7 @@ kamień
 !Front:
 использование
 
-~~użycie~~, ~~użytkowanie~~
+~~użycie~~, ~~wykorzystanie~~, ~~użytkowanie~~
 
 *Rzeczownik*
 !Back:
@@ -26809,7 +26782,7 @@ korzystanie
 
 [anki:tts lang=pl_PL]korzystanie[/anki:tts]
 
-**Synonimy**: użycie, użytkowanie
+**Synonimy**: użycie, wykorzystanie, użytkowanie
 
 !POS: Rzeczownik
 !PPM: 000105
@@ -27411,7 +27384,7 @@ adres
 !Front:
 любой, произвольный, какой угодно
 
-~~wszelaki~~, ~~lada~~
+~~wszelki~~
 
 *Przymiotnik*
 !Back:
@@ -27419,7 +27392,7 @@ dowolny, dowolniejszy, najdowolniejszy
 
 [anki:tts lang=pl_PL]dowolny, dowolniejszy, najdowolniejszy[/anki:tts]
 
-**Synonimy**: wszelaki, lada
+**Synonimy**: wszelki
 
 - Może to być wpłata na rzecz **dowolnej** fundacji.
 - Z nami przyozdobisz odzież **dowolnym** logo, czy reklamą.
@@ -28221,11 +28194,15 @@ obawiać
 !Front:
 наблюдать
 
+~~oglądać~~
+
 *Czasownik*
 !Back:
 obserwować
 
 [anki:tts lang=pl_PL]obserwować[/anki:tts]
+
+**Synonimy**: oglądać
 
 - **Obserwując** psa z góry lub z boku możemy zaobserwować wyraźnie zaznaczoną talię.
 - **Obserwuj** wszystko i koncentruj się.
@@ -28324,7 +28301,7 @@ restauracja
 !Front:
 объяснить, обнаружить
 
-~~znaleźć~~, ~~odkryć~~, ~~wykazać~~, ~~ujawnić~~, ~~wykryć~~
+~~znaleźć~~, ~~odkryć~~, ~~ujawnić~~, ~~wykryć~~
 
 *Czasownik*
 !Back:
@@ -28332,7 +28309,7 @@ wyjaśnić
 
 [anki:tts lang=pl_PL]wyjaśnić[/anki:tts]
 
-**Synonimy**: znaleźć, odkryć, wykazać, ujawnić, wykryć
+**Synonimy**: znaleźć, odkryć, ujawnić, wykryć
 
 - Czy sprawę tajemniczych świateł da się jakoś logicznie **wyjaśnić**?
 - Na czym polega jego istota, dotychczas nie **wyjaśniono**.
@@ -28399,7 +28376,7 @@ ochota
 !Front:
 пачка, файл
 
-~~paczka~~, ~~zbiór~~, ~~koszulka~~
+~~paczka~~, ~~koszulka~~
 
 *Rzeczownik*
 !Back:
@@ -28407,7 +28384,7 @@ plik
 
 [anki:tts lang=pl_PL]plik[/anki:tts]
 
-**Synonimy**: paczka, zbiór, koszulka
+**Synonimy**: paczka, koszulka
 
 - Odczytanie tych **plików** jest możliwe wyłącznie na serwerze, w którym zostały stworzone.
 - W drugim, można przeciągnąć i upuścić pewne **pliki** i je skanować.
@@ -28921,7 +28898,7 @@ kliknąć
 !Front:
 свойство, признак
 
-~~znak~~, ~~objaw~~, ~~cecha~~, ~~oznaka~~, ~~symptom~~, ~~własność~~, ~~atrybut~~
+~~znak~~, ~~objaw~~, ~~cecha~~, ~~oznaka~~, ~~własność~~, ~~atrybut~~
 
 *Rzeczownik*
 !Back:
@@ -28929,7 +28906,7 @@ właściwość
 
 [anki:tts lang=pl_PL]właściwość[/anki:tts]
 
-**Synonimy**: znak, objaw, cecha, oznaka, symptom, własność, atrybut
+**Synonimy**: znak, objaw, cecha, oznaka, własność, atrybut
 
 - Wreszcie, weźmy pod uwagę **właściwości** buraków.
 - A to osiąga się dzięki **właściwościom** leczniczym leku.
@@ -29747,13 +29724,17 @@ poczekać
 
 !id: slowo_rzeczownik_uzyskanie_ru
 !Front:
-uzyskanie
+получение
+
+~~odbiór~~
 
 *Rzeczownik*
 !Back:
 uzyskanie
 
 [anki:tts lang=pl_PL]uzyskanie[/anki:tts]
+
+**Synonimy**: odbiór
 
 !POS: Rzeczownik
 !PPM: 000094
@@ -30418,7 +30399,7 @@ rachunek
 !Front:
 много
 
-~~wiele~~, ~~sporo~~
+~~wiele~~, ~~dużo~~, ~~sporo~~
 
 *Przysłówek*
 !Back:
@@ -30426,7 +30407,7 @@ wiele
 
 [anki:tts lang=pl_PL]wiele[/anki:tts]
 
-**Synonimy**: wiele, sporo
+**Synonimy**: wiele, dużo, sporo
 
 - Droga była o **wiele** ciekawsza niż dnia poprzedniego.
 - Początkujący rolnik będzie musiał się **wiele** nauczyć podczas swoich zajęć.
@@ -31397,7 +31378,7 @@ gorący, gorętszy, najgorętszy
 !Front:
 открыть, обнаружить
 
-~~znaleźć~~, ~~wyjaśnić~~, ~~wykazać~~, ~~ujawnić~~, ~~wykryć~~, ~~otworzyć~~
+~~znaleźć~~, ~~wyjaśnić~~, ~~ujawnić~~, ~~wykryć~~, ~~otworzyć~~
 
 *Czasownik*
 !Back:
@@ -31405,7 +31386,7 @@ odkryć
 
 [anki:tts lang=pl_PL]odkryć[/anki:tts]
 
-**Synonimy**: znaleźć, wyjaśnić, wykazać, ujawnić, wykryć, otworzyć
+**Synonimy**: znaleźć, wyjaśnić, ujawnić, wykryć, otworzyć
 
 - Nie wiem jak to się stało, ale automatycznie **odkryłam** wszystkie karty.
 - Wtedy **odkryliśmy**, że to była jego żona.
@@ -31424,11 +31405,15 @@ odkryć
 !Front:
 панский, ваш
 
+~~wasz~~
+
 *Przymiotnik*
 !Back:
 pański
 
 [anki:tts lang=pl_PL]pański[/anki:tts]
+
+**Synonimy**: wasz
 
 - **Pańska** godność jest dobrze znana w tej części świata.
 - Gdzie **pańskim** zdaniem jest granica?
@@ -31493,15 +31478,11 @@ sok
 !Front:
 сигнал
 
-~~znak~~, ~~hasło~~
-
 *Rzeczownik*
 !Back:
 sygnał
 
 [anki:tts lang=pl_PL]sygnał[/anki:tts]
-
-**Synonimy**: znak, hasło
 
 - Nie doszły do nas żadne negatywne **sygnały**.
 - Każdy punkty **sygnał** do aktywów, które posiada wartość w jednym z rynków.
@@ -31590,7 +31571,7 @@ obejrzeć
 
 !id: slowo_czasownik_spodobać_ru
 !Front:
-spodobać
+понравиться
 
 *Czasownik*
 !Back:
@@ -31890,7 +31871,7 @@ służba
 
 !id: slowo_czasownik_wybaczyć_ru
 !Front:
-wybaczyć
+извинить, простить
 
 *Czasownik*
 !Back:
@@ -31913,9 +31894,9 @@ wybaczyć
 
 !id: slowo_rzeczownik_zakład_ru
 !Front:
-заведение, научный учреждение, парикмахерская, похоронный бюро, предприятие, учебный заведение, завод, комбинат, запас, подшивка, складка, пари
+заведение, предприятие, завод
 
-~~przedsiębiorstwo~~, ~~przedsięwzięcie~~, ~~lokal~~, ~~fryzjer~~, ~~fabryka~~, ~~zasób~~, ~~zmarszczka~~
+~~przedsiębiorstwo~~, ~~przedsięwzięcie~~, ~~lokal~~, ~~fabryka~~
 
 *Rzeczownik*
 !Back:
@@ -31923,7 +31904,7 @@ zakład
 
 [anki:tts lang=pl_PL]zakład[/anki:tts]
 
-**Synonimy**: przedsiębiorstwo, przedsięwzięcie, lokal, fryzjer, fabryka, zasób, zmarszczka
+**Synonimy**: przedsiębiorstwo, przedsięwzięcie, lokal, fabryka
 
 - Wolnorynkowiec nie rozumie gospodarki złożonej z więcej niż dwóch **zakładów** szewskich.
 - Czy to jakiś **zakład**?
@@ -32390,9 +32371,9 @@ wymieszać
 
 !id: slowo_rzeczownik_wzrok_ru
 !Front:
-взгляд, зрение
+взгляд
 
-~~opinia~~, ~~spojrzenie~~, ~~pogląd~~
+~~wzgląd~~, ~~opinia~~, ~~pogląd~~
 
 *Rzeczownik*
 !Back:
@@ -32400,7 +32381,7 @@ wzrok
 
 [anki:tts lang=pl_PL]wzrok[/anki:tts]
 
-**Synonimy**: opinia, spojrzenie, pogląd
+**Synonimy**: wzgląd, opinia, pogląd
 
 - Zaczęła się walka o **wzrok**.
 - Czy cel jest w zasięgu **wzroku**?
@@ -32540,7 +32521,7 @@ przykro, przykrzej, najprzykrzej
 !Front:
 плечо, рука
 
-~~ręka~~, ~~dłoń~~, ~~pismo~~, ~~bark~~
+~~ręka~~, ~~bark~~
 
 *Rzeczownik*
 !Back:
@@ -32548,7 +32529,7 @@ ramię
 
 [anki:tts lang=pl_PL]ramię[/anki:tts]
 
-**Synonimy**: ręka, dłoń, pismo, bark
+**Synonimy**: ręka, bark
 
 - Posiada aż pięcioro dosyć wyraźnie zarysowanych **ramion** spiralnych.
 - Niech miecz spadnie na jego **ramię** i na jego prawe oko!
@@ -34965,7 +34946,7 @@ powstrzymać
 !Front:
 использование
 
-~~użycie~~, ~~korzystanie~~
+~~użycie~~, ~~wykorzystanie~~, ~~korzystanie~~
 
 *Rzeczownik*
 !Back:
@@ -34973,7 +34954,7 @@ użytkowanie
 
 [anki:tts lang=pl_PL]użytkowanie[/anki:tts]
 
-**Synonimy**: użycie, korzystanie
+**Synonimy**: użycie, wykorzystanie, korzystanie
 
 !POS: Rzeczownik
 !PPM: 000079
@@ -35033,7 +35014,7 @@ lodówka
 !Front:
 получение, приём
 
-~~chwyt~~
+~~uzyskanie~~, ~~chwyt~~
 
 *Rzeczownik*
 !Back:
@@ -35041,7 +35022,7 @@ odbiór
 
 [anki:tts lang=pl_PL]odbiór[/anki:tts]
 
-**Synonimy**: chwyt
+**Synonimy**: uzyskanie, chwyt
 
 - Zapewniamy **odbiór** wszystkich odpadów poprodukcyjnych według zapotrzebowania firmy.
 - Służy do włączania lub wyłączania funkcji **odbioru** sygnału zdalnego sterowania przez wyświetlacz.
@@ -36010,7 +35991,7 @@ wystawa
 !Front:
 горевать, грустить, переживать, печалиться, жадничать, жалеть, скупиться, жалиться, жалобиться, жаловаться, сожалеть, раскаиваться, сопереживать, сочувствовать
 
-~~tęsknić~~, ~~narzekać~~
+~~tęsknić~~, ~~doświadczyć~~, ~~narzekać~~
 
 *Czasownik*
 !Back:
@@ -36018,7 +35999,7 @@ wystawa
 
 [anki:tts lang=pl_PL]żałować[/anki:tts]
 
-**Synonimy**: tęsknić, narzekać
+**Synonimy**: tęsknić, doświadczyć, narzekać
 
 - Ani chwili nie **żałowałam** tej decyzji.
 - Bardzo **żałujemy**, że nie mogliśmy zostać dłużej i na pewno tu wrócimy.
@@ -36851,11 +36832,15 @@ odpad
 !Front:
 подготавливать, готовить
 
+~~szykować~~
+
 *Czasownik*
 !Back:
 przygotowywać
 
 [anki:tts lang=pl_PL]przygotowywać[/anki:tts]
+
+**Synonimy**: szykować
 
 - A szaleniec stał przed nią, **przygotowując** się do ostatniego cięcia.
 - Dziewczynka jest bardzo przejęta przedstawieniem bożonarodzeniowym, które **przygotowuje** w swojej szkole.
@@ -36997,7 +36982,7 @@ uśmiech
 !Front:
 запись
 
-~~nagranie~~, ~~ewidencja~~
+~~wpis~~, ~~nagranie~~, ~~ewidencja~~
 
 *Rzeczownik*
 !Back:
@@ -37005,7 +36990,7 @@ zapis
 
 [anki:tts lang=pl_PL]zapis[/anki:tts]
 
-**Synonimy**: nagranie, ewidencja
+**Synonimy**: wpis, nagranie, ewidencja
 
 - Tylko wtedy będzie możliwe dokonanie **zapisu**.
 - Czy dobrze rozszyfrowałam **zapisy**?
@@ -37099,13 +37084,17 @@ lokal
 
 !id: slowo_czasownik_nadejść_ru
 !Front:
-nadejść
+наступить, прибыть
+
+~~przychodzić~~, ~~nadepnąć~~, ~~przyjechać~~, ~~przybyć~~
 
 *Czasownik*
 !Back:
 nadejść
 
 [anki:tts lang=pl_PL]nadejść[/anki:tts]
+
+**Synonimy**: przychodzić, nadepnąć, przyjechać, przybyć
 
 - Potem mają **nadejść** burzowe chmury, ale to jeszcze nic pewnego.
 - Każda kobieta przyjdzie z chwilą, gdy miesięczny zatrzymuje się, a menopauza **nadejdzie**.
@@ -37245,13 +37234,17 @@ zabawny, zabawniejszy, najzabawniejszy
 
 !id: slowo_czasownik_zabijać_ru
 !Front:
-zabijać
+убивать
+
+~~mordować~~
 
 *Czasownik*
 !Back:
 zabijać
 
 [anki:tts lang=pl_PL]zabijać[/anki:tts]
+
+**Synonimy**: mordować
 
 - Znów będą **zabijać** ludzi i ćwiczą na zwierzętach?
 - To była drużyna, która **zabijała** każdego.
@@ -41263,9 +41256,9 @@ górny, górniejszy, najgórniejszy
 
 !id: slowo_rzeczownik_hasło_ru
 !Front:
-знак, сигнал, лозунг, воззвание, пароль, слово, статья
+лозунг, пароль, слово
 
-~~słowo~~, ~~wyraz~~, ~~artykuł~~, ~~znak~~, ~~symbol~~, ~~sygnał~~, ~~wołanie~~
+~~słowo~~, ~~wyraz~~
 
 *Rzeczownik*
 !Back:
@@ -41273,7 +41266,7 @@ hasło
 
 [anki:tts lang=pl_PL]hasło[/anki:tts]
 
-**Synonimy**: słowo, wyraz, artykuł, znak, symbol, sygnał, wołanie
+**Synonimy**: słowo, wyraz
 
 - Jednakowe **hasło** należy wpisać w obu polach.
 - Jest on wykorzystywany wyłącznie na stronach internetowych korzystających z ochrony **hasłem**.
@@ -41654,7 +41647,7 @@ mylić
 !Front:
 запись
 
-~~zapis~~, ~~ewidencja~~
+~~wpis~~, ~~zapis~~, ~~ewidencja~~
 
 *Rzeczownik*
 !Back:
@@ -41662,7 +41655,7 @@ nagranie
 
 [anki:tts lang=pl_PL]nagranie[/anki:tts]
 
-**Synonimy**: zapis, ewidencja
+**Synonimy**: wpis, zapis, ewidencja
 
 - W pierwszym należało przesłać **nagranie** konkursowej piosenki i zakwalifikować się do konkursu.
 - O tym **nagraniu** już zdążyło zrobić się głośno.
@@ -43264,15 +43257,11 @@ turniej
 !Front:
 запас
 
-~~zakład~~
-
 *Rzeczownik*
 !Back:
 zasób
 
 [anki:tts lang=pl_PL]zasób[/anki:tts]
-
-**Synonimy**: zakład
 
 - Jak ograniczyłem dostęp do **zasobów** komputera?
 - Dalej, gospodarka obiegu zamkniętego, skoro żyjemy na planecie o skończonych **zasobach**?
@@ -43757,9 +43746,9 @@ zaprosić
 
 !id: slowo_rzeczownik_zbiór_ru
 !Front:
-множество, сбор, собрание, коллекция, набор, комплект, уборка, урожай, файл
+множество, сбор, набор, собрание, коллекция, комплект, урожай
 
-~~zestaw~~, ~~skład~~, ~~masa~~, ~~mnóstwo~~, ~~plik~~, ~~koszulka~~, ~~kolekcja~~, ~~zebranie~~, ~~zgromadzenie~~, ~~zbiórka~~, ~~zjazd~~, ~~sprzątanie~~, ~~plon~~, ~~żniwo~~
+~~zestaw~~, ~~skład~~, ~~masa~~, ~~mnóstwo~~, ~~kolekcja~~, ~~zebranie~~, ~~zgromadzenie~~, ~~zbiórka~~, ~~zjazd~~, ~~plon~~, ~~żniwo~~
 
 *Rzeczownik*
 !Back:
@@ -43767,7 +43756,7 @@ zbiór
 
 [anki:tts lang=pl_PL]zbiór[/anki:tts]
 
-**Synonimy**: zestaw, skład, masa, mnóstwo, plik, koszulka, kolekcja, zebranie, zgromadzenie, zbiórka, zjazd, sprzątanie, plon, żniwo
+**Synonimy**: zestaw, skład, masa, mnóstwo, kolekcja, zebranie, zgromadzenie, zbiórka, zjazd, plon, żniwo
 
 - To najstraszniejsza opowieść w całym **zbiorze**.
 - Liście szpinaku są gotowe do **zbioru**, gdy są wystarczająco duże do jedzenia.
@@ -43861,17 +43850,13 @@ gotówka
 
 !id: slowo_rzeczownik_humor_ru
 !Front:
-настроение, юмор
-
-~~nastrój~~
+юмор
 
 *Rzeczownik*
 !Back:
 humor
 
 [anki:tts lang=pl_PL]humor[/anki:tts]
-
-**Synonimy**: nastrój
 
 - Czy kobietom brakuje poczucia **humoru**?
 - Wspaniały nastrój i dobre **humory** nie opuściły nas ani na chwilę.
@@ -44076,7 +44061,7 @@ dokumentacja
 !Front:
 колесо, круг, окружность, возле, около
 
-~~grono~~, ~~krąg~~, ~~wachlarz~~, ~~okrąg~~, ~~obwód~~
+~~przy~~, ~~grono~~, ~~krąg~~, ~~wachlarz~~, ~~okrąg~~, ~~obwód~~
 
 *Rzeczownik*
 !Back:
@@ -44084,7 +44069,7 @@ koło
 
 [anki:tts lang=pl_PL]koło[/anki:tts]
 
-**Synonimy**: grono, krąg, wachlarz, okrąg, obwód
+**Synonimy**: przy, grono, krąg, wachlarz, okrąg, obwód
 
 - Każdy z silników napędza **koła** przednie.
 - **Koło** powinno mieć równomiernie rozłożony ciężar na całej długości.
@@ -44930,11 +44915,15 @@ stworzony
 !Front:
 стойка, шкаф
 
+~~lada~~
+
 *Rzeczownik*
 !Back:
 szafa
 
 [anki:tts lang=pl_PL]szafa[/anki:tts]
+
+**Synonimy**: lada
 
 - Albo nawet trzy **szafy**!
 - Każda kobieta ma w swej **szafie** parę albo i kilkanaście par butów.
@@ -45812,7 +45801,7 @@ energetyczny
 !Front:
 журнал, склад
 
-~~skład~~, ~~pismo~~, ~~dziennik~~, ~~czasopismo~~
+~~skład~~, ~~dziennik~~, ~~czasopismo~~
 
 *Rzeczownik*
 !Back:
@@ -45820,7 +45809,7 @@ magazyn
 
 [anki:tts lang=pl_PL]magazyn[/anki:tts]
 
-**Synonimy**: skład, pismo, dziennik, czasopismo
+**Synonimy**: skład, dziennik, czasopismo
 
 - W moc zakładach przemysłowych oraz **magazynach** że występować zagrożenie wybuchem.
 - Dbałość o odpowiednie rozmieszczenie towarów w **magazynie**.
@@ -47323,7 +47312,7 @@ organ
 !Front:
 правило, устав, принцип
 
-~~zasada~~
+~~zasada~~, ~~regulamin~~
 
 *Rzeczownik*
 !Back:
@@ -47331,7 +47320,7 @@ reguła
 
 [anki:tts lang=pl_PL]reguła[/anki:tts]
 
-**Synonimy**: zasada
+**Synonimy**: zasada, regulamin
 
 - Są jedynie po to, aby potwierdzać **regułę**.
 - Z **reguły** towarzyszy temu naruszenie pigmentacji skóry i włosów.
@@ -48336,7 +48325,7 @@ gust
 !Front:
 рубашка, файл, футболка
 
-~~plik~~, ~~zbiór~~, ~~koszula~~
+~~plik~~, ~~koszula~~
 
 *Rzeczownik*
 !Back:
@@ -48344,7 +48333,7 @@ koszulka
 
 [anki:tts lang=pl_PL]koszulka[/anki:tts]
 
-**Synonimy**: plik, zbiór, koszula
+**Synonimy**: plik, koszula
 
 - Zdaje się że jakąś **koszulkę** mam od nich jeszcze.
 - **Koszulki** z nadrukiem dla pracowników służby zdrowia.
@@ -48407,15 +48396,11 @@ muzeum
 !Front:
 настроение
 
-~~humor~~
-
 *Rzeczownik*
 !Back:
 nastrój
 
 [anki:tts lang=pl_PL]nastrój[/anki:tts]
-
-**Synonimy**: humor
 
 - Radosny **nastrój** imprezy udziela się każdemu.
 - Pierwsza sesja bieżącego tygodnia przebiega w dość spokojnych **nastrojach**.
@@ -50410,33 +50395,6 @@ rodzić
 !deck: Polski::Słowa::Pos-1301-2100
 !tags: Polski Słowo Rzeczownik Pos-1-2100 Pos-1301-2100
 
-!id: slowo_rzeczownik_spojrzenie_ru
-!Front:
-взгляд
-
-~~opinia~~, ~~wzrok~~, ~~pogląd~~
-
-*Rzeczownik*
-!Back:
-spojrzenie
-
-[anki:tts lang=pl_PL]spojrzenie[/anki:tts]
-
-**Synonimy**: opinia, wzrok, pogląd
-
-- Posłał mu jednak ostrzegawcze **spojrzenie**, by nie wygadał zbyt wiele.
-- Zacznijmy od szerszego **spojrzenia**, globalnego.
-- Nie lubią ciekawskich **spojrzeń** sąsiadów i przechodniów.
-- Na pewno z takim **spojrzeniem** przeczytałabym to bardziej uważnie.
-- Chroni przed promieniowaniem słonecznym oraz przed ciekawskimi **spojrzeniami**.
-!POS: Rzeczownik
-!PPM: 000052
-~~~
-
-!type: Word
-!deck: Polski::Słowa::Pos-1301-2100
-!tags: Polski Słowo Rzeczownik Pos-1-2100 Pos-1301-2100
-
 !id: slowo_rzeczownik_tempo_ru
 !Front:
 темп
@@ -51155,7 +51113,7 @@ naród
 
 !id: slowo_przymiotnik_połączony_ru
 !Front:
-połączony
+соединённый, подключенный
 
 *Przymiotnik*
 !Back:
@@ -51374,7 +51332,7 @@ wyobrażać
 !Front:
 выражение, проявление, слово, лексема
 
-~~słowo~~, ~~hasło~~, ~~objaw~~, ~~symptom~~, ~~przejaw~~, ~~zwrot~~, ~~wyrażenie~~
+~~słowo~~, ~~hasło~~, ~~objaw~~, ~~przejaw~~, ~~zwrot~~, ~~wyrażenie~~
 
 *Rzeczownik*
 !Back:
@@ -51382,7 +51340,7 @@ wyraz
 
 [anki:tts lang=pl_PL]wyraz[/anki:tts]
 
-**Synonimy**: słowo, hasło, objaw, symptom, przejaw, zwrot, wyrażenie
+**Synonimy**: słowo, hasło, objaw, przejaw, zwrot, wyrażenie
 
 - Dziecko zna mało **wyrazów** zapisanych pismem, bo dotychczas posługiwało się wyłącznie mową.
 - Czytał tylko krótkie **wyrazy**.
@@ -51647,7 +51605,7 @@ półka
 !Front:
 прибыть
 
-~~przyjechać~~
+~~przyjechać~~, ~~nadejść~~
 
 *Czasownik*
 !Back:
@@ -51655,7 +51613,7 @@ przybyć
 
 [anki:tts lang=pl_PL]przybyć[/anki:tts]
 
-**Synonimy**: przyjechać
+**Synonimy**: przyjechać, nadejść
 
 - Skąd tu **przybył** i w jaki sposób, nikt nie wiedział.
 - W końcu po to tutaj **przybyli**, nieprawdaż?
@@ -51882,7 +51840,7 @@ zostawać
 
 !id: slowo_rzeczownik_bóg_ru
 !Front:
-bóg
+бог
 
 *Rzeczownik*
 !Back:
@@ -52028,7 +51986,7 @@ opłacać
 
 !id: slowo_rzeczownik_planowanie_ru
 !Front:
-planowanie
+планирование
 
 *Rzeczownik*
 !Back:
@@ -52152,9 +52110,9 @@ schemat
 
 !id: slowo_czasownik_uczynić_ru
 !Front:
-поступить, сделать, совершить, создать, сотворить, учинить
+поступить, совершить, учинить
 
-~~zrobić~~, ~~sprawić~~, ~~stworzyć~~, ~~wywołać~~, ~~ukształtować~~, ~~dokonać~~, ~~odbyć~~, ~~popełnić~~
+~~dokonać~~, ~~odbyć~~, ~~popełnić~~
 
 *Czasownik*
 !Back:
@@ -52162,7 +52120,7 @@ uczynić
 
 [anki:tts lang=pl_PL]uczynić[/anki:tts]
 
-**Synonimy**: zrobić, sprawić, stworzyć, wywołać, ukształtować, dokonać, odbyć, popełnić
+**Synonimy**: dokonać, odbyć, popełnić
 
 - Niech wszystkie wskazówki podane powyżej pomogą **uczynić** sen przyjemny.
 - Jeśli nie zmieni klubu, potem może żałować, że tego nie **uczynił**.
@@ -53130,7 +53088,7 @@ dzieciństwo
 
 !id: slowo_rzeczownik_jabłko_ru
 !Front:
-держава, надколенник, яблоко
+яблоко
 
 *Rzeczownik*
 !Back:
@@ -53175,7 +53133,7 @@ koleś
 
 !id: slowo_czasownik_kryć_ru
 !Front:
-прятать, скрывать, скрываться, крыть
+крыть, прятать, скрывать
 
 ~~ukrywać~~, ~~przechowywać~~, ~~chować~~
 
@@ -53944,9 +53902,9 @@ wojskowy
 
 !id: slowo_czasownik_wykazać_ru
 !Front:
-выказать, выявить, обнаружить, открыть, показать, представить, продемонстрировать, легитимироваться
+выявить, показать, представить, продемонстрировать
 
-~~znaleźć~~, ~~wyjaśnić~~, ~~odkryć~~, ~~ujawnić~~, ~~wykryć~~, ~~pokazać~~, ~~otworzyć~~, ~~przedstawić~~
+~~pokazać~~, ~~przedstawić~~
 
 *Czasownik*
 !Back:
@@ -53954,7 +53912,7 @@ wykazać
 
 [anki:tts lang=pl_PL]wykazać[/anki:tts]
 
-**Synonimy**: znaleźć, wyjaśnić, odkryć, ujawnić, wykryć, pokazać, otworzyć, przedstawić
+**Synonimy**: pokazać, przedstawić
 
 - Podatnik nie **wykazał** jednak tej kwoty jako przychód podatkowy.
 - Czy powinniśmy **wykazać** import usług?
@@ -54309,7 +54267,7 @@ stanie
 !Front:
 символ, знак
 
-~~znak~~, ~~hasło~~
+~~znak~~
 
 *Rzeczownik*
 !Back:
@@ -54317,7 +54275,7 @@ symbol
 
 [anki:tts lang=pl_PL]symbol[/anki:tts]
 
-**Synonimy**: znak, hasło
+**Synonimy**: znak
 
 - Jak odmienne **symbole**, przez które twórczy duch je ukształtował!
 - Rozbite jajko nie jest pozytywnym **symbolem**.
@@ -54774,9 +54732,9 @@ dno
 
 !id: slowo_rzeczownik_pismo_ru
 !Front:
-бумага, журнал, писание, письмо, почерк, рука
+письмо, писание, почерк
 
-~~ręka~~, ~~dłoń~~, ~~ramię~~, ~~papier~~, ~~list~~, ~~magazyn~~, ~~dziennik~~, ~~czasopismo~~
+~~list~~
 
 *Rzeczownik*
 !Back:
@@ -54784,7 +54742,7 @@ pismo
 
 [anki:tts lang=pl_PL]pismo[/anki:tts]
 
-**Synonimy**: ręka, dłoń, ramię, papier, list, magazyn, dziennik, czasopismo
+**Synonimy**: list
 
 - Czego dotyczy treść **pisma**, które chcesz wysłać?
 - Dziecko zna mało wyrazów zapisanych **pismem**, bo dotychczas posługiwało się wyłącznie mową.
@@ -57802,7 +57760,7 @@ wypowiedź
 !Front:
 вызвать, спровоцировать, отозвать, создать
 
-~~stworzyć~~, ~~uczynić~~, ~~ukształtować~~, ~~spowodować~~, ~~sprowokować~~, ~~odwołać~~
+~~stworzyć~~, ~~ukształtować~~, ~~spowodować~~, ~~sprowokować~~, ~~odwołać~~
 
 *Czasownik*
 !Back:
@@ -57810,7 +57768,7 @@ wywołać
 
 [anki:tts lang=pl_PL]wywołać[/anki:tts]
 
-**Synonimy**: stworzyć, uczynić, ukształtować, spowodować, sprowokować, odwołać
+**Synonimy**: stworzyć, ukształtować, spowodować, sprowokować, odwołać
 
 - **Wywołało** to lawinę pytań od widzów.
 - Nie **wywołał** reakcji alergicznych u córki, ma ładny zapach.
@@ -59359,9 +59317,9 @@ plus
 
 !id: slowo_rzeczownik_pogląd_ru
 !Front:
-мнение, взгляд, воззрение, позиция, суждение, точка зрения
+мнение, взгляд, воззрение, позиция, точка зрения
 
-~~zdanie~~, ~~opinia~~, ~~orzeczenie~~, ~~wzgląd~~, ~~wzrok~~, ~~spojrzenie~~, ~~pozycja~~, ~~postawa~~, ~~sąd~~
+~~zdanie~~, ~~opinia~~, ~~orzeczenie~~, ~~wzgląd~~, ~~wzrok~~, ~~pozycja~~, ~~postawa~~
 
 *Rzeczownik*
 !Back:
@@ -59369,7 +59327,7 @@ pogląd
 
 [anki:tts lang=pl_PL]pogląd[/anki:tts]
 
-**Synonimy**: zdanie, opinia, orzeczenie, wzgląd, wzrok, spojrzenie, pozycja, postawa, sąd
+**Synonimy**: zdanie, opinia, orzeczenie, wzgląd, wzrok, pozycja, postawa
 
 - Ma zbyt radykalne **poglądy**.
 - Taki **pogląd** wciąż jest powszechny w wielu środowiskach.
@@ -62014,7 +61972,7 @@ roboczy
 !Front:
 управлять, руководиться
 
-~~prowadzić~~
+~~prowadzić~~, ~~kierować~~
 
 *Czasownik*
 !Back:
@@ -62022,7 +61980,7 @@ rządzić
 
 [anki:tts lang=pl_PL]rządzić[/anki:tts]
 
-**Synonimy**: prowadzić
+**Synonimy**: prowadzić, kierować
 
 - Od kiedy dziewczyna tobą **rządzi**?
 - A politycy, którzy **rządzą** światem, myślą krótkowzrocznie.
@@ -62285,7 +62243,7 @@ inteligencja
 !Front:
 карма, корм
 
-~~pasza~~
+~~pokarm~~, ~~pasza~~
 
 *Rzeczownik*
 !Back:
@@ -62293,7 +62251,7 @@ karma
 
 [anki:tts lang=pl_PL]karma[/anki:tts]
 
-**Synonimy**: pasza
+**Synonimy**: pokarm, pasza
 
 - Także poziom aktywności i wiek psa ma znaczenie przy wyborze **karmy**.
 - Myślę, że to jest ta **karma**, która wraca.
@@ -65204,7 +65162,7 @@ zadziałać
 !Front:
 руководство, управление
 
-~~kierownictwo~~, ~~sterowanie~~
+~~zarządzanie~~, ~~kierownictwo~~, ~~sterowanie~~
 
 *Rzeczownik*
 !Back:
@@ -65212,7 +65170,7 @@ zarząd
 
 [anki:tts lang=pl_PL]zarząd[/anki:tts]
 
-**Synonimy**: kierownictwo, sterowanie
+**Synonimy**: zarządzanie, kierownictwo, sterowanie
 
 - Firma rozkwitła pod nowym **zarządem**.
 - Działania kontrolne nie mogą paraliżować pracy **zarządu**.
@@ -68913,7 +68871,7 @@ stawka
 !Front:
 управление
 
-~~zarząd~~
+~~zarządzanie~~, ~~zarząd~~
 
 *Rzeczownik*
 !Back:
@@ -68921,7 +68879,7 @@ sterowanie
 
 [anki:tts lang=pl_PL]sterowanie[/anki:tts]
 
-**Synonimy**: zarząd
+**Synonimy**: zarządzanie, zarząd
 
 !POS: Rzeczownik
 !PPM: 000036
@@ -68985,9 +68943,9 @@ wąż
 
 !id: slowo_rzeczownik_wskaźnik_ru
 !Front:
-индикатор, показатель, указатель, указка
+указатель, индикатор, показатель, указка
 
-~~znak~~, ~~strzałka~~
+~~znak~~
 
 *Rzeczownik*
 !Back:
@@ -68995,7 +68953,7 @@ wskaźnik
 
 [anki:tts lang=pl_PL]wskaźnik[/anki:tts]
 
-**Synonimy**: znak, strzałka
+**Synonimy**: znak
 
 - Dlaczego **wskaźniki** to zło?
 - Własny **wskaźnik** lokalizacji na tle kierunków geograficznych.
@@ -71082,13 +71040,17 @@ administracja
 
 !id: slowo_czasownik_doświadczyć_ru
 !Front:
-doświadczyć
+испытать, переживать
+
+~~żałować~~, ~~doznać~~
 
 *Czasownik*
 !Back:
 doświadczyć
 
 [anki:tts lang=pl_PL]doświadczyć[/anki:tts]
+
+**Synonimy**: żałować, doznać
 
 - Ja, również wiele razy **doświadczyłam** niepowodzeń.
 - Wszystko czego **doświadczyliśmy** i nauczyliśmy się, jest przechowywane w magazynie pamięci długotrwałej.
@@ -71177,7 +71139,7 @@ dziki, dzikszy, najdzikszy
 
 !id: slowo_rzeczownik_kapitał_ru
 !Front:
-kapitał
+капитал
 
 *Rzeczownik*
 !Back:
@@ -71290,9 +71252,9 @@ podręcznik
 
 !id: slowo_rzeczownik_pokarm_ru
 !Front:
-пища
+корм
 
-~~jedzenie~~, ~~pożywienie~~
+~~karma~~, ~~pasza~~
 
 *Rzeczownik*
 !Back:
@@ -71300,7 +71262,7 @@ pokarm
 
 [anki:tts lang=pl_PL]pokarm[/anki:tts]
 
-**Synonimy**: jedzenie, pożywienie
+**Synonimy**: karma, pasza
 
 - Wirus przenosi się głównie przez skażoną wodę i **pokarm**.
 - Dojrzewają w lipcu i są idealnym **pokarmem** dla ptaków i innych zwierząt.
@@ -71462,13 +71424,17 @@ staruszek
 
 !id: slowo_czasownik_szykować_ru
 !Front:
-szykować
+подготавливать, заготавливать
+
+~~przygotowywać~~
 
 *Czasownik*
 !Back:
 szykować
 
 [anki:tts lang=pl_PL]szykować[/anki:tts]
+
+**Synonimy**: przygotowywać
 
 - **Szykują** się namiętne i pełne żaru chwile we dwoje.
 - W piłce nożnej **szykuje** się rewolucja?
@@ -71614,29 +71580,6 @@ zaszkodzić
 - Wywołał tym gigantyczną feministyczną burzę i fatalnie **zaszkodził** swojemu wizerunkowi.
 - Odrobinę pokory by nie **zaszkodziło**.
 !POS: Czasownik
-!PPM: 000034
-~~~
-
-!type: Word
-!deck: Polski::Słowa::Pos-2101-3400
-!tags: Polski Słowo Przymiotnik Pos-1-3400 Pos-2101-3400
-
-!id: slowo_przymiotnik_japoński_ru
-!Front:
-japoński
-
-*Przymiotnik*
-!Back:
-japoński
-
-[anki:tts lang=pl_PL]japoński[/anki:tts]
-
-- Stosowana w małych ogrodach przydomowych i ogrodach **japońskich**.
-- Wielkiego miłośnika sztuki **japońskiej**.
-- **Japońscy** badacze twierdzą, że są!
-- Do ogrodów nowoczesnych i w stylu **japońskim**.
-- **Japoński** był moją pierwszą miłością.
-!POS: Przymiotnik
 !PPM: 000034
 ~~~
 
@@ -72274,7 +72217,7 @@ zwiedzanie
 !Front:
 исследовать, изучать, осматривать
 
-~~nauczyć~~
+~~nauczyć~~, ~~oglądać~~
 
 *Czasownik*
 !Back:
@@ -72282,7 +72225,7 @@ badać
 
 [anki:tts lang=pl_PL]badać[/anki:tts]
 
-**Synonimy**: nauczyć
+**Synonimy**: nauczyć, oglądać
 
 - Sprawę **bada** tez rzecznik dyscyplinarny.
 - Na podstawie wykonywanych zdjęć można też **badać** jakość drzewostanu.
@@ -75054,7 +74997,7 @@ osiągać
 !Front:
 обозначение, признак
 
-~~znak~~, ~~objaw~~, ~~cecha~~, ~~właściwość~~, ~~symptom~~
+~~znak~~, ~~objaw~~, ~~cecha~~, ~~właściwość~~
 
 *Rzeczownik*
 !Back:
@@ -75062,7 +75005,7 @@ oznaka
 
 [anki:tts lang=pl_PL]oznaka[/anki:tts]
 
-**Synonimy**: znak, objaw, cecha, właściwość, symptom
+**Synonimy**: znak, objaw, cecha, właściwość
 
 - Pierwsze **oznaki** starzenia, zmęczenia widać właśnie na okolicach oczu.
 - Wbrew pozorom siwe włosy nie są wyłącznie **oznaką** starości.
@@ -77512,7 +77455,7 @@ transportowy
 !Front:
 обнаружить
 
-~~znaleźć~~, ~~wyjaśnić~~, ~~odkryć~~, ~~wykazać~~, ~~wykryć~~
+~~znaleźć~~, ~~wyjaśnić~~, ~~odkryć~~, ~~wykryć~~
 
 *Czasownik*
 !Back:
@@ -77520,7 +77463,7 @@ ujawnić
 
 [anki:tts lang=pl_PL]ujawnić[/anki:tts]
 
-**Synonimy**: znaleźć, wyjaśnić, odkryć, wykazać, wykryć
+**Synonimy**: znaleźć, wyjaśnić, odkryć, wykryć
 
 - To **ujawniło** zagrożenie, jakim jest poleganie tylko na jednej kategorii produktowej.
 - Jaki jest efekt tych nieprawidłowości, które już się **ujawniły**?
@@ -77860,7 +77803,7 @@ administrator
 !Front:
 замечать, видеть
 
-~~widzieć~~, ~~widać~~, ~~łapać~~, ~~zauważać~~
+~~widzieć~~, ~~łapać~~, ~~zauważać~~
 
 *Czasownik*
 !Back:
@@ -77868,7 +77811,7 @@ dostrzegać
 
 [anki:tts lang=pl_PL]dostrzegać[/anki:tts]
 
-**Synonimy**: widzieć, widać, łapać, zauważać
+**Synonimy**: widzieć, łapać, zauważać
 
 - Zalety późniejszego macierzyństwa **dostrzegają** też sami lekarze.
 - Czasami, kiedy spojrzę w niebo, **dostrzegam** go.
@@ -78048,7 +77991,7 @@ krowa
 !Front:
 крест, крестик, крестец
 
-~~znak~~, ~~krzyżyk~~
+~~krzyżyk~~
 
 *Rzeczownik*
 !Back:
@@ -78056,7 +77999,7 @@ krzyż
 
 [anki:tts lang=pl_PL]krzyż[/anki:tts]
 
-**Synonimy**: znak, krzyżyk
+**Synonimy**: krzyżyk
 
 - Czcimy **krzyż** jako znak zwycięstwa nad śmiercią, grzechem i ciemnością.
 - Natomiast śmierć na **krzyżu** wcale nie jest piękna.
@@ -78397,15 +78340,11 @@ skórzany
 !Front:
 убирание, уборка
 
-~~zbiór~~
-
 *Rzeczownik*
 !Back:
 sprzątanie
 
 [anki:tts lang=pl_PL]sprzątanie[/anki:tts]
-
-**Synonimy**: zbiór
 
 - O żadnym **sprzątaniu** nie mogło być mowy.
 !POS: Rzeczownik
@@ -79462,7 +79401,7 @@ swoboda
 !Front:
 папа, папочка
 
-~~papież~~, ~~tatko~~
+~~tata~~
 
 *Rzeczownik*
 !Back:
@@ -79470,7 +79409,7 @@ tatuś
 
 [anki:tts lang=pl_PL]tatuś[/anki:tts]
 
-**Synonimy**: papież, tatko
+**Synonimy**: tata
 
 - Można ich nazywać tatą lub **tatusiem**.
 - Już wtedy przyszły **tatuś** może poczuć się ważny.
@@ -84318,15 +84257,11 @@ zawieszenie
 !Front:
 морщина, складка
 
-~~zakład~~
-
 *Rzeczownik*
 !Back:
 zmarszczka
 
 [anki:tts lang=pl_PL]zmarszczka[/anki:tts]
-
-**Synonimy**: zakład
 
 - Wszyscy zdają sobie sprawę, że **zmarszczki** są nieuniknione.
 - Pomagają również pozbyć się bardzo irytujących **zmarszczek** wokół szyi.
@@ -89778,11 +89713,15 @@ dystrybucja
 !Front:
 допустимо, вероятно
 
+~~prawdopodobnie~~
+
 *Przysłówek*
 !Back:
 ewentualnie
 
 [anki:tts lang=pl_PL]ewentualnie[/anki:tts]
+
+**Synonimy**: prawdopodobnie
 
 - **Ewentualnie** kupi się nowego.
 - Gdzie mogę szukać **ewentualnie** pomocy i wsparcia?
@@ -94100,7 +94039,7 @@ dopasowanie
 !Front:
 дневник, журнал
 
-~~magazyn~~, ~~pismo~~, ~~czasopismo~~, ~~pamiętnik~~
+~~magazyn~~, ~~czasopismo~~, ~~pamiętnik~~
 
 *Rzeczownik*
 !Back:
@@ -94108,7 +94047,7 @@ dziennik
 
 [anki:tts lang=pl_PL]dziennik[/anki:tts]
 
-**Synonimy**: magazyn, pismo, czasopismo, pamiętnik
+**Synonimy**: magazyn, czasopismo, pamiętnik
 
 - Mamy **dzienniki** i poinformuje dostawca policji wszystkich, kto robi.
 - Natomiast czytałam jej artykuły zamieszczone w **dzienniku**.
@@ -94127,7 +94066,7 @@ dziennik
 !Front:
 флаг, знамя
 
-~~znak~~, ~~sztandar~~
+~~sztandar~~
 
 *Rzeczownik*
 !Back:
@@ -94135,7 +94074,7 @@ flaga
 
 [anki:tts lang=pl_PL]flaga[/anki:tts]
 
-**Synonimy**: znak, sztandar
+**Synonimy**: sztandar
 
 - To jest wstyd, aby **flagę** wywieszać tylko w święta!
 - Jedynie **flagi**, oznaczające warunki na wodzie.
@@ -96430,7 +96369,7 @@ dzisiaj
 !Front:
 учет, запись
 
-~~zapis~~, ~~nagranie~~
+~~wpis~~, ~~zapis~~, ~~nagranie~~
 
 *Rzeczownik*
 !Back:
@@ -96438,7 +96377,7 @@ ewidencja
 
 [anki:tts lang=pl_PL]ewidencja[/anki:tts]
 
-**Synonimy**: zapis, nagranie
+**Synonimy**: wpis, zapis, nagranie
 
 - Wszelkie zmiany w **ewidencji** są wolne od opłat.
 - Pozostałe **ewidencje** należy dostarczać tylko na żądanie organów podatkowych.
@@ -99509,7 +99448,7 @@ potwierdzany
 !Front:
 питание, пища, пропитание, еда
 
-~~jedzenie~~, ~~posiłek~~, ~~potrawa~~, ~~strawa~~, ~~pokarm~~, ~~wyżywienie~~
+~~jedzenie~~, ~~posiłek~~, ~~potrawa~~, ~~strawa~~, ~~wyżywienie~~
 
 *Rzeczownik*
 !Back:
@@ -99517,7 +99456,7 @@ pożywienie
 
 [anki:tts lang=pl_PL]pożywienie[/anki:tts]
 
-**Synonimy**: jedzenie, posiłek, potrawa, strawa, pokarm, wyżywienie
+**Synonimy**: jedzenie, posiłek, potrawa, strawa, wyżywienie
 
 - Jeśli **pożywienie** jest dostępne, wtedy wrastają.
 - Jest to witamina, którą dostarczamy z **pożywieniem** w wystarczającej ilości.
@@ -101056,7 +100995,7 @@ słabo, słabiej, najsłabiej
 !Front:
 смотреть
 
-~~widać~~, ~~patrzeć~~, ~~spojrzeć~~
+~~patrzeć~~, ~~spojrzeć~~
 
 *Czasownik*
 !Back:
@@ -101064,7 +101003,7 @@ spoglądać
 
 [anki:tts lang=pl_PL]spoglądać[/anki:tts]
 
-**Synonimy**: widać, patrzeć, spojrzeć
+**Synonimy**: patrzeć, spojrzeć
 
 - Znów **spoglądam** na wyświetlacz telefonu.
 - Chłopcy **spoglądali** po sobie.
@@ -111531,7 +111470,7 @@ wyczuwać
 !Front:
 обнаружить
 
-~~znaleźć~~, ~~wyjaśnić~~, ~~odkryć~~, ~~wykazać~~, ~~ujawnić~~
+~~znaleźć~~, ~~wyjaśnić~~, ~~odkryć~~, ~~ujawnić~~
 
 *Czasownik*
 !Back:
@@ -111539,7 +111478,7 @@ wykryć
 
 [anki:tts lang=pl_PL]wykryć[/anki:tts]
 
-**Synonimy**: znaleźć, wyjaśnić, odkryć, wykazać, ujawnić
+**Synonimy**: znaleźć, wyjaśnić, odkryć, ujawnić
 
 - Ponadto prowadzenie kalendarza pomoże w odpowiednim czasie **wykryć** problemy ze zdrowiem psa.
 - Faktem jest, że nie **wykryto** śladów materiałów wybuchowych.
@@ -112490,7 +112429,7 @@ narciarski
 !Front:
 показывать, проявлять, проявляться
 
-~~pokazywać~~, ~~świadczyć~~, ~~zdradzać~~, ~~przejawiać~~
+~~występować~~, ~~pokazywać~~, ~~świadczyć~~, ~~zdradzać~~, ~~przejawiać~~
 
 *Czasownik*
 !Back:
@@ -112498,7 +112437,7 @@ objawiać
 
 [anki:tts lang=pl_PL]objawiać[/anki:tts]
 
-**Synonimy**: pokazywać, świadczyć, zdradzać, przejawiać
+**Synonimy**: występować, pokazywać, świadczyć, zdradzać, przejawiać
 
 - Dwie z nich **objawiają** się plamami na liściach.
 - Malaria **objawia** się przede wszystkim wysoką gorączką o charakterze napadowym.
@@ -113118,7 +113057,7 @@ samorządowy
 !Front:
 семинар, семинария, лаборатория
 
-~~laboratorium~~
+~~warsztaty~~, ~~laboratorium~~
 
 *Rzeczownik*
 !Back:
@@ -113126,7 +113065,7 @@ seminarium
 
 [anki:tts lang=pl_PL]seminarium[/anki:tts]
 
-**Synonimy**: laboratorium
+**Synonimy**: warsztaty, laboratorium
 
 - Taką tendencję zaobserwowano również w innych **seminariach**.
 - Slajdy wykorzystywane podczas tych **seminariów** technicznych są dostępne w internecie.
@@ -113295,7 +113234,7 @@ taneczny
 !Front:
 след
 
-~~znak~~, ~~ślad~~
+~~ślad~~
 
 *Rzeczownik*
 !Back:
@@ -113303,7 +113242,7 @@ trop
 
 [anki:tts lang=pl_PL]trop[/anki:tts]
 
-**Synonimy**: znak, ślad
+**Synonimy**: ślad
 
 - Jednak gangsterzy są już na jej **tropie**.
 - Przeprowadzali również doświadczenia chemiczne oraz szukali **tropów** zwierząt.
@@ -113859,7 +113798,7 @@ dostarczenie
 !Front:
 ощутить, испытать, пережить
 
-~~poczuć~~, ~~przeżyć~~
+~~poczuć~~, ~~przeżyć~~, ~~doświadczyć~~
 
 *Czasownik*
 !Back:
@@ -113867,7 +113806,7 @@ doznać
 
 [anki:tts lang=pl_PL]doznać[/anki:tts]
 
-**Synonimy**: poczuć, przeżyć
+**Synonimy**: poczuć, przeżyć, doświadczyć
 
 - Siedmiu **doznało** porażek, a trzech zremisowało.
 - Na razie nie wiadomo, jak poważnych **doznał** obrażeń.
@@ -118372,17 +118311,13 @@ opracować
 
 !id: slowo_rzeczownik_papież_ru
 !Front:
-папа, папа римский, папеж
-
-~~tatuś~~, ~~tatko~~
+папа римский
 
 *Rzeczownik*
 !Back:
 papież
 
 [anki:tts lang=pl_PL]papież[/anki:tts]
-
-**Synonimy**: tatuś, tatko
 
 - **Papież** to też polityk.
 - W okresie tym zginęło ośmiu **papieży**.
@@ -122281,15 +122216,11 @@ folder
 !Front:
 парикмахер, парикмахерская
 
-~~zakład~~
-
 *Rzeczownik*
 !Back:
 fryzjer
 
 [anki:tts lang=pl_PL]fryzjer[/anki:tts]
-
-**Synonimy**: zakład
 
 - Jednym z najbardziej powszechnych zawodów jest zawód **fryzjera**.
 - Jednak należy mieć świadomość, iż nie wszyscy **fryzjerzy** są profesjonalistami.
@@ -129900,7 +129831,7 @@ czar
 !Front:
 журнал
 
-~~magazyn~~, ~~pismo~~, ~~dziennik~~
+~~magazyn~~, ~~dziennik~~
 
 *Rzeczownik*
 !Back:
@@ -129908,7 +129839,7 @@ czasopismo
 
 [anki:tts lang=pl_PL]czasopismo[/anki:tts]
 
-**Synonimy**: magazyn, pismo, dziennik
+**Synonimy**: magazyn, dziennik
 
 - Doskonale odzwierciedlało profil **czasopisma**.
 - Czy widziałaś już może to nowe **czasopismo**?
